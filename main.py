@@ -22,20 +22,25 @@ Run with:
 import os
 import sys
 import json
+import math
+import base64
 import queue
 import random
 import asyncio
 import threading
 import importlib.util
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Literal, Optional
 
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 from groq import Groq
+import google.generativeai as genai
+import httpx
 
 # ─────────────────────────────────────────────────────────────────────────
 # 0. PATHS & ENV
@@ -48,7 +53,11 @@ load_dotenv(BACKEND_DIR / ".env")
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
-GROQ_VISION_MODEL = os.environ.get("GROQ_VISION_MODEL", "llama-3.2-90b-vision-preview")
+GROQ_VISION_MODEL = os.environ.get("GROQ_VISION_MODEL", "llama-3.2-11b-vision-preview")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+
+if GEMINI_API_KEY:
+    genai.configure(api_key=GEMINI_API_KEY)
 
 if not GROQ_API_KEY:
     print("⚠️  GROQ_API_KEY is not set in backend/.env — /api/chat will fail until it is.")
@@ -94,6 +103,68 @@ prompting_module = _import_root_module("prompting.py")
 os.chdir(_original_cwd)
 
 groq_client = Groq(api_key=GROQ_API_KEY) if GROQ_API_KEY else None
+
+FEEDBACK_LOG = BACKEND_DIR / "feedback_log.jsonl"
+
+# Starter questions shown in the FAQ tab. Each maps to a real chat turn —
+# clicking one in the UI sends it through the normal /api/chat + RAG pipeline
+# rather than hard-coding an answer here, so responses stay grounded in the
+# actual knowledge base instead of going stale.
+FAQ_ITEMS = [
+    {
+        "category": "Irrigation Basics",
+        "question": "How do I calculate the right drip irrigation duration for my field?",
+        "answer": "Use the Calculators tab: enter your emitter count and flow rate per "
+        "emitter to get total flow, volume, and per-emitter output. Combine that with "
+        "the ET0 / crop water need estimate to size run time for your crop stage.",
+    },
+    {
+        "category": "Irrigation Basics",
+        "question": "What is a crop coefficient (Kc) and why does it matter?",
+        "answer": "Kc adjusts reference evapotranspiration (ET0) for a specific crop and "
+        "growth stage (initial, mid, late) to estimate actual crop water need (ETc = "
+        "Kc x ET0). Look it up for your crop in the Calculators tab.",
+    },
+    {
+        "category": "Using AquaMind",
+        "question": "Can AquaMind analyze a photo of my field?",
+        "answer": "Yes - open the Analyze Photo tab, upload a field or crop photo, "
+        "optionally add a question, and the vision model will assess irrigation issues, "
+        "crop health, and soil condition.",
+    },
+    {
+        "category": "Using AquaMind",
+        "question": "Why does every answer include a citation like [1] (source: ...)?",
+        "answer": "AquaMind only answers technical questions using facts retrieved from "
+        "the FAO manuals and irrigation guides in its knowledge base, and cites the exact "
+        "source/page for every claim so you can verify it.",
+    },
+    {
+        "category": "Troubleshooting",
+        "question": "My soil moisture reading looks off - what should I check first?",
+        "answer": "Ask AquaMind directly in the Chat tab (e.g. 'why would soil moisture "
+        "readings drift?') - it will search the troubleshooting sections of the knowledge "
+        "base and cite the relevant manual pages.",
+    },
+    {
+        "category": "Troubleshooting",
+        "question": "How accurate is the location-based water need estimate?",
+        "answer": "The ET0 estimate uses a simplified seasonal climate model based on "
+        "latitude, meant for quick planning - not a substitute for local weather-station "
+        "ET0 data when precision matters.",
+    },
+]
+
+
+def _call_tool(tool_obj, **kwargs):
+    """Call a LangChain @tool-wrapped function directly, without going through
+    the agent executor. Tries the underlying .func first (keeps this a plain,
+    fast, synchronous call); falls back to .invoke() for older/newer LangChain
+    tool implementations. The root prompting.py file is never modified."""
+    func = getattr(tool_obj, "func", None)
+    if callable(func):
+        return func(**kwargs)
+    return tool_obj.invoke(kwargs)
 
 # ─────────────────────────────────────────────────────────────────────────
 # 1. FASTAPI APP
@@ -187,14 +258,92 @@ def health():
 
 @app.get("/api/telemetry")
 def telemetry():
-    """Mock IoT sensor widgets for the dashboard header."""
+    """Mock IoT sensor widgets for the dashboard header with simulated dynamic jitter."""
+    base_moisture = 34
+    base_temp = 28.0
+    base_hum = 62
+    
     return {
-        "soil_moisture_pct": 34,
-        "ambient_temp_c": 28,
-        "humidity_pct": 62,
+        "soil_moisture_pct": max(0, min(100, base_moisture + random.randint(-2, 2))),
+        "ambient_temp_c": round(base_temp + random.uniform(-1.5, 1.5), 1),
+        "humidity_pct": max(0, min(100, base_hum + random.randint(-3, 3))),
         "recommended_irrigation_min": 18,
         "status": "Irrigation recommended within 6 hours",
     }
+
+
+@app.post("/api/analyze-vision")
+async def analyze_vision(
+    file: Optional[UploadFile] = File(None),
+    image: Optional[UploadFile] = File(None),
+    prompt: Optional[str] = Form(None)
+):
+    gemini_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not gemini_key:
+        print("🚨 GEMINI API ERROR: GEMINI_API_KEY is missing from backend/.env")
+        raise HTTPException(status_code=500, detail="GEMINI_API_KEY is not configured on the server.")
+    
+    upload_file = file or image
+    if not upload_file:
+        raise HTTPException(status_code=400, detail="No image file provided in request.")
+    
+    try:
+        contents = await upload_file.read()
+        base64_image = base64.b64encode(contents).decode("utf-8")
+        mime_type = upload_file.content_type or "image/jpeg"
+        
+        user_prompt = prompt or "Analyze this crop/field image."
+        full_prompt = (
+            "Act as an expert agronomist. Analyze the provided image for plant health, "
+            "nutrient deficiencies, pest issues, soil moisture status, or drip irrigation anomalies. "
+            "Provide structured, action-oriented recommendations.\n\n"
+            f"User prompt: {user_prompt}"
+        )
+        
+        payload = {
+            "contents": [
+                {
+                    "parts": [
+                        {"text": full_prompt},
+                        {
+                            "inline_data": {
+                                "mime_type": mime_type,
+                                "data": base64_image
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+        
+        if gemini_key.startswith("AQ"):
+            url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+            headers = {
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {gemini_key}"
+            }
+        else:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={gemini_key}"
+            headers = {
+                "Content-Type": "application/json"
+            }
+        
+        async with httpx.AsyncClient(timeout=60.0) as client:
+            response = await client.post(url, headers=headers, json=payload)
+        
+        if response.status_code != 200:
+            error_msg = f"HTTP {response.status_code}: {response.text}"
+            print(f"🚨 GEMINI API ERROR: {error_msg}")
+            raise HTTPException(status_code=500, detail=f"Gemini REST API error: {error_msg}")
+        
+        data = response.json()
+        analysis_text = data["candidates"][0]["content"]["parts"][0]["text"]
+        return {"analysis": analysis_text, "result": analysis_text}
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"🚨 GEMINI API ERROR: {type(e).__name__} -> {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Gemini analysis failed: {str(e)}")
 
 
 @app.post("/api/chat")

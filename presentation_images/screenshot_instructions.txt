@@ -1,0 +1,36 @@
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  📸 STREAMLIT APP SCREENSHOT INSTRUCTIONS                          ║
+║  Take these screenshots and save to presentation_images/           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+1. Launch your app:  streamlit run streamlit_app.py
+
+2. Take these screenshots (Windows: Win+Shift+S, Mac: Cmd+Shift+4):
+
+   A) screenshot_home.png
+      → Full app homepage showing the blueprint grid, flow meter, status strip
+
+   B) screenshot_sidebar.png
+      → Sidebar showing: Agent Dashboard, Drip Calculator, Soil Estimator,
+        Field Image Analyzer, Document Images browser
+
+   C) screenshot_chat_citation.png
+      → Ask: "emitter spacing sandy soil"
+      → Capture chat with [1] citation card displayed below the answer
+
+   D) screenshot_drip_calc.png
+      → Ask: "calculate drip 500 emitters 2 L/h 3 hours"
+      → Capture raw-number breakdown in the answer
+
+   E) screenshot_vision.png
+      → Upload a field photo → select "Crop Health" → Analyze
+      → Capture structured diagnosis from vision model
+
+   F) screenshot_document_images.png
+      → Click "📷 Document Images" in sidebar
+      → Capture thumbnails with descriptions
+
+3. Save all screenshots to: presentation_images/
+
+4. Add to slides using: ![Label](presentation_images/screenshot_name.png)
