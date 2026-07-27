@@ -1,0 +1,6382 @@
+--- PAGE 1 ---
+
+
+MM
+HH
+Rain+Birdt
+ESP-Me Controller User Manual
+Manual del usuario del Controlador ESP-Me
+Manuel d'utilisation du programmateur ESP-Me
+Manual do utilizador do programador ESP-Me
+ENG
+ESP
+FRA
+English................................2
+Español.............................36
+Français............................70
+Português..................... 104
+POR
+LNK
+TM Ready
+* sold separately
+Compatible con LNK
+TM
+Compatible LNK
+TM
+LNK
+TM Pronto
+
+--- PAGE 2 ---
+ESP-Me Controller
+
+ENG
+Disposal of Electronic Waste
+In compliance with European Directive 2002/96/
+CE and EURONORM EN50419:2005, this device
+must not be thrown away with household garbage. This device must be the object of an
+appropriate, selective removal procedure in
+order to recuperate it.
+Technical Support
+Questions?
+For help setting up and operating
+the Rain Bird ESP-Me Controller,
+scan the QR code to visit
+www.rainbird.com/espme
+Additional user documentation is available under the
+Manuals & Literature tab, including:
+* User Manual (this document)
+* Quick Reference Guide
+* Programming Guide
+* Foreign Language Support
+To learn more about Rain Bird irrigation systems and
+our Rain Bird Academy training programs, visit:
+www.rainbirdservices.com/training
+To see instructional videos for the ESP-Me, visit
+www.youtube.com/
+English
+
+--- PAGE 3 ---
+Contents
+ENG
+ESP-Me Controller
+
+Technical Support......................................................... 2
+Disposal of Electronic Waste...........................................2
+Introduction..................................................5
+Welcome to Rain Bird................................................... 5
+The Intelligent Use of Water®..........................................5
+ESP-Me Controller Features......................................... 5
+WiFi Enabled.........................................................................6
+Installation....................................................7
+Mount Controller........................................................... 7
+Wiring Connections...................................................... 8
+Connect Valves.....................................................................8
+Connect Master Valve (optional)...................................8
+Connect Pump Start Relay (optional)..........................9
+Connect Rain/Freeze Sensor (optional)...................10
+Connect Power..................................................................11
+Station Expansion Modules.......................................13
+Install Modules..................................................................13
+Station Numbering..........................................................14
+Module Configuration....................................................14
+Complete Controller Installation..............................15
+Normal Operation.......................................16
+Controls and Indicators..............................................16
+AUTO RUN...........................................................................17
+OFF........................................................................................17
+Program-Based Scheduling.......................................18
+Program Stacking.............................................................18
+Common Programming Error......................................19
+Basic Programming.....................................20
+1. Set Date and Time...................................................20
+2. Set Watering Start Times.......................................20
+3. Set Station Run Times............................................21
+4. Set Watering Days...................................................21
+Custom Days of the Week.............................................21
+Manual Watering Options...........................22
+Test All Stations...........................................................22
+Run a Single Station....................................................22
+Run a Single Program.................................................23
+ESP-Me Controller User Manual
+English
+
+--- PAGE 4 ---
+Contents
+ENG
+ESP-Me Controller
+
+Advanced Programming.............................24
+Odd or Even Calendar Days.......................................24
+Cyclic Days....................................................................24
+Rain Sensor...................................................................25
+Seasonal Adjust...........................................................26
+Delay Watering............................................................26
+Permanent Days Off....................................................27
+Total Run Time Calculator
+By Program...................................................................27
+Special Features..........................................28
+Options .......................................................29
+Reset Button.................................................................29
+Remote Accessories....................................................29
+Remote Programming................................................30
+Battery Life...................................................................30
+Troubleshooting..........................................31
+Error Detection............................................................31
+Programming Errors (blinking LED)...........................31
+Electrical Errors (non-blinking LED)...........................31
+Clearing Electrical Error Alarms...................................31
+Watering Issues............................................................32
+Electrical Issues (solid LED illuminated)..................34
+Safety Information...........................................................35
+
+--- PAGE 5 ---
+Introduction
+ENG
+ESP-Me Controller
+
+Introduction
+Welcome to Rain Bird
+Thank you for choosing Rain Bird's ESP-Me controller.
+In this manual are step by step instructions for how to
+install and operate the ESP-Me.
+
+
+PGM
+A
+The Intelligent Use of Water®
+We believe it is our responsibility at Rain Bird to
+develop products that use water efficiently.
+ESP-Me Controller Features
+Feature
+Description
+Maximum Stations
+22 (with optional Station Modules)
+Master Valve or Pump Start
+Relay
+Supported
+Start Times
+
+Programs
+
+Program Cycles
+Custom Days, Odd, Even and Cyclic
+Permanent Days Off
+Supported
+Master Valve Control
+On/Off per station
+Rain Delay
+Supported
+Rain/Freeze Sensor
+Supported
+Sensor Bypass
+By station
+Seasonal Adjust
+Global or by program
+Manual Station Run
+Yes
+Manual Program Run
+Yes
+Manual Test All Stations
+Yes
+Short Detect
+Yes
+Delay Between Stations
+Yes
+Accessory Port
+Yes (5 pin)
+Save & Restore Programming
+Yes
+WiFi Enabled
+Yes
+
+--- PAGE 6 ---
+Introduction
+ENG
+ESP-Me Controller
+
+WiFi Enabled
+The LNK WiFi Module allows remote connection to a Rain Bird
+ESP-Me Controller using an Apple iOS or Android compatible
+smart device. The mobile application allows remote access
+and configuration of one or more irrigation controllers.
+For more information on the LNK WiFi Module and the value
+this product can provide for your ESP-Me controller, please
+visit: http://wifi-pro.rainbird.com
+LNK WiFi Module
+(sold separately)
+Manage Sites
+Remotely
+
+--- PAGE 7 ---
+Installation
+ENG
+ESP-Me Controller
+
+Installation
+Mount Controller
+A
+Drive a mounting screw into the wall, leaving an
+1/8 inch gap between the screw head and the
+wall surface (use the supplied wall anchors if
+necessary), as shown.
+B
+Locate the keyhole slot on back of the controller
+unit and hang it securely on the mounting screw.
+1/8 IN.
+A
+B
+C
+Open the front panel, and drive three additional
+screws through the open holes inside the
+controller and into the wall, as shown.
+
+VT = VALVE TEST
+VT MV COM
+24 VAC
+GND
+SENS
+VT MV COM
+
+CONNECT
+120 VAC
+C
+
+--- PAGE 8 ---
+Installation
+ENG
+ESP-Me Controller
+
+Wiring Connections
+Connect Valves
+A
+Route all field wires through the opening at the
+bottom or back of the unit. Attach conduit if
+desired, as shown.
+c
+c
+WARNING: Do not route the valve wires through
+the same opening as the power wiring.
+B
+Connect one wire from each valve to the terminal
+on the base module or Station Module that
+corresponds to the desired station number (1-22).
+C
+Connect a field common wire (C) to the common
+terminal (C) on the base module. Then connect
+the remaining wire from each valve to the field
+common wire, as shown.
+D
+To perform a Valve Test, connect the common wire
+to the “COM” terminal and the power wire to the “VT”
+terminal. This will immediately turn the valve “ON” .
+Connect Master Valve (optional)
+E
+Connect a wire from the master valve to the master
+valve terminal (MV) on the base module. Then
+connect the remaining wire from the master valve
+to the field common wire, as shown.
+A
+B
+MASTER
+VALVE
+C
+MV
+
+SENS
+E
+C
+
+--- PAGE 9 ---
+Installation
+ENG
+ESP-Me Controller
+
+Connect Pump Start Relay (optional)
+The ESP-Me can control a pump start relay, to turn the
+pump on and off as needed.
+A
+Connect a wire from the pump start relay (PSR)
+to the master valve terminal (MV) on the base
+module. Then connect another wire from the
+pump start relay to the field common wire, as
+shown.
+B
+To avoid the possibility of damage to the pump,
+connect a short jumper wire from any unused
+terminal(s) to the nearest terminal in use, as
+shown.
+b
+b
+NOTE: The ESP-Me controller DOES NOT provide power for a pump. The relay must be wired
+according to manufacturer instructions.
+For the most up to date compatibility list of pump
+start relays, visit our website at:
+www.rainbird.com/controllersupport:
+A
+b
+b
+NOTE: Connection to pump
+and external
+power not
+shown. Refer to
+pump installation instructions.
+PUMP START
+RELAY
+B
+C
+PSR
+
+--- PAGE 10 ---
+Installation
+ENG
+ESP-Me Controller
+
+Connect Rain/Freeze Sensor (optional)
+The ESP-Me controller can be set to obey or ignore a
+rain sensor. Refer to the Rain Sensor section under
+Advanced Programming.
+A
+Remove the yellow jumper wire from the SENS
+terminals on the controller.
+b
+b
+NOTE: Do not remove the yellow jumper wire
+unless connecting a rain sensor.
+B
+Connect both rain sensor wires to the SENS
+terminals, as shown.
+c
+c
+WARNING: Do not route the rain sensor wires
+through the same opening as the power wiring.
+b
+b
+NOTE: Rain Bird controllers are only compatible
+with normally closed rain sensors.
+b
+b
+NOTE: For wireless rain/freeze sensors, refer to
+installation instructions for sensor.
+B
+
+--- PAGE 11 ---
+Installation
+ENG
+ESP-Me Controller
+
+Connect Power
+c
+c
+WARNING: DO NOT plug in the transformer or
+connect external power until you have completed and checked all wiring connections.
+c
+c
+WARNING: Electric shock can cause severe injury
+or death. Make sure power supply is turned OFF
+before connecting power wires.
+Electrical Specifications
+Input 230VAC, 0.2AMP, 50/60Hz
+Output 25.5VAC, 1.0AMP, 50/60Hz
+Power Wiring Connections
+230 VAC (International)
+Brown supply wire (hot) to the brown transformer wire
+labeled with “L”
+Blue supply wire (neutral) to the blue transformer wire
+labeled with “N”
+Green-with-yellow-stripe supply wire (ground) to the
+green-with-yellow-stripe transformer wire
+
+--- PAGE 12 ---
+Installation
+ENG
+ESP-Me Controller
+
+A
+Locate the transformer wiring compartment in
+the lower left corner of the controller unit. Use a
+screwdriver to remove the cover and expose the
+transformer connection wires.
+B
+Route the three external power source wires
+through the conduit opening at the bottom of
+the unit and into the wiring compartment.
+C
+Connect the external power source wires (two
+power and one ground) to the transformer
+connection wires inside the wiring compartment.
+c
+c
+WARNING: Ground wire must be connected to
+provide electrical surge protection. Permanently
+mounted conduit shall be used for connecting
+main voltage to the controller.
+b
+b
+NOTE: Use either the provided wire nuts or the
+installed connector for this step.
+D
+Verify that all wiring connections are secure,
+then replace the wiring compartment cover and
+secure it with the screw.
+L
+N
+A
+C
+B
+
+--- PAGE 13 ---
+Installation
+ENG
+ESP-Me Controller
+
+Station Expansion Modules
+Optional Station Modules are installed in the empty
+slots to the right of the base module to increase the
+station capacity up to 22 stations.
+b
+b
+NOTE: 6-Station module is compatible only with
+the ESP-Me. They are not backwards compatible
+with the previous ESP-M vintage controller.
+b
+b
+NOTE: For ideal station sequencing, it is recommended that a 6-Station module always be
+installed in Bay 2. For more details see the Station
+Numbering section.
+VT MV COM
+
+
+3-STATION
+(ESPSM3)
+6-STATION
+(ESPSM6)
+Expansion Modules
+(sold separately)
+Base Module
+(included)
+Install Modules
+A
+Verify the securing lever on the module is in the
+unlocked position (slide to the left).
+B
+Place the module under the desired slot between
+the plastic rails.
+C
+Push the module up into the slot until secure.
+D
+Slide the securing lever to the locked position
+(slide to the right).
+e
+e REPEAT for additional modules.
+b
+b
+NOTE: Modules can be installed or removed with
+OR without AC power connected. They are considered “hot-swappable”.
+BC
+D
+
+--- PAGE 14 ---
+Installation
+ENG
+ESP-Me Controller
+
+Station Numbering
+Fixed Station Numbering Description
+The controller is configured with Fixed Station Numbering. Each bay is set up to accept a 6 station module
+and reserve the station number for future use if a 6 station module is NOT installed in Bays 2, 3 or 4.
+Station numbers are pre-assigned as follows:
+Bay 1
+Bay 2
+Bay 3
+Bay 4
+VT MV COM
+
+
+
+VT MV COM
+
+Example Of Recommended Installation For 19 Stations
+Module Configuration
+Example of installation with station numbering gaps:
+* A total of 19 stations are installed.
+* The Base Module is installed in Bay 1 and uses Stations 1 through 4.
+* A 6-Station Expansion Module is installed in Bays 2
+and 3 using Stations 5 through 16.
+* A 3-Station module is installed in Bay 4 and uses
+stations numbered 17 through 19.
+Because a 3-Station module is installed in Bay 4, only
+the first three station numbers assigned to that bay will
+be used and the unused numbers will be “reserved” for
+future use.
+b
+b
+NOTE: During programming, the controller will
+skip any unused station numbers, creating a gap
+in station numbering.
+
+--- PAGE 15 ---
+Installation
+ENG
+ESP-Me Controller
+
+As an example: a 3-Station module was installed in
+Bay 4, so stations 20-22 will be unavailable for programming. During programming the missing stations
+will show on the display as 20SKIP, 21SKIP, etc.
+The screen displays “20SKIP” with the “20” flashing to
+indicate that Station 20 (and also 21-22) are unused
+and unavailable for programming.
+Complete Controller Installation
+A
+Reinstall and reconnect the front panel.
+B
+Apply power to the controller and test the system.
+b
+b
+NOTE: The electrical connections can be checked
+even if water is not available. If water is available
+and you would like to test some or all of your stations, use the Test All Stations feature of the controller.
+
+--- PAGE 16 ---
+
+PGM
+A
+Normal Operation
+ENG
+ESP-Me Controller
+
+PROGRAM
+SELECT
+BUTTON
+Select Program
+A, B, C or D
+START TIMES
+Set up to 6 Start
+Times per program
+RUN TIMES
+Set Run Times for
+each program
+MANUAL WATERING
+Start watering any or all
+stations immediately
+WATER DAY(S) OPTIONS
+By Day, Odd, Even or Cyclic
+RAIN SENSOR
+Set controller to obey
+or ignore a rain sensor
+SEASONAL ADJUST
+Adjust Run Times
+from 5% up to 200%
+BACK/NEXT BUTTONS
+Select programming
+options
+- / + BUTTONS
+Adjust program
+settings
+OFF
+Disables automatic
+irrigation
+AUTO RUN
+Watering occurs
+automatically
+DATE/TIME
+Set the current
+Date and Time
+TEST ALL STATIONS
+DELAY WATERING
+Up to 14 days
+ALARM
+INDICATOR
+HOLD TO START
+Manual irrigation
+Normal Operation
+Controls and Indicators
+Key operational features of the ESP-Me Controller:
+WATERING DAYS
+Select days to
+allow watering
+
+--- PAGE 17 ---
+Normal Operation
+ENG
+ESP-Me Controller
+
+AUTO RUN
+AUTO RUN is the normal operating mode. Return the
+dial to AUTO RUN when programming is complete..
+During Watering:
+The display shows a blinking sprinkler symbol, the
+active Station Number or Program, and the Remaining
+Run Time.
+* To cancel watering, turn the dial to OFF for three
+seconds until the screen shows OFF.
+To Manually Start a Program:
+A
+Press the PROGRAM SELECT button to select a
+program.
+B
+Press the HOLD TO START button to immediately
+run the displayed program.
+OFF
+Turn the dial to OFF to stop automatic irrigation or to
+cancel all active watering immediately.
+CAUTION: Watering will NOT occur if the controller
+remains in OFF.
+
+--- PAGE 18 ---
+Program START Station Scheduled Start Actual Start
+Run Times
+A
+1st
+
+8:00 AM
+8:00 AM
+30 MIN
+
+8:30 AM
+30 MIN
+
+9:00 AM
+30 MIN
+
+9:30 AM
+30 MIN
+B
+1st
+
+8:00 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Normal Operation
+ENG
+ESP-Me Controller
+
+Program-Based Scheduling
+The ESP-Me uses a programmed-based scheduling
+method to create irrigation schedules.
+For each Program (A, B, C and D):
+A
+Select Watering Days (Custom, Odd/Even, Cyclic)
+and Start Times that apply globally to the entire
+program.
+B
+Assign a Run Time to each available station
+number to run during the selected program.
+Program Stacking
+If any programs have Start Times that overlap, the ESPMe will “stack” the Start Times. When all Stations have
+run in Program A, then Program B will start watering.
+Individual stations will water in sequential order.
+As an example: Program A and B are both set to start
+at 8:00 AM. But Program B will not run until Program A
+is finished.
+With Program Stacking,
+Program B only starts
+when Program A is
+finished
+
+--- PAGE 19 ---
+Program
+START
+Station
+Scheduled Start
+Actual Start
+Run Times
+A
+1st
+
+8:00 AM
+8:00 AM
+30 MIN
+
+8:30 AM
+30 MIN
+
+9:00 AM
+30 MIN
+
+9:30 AM
+30 MIN
+A
+2nd
+
+8:30 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Normal Operation
+ENG
+ESP-Me Controller
+
+Common Programming Error
+The most common programming error for any program-based controller is multiple Program Start Times
+that cause watering cycles to repeat.
+As an example: Program A has a 1st Start Time set to
+run at 8:00 AM. With program stacking, each Station
+will run in order, until all zones are watered. There's no
+need to set each Station to run separately.
+In this example, a 2nd Start Time has mistakenly been
+set for 8:30 AM, which means that some zones would
+be watered twice that morning.
+b
+b
+NOTE: Only assign Run Times in a Program for stations you want to water. If you do not want a specific station to run in a selected program then set
+the Run Time to zero.
+Multiple Start Times
+cause Stations to
+water repeatedly.
+To fix, remove the
+additional 2nd Start
+Time
+
+--- PAGE 20 ---
+Basic Programming
+ENG
+ESP-Me Controller
+
+Basic Programming
+1. Set Date and Time
+Turn the dial to SET DATE
+A
+Press or to select the setting to change.
+B
+Press
+ or
+ to change the setting value.
+C
+Press and hold
+ or
+ to accelerate adjustments.
+Turn the dial to SET TIME.
+A
+Press or to select the setting to change.
+B
+Press
+ or
+ to change the setting value.
+C
+Press and hold
+ or
+ to accelerate adjustments.
+To change the time format (12 hour or 24 hour):
+A
+With MINUTES blinking, press .
+B
+Press
+ or
+ to select the desired time format,
+then press to return to the time setting.
+2. Set Watering Start Times
+Up to six Start Times are available for each program.
+Turn the dial to SET WATERING START TIMES
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary).
+B
+Press or to select an available Start Time.
+C
+Press
+ or
+ to set the selected Start Time
+(ensure the AM/PM setting is correct).
+D
+Press to set additional Start Times.
+b
+b
+NOTE: The OFF Position for any start time is
+between 11:45 PM and 12:00 AM.
+
+--- PAGE 21 ---
+Basic Programming
+ENG
+ESP-Me Controller
+
+3. Set Station Run Times
+Run Times can be set from one minute up to six hours.
+Turn the dial to SET STATION RUN TIMES
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary).
+B
+Press or to select a Station.
+C
+Press
+ or
+ to set the Run Time for the selected
+Station.
+D
+Press to set additional Station Run Times.
+4. Set Watering Days
+Custom Days of the Week
+Set watering to occur on specific days of the week.
+Turn the dial to
+ADVANCED WATERING CYCLES
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary).
+B
+Press
+ or
+ to select BY DAY.
+C
+Turn the dial to MON.
+D
+Press
+ or
+ to set the selected (blinking) day as
+either ON or OFF, then turn the dial to the next
+day of the week.
+e
+e REPEAT to select additional days as desired for
+the selected program.
+
+--- PAGE 22 ---
+Manual Watering Options
+ENG
+ESP-Me Controller
+
+Manual Watering Options
+Test All Stations
+Verify operation of valves in the system.
+Turn the dial to TEST ALL STATIONS.
+A
+Press
+ or
+ to set a Run Time.
+B
+Press the HOLD TO START
+ button.
+C
+Turn the dial to AUTO RUN after display shows
+TESTING.
+During Testing:
+The display shows a blinking sprinkler symbol, the
+active Station Number or Program, and the Remaining
+Run Time.
+D
+To cancel the test, turn the dial to OFF for three
+seconds until the screen shows OFF.
+Run a Single Station
+Start watering immediately for a single station.
+Turn the dial to MANUAL STATION.
+A
+Press or to select a Station.
+B
+Press
+ or
+ to set a Run Time.
+C
+Press the HOLD TO START
+ button.
+D
+Irrigation will begin and “STARTED” will appear
+on the display.
+
+--- PAGE 23 ---
+Manual Watering Options
+ENG
+ESP-Me Controller
+
+Run a Single Program
+Start watering immediately for one program.
+Turn the dial to MANUAL PROGRAM.
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary). The total run time for the
+program is displayed.
+B
+Press the HOLD TO START
+ button to begin
+watering start the selected Program.
+e
+e REPEAT as desired to queue additional programs
+to run manually.
+b
+b
+NOTE: A maximum of 38 stations can be queued
+across all four programs.
+C
+Irrigation will begin and “STARTED” will appear
+on the display.
+D
+Press the ADVANCE STATION
+ button to
+advance to the next station if desired.
+During Manual Watering (Single Station or Single
+Program):
+The display shows a blinking sprinkler symbol, the
+active Station Number or Program, and the Remaining
+Run Time.
+* To cancel manual watering, turn the dial to OFF for
+three seconds until the screen shows OFF.
+
+--- PAGE 24 ---
+Advanced Programming
+ENG
+ESP-Me Controller
+
+Advanced Programming
+Odd or Even Calendar Days
+Set watering to occur on all ODD or EVEN calendar days.
+Turn the dial to
+ADVANCED WATERING CYCLES
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary).
+B
+Press
+ or
+ to select ODD or EVEN.
+b
+b
+NOTE: ODD or EVEN is displayed when the dial is
+turned to any day of the week position.
+Cyclic Days
+Set watering to occur at specific intervals, such as
+every 2 days, or every 3 days, etc.
+Turn the dial to
+ADVANCED WATERING CYCLES.
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary).
+B
+Press
+ or
+ to select CYCLIC, then press
+C
+Press
+ or
+ to set the desired DAY CYCLE, then
+press
+
+--- PAGE 25 ---
+Advanced Programming
+ENG
+ESP-Me Controller
+
+D
+Press
+ or
+ to set the DAYS REMAINING before
+the cycle begins. The NEXT watering day updates
+on the display to indicate the day that watering
+will start as shown.
+Rain Sensor
+Set the controller to obey or ignore a rain sensor.
+When set to ACTIVE, automatic irrigation will be suspended if rainfall is detected. When set to BYPASS all
+programs will ignore the rain sensor.
+Turn the dial to RAIN SENSOR.
+* Press
+ or
+ to select ACTIVE (obey) or BYPASS
+(ignore).
+Legend
+Rain Sensor Icon Status
+Active
+Bypassed
+Rain detected
+b
+b
+NOTE: See Special Features to set Rain Sensor
+Bypass by Station.
+
+--- PAGE 26 ---
+Advanced Programming
+ENG
+ESP-Me Controller
+
+Seasonal Adjust
+Increase or decrease program run times by a selected
+percentage (5% to 200%).
+As an example: If the Seasonal Adjust is set to 100%
+and the station Run Time is programmed for 10 minutes, the station will run for 10 minutes. If the Seasonal
+Adjust is set to 50%, the station will run for 5 minutes.
+Turn the dial to SEASONAL ADJUST.
+A
+Press
+ or
+ to increase or decrease the global
+percentage setting.
+B
+To adjust an individual Program, press PROGRAM
+SELECT to choose the desired Program (if
+necessary).
+Delay Watering
+Suspend watering for up to 14 days.
+Turn the dial to DELAY WATERING.
+A
+Press
+ or
+ to set the DAYS REMAINING. The
+NEXT watering day will update on the display to
+indicate when watering will resume.
+B
+To cancel a Rain Delay, set the DAYS REMAINING
+back to 0.
+b
+b
+NOTE: When the delay expires, automatic irrigation resumes as scheduled.
+
+--- PAGE 27 ---
+Advanced Programming
+ENG
+ESP-Me Controller
+
+Permanent Days Off
+Prevent watering on selected days of the week (for
+Odd, Even or Cyclic programming only).
+Turn the dial to 1 MON.
+(or any desired day)
+A
+Press PROGRAM SELECT to choose the desired
+Program (if necessary).
+B
+Press and HOLD both and at the same time
+until the Permanent Days Off screen is displayed.
+C
+Press
+ to set the selected (blinking) day as a
+Permanent Day Off or press
+ to leave the day
+ON.
+Total Run Time Calculator
+By Program
+View the Total Run Time for an entire program.
+The controller can determine the Total Run Time of a
+program by adding up all the Run Times for each station in that program.
+Turn the dial to MANUAL PROGRAM.
+A
+The Total Run Time for PGM A is displayed.
+B
+Press the PROGRAM SELECT button to view the
+Total Run Time for the next program.
+b
+b
+NOTE: The run time displayed for each program
+is the seasonally adjusted run time and only
+includes one start time.
+
+--- PAGE 28 ---
+
+PGM
+A
+Special Features
+ENG
+ESP-Me Controller
+
+Special Features
+A
+Turn the dial to the desired position indicated
+below for each Special Feature.
+B
+Press and hold and at the same time.
+DELAY BETWEEN VALVES
+A station delay (from 1 second to 9 hours)
+ensures that a valve has completely closed
+before the next one opens.
+RESET TO FACTORY
+DEFAULTS
+All programmed schedules
+will be erased.
+BYPASS RAIN SENSOR FOR
+ANY STATION
+Tells an individual station to
+obey or ignore a rain sensor.
+SAVE PROGRAMS
+RESTORE SAVED
+PROGRAMS
+SET MASTER VALVE BY STATION
+Allows a station to be controlled by a
+master valve or pump start relay.
+PERMANENT DAYS OFF
+Prevent watering on selected
+days of the week.
+
+--- PAGE 29 ---
+Options
+ENG
+ESP-Me Controller
+
+Options
+Reset Button
+If the controller is not working properly, you can try
+pressing RESET.
+* Insert a small tool such as a paper clip, into the
+access hole and press until the controller is reset.
+All previously programmed watering schedules
+will remain stored in memory.
+RESET
+Remote Accessories
+A 5 pin accessory port is available for Rain Bird
+approved external devices, including:
+* LNK WiFi Module
+* LIMR Receiver Quick Connect harness
+PORT
+
+--- PAGE 30 ---
+Options
+ENG
+ESP-Me Controller
+
+Remote Programming
+Program the front panel remotely on battery power.
+The front panel can be removed from the controller
+and programmed remotely using a 9 volt battery for
+power. Settings can be programmed for all 22 stations
+regardless of which station modules are installed in
+the controller.
+b
+b
+NOTE: This is useful if a contractor wants to program the controller prior to installation on site.
+A
+Remove the front panel.
+B
+Install a 9V battery in the battery compartment.
+C
+Program the controller.
+b
+b
+NOTE: Program information is stored in nonvolatile memory so it is never lost if the front panel
+loses power.
+D
+Replace the front panel (refer to Complete
+Installation in the Installation section).
+b
+b
+NOTE: After the front panel is re-installed, any
+station that does not have a corresponding Station Module installed will function as though the
+run time is zero.
+Battery Life
+If the display repeatedly shows “-- -- -- -- --” when using
+a 9V battery for remote programming, replace the battery.
+
+--- PAGE 31 ---
+Troubleshooting
+ENG
+ESP-Me Controller
+
+Troubleshooting
+Error Detection
+The ESP-Me controller has built-in error detection that
+can automatically generate an ALARM caused by an
+essential programming error or if an electrical short
+condition is detected.
+The ALARM LED light on the ESP-Me controller front
+panel will light up to indicate an alarm condition:
+Programming Errors (blinking LED)
+Error
+ALARM
+LED
+Error Message
+On Display
+No Start Times are set
+BLINK
+NO START TIMES
+No Run Times are set
+BLINK
+NO RUN TIMES
+No Watering Days are set
+BLINK
+NO WATER DAYS
+The ESP-Me controller will reset or clear when the error
+is corrected.
+b
+b
+NOTE: The dial must be in the AUTO RUN position
+for an ALARM message to appear on the display.
+Electrical Errors (non-blinking LED)
+Error
+ALARM
+LED
+Error Message
+On Display
+Master Valve short
+SOLID
+MASTER VALVE/PUMP WIRE
+SHORTED OR HIGH CURRENT
+Station short
+SOLID
+STATION “X” WIRE SHORTED
+When an electrical error is detected, irrigation for the
+affected station is cancelled and watering advances to
+the next operable station in the program.
+The controller will attempt to water the affected station again at the next scheduled watering. Completion
+of a successful watering will clear the error condition
+associated with that station.
+Clearing Electrical Error Alarms
+Turn the dial to the AUTO RUN position to view the error message on the
+display. To clear the ALARM, press the
+right arrow
+ button.
+
+--- PAGE 32 ---
+Troubleshooting
+ENG
+ESP-Me Controller
+
+Watering Issues
+Problem
+Possible Cause
+Possible Solution
+Display shows a
+program is active, but
+system isn't watering.
+Water source not supplying water.
+Verify there is no disruption to the main water line and
+that all other water supply lines are open and functioning
+properly.
+Wiring is loose or not properly
+connected.
+Check that field wiring and master valve or pump start
+relay wiring is securely connected at the controller and in
+the field.
+Field wires are corroded or damaged.
+Check field wiring for damage and replace if necessary.
+Check wiring connections and replace with watertight
+splice connectors if needed.
+Loss of AC power.
+When there is a power loss and a 9 volt battery is
+installed, the system does not irrigate but programs show
+as remaining active.
+NO AC message on
+display.
+No Power detected.
+Check circuit breaker and that unit is plugged into socket
+or properly connected to power source.
+Controller may be plugged into a GFI
+outlet or an outlet that is wired to a GFI
+outlet.
+Check power to the outlet or reset the circuit breaker.
+It just rained and
+the alarm light is not
+illuminated, why?
+This is normal operation. The ESP-Me
+does not consider the interruption
+of irrigation due to rainfall an alarm
+condition.
+This is normal operation.
+
+--- PAGE 33 ---
+Troubleshooting
+ENG
+ESP-Me Controller
+
+Watering Issues
+Problem
+Possible Cause
+Possible Solution
+Programmed
+schedules do not
+start.
+Connected rain sensor may be activated.
+Set Rain Sensor to BYPASS to ignore the rain sensor. If
+watering resumes, the sensor is operating properly and
+no further correction is needed.
+Connected rain sensor may not be
+operating properly.
+Let the rain sensor dry out, or disconnect it from the
+controller terminal strip and replace it with a jumper wire
+connecting the two SENS terminals, or set to Bypass.
+If no rain sensor is connected, the
+jumper wire connecting the two SENS
+terminals on the terminal strip may be
+missing or damaged.
+Move dial position to Sensor Bypass and set to Bypass.
+Too much irrigation
+Multiple Start Times in the same
+program.
+Turn off any additional Start Times that are causing
+watering cycles to repeat (the Start Time OFF position
+is between 11:45 and 12:00). See “Program Stacking” on
+page 18 for more information.
+Multiple programs are running at the
+same time.
+Review programming to assure that the same Station is
+not active in multiple Programs.
+Valve is malfunctioning.
+Check to see if the ALARM light on the controller is lit
+solid, then repair or replace the valve if necessary.
+Seasonal Adjust setting is too high.
+Set Seasonal Adjust to 100%.
+
+--- PAGE 34 ---
+Troubleshooting
+ENG
+ESP-Me Controller
+
+Electrical Issues (solid LED illuminated)
+Problem
+Possible Cause
+Possible Solution
+Display is blank or
+frozen, the controller
+will not accept
+programming or is
+operating abnormally.
+Power not reaching the
+controller.
+Verify the main AC power supply is securely plugged in or
+connected and working properly.
+Controller needs to be reset.
+Press the Reset Button. For details see “Reset Button” section.
+An electrical surge may
+have interfered with the
+controller's electronics.
+Unplug the controller for 2 minutes, then plug it back in. If there is
+no permanent damage, the controller should accept programming
+and resume normal operation.
+Automatic error
+detection indicates a
+problem by ALARM LED
+and an error message
+on display.
+Short circuit or overload
+condition in valve, master
+valve or pump start relay
+wiring.
+Identify and repair the fault in the wiring. Refer to compatible
+pump start relays. For details see “Connect Pump Start Relay”
+section.
+LED is flashing or solidly
+illuminated but I see no
+message on the LCD.
+Dial not in AUTO RUN
+position.
+Turn dial to AUTO RUN position.
+
+--- PAGE 35 ---
+Troubleshooting
+ENG
+ESP-Me Controller
+
+FCC Part 15
+This equipment has been tested and found to comply with the limits for a
+Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are
+designed to provide reasonable protection against harmful interference in
+a residential installation.
+This equipment generates, uses, and can radiate radio frequency energy
+and, if not installed and used in accordance with the instructions, may
+cause harmful interference to radio communications. However, there is no
+guarantee that interference will not occur in a particular installation.
+If the equipment does cause harmful interference to radio or television
+reception, which can be determined by turning the equipment off and on,
+the user is encouraged to try to correct the interference by the following
+measures:
+* Reorient or relocate the receiving antenna.
+* Increase the separation between the equipment and receiver.
+* Connect the equipment into an outlet on a circuit different from that to
+which the receiver is connected.
+* Consult the dealer or an experienced radio/TV technician for help.
+* Changes or modifications not expressly approved by Rain Bird Corporation could void the user's authority to operate the equipment.
+* This product was FCC certified under test conditions that included
+the use of shielded I/O cables and connectors between system components. To bin in compliance with FCC regulations, the user must use
+shielded cables and connectors and install them properly.
+* This class B digital apparatus meets all requirements of the Canadian
+Interference Causing Equipment Regulations.
+Cet appareil Numérique de la classe B respecte toutes les exigences du
+Règlement sur le matériel brouilleur du Canada
+Safety Information
+CAUTION: This appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capacity,
+or lack of experience and knowledge unless they have been given
+supervision or instruction concerning use of the appliance by a person responsible for their safety. Children should be supervised to
+ensure that they do not play with the appliance.
+c
+c
+WARNING: Special precautions must be taken when valve
+wires (also known as station or solenoid wires) are located
+adjacent to, or share a conduit with other wires, such as those
+used for landscape lighting, other “low voltage” systems or
+other “high voltage” power.
+Separate and insulate all conductors carefully, taking care not
+to damage wire insulation during installation. An electrical
+“short” (contact) between the valve wires and another power
+source can damage the controller and create a fire hazard.
+c
+c
+WARNING: All electrical connections and wiring runs must
+comply with local building codes. Some local codes require
+that only a licensed or certified electrician can install power.
+Only professional personnel should install the controller.
+Check your local building codes for guidance.
+b
+b
+NOTE: Date and time are retained by a lithium battery which
+must be disposed of in accordance with local regulations.
+CAUTION: Use only Rain Bird approved accessory devices. Unapproved devices may damage the controller and void warranty. For a
+list of compatible devices go to: www.rainbird.com
+
+--- PAGE 36 ---
+Controlador ESP-Me
+
+ESP
+Eliminación de residuos electrónicos
+En cumplimiento de la Directiva Europea
+2002/96/CE y la norma Europea EURONORM
+EN50419:2005, este dispositivo no puede desecharse con la basura común del hogar. Este dispositivo debe ser desechado siguiendo un proceso apropiado y selectivo que permita su
+recuperación.
+Asistencia técnica
+¿Tiene preguntas?
+Escanee el código QR
+
+para visitar y obtener ayuda
+sobre cómo instalar y utilizar el
+Controlador ESP-Me de Rain Bird
+www.rainbird.com/espme
+Hay más documentación disponible para el usuario
+en la pestaña Manuals & Literature (Manuales y
+documentación), incluyendo:
+* Manual del usuario (este documento)
+* Guía de referencia rápida
+* Guía de programación
+* Apoyo en otros idiomas
+Para obtener más información sobre los sistemas de
+riego de Rain Bird, así como los programas formativos
+de Rain Bird Academy, visite:
+www.rainbirdservices.com/training
+Para ver vídeos de instrucciones sobre el ESP-Me, visite
+www.youtube.com/
+Español
+
+--- PAGE 37 ---
+Contenido
+ESP
+
+Controlador ESP-Me
+Asistencia técnica........................................................36
+Eliminación de residuos electrónicos.......................36
+Introducción................................................39
+Bienvenido a Rain Bird...............................................39
+The Intelligent Use of Water®.......................................39
+Características del controlador ESP-Me..................39
+Habilitado para WiFi........................................................40
+Instalación...................................................41
+Montar el controlador................................................41
+Conexiones de los cables...........................................42
+Conectar las válvulas.......................................................42
+Conectar una válvula maestra (opcional)................42
+Conectar un relé de arranque de la bomba
+(opcional)............................................................................43
+Conectar sensor de lluvia/congelación....................44
+Conectar a la toma de corriente.................................45
+Módulos de ampliación de estaciones....................47
+Instalar módulos...............................................................47
+Numeración de estaciones...........................................48
+Configuración del módulo............................................48
+Instalación completa del controlador.....................49
+Funcionamiento normal.............................50
+Controles e indicadores.............................................50
+AUTO RUN...........................................................................51
+OFF........................................................................................51
+Configuración basada en programas......................52
+Programas sucesivos.......................................................52
+Error de programación común....................................53
+Programación básica..................................54
+1. Configurar fecha y hora.........................................54
+2. Programar la hora de inicio del riego.........................54
+3. Establecer tiempos de riego de la estación.......55
+4. Programar los días de riego..................................55
+Días de la semana personalizados.............................55
+Opciones de riego manual..........................56
+Probar todas las estaciones.......................................56
+Riego en una única estación.....................................56
+Riego de un único programa....................................57
+Manual del usuario del Controlador ESP-Me
+Español
+
+--- PAGE 38 ---
+Contenido
+ESP
+
+Controlador ESP-Me
+Programación avanzada............................58
+Días pares o impares...................................................58
+Días cíclicos..................................................................58
+Sensor de lluvia...........................................................59
+Ajuste estacional.........................................................60
+Retrasar riego...............................................................60
+Días sin actividad permanentes...............................61
+Calculadora de tiempo total de riego
+por programa...............................................................61
+Funciones especiales...................................62
+Opciones .....................................................63
+Botón Reset..................................................................63
+Accesorios remotos.....................................................63
+Programación remota................................................64
+Duración de la batería................................................64
+Resolución de problemas............................65
+Detección de errores..................................................65
+Errores de programación (LED parpadeando).......65
+Fallos eléctricos (LED fija)..............................................65
+Borrar alarmas de fallo eléctrico.................................65
+Problemas de riego.....................................................66
+Fallos eléctricos (LED encendida y fija)...................68
+Información de seguridad............................................69
+
+--- PAGE 39 ---
+Introducción
+ESP
+
+Controlador ESP-Me
+Introducción
+Bienvenido a Rain Bird
+Gracias por elegir el Controlador ESP-Me de Rain Bird.
+En este manual encontrará instrucciones paso a paso
+sobre cómo instalar y utilizar el Controlador ESP-Me.
+
+
+PGM
+A
+The Intelligent Use of Water®
+En Rain Bird, creemos que es nuestra responsabilidad
+desarrollar productos que utilicen el agua de manera
+eficiente.
+Características del controlador ESP-Me
+Característica
+Descripción
+Número máximo de estaciones 22 (utilizando los módulos de
+estaciones opcionales)
+Válvula maestra o relé de
+arranque de la bomba
+Disponible
+Horas de inicio
+
+Programas
+
+Ciclos
+Días personalizados, pares,
+impares y cíclico
+Días sin actividad permanentes Disponible
+Control de la válvula maestra
+Encendida/apagada para cada
+estación
+Retraso por lluvia
+Disponible
+Sensor de lluvia/congelación
+Disponible
+Bypass del sensor
+Por estación
+Ajuste estacional
+Global o por programa
+Riego manual por estación
+Sí
+Riego manual por programa
+Sí
+Probar todas las estaciones de
+manera manual
+Sí
+Detección de cortocircuitos
+Sí
+Retraso entre estaciones
+Sí
+Entrada para accesorios
+Sí (5 pines)
+Guardar y recuperar programas Sí
+Habilitado para WiFi
+Sí
+
+--- PAGE 40 ---
+Introducción
+ESP
+
+Controlador ESP-Me
+Habilitado para WiFi
+El módulo LNK WiFi permite establecer una conexión remota
+con el controlador ESP-Me de Rain Bird, desde un dispositivo
+inteligente con sistema operativo Apple iOS o Android.
+La aplicación móvil permite acceder y configurar uno o más
+controladores de riego de manera remota.
+Para obtener más información sobre el módulo LNK WiFi y las
+ventajas que aporta cuando se utiliza junto con el controlador
+ESP-Me, visite: http://wifi-pro.rainbird.com
+Módulo LNK WiFi
+(se vende por separado)
+Gestione el riego
+de manera remota
+
+--- PAGE 41 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Instalación
+Montar el controlador
+A
+Coloque un tornillo de montaje en la pared dejando
+un espacio de 1/8 de pulgada (3,2 mm) entre la
+cabeza del tornillo y la superficie (de ser necesario
+utilice los tacos incluidos), tal como se muestra.
+B
+Localice la ranura de montaje en la parte trasera de
+la unidad y cuélguela firmemente sobre el tornillo.
+1/8“
+(3,2 mm)
+A
+B
+C
+Abra el panel frontal e introduzca tres tornillos
+adicionales a través de los agujeros abiertos en el
+interior del controlador, tal como se muestra.
+
+VT = VALVE TEST
+VT MV COM
+24 VAC
+GND
+SENS
+VT MV COM
+
+CONNECT
+120 VAC
+C
+
+--- PAGE 42 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Conexiones de los cables
+Conectar las válvulas
+A
+Pase todos los cables del sistema a través de la
+apertura en la parte inferior o trasera de la unidad.
+Si lo desea, una el conducto tal como se muestra.
+c
+c
+ADVERTENCIA: No pase los cables de las válvulas
+por la misma apertura que el cableado de corriente.
+B
+Conecte un cable de cada válvula al terminal del
+módulo base o del módulo de estaciones que
+corresponde al número de estación deseado (1-22).
+C
+Conecte un cable común del sistema (C) al terminal
+común (C) del módulo base. A continuación
+conecte el cable restante de cada válvula al cable
+común del sistema, tal como se muestra.
+D
+Para realizar una comprobación de las válvulas,
+conecte el cable común al terminal "COM" y el
+cable de corriente el terminal "VT". La válvula se
+encenderá inmediatamente.
+Conectar una válvula maestra (opcional)
+E
+Conecte un cable desde la válvula maestra al terminal de
+válvula maestra (MV) en el módulo base. A continuación
+conecte el cable restante de la válvula maestra al cable
+común del sistema, tal como se muestra.
+A
+B
+VÁLVULA
+MAESTRA
+C
+MV
+
+SENS
+E
+C
+
+--- PAGE 43 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Conectar un relé de arranque de la bomba
+(opcional)
+El ESP-Me puede controlar un relé de arranque de la
+bomba, activándolo o apagándolo según sea necesario.
+A
+Conecte un cable desde el relé de arranque de la
+bomba (PSR) al terminal de válvula maestra (MV)
+en el módulo base. A continuación conecte otro
+cable del relé de arranque de la bomba al cable
+común del sistema, tal como se muestra.
+B
+Para evitar daños a la bomba, conecte un cable
+corto de puente eléctrico entre cualquier terminal
+no utilizado y el terminal más cercano, tal como
+se muestra.
+b
+b
+NOTA: El controlador ESP-Me NO proporciona
+corriente a la bomba. Conecte el cableado del relé
+siguiendo las instrucciones del fabricante.
+Para consultar la lista más actualizada de relés de
+arranque de la bomba compatibles, visite nuestro sitio
+web: www.rainbird.com/controllersupport:
+A
+b
+b
+NOTA:
+No se muestran
+la conexión con
+la bomba y con la
+corriente externa.
+Consulte las
+instrucciones de
+instalación de la
+bomba.
+RELÉ DE
+ARRANQUE DE
+LA BOMBA
+B
+C
+PSR
+
+--- PAGE 44 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Conectar sensor de lluvia/congelación
+El controlador ESP-Me se puede configurar para
+obedecer o ignorar un sensor de lluvia. Consulte
+la sección Sensor de lluvia, en el apartado de
+Programación avanzada.
+A
+Quite el cable amarillo de puente eléctrico de los
+terminales marcados como SENS en el controlador.
+b
+b
+NOTA: No quite el cable de puente eléctrico
+amarillo salvo para conectar un sensor de lluvia.
+B
+Conecte los dos cables del sensor de lluvia a los
+terminales SENS, como se muestra.
+c
+c
+ADVERTENCIA: No pase los cables del sensor de
+lluvia por la misma apertura que el cableado de
+corriente.
+b
+b
+NOTA: Los controladores Rain Bird solamente
+son compatibles con sensores de lluvia que
+normalmente están cerrados.
+b
+b
+NOTA: En el caso de sensores de lluvia y
+congelación, consulte las instrucciones de
+instalación del sensor.
+B
+
+--- PAGE 45 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Conectar a la toma de corriente
+c
+c
+ADVERTENCIA: NO conecte el transformador
+ni suministre corriente eléctrica al controlador
+hasta que haya completado y verificado todas las
+conexiones de los cables.
+c
+c
+ADVERTENCIA: Una descarga eléctrica puede
+causar lesiones graves o la muerte. Asegúrese
+de que la fuente de alimentación está APAGADA
+antes de conectar los cables de alimentación.
+Especificaciones eléctricas
+Entrada 230 VCA, 0,2 A, 50/60Hz
+Salida 25,5 VCA, 1,0 A, 50/60Hz
+Conexiones para el cableado a la corriente eléctrica
+230 VCA (internacional)
+Cable de alimentación negro (fase) con el cable negro del
+transformador, etiquetado como "L"
+Cable de alimentación azul (neutro) con el cable azul del
+transformador etiquetado como "N"
+Cable de alimentación verde con una franja amarilla
+(tierra) con el cable del transformador verde con una
+franja amarilla
+
+--- PAGE 46 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+A
+Localice el compartimento de cableado del
+transformador en la esquina inferior izquierda
+del controlador. Use un destornillador para retirar
+la cubierta y exponer los cables de conexión del
+transformador.
+B
+Pase los tres cables de corriente externa a través
+de la apertura del conducto de la parte inferior de
+la unidad e introdúzcalos en el compartimento
+del cableado.
+C
+Conecte los cables de alimentación externos
+(dos de corriente y uno de tierra) con los cables
+del transformador, dentro del compartimento de
+cableado.
+c
+c
+ADVERTENCIA: El cable de tierra debe estar
+conectado
+para
+proporcionar
+protección
+frente a las sobrecargas eléctricas. El conducto
+permanente debe utilizarse para conectar la
+corriente principal al controlador.
+b
+b
+NOTA: Para este paso, utilice las tuercas para
+cables incluidas o bien el conector ya instalado.
+D
+Verifique que todas las conexiones de cableado
+son seguras, vuelva a colocar la cubierta del
+compartimento de cableado y asegúrela con el
+tornillo.
+L
+N
+A
+C
+B
+
+--- PAGE 47 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Módulos de ampliación de estaciones
+Los módulos de estaciones opcionales se instalan en las
+ranuras vacías a la derecha del módulo base para incrementar el número máximo de estaciones hasta 22.
+b
+b
+NOTA: El módulo de 6 estaciones solamente es
+compatible con el ESP-Me. No es compatible con
+el controlador ESP-M antiguo.
+b
+b
+NOTA: Para lograr una secuencia óptima de
+estaciones, se recomienda instalar siempre el
+módulo de 6 estaciones en el Puerto 2. Para
+obtener más información, consulte la sección
+sobre numeración de estaciones.
+VT MV COM
+
+
+3 estaciones
+(ESPSM3)
+6 estaciones
+(ESPSM6)
+Módulos de ampliación
+(se venden por separado)
+Módulo base
+(incluido)
+Instalar módulos
+A
+Compruebe que la palanca de seguridad del
+módulo está en la posición de desbloqueo
+(desplazar hacia la izquierda).
+B
+Coloque el módulo debajo de la ranura deseada,
+entre las guías de plástico.
+C
+Introduzca el módulo en la ranura hasta que
+quede sujeto.
+D
+Desplace la palanca de seguridad a la posición de
+bloqueo (desplazar hacia la derecha).
+e
+e REPETIR para los módulos adicionales.
+b
+b
+NOTA: Los módulos pueden instalarse o retirarse
+con O sin corriente CA. Son "intercambiables en fase".
+BC
+D
+
+--- PAGE 48 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Numeración de estaciones
+Descripción de la numeración de estaciones fija
+El controlador viene programado con Numeración
+de estaciones fija. Cada puerto está configurado para
+aceptar un módulo de 6 estaciones y reservar esos
+números de estaciones para su uso futuro en caso de
+que NO se instale un módulo en los puertos 2, 3 o 4.
+Los números de estaciones se asignan de la siguiente
+manera:
+Puerto 1
+Puerto 2
+Puerto 3
+Puerto 4
+VT MV COM
+
+
+
+VT MV COM
+
+Ejemplo de instalación recomendada para 19 estaciones
+Configuración del módulo
+Ejemplo de instalación con lagunas en la numeración:
+* Hay un total de 19 estaciones instaladas.
+* El módulo base está instalado en el puerto 1 y
+utiliza las estaciones 1 a 4.
+* Hay un módulo de ampliación de 6 estaciones
+instalado en los puertos 2 y 3 que utiliza las
+estaciones 5 a 16.
+* Hay un módulo de ampliación de 3 estaciones
+instalado en el puerto 4 que utiliza las estaciones
+17 a 19.
+Como hay un módulo de 3 estaciones instalado en
+el puerto 4, solamente se utilizarán los 3 primeros
+números de estación asignados a ese puerto. Los
+números no utilizados se "reservarán" para el futuro.
+b
+b
+NOTA: Durante la programación, el controlador
+ignorará cualquier número de estación no
+utilizado, creando una laguna en la numeración.
+
+--- PAGE 49 ---
+Instalación
+ESP
+
+Controlador ESP-Me
+Por ejemplo: se instaló un módulo de 3 estaciones en
+el puerto 4, por lo que las estaciones 20-22 no estarán
+disponibles. Durante la programación, las estaciones
+no disponibles aparecerán en pantalla como 20SKIP,
+21SKIP, etc.
+La pantalla muestra el mensaje "20SKIP" con el número
+20 parpadeando, indicando que la estación 20 (así
+como la 21-22) no está siendo utilizada y no puede ser
+programada.
+Instalación completa del controlador
+A
+Vuelva a instalar y conectar el panel frontal.
+B
+Suministre corriente al controlador y compruebe
+el sistema.
+b
+b
+NOTA: Puede comprobar las conexiones eléctricas
+aunque no haya agua todavía. Si ya dispone de
+agua y quiere comprobar algunas o todas las
+estaciones, utilice la función Test All Stations
+(probar todas las estaciones).
+
+--- PAGE 50 ---
+
+PGM
+A
+Funcionamiento normal
+ESP
+
+Controlador ESP-Me
+Funcionamiento normal
+Controles e indicadores
+Funciones clave del Controlador ESP-Me:
+PROGRAM
+SELECT
+(seleccionar
+programa)
+Seleccionar
+programa
+A, B, C o D
+START TIMES
+(horas de inicio)
+Fijar hasta 6 horas de
+inicio por programa
+RUN TIMES
+(tiempos de riego)
+Fijar tiempos de riego
+para cada programa
+RIEGO MANUAL
+Riega una o todas las
+estaciones
+OPCIONES DE DÍAS DE RIEGO
+Días específicos, pares, impares y cíclico
+RAIN SENSOR
+(sensor de lluvia)
+Obedecer o ignorar un
+sensor de lluvia
+SEASONAL ADJUST
+(ajuste estacional)
+Ajustar los tiempos
+de riego del 5 al 200%
+BOTONES ATRÁS/
+SIGUIENTE
+Seleccionar opciones
+de programación
+BOTONES - / +
+Para ajustar la
+configuración
+OFF (apagado)
+Desactiva el riego
+automático
+AUTO RUN
+(riego automático)
+El riego es
+automático
+FECHA/HORA
+Fijar la fecha y
+hora actuales
+TEST ALL STATIONS
+(probar todas las
+estaciones)
+DELAY WATERING
+(retrasar riego)
+Hasta 14 días
+LUZ DE
+ALARMA
+HOLD TO START
+(mantener pulsado
+para comenzar)
+Riego manual
+DÍAS DE RIEGO
+Seleccionar
+días de riego
+permitido
+
+--- PAGE 51 ---
+Funcionamiento normal
+ESP
+
+Controlador ESP-Me
+AUTO RUN
+AUTO RUN (riego automático) es el modo de
+funcionamiento normal. Devuelva el dial a la posición
+AUTO RUN cuando haya terminado la programación.
+Durante el riego:
+La pantalla muestra un símbolo de aspersor que
+parpadea, el número de la estación o el programa activo
+y el tiempo de riego restante.
+* Para cancelar el riego, gire el dial hasta OFF
+(apagado) durante tres segundos, hasta que la
+pantalla muestre el mensaje OFF.
+Para iniciar un programa de forma manual:
+A
+Pulse el botón PROGRAM SELECT (seleccionar
+programa) para seleccionar un programa.
+B
+Pulse el botón HOLD TO START (mantener
+pulsado para comenzar) para iniciar el programa
+mostrado de manera inmediata.
+OFF
+Gire el dial hasta OFF (apagado) para detener el riego
+automático o cancelar cualquier riego activo de forma
+inmediata.
+PRECAUCIÓN: El riego NO tendrá lugar si el controlador
+se encuentra en la posición OFF.
+
+--- PAGE 52 ---
+Programa INICIO Estación
+Inicio
+programado
+Inicio real
+Tiempos de riego
+A
+1º
+
+08:00 AM
+08:00 AM
+30 MIN
+
+08:30 AM
+30 MIN
+
+09:00 AM
+30 MIN
+
+09:30 AM
+30 MIN
+B
+1º
+
+08:00 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Funcionamiento normal
+ESP
+
+Controlador ESP-Me
+Configuración basada en programas
+El ESP-Me utiliza una configuración basada en
+programas para establecer los horarios de riego.
+Para cada programa (A, B, C y D):
+A
+Seleccione los días de riego (personalizados,
+pares/impares, cíclicos) y horas de inicio que
+apliquen a todo el programa.
+B
+Asigne un tiempo de riego a cada estación
+disponible.
+Programas sucesivos
+Si hay programas cuyas horas de inicio coinciden, el
+ESP-Me las organizará de forma "sucesiva". Cuando
+todas las estaciones del programa A hayan regado,
+comenzarán a regar las del programa B. Las estaciones
+individuales regarán de manera secuencial.
+Por ejemplo: Los programas A y B han sido
+configurados para comenzar a las 8:00 AM. Pero el
+programa B no comenzará hasta que haya finalizado
+el programa A.
+Gracias a la función de
+programas sucesivos, el
+programa B comenzará
+cuando termine el
+programa A.
+
+--- PAGE 53 ---
+Programa INICIO
+Estación
+Inicio
+programado
+Inicio real
+Tiempos de riego
+A
+1º
+
+08:00 AM
+08:00 AM
+30 MIN
+
+08:30 AM
+30 MIN
+
+09:00 AM
+30 MIN
+
+09:30 AM
+30 MIN
+A
+2º
+
+08:30 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Funcionamiento normal
+ESP
+
+Controlador ESP-Me
+Error de programación común
+El error de programación más común en los controladores basados en programas es la configuración de
+varias horas de inicio que repiten los ciclos.
+Por ejemplo: La primera hora de inicio del programa
+A es a las 8:00 AM. Con la función de programas sucesivos, cada estación regará en orden hasta que todas las
+zonas hayan sido regadas. No es necesario programar
+cada estación de manera individual.
+En este ejemplo, se ha configurado una segunda hora
+de inicio por error para las 8:30 AM. Esto significa que
+algunas zonas se regarán dos veces esa mañana.
+b
+b
+NOTA: Asigne tiempos de riego a aquellas
+estaciones que desea regar. Si no desea que una
+estación específica riegue dentro de un programa,
+programe el tiempo de riego como cero.
+Múltiples horas
+de inicio hacen
+que las estaciones
+rieguen de forma
+ininterrumpida.
+Para solucionarlo,
+elimine la segunda
+hora de inicio
+
+--- PAGE 54 ---
+Programación básica
+ESP
+
+Controlador ESP-Me
+Programación básica
+1. Configurar fecha y hora
+Gire el dial hasta SET DATE (configurar fecha)
+A
+Pulse los botones
+ o
+ para seleccionar el
+parámetro que desea cambiar.
+B
+Pulse los botones
+ o
+ para cambiar el valor del
+parámetro.
+C
+Mantenga pulsado el botón
+ o
+ para acelerar
+el cambio.
+Gire el dial hasta SET TIME (configurar hora).
+A
+Pulse los botones
+ o
+ para seleccionar el
+parámetro que desea cambiar.
+B
+Pulse los botones
+ o
+ para cambiar el valor del
+parámetro.
+C
+Mantenga pulsado el botón
+ o
+ para acelerar
+el cambio.
+Para cambiar el formato de hora (12 o 24 horas):
+A
+Mientras
+parpadea
+el
+mensaje
+MINUTES
+(minutos), pulse .
+B
+Pulse
+ o
+ para seleccionar el formato deseado,
+y pulse para volver a la configuración de hora.
+2. Programar la hora de inicio del riego
+Hay hasta cuatro horas de inicio para cada programa.
+Gire el dial hasta SET WATERING START TIMES
+(configurar horas de inicio)
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario).
+B
+Pulse o para seleccionar una hora de inicio
+disponible.
+C
+Pulse
+ o
+ para fijar la hora de inicio
+seleccionada (asegúrese de que la configuración
+AM/PM es correcta).
+D
+Pulse para configurar horas de inicio adicionales.
+b
+b
+NOTA: La posición OFF de cualquier hora de
+inicio es entre las 11:45 PM y las 12:00 AM.
+
+--- PAGE 55 ---
+Programación básica
+ESP
+
+Controlador ESP-Me
+3. Establecer tiempos de riego de la
+estación
+Pueden programarse tiempos de riego desde un
+minuto hasta seis horas.
+Gire el dial hasta SET STATION RUN TIMES
+(configurar tiempos de riego)
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario).
+B
+Pulse o para seleccionar una estación.
+C
+Pulse
+ o
+ para configurar el tiempo de riego
+de la estación seleccionada.
+D
+Pulse
+ para configurar tiempos de riego
+adicionales.
+4. Programar los días de riego
+Días de la semana personalizados
+Programar el riego para ciertos días de la semana.
+Gire el dial hasta
+ADVANCED WATERING CYCLES
+(ciclos avanzados de riego)
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario).
+B
+Pulse
+ o
+ para seleccionar BY DAY (por día).
+C
+Gire el dial hasta MON (lunes).
+D
+Pulse
+ o
+ para configurar el día seleccionado
+(el que parpadea) como ON o OFF (encendido o
+apagado), y a continuación gire el dial hasta el
+siguiente día de la semana.
+e
+e REPITA para configurar días adicionales según lo
+deseado para el programa.
+
+--- PAGE 56 ---
+Opciones de riego manual
+ESP
+
+Controlador ESP-Me
+Opciones de riego manual
+Probar todas las estaciones
+Para comprobar el funcionamiento de las válvulas.
+Gire el dial hasta TEST ALL STATIONS
+(probar todas las estaciones).
+A
+Pulse los botones
+ o
+ para configurar un
+tiempo de riego.
+B
+Pulse el botón HOLD TO START
+ (mantener
+pulsado para comenzar).
+C
+Gire el dial hasta AUTO RUN (riego automático)
+una vez que la pantalla muestre el mensaje
+TESTING (comprobando).
+Durante la prueba:
+La pantalla muestra un símbolo de aspersor que
+parpadea, el número de la estación o el programa activo
+y el tiempo de riego restante.
+D
+Para cancelar la prueba, gire el dial hasta OFF
+(apagado) durante tres segundos, hasta que la
+pantalla muestre el mensaje OFF.
+Riego en una única estación
+Comienza el riego de manera inmediata en una única
+estación.
+Gire el dial hasta MANUAL STATION
+(estación manual).
+A
+Pulse o para seleccionar una estación.
+B
+Pulse
+ o
+ para configurar un tiempo de riego.
+C
+Pulse el botón HOLD TO START
+ (mantener
+pulsado para comenzar).
+D
+Comenzará el riego y aparecerá el mensaje
+STARTED (comenzado).
+
+--- PAGE 57 ---
+Opciones de riego manual
+ESP
+
+Controlador ESP-Me
+Riego de un único programa
+Comienza el riego de manera inmediata en un único
+programa.
+Gire el dial hasta MANUAL PROGRAM
+(programa manual).
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario). Aparecerá el tiempo de riego total del
+programa.
+B
+Pulse el botón HOLD TO START
+ (mantener
+pulsado para comenzar) para comenzar el riego
+en el programa seleccionado.
+e
+e REPITA para programar el riego manual sucesivo
+de programas adicionales.
+b
+b
+NOTA: Se puede programar el riego sucesivo de un
+máximo de 38 estaciones en los cuatro programas.
+C
+Comenzará el riego y aparecerá el mensaje
+STARTED (comenzado).
+D
+Pulse el botón ADVANCE STATION
+ (siguiente
+estación) para pasar a la siguiente estación.
+Durante el riego manual (estación o programa
+individual):
+La pantalla muestra un símbolo de aspersor que
+parpadea, el número de la estación o el programa activo
+y el tiempo de riego restante.
+* Para cancelar el riego manual, gire el dial hasta
+OFF (apagado) durante tres segundos, hasta que la
+pantalla muestre el mensaje OFF.
+
+--- PAGE 58 ---
+Programación avanzada
+ESP
+
+Controlador ESP-Me
+Programación avanzada
+Días pares o impares
+Programa el riego para todos los días IMPARES o PARES.
+Gire el dial hasta
+ADVANCED WATERING CYCLES
+(ciclos avanzados de riego)
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario).
+B
+Pulse
+ o
+ para seleccionar ODD (impar) o
+EVEN (par).
+b
+b
+NOTA: La pantalla muestra ODD (impar) o EVEN
+(par) siempre que el dial se encuentre en la
+posición de cualquier día de la semana.
+Días cíclicos
+Programar el riego para intervalos específicos; por
+ejemplo, cada 2 días, cada 3 días, etc.
+Gire el dial hasta
+ADVANCED WATERING CYCLES
+(ciclos de riego avanzados).
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario).
+B
+Pulse
+ o
+ para seleccionar CYCLIC (cíclico), y a
+continuación pulse
+C
+Pulse
+ o
+ para configurar el DAY CYCLE
+(ciclo de días) deseado y después pulse
+
+--- PAGE 59 ---
+Programación avanzada
+ESP
+
+Controlador ESP-Me
+D
+Pulse
+ o
+ para configurar los DAYS
+REMAINING (días restantes) antes de que
+comience el ciclo. El mensaje NEXT (siguiente)
+aparece en pantalla para indicar el siguiente día
+de riego.
+Sensor de lluvia
+Programar el controlador para obedecer o ignorar un
+sensor de lluvia.
+Cuando se encuentra ACTIVO, el riego automático será
+suspendido si se detecta lluvia. Cuando se encuentra
+en BYPASS (ignorar), todos los programas ignorarán el
+sensor de lluvia.
+Gire el dial hasta RAIN SENSOR (sensor de lluvia).
+* Pulse los botones
+ o
+ para seleccionar ACTIVO
+(obedecer) o IGNORAR.
+Leyenda
+Estado del sensor de lluvia
+Activo
+Ignorado
+Lluvia detectada
+b
+b
+NOTA: Consulte las Funciones especiales para
+programar el Bypass del Sensor de lluvia para
+cada estación.
+
+--- PAGE 60 ---
+Programación avanzada
+ESP
+
+Controlador ESP-Me
+Ajuste estacional
+Aumente o reduzca los tiempos de riego de los programas
+en un porcentaje determinado (entre 5 y 200%).
+Por ejemplo: Si el ajuste estacional está configurado
+para un 100% y el tiempo de riego de la estación está
+programado para 10 minutos, la estación regará durante
+10 minutos. Si el ajuste estacional está configurado para
+un 50%, la estación regará durante 5 minutos.
+Gire el dial hasta SEASONAL ADJUST (ajuste
+estacional).
+A
+Pulse
+ o
+ para aumentar o reducir el valor del
+porcentaje global.
+B
+Para ajustar un programa individual, pulse
+PROGRAM SELECT (seleccionar programa) para
+seleccionar el programa deseado (si es necesario).
+Retrasar riego
+Suspenda el riego hasta 14 días.
+Gire el dial hasta DELAY WATERING
+(retrasar riego).
+A
+Pulse
+ o
+ para configurar los DAYS
+REMAINING (días restantes). El mensaje NEXT
+(siguiente) aparecerá en pantalla indicando el día
+en que se reanudará el riego.
+B
+Para cancelar un retraso de riego, configure los
+DAYS REMAINING (días restantes) como 0.
+b
+b
+NOTA: Cuando finaliza el retraso, se reanuda el
+riego automático programado.
+
+--- PAGE 61 ---
+Programación avanzada
+ESP
+
+Controlador ESP-Me
+Días sin actividad permanentes
+Impida el riego para determinados días de la semana
+(solamente para programación impar, par o cíclica).
+Gire el dial hasta 1 MON (1 lunes),
+o cualquier día que desee
+A
+Pulse PROGRAM SELECT (seleccionar programa)
+para seleccionar el programa deseado (si es
+necesario).
+B
+MANTENGA PULSADOS los botones
+ y
+
+hasta que aparezca la pantalla días de no riego
+permanentes.
+C
+Pulse
+ para configurar el día seleccionado (el
+que parpadea) como día de no riego permanente
+(PERMOFF), o pulse
+ para que el día siga ON
+(encendido).
+Calculadora de tiempo total de riego
+por programa
+Vea el tiempo total de riego de un programa.
+El controlador puede calcular el tiempo total de riego
+de un programa sumando los tiempos de riego de
+todas las estaciones del programa.
+Gire el dial hasta MANUAL PROGRAM
+(programa manual).
+A
+Se muestra el tiempo total de riego del
+PGM A (programa A).
+B
+Pulse el botón PROGRAM SELECT (seleccionar
+programa) para ver el tiempo de riego total del
+próximo programa.
+b
+b
+NOTA: El tiempo de riego mostrado para el
+programa es el tiempo después de aplicar el
+ajuste estacional y solo incluye una hora de inicio.
+
+--- PAGE 62 ---
+
+PGM
+A
+Funciones especiales
+ESP
+
+Controlador ESP-Me
+Funciones especiales
+A
+Gire el dial a la posición indicada abajo
+para acceder a cada función especial.
+B
+Mantenga pulsados los botones y al mismo tiempo.
+RETRASO ENTRE ESTACIONES
+Un retraso de estación (desde 1 segundo hasta
+9 horas) garantiza que la válvula se cierre
+completamente antes de que se abra la siguiente.
+RESTABLECER
+CONFIGURACIÓN DE
+FÁBRICA
+Todos los programas serán
+eliminados.
+IGNORAR SENSOR DE LLUVIA
+PARA CUALQUIER ESTACIÓN
+Programa una estación
+individual para obedecer o
+ignorar un sensor de lluvia.
+GUARDAR PROGRAMAS
+RESTAURAR PROGRAMAS
+GUARDADOS
+CONFIGURAR VÁLVULA
+MAESTRA POR
+ESTACIÓN
+Permite que una estación
+sea controlada por una
+válvula maestra o un relé
+de arranque de la bomba.
+DÍAS SIN ACTIVIDAD PERMANENTES
+Evita el riego ciertos días de la semana.
+
+--- PAGE 63 ---
+Opciones
+ESP
+
+Controlador ESP-Me
+Opciones
+Botón Reset
+Si el controlador no está funcionando correctamente,
+puede pulsar el botón RESET (reiniciar).
+* Inserte una herramienta de tamaño pequeño, un
+clip por ejemplo, en el agujero de acceso, y pulse
+el botón hasta que se reinicie el controlador. Todos
+los programas de riego quedarán almacenados en
+la memoria.
+RESET (reiniciar)
+Accesorios remotos
+Existe una entrada para accesorios de 5 pines,
+disponible para dispositivos externos aprobados por
+Rain Bird, incluyendo:
+* Módulo LNK WiFi
+* Arnés de acople rápido del receptor LIMR
+PUERTO
+
+--- PAGE 64 ---
+Opciones
+ESP
+
+Controlador ESP-Me
+Programación remota
+Programe el panel frontal de manera remota,
+utilizando pilas.
+El panel frontal puede retirarse del controlador y
+ser programado de manera remota utilizando una
+pila de 9 voltios. Puede configurar las 22 estaciones,
+independientemente de qué módulos de estaciones
+están instalados en el controlador.
+b
+b
+NOTA: Esto resulta útil cuando un contratista
+quiere programar el controlador antes de
+proceder a la instalación sobre el terreno.
+A
+Retire el panel frontal.
+B
+Instale una pila de 9V en el compartimento de
+pilas.
+C
+Programe el controlador.
+b
+b
+NOTA: La información de los programas se
+almacena en la memoria no volátil, por lo que
+nunca se pierde aunque el panel frontal se quede
+sin corriente.
+D
+Vuelva a colocar el panel frontal (consulte el
+proceso de instalación completa en la sección de
+instalación).
+b
+b
+NOTA: Después de instalar el panel frontal,
+cualquier estación sin un módulo asociado
+funcionará como si el tiempo de riego fuera cero.
+Duración de la batería
+Si la pantalla muestra “-- -- -- -- --” cuando está utilizando
+una pila de 9V para la programación remota, sustituya
+la pila.
+
+--- PAGE 65 ---
+Resolución de problemas
+ESP
+
+Controlador ESP-Me
+Resolución de problemas
+Detección de errores
+El controlador ESP-Me cuenta con detección de errores
+incorporada capaz de generar una ALARMA por
+errores de programación o en caso de detección de un
+cortocircuito.
+La luz LED de ALARMA en el panel frontal del controlador
+ESP-Me se encenderá para indicar un estado de alarma:
+Errores de programación (LED parpadeando)
+Error
+LED de
+ALARMA
+Mensaje de
+error en
+pantalla
+No hay horas de inicio
+PARPADEA
+NO START TIMES
+No hay tiempos de riego PARPADEA
+NO RUN TIMES
+No hay días de riego
+PARPADEA
+NO WATER DAYS
+Una vez corregido el error, el controlador ESP-Me se
+reiniciará o el mensaje desaparecerá.
+b
+b
+NOTA: El dial debe encontrarse en la posición
+AUTO RUN (riego automático) para que aparezca
+un mensaje de ALARMA en pantalla.
+Fallos eléctricos (LED fija)
+Error
+LED de
+ALARMA
+Mensaje de error en
+pantalla
+Cortocircuito en la
+válvula maestra
+FIJA
+MASTER VALVE/PUMP WIRE
+SHORTED O HIGH CURRENT
+Cortocircuito en la
+estación
+FIJA
+STATION “X” WIRE SHORTED
+Cuando se detecta un fallo eléctrico, se cancela el riego
+en la estación afectada y el riego avanza a la siguiente
+estación operativa en el programa.
+El controlador intentará regar la estación afectada de
+nuevo en el próximo riego programado. Cuando se
+haya completado el riego de forma satisfactoria, el
+error asociado a esa estación desaparecerá.
+Borrar alarmas de fallo
+eléctrico
+Gire el dial hasta la posición AUTO RUN
+(riego automático) para ver el mensaje
+de error en pantalla. Para eliminar la
+ALARMA, pulse el botón de flecha
+derecha
+.
+
+--- PAGE 66 ---
+Resolución de problemas
+ESP
+
+Controlador ESP-Me
+Problemas de riego
+Problema
+Posible causa
+Posible solución
+La pantalla muestra
+un programa activo,
+pero el sistema no está
+regando.
+La fuente de agua no suministra agua.
+Verifique que no hay ningún problema en la línea principal
+de agua y que todas las demás líneas de suministro de agua
+están abiertas y funcionan correctamente.
+El cableado está suelto o no está
+correctamente conectado.
+Compruebe que el cableado del sistema y el de la
+válvula maestra o el relé de arranque de la bomba están
+conectados con firmeza al controlador y sobre el terreno.
+Los cables del terreno están corroídos o
+dañados.
+Revisar el cableado sobre el terreno y cambiarlo de ser
+necesario. Compruebe las conexiones del cableado y
+sustitúyalas por conectores para enroscado de cables si es
+necesario.
+Pérdida de corriente CA.
+Cuando se produce una pérdida de corriente y se instala
+una pila de 9V, el sistema no riega aunque los programas
+aparecen como activos.
+Mensaje NO AC (sin
+corriente CA) en
+pantalla.
+No se detecta corriente.
+Compruebe el disyuntor y compruebe que la unidad
+está conectada a una toma de corriente o una fuente de
+alimentación.
+El controlador podría estar conectado a
+una toma de corriente GFI o a una toma
+cuyo cableado conduce a una toma GFI.
+Compruebe que llega corriente a la toma o reinicie el
+disyuntor.
+Acaba de llover y la
+luz de alarma no se ha
+encendido. ¿Por qué?
+Se trata de un funcionamiento normal.
+El ESP-Me no considera como alarma la
+interrupción del riego por lluvia.
+Se trata de un funcionamiento normal.
+
+--- PAGE 67 ---
+Resolución de problemas
+ESP
+
+Controlador ESP-Me
+Problemas de riego
+Problema
+Posible causa
+Posible solución
+Los programas
+configurados no
+comienzan.
+Un sensor de lluvia conectado podría
+encontrarse activo.
+Establezca el modo BYPASS del sensor de lluvia para ignorarlo.
+Si se reanuda el riego, el sensor funciona correctamente y no
+es necesario realizar ninguna otra corrección.
+El sensor de lluvia conectado podría no
+estar funcionando correctamente.
+Deje que se seque el sensor de lluvia o desconéctelo del
+bloque de terminales del controlador y conecte un cable
+de puente eléctrico entre los dos terminales SENS; o bien
+utilice el modo Bypass (ignorar).
+Si no hay un sensor de lluvia conectado,
+el cable de puente eléctrico que conecta
+los dos terminales SENS podría faltar o
+estar dañado.
+Gire el dial hasta la posición Bypass del sensor y establezca
+el modo Bypass (ignorar).
+Demasiado riego
+Múltiples horas de inicio en un mismo
+programa.
+Desactive cualquier hora de inicio adicional que esté
+causando la repetición de ciclos de riego (la posición de
+APAGADO de una hora de inicio es entre las 11:45 y las
+12:00). Vea “Programas sucesivos” en la página 52 para
+obtener más información.
+Hay múltiples programas activos al
+mismo tiempo.
+Revise la programación para asegurarse de que la misma
+estación no está activa en varios programas.
+La válvula no funciona correctamente.
+Compruebe si la luz de ALARMA del controlador está
+encendida y fija; repare o sustituya la válvula si es necesario.
+El valor de ajuste estacional es
+demasiado elevado.
+Configure el valor de ajuste estacional como 100%.
+
+--- PAGE 68 ---
+Resolución de problemas
+ESP
+
+Controlador ESP-Me
+Fallos eléctricos (LED encendida y fija)
+Problema
+Posible causa
+Posible solución
+La pantalla está
+congelada o en blanco;
+el controlador no
+puede ser programado
+o funciona de manera
+inusual.
+El controlador no tiene
+corriente.
+Verifique que el suministro de corriente CA está conectado de forma
+segura y funcionando correctamente.
+Es necesario reiniciar el
+controlador.
+pulse el botón Reset (reinicio). Para obtener más información,
+consulte la sección "Botón Reset".
+Una sobrecarga eléctrica
+puede haber dañado los
+componentes electrónicos
+del controlador.
+Desenchufe el controlador durante 2 minutos y vuelva a enchufarlo.
+Si no se ha producido daño permanente, el controlador debe
+funcionar con normalidad y ser programable.
+La detección automática
+de errores indica un
+problema a través de la
+LED de ALARMA y un
+mensaje de error en la
+pantalla.
+Situación de sobrecarga o
+cortocircuito en el cableado
+de la válvula, la válvula
+maestra o el relé de arranque
+de la bomba.
+Encuentre y repare el problema de cableado. Consulte los relés de
+arranque de la bomba compatibles. Para obtener más información,
+consulte la sección "Conectar un relé de arranque de la bomba".
+La luz LED está
+parpadeando o fija pero
+no veo ningún mensaje
+en la pantalla LCD.
+El dial no se encuentra en la
+posición AUTO RUN (riego
+automático).
+Gire el dial hasta la posición AUTO RUN (riego automático).
+
+--- PAGE 69 ---
+Resolución de problemas
+ESP
+
+Controlador ESP-Me
+FCC Parte 15
+Este equipo ha sido probado y se ha verificado que cumple con los límites
+establecidos para los dispositivos digitales de Clase B, de conformidad con
+el apartado 15 de las normas de la FCC. Estos límites están diseñados para
+proporcionar una protección razonable contra interferencias nocivas en
+una instalación residencial.
+Este equipo genera, usa y puede radiar energía de radiofrecuencia y, si no se
+instala y utiliza de acuerdo a las instrucciones, puede producir interferencias
+en las comunicaciones de radio. Con todo, no existen garantías de que no se
+produzcan interferencias en alguna instalación en particular.
+Si el equipo produce interferencias en la recepción de radio o televisión, lo cual
+que puede averiguarse encendiendo y apagando el equipo, se aconseja al
+usuario que intente corregir las interferencias tomando las siguientes medidas:
+* Volver a orientar la antena de recepción o colocarla en otro lugar.
+* Aumentar la separación entre el equipo y el receptor.
+* Conectar el equipo a un enchufe de un circuito diferente del que está
+conectado el receptor.
+* Consultar con el vendedor del producto o con un técnico de radio y
+televisión especializado.
+* Los cambios o modificaciones no aprobados expresamente por Rain
+Bird Corporation podrían anular el derecho del usuario a operar el
+equipo.
+* Este producto obtuvo la certificación de la FCC bajo condiciones de
+prueba para las que se utilizaron cables reforzados I/O y conectores
+entre los componentes del sistema. Para cumplir la normativa de la FCC,
+el usuario debe utilizar cables reforzados y conectores e instalarlos de
+manera correcta.
+* Este aparato digital de clase B cumple todos los requisitos del Reglamento canadiense para equipos que producen interferencias.
+Cet appareil Numérique de la classe B respecte toutes les exigences du
+Règlement sur le matériel brouilleur du Canada
+Información de seguridad
+PRECAUCIÓN: Este dispositivo no está diseñado para ser utilizado
+por personas (incluidos los niños) con una capacidad física, sensorial
+o mental reducida, o bien sin los conocimientos o experiencia
+necesarios, a menos que sean supervisados o hayan recibido
+instrucciones acerca del uso del dispositivo de manos de una persona
+que se hace responsable de su seguridad. Es necesario supervisar a
+los niños para asegurar que no juegan con el dispositivo.
+c
+c
+ADVERTENCIA: Deben tomarse precauciones especiales
+cuando los cables de la válvula (también llamados cables
+de la estación o del solenoide) se encuentren junto a, o
+compartan conducto con otros cables, como los utilizados
+para la iluminación del jardín, sistemas de "bajo voltaje" u
+otras fuentes de "alto voltaje".
+Separe y aísle todos los conductores con especial cuidado de
+no dañar el aislamiento del cable durante la instalación. Un
+cortocircuito (contacto) entre los cables de la válvula y otra
+fuente de corriente eléctrica podría dañar el controlador y
+producir un riesgo de incendio.
+c
+c
+ADVERTENCIA: Todas las conexiones eléctricas y el cableado
+deben cumplir las normas de construcción locales. Algunas
+normas locales dictan que solamente un electricista
+certificado puede instalar la corriente. El controlador debe ser
+instalado únicamente por profesionales. Consulte las normas
+de construcción locales para obtener más directrices.
+b
+b
+NOTA: Una batería de litio retiene la fecha y la hora; esta
+batería debe desecharse de acuerdo con la regulación local.
+PRECAUCIÓN: Utilice únicamente aquellos dispositivos accesorios
+aprobados por Rain Bird. Los dispositivos no aprobados podrían
+dañar el controlador e invalidar la garantía. Para obtener una lista de
+dispositivos compatibles, visite: www.rainbird.com
+
+--- PAGE 70 ---
+Programmateur ESP-Me
+
+FRA
+Élimination des déchets électroniques
+Conformément aux directives européennes
+2002/96/CE et EURONORM EN50419:2005, cet
+appareil ne devra pas être jeté avec les ordures
+ménagères. Cet appareil doit faire l'objet d'une
+élimination sélective appropriée pour le recycler.
+Assistance technique
+Vous avez des questions ?
+Si vous avez besoin d'aide
+pour installer ou utiliser le
+programmateur Rain Bird ESP-Me,
+scannez le code QR pour vous
+rendre sur
+www.rainbird.com/espme
+De la documentation utilisateur supplémentaire
+est disponible sous l'onglet Manuals & Literature
+(manuels et documentations), notamment :
+* Le manuel d'utilisation (ce document)
+* Le guide de référence rapide
+* Le guide de programmation
+* La prise en charge linguistique
+Pour en savoir plus sur les systèmes d'arrosage Rain
+Bird, rendez-vous sur le site de la Rain Bird Academy à
+l'adresse :
+www.rainbirdservices.com/training
+Pour afficher des vidéos d'instructions pour le ESP-Me,
+rendez-vous sur
+www.youtube.com/
+Français
+
+--- PAGE 71 ---
+Table des matières
+FRA
+Programmateur ESP-Me
+
+Assistance technique..................................................70
+Élimination des déchets électroniques....................70
+Introduction................................................73
+Bienvenue chez Rain Bird..........................................73
+The Intelligent Use of Water®.......................................73
+Fonctionnalités du programmateur ESP-Me.........73
+Compatible WiFi...............................................................74
+Installation..................................................75
+Fixation du programmateur......................................75
+Câblage.........................................................................76
+Connexion des vannes...................................................76
+Connexion de la vanne maîtresse (facultatif)........76
+Connexion d'un relais de démarrage de pompe
+(facultatif)...........................................................................77
+Connexion de la sonde de pluie/gel (facultatif)...78
+Connexion de l'alimentation........................................79
+Modules d'extension des stations............................81
+Installation des modules...............................................81
+Numérotage des stations..............................................82
+Configuration des modules..........................................82
+Terminez l'installation du programmateur............83
+Fonctionnement normal.............................84
+Commandes et indicateurs.......................................84
+DÉMARRAGE AUTOMATIQUE.......................................85
+ARRÊT...................................................................................85
+Planification par programme....................................86
+Empilement de programmes.......................................86
+Erreur de programmation commune.......................87
+Programmation de base.............................88
+1. Paramétrage de la date et de l'heure..................88
+2. Configuration des heures de démarrage de
+l'arrosage......................................................................88
+3. Réglage des durées d'arrosage............................89
+4. Réglage des jours d'arrosage...............................89
+Jours personnalisés.........................................................89
+Options d'arrosage manuel........................90
+Tester toutes les stations...........................................90
+Activation d'une seule station..................................90
+Activation d'un seul programme.............................91
+Manuel d'utilisation du programmateur ESP-Me
+Français
+
+--- PAGE 72 ---
+Table des matières
+FRA
+Programmateur ESP-Me
+
+Programmation avancée............................92
+Jours pairs ou impairs................................................92
+Jours cycliques.............................................................92
+Sonde de pluie.............................................................93
+Ajustement saisonnier...............................................94
+Différer l'arrosage.......................................................94
+Jours désactivés permanents...................................95
+Calculatrice de la durée d'arrosage totale par
+programme...................................................................95
+Fonctionnalités spéciales............................96
+Options .......................................................97
+Bouton de réinitialisation..........................................97
+Accessoires externes...................................................97
+Programmation à distance........................................98
+Durée de vie de la pile................................................98
+Dépannage..................................................99
+Détection des erreurs.................................................99
+Erreurs de programmation (diode clignotante)....99
+Erreurs électriques (diode non clignotante)..........99
+Effacement des alarmes liées à une erreur
+électrique............................................................................99
+Problèmes d'arrosage...............................................100
+Problèmes électriques (diode allumée en continu)...102
+Informations sur la sécurité........................................103
+
+--- PAGE 73 ---
+Introduction
+FRA
+Programmateur ESP-Me
+
+Introduction
+Bienvenue chez Rain Bird
+Merci d'avoir choisi le programmateur ESP-Me de Rain
+Bird. Dans ce manuel, vous trouverez des instructions
+étape par étape pour installer et utiliser l'ESP-Me.
+
+
+PGM
+A
+The Intelligent Use of Water®
+Nous estimons que chez Rain Bird, il est de notre
+responsabilité de développer des produits qui
+utilisent l'eau efficacement.
+Fonctionnalités du programmateur ESP-Me
+Caractéristique
+Description
+Nombre maximal de stations
+22 (avec des modules de station
+en option)
+Vanne maîtresse ou relais de
+démarrage de pompe
+Pris en charge
+Heures de démarrage
+
+Programmes
+
+Cycles de programmation
+Jours personnalisés, pairs,
+impairs et cycliques
+Jours désactivés permanents
+Pris en charge
+Contrôle de la vanne maîtresse
+Activé/Désactivé en fonction de
+la station
+Délai de pluie
+Pris en charge
+Sonde de pluie/gel
+Prise en charge
+Contournement de la sonde
+Par station
+Ajustement saisonnier
+Global ou par programme
+Activation manuelle des stations
+Oui
+Activation manuelle des programmes
+Oui
+Test manuel de toutes les stations
+Oui
+Détection de court-circuit
+Oui
+Délai entre les stations
+Oui
+Port accessoire
+Oui (5 broches)
+Enregistrer et restaurer les
+programmes
+Oui
+Compatible WiFi
+Oui
+
+--- PAGE 74 ---
+Introduction
+FRA
+Programmateur ESP-Me
+
+Compatible WiFi
+Le module WiFi LNK permet de se connecter à distance à un
+programmateur ESP-Me de Rain Bird, à l'aide d'un appareil
+intelligent compatible avec Apple iOS ou Android. L'application
+mobile permet d'accéder à distance à un ou plusieurs
+programmateurs d'arrosage et de les configurer.
+Pour plus d'informations sur le module WiFi LNK et sur la valeur
+que ce produit peut ajouter à votre programmateur ESP-Me,
+veuillez vous rendre à l'adresse : http://wifi-pro.rainbird.com
+Module WiFi LNK
+(vendu séparément)
+Gérez les sites
+à distance
+
+--- PAGE 75 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Installation
+Fixation du programmateur
+A
+Enfoncez une vis de fixation dans le mur, en
+laissant un espace de 1/8 pouces (3,2 mm) entre
+la tête de la vis et le mur (si nécessaire, utilisez les
+ancrages muraux fournis), comme indiqué.
+B
+Accrochez le programmateur à la vis de fixation
+par le biais du trou en poire qui se trouve sur sa
+partie arrière.
+1/8 in.
+(3,2 mm)
+A
+B
+C
+Ouvrez le panneau frontal et, par le biais des
+orifices situés à l'intérieur du programmateur,
+enfoncez dans le mur les trois vis supplémentaires,
+comme indiqué.
+
+VT = VALVE TEST
+VT MV COM
+24 VAC
+GND
+SENS
+VT MV COM
+
+CONNECT
+120 VAC
+C
+
+--- PAGE 76 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Câblage
+Connexion des vannes
+A
+Faites passer tous les fils par l'ouverture située en
+bas ou à l'arrière de l'unité. Si vous le souhaitez,
+vous pouvez fixer le conduit comme indiqué.
+c
+c
+AVERTISSEMENT : Ne faites pas passer les fils
+de vanne par la même ouverture que le fil
+d'alimentation.
+B
+Branchez un fil de chaque vanne à la borne
+du module de base ou du module de station
+correspondant au numéro de station désiré (1-22).
+C
+Branchez un fil neutre (C) à la borne neutre (C) du
+module de base. Branchez ensuite le fil restant de
+chaque vanne au fil neutre, comme indiqué.
+D
+Pour tester une vanne, branchez le fil neutre à la
+borne "COM" et le fil d'alimentation à la borne "VT".
+Cela activera immédiatement la vanne.
+Connexion de la vanne maîtresse (facultatif)
+E
+Branchez un fil entre la vanne maîtresse et la
+borne de vanne maîtresse (MV) du module de
+base. Connectez ensuite le fil restant de la vanne
+maîtresse au fil neutre, comme indiqué.
+A
+B
+VANNE
+MAÎTRESSE
+C
+MV
+
+SENS
+E
+C
+
+--- PAGE 77 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Connexion d'un relais de démarrage de
+pompe (facultatif)
+L'ESP-Me peut contrôler un relais de démarrage de
+pompe pour activer et désactiver la pompe selon les
+besoins.
+A
+Branchez un fil entre le relais de démarrage de
+pompe (PSR) et la borne de vanne maîtresse (MV)
+du module de base. Connectez ensuite un autre
+fil entre le relais de démarrage de pompe et le fil
+neutre, comme indiqué.
+B
+Pour éviter tout risque d'endommager la pompe,
+connectez un petit fil de raccordement entre
+les bornes inutilisées et la borne utilisée la plus
+proche, comme indiqué.
+b
+b
+REMARQUE : Le programmateur ESP-Me ne permet PAS d'alimenter une pompe. Le relais doit
+être branché conformément aux instructions du
+fabricant.
+Pour une liste de relais de démarrage de pompe
+compatibles, rendez-vous sur notre site Web :
+www.rainbird.com/controllersupport:
+A
+b
+b
+REMARQUE :
+Le branchement
+à la pompe et à
+l'alimentation
+externe ne sont
+pas indiqués.
+Consultez les
+instructions
+d'installation de
+la pompe.
+RELAIS DE
+DÉMARRAGE
+DE POMPE
+B
+C
+PSR
+
+--- PAGE 78 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Connexion de la sonde de pluie/gel
+(facultatif)
+Le programmateur ESP-Me peut être paramétré pour
+obéir à une sonde de pluie ou l'ignorer. Consultez la
+section Sonde de pluie, sous Programmation avancée.
+A
+Retirez le fil de raccordement jaune des bornes
+SENS du programmateur.
+b
+b
+REMARQUE : Ne retirez le fil de raccordement
+jaune que si vous branchez une sonde de pluie.
+B
+Connectez les deux fils de la sonde de pluie aux
+bornes SENS, comme indiqué.
+c
+c
+AVERTISSEMENT : Ne faites pas passer les fils de
+la sonde de pluie par la même ouverture que le fil
+d'alimentation.
+b
+b
+REMARQUE : Les programmateurs Rain Bird sont
+uniquement compatibles avec les sondes de
+pluie normalement fermées.
+b
+b
+REMARQUE : Pour les sondes de pluie/gel sans
+fil, consultez les instructions d'installation de la
+sonde.
+B
+
+--- PAGE 79 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Connexion de l'alimentation
+c
+c
+AVERTISSEMENT : Ne branchez PAS le transformateur et ne connectez PAS l'alimentation
+externe avant d'avoir effectué et vérifié tous les
+branchements.
+c
+c
+AVERTISSEMENT : Les décharges électriques
+peuvent entraîner des blessures graves, voire mortelles. Vérifiez que l'alimentation est hors tension
+(OFF) avant de connecter les fils d'alimentation.
+Caractéristiques électriques
+Entrée 230 V c.a., 0,2 A, 50/60 Hz
+Sortie 25,5 V c.a., 1,0 A, 50/60 Hz
+Câblage de l'alimentation
+230 V c.a. (International)
+Fil noir d'alimentation (tension) sur le fil noir du
+transformateur indiquant « L »
+Fil bleu d'alimentation (neutre) sur le fil bleu du
+transformateur indiquant « N »
+Fil vert rayé jaune d'alimentation (terre) sur le fil vert rayé
+jaune du transformateur
+
+--- PAGE 80 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+A
+Le compartiment de câblage du transformateur
+se trouve dans le coin inférieur gauche du
+programmateur. À l'aide d'un tournevis, retirez le
+couvercle et exposez les fils du transformateur.
+B
+Faites passer les trois fils de la source d'alimentation externe par l'ouverture située en bas de
+l'unité, jusqu'au compartiment de câblage.
+C
+Connectez les fils de la source d'alimentation
+externe (deux d'alimentation et un de mise à la
+terre) aux fils du transformateur à intérieur du
+compartiment de câblage.
+c
+c
+AVERTISSEMENT : Le fil de mise à la terre doit
+être connecté pour assurer une protection en cas
+de surtension. Un conduit fixe servira à brancher
+l'alimentation principale au programmateur.
+b
+b
+REMARQUE : Pour cette étape, utilisez les serrefils fournis ou le connecteur installé.
+D
+Vérifiez que toutes les connexions soient correctes,
+puis remettez le couvercle du compartiment de
+câblage et fixez-le avec les vis.
+L
+N
+A
+C
+B
+
+--- PAGE 81 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Modules d'extension des stations
+Des modules de station optionnels peuvent s'installer
+dans les emplacements vides, à droite du module de
+base, pour accroître la capacité à 22 stations.
+b
+b
+REMARQUE : Le module à 6 stations n'est
+compatible qu'avec l'ESP-Me. Il n'est pas compatible
+avec les anciens programmateurs ESP-M.
+b
+b
+REMARQUE : Pour un séquencement idéal des
+stations, il est recommandé de toujours installer
+le module à 6 stations dans le compartiment 2.
+Pour plus de détails, voir la section Numérotage
+des stations.
+VT MV COM
+
+
+3 STATIONS
+(ESPSM3)
+6 STATIONS
+(ESPSM6)
+Modules d'extension
+(vendus séparément)
+Module de base
+(inclus)
+Installation des modules
+A
+Assurez-vous que le levier de fixation du module
+est déverrouillé (faites-le glisser vers la gauche).
+B
+Positionnez le module sous l'emplacement désiré,
+entre les rails en plastique.
+C
+Poussez le module vers le haut dans l'emplacement, jusqu'à ce qu'il soit fixé.
+D
+Faites glisser le levier de fixation en position de
+verrouillage (vers la droite).
+e
+e RÉPÉTEZ
+l'opération
+pour
+les
+modules
+supplémentaires.
+b
+b
+REMARQUE : Il est possible d'installer ou de
+supprimer des modules que l'alimentation secteur
+soit connectée OU non. Ils sont considérés comme
+"remplaçables à chaud".
+BC
+D
+
+--- PAGE 82 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Numérotage des stations
+Description du numérotage des stations fixes
+Le programmateur est configuré avec un numérotage des
+stations fixe. Chaque compartiment est paramétré pour
+accepter un module à 6 stations et réserver le numéro
+de station à une utilisation ultérieure si AUCUN module à
+6 stations n'est installé dans les compartiments 2, 3 ou 4.
+Les numéros de station sont pré-attribués comme suit :
+Compartiment 1
+Compartiment 2
+Compartiment 3
+Compartiment 4
+VT MV COM
+
+
+
+VT MV COM
+
+Exemple d'installation recommandée pour 19 stations
+Configuration des modules
+Exemple d'installation avec des intervalles dans la
+numérotation des stations :
+* 19 stations au total sont installées.
+* Le module de base, installé dans le compartiment
+1, utilise les stations 1 à 4.
+* Un module d'extension à 6 stations, installé dans
+les compartiments 2 et 3, utilise les stations 5 à 16.
+* Un module d'extension à 3 stations, installé dans le
+compartiment 4, utilise les stations 17 à 19.
+Étant donné qu'un module à 3 stations est installé
+dans le compartiment 4, seuls les trois premiers numéros de station attribués à ce compartiment seront utilisés, tandis que les numéros inutilisés seront "réservés"
+pour une utilisation ultérieure.
+b
+b
+REMARQUE : Lors de la programmation, le programmateur ignorera tous les numéros de station
+inutilisés, ce qui créera des intervalles dans la
+numérotation des stations.
+
+--- PAGE 83 ---
+Installation
+FRA
+Programmateur ESP-Me
+
+Exemple : un module à 3 stations a été installé dans
+le compartiment 4, aussi les stations 20-22 seront-elles
+indisponibles pour la programmation. Lors de la programmation, les stations manquantes s'afficheront sur
+l'écran en tant que 20SKIP, 21SKIP, etc.
+L'écran affiche "20SKIP" avec le "20" qui clignote pour
+indique que la station 20 (ainsi que la 21 et la 22) sont
+inutilisées et indisponibles pour la programmation.
+Terminez l'installation du
+programmateur
+A
+Réinstallez et reconnectez le panneau frontal.
+B
+Mettez le programmateur sous tension et testez
+le système.
+b
+b
+REMARQUE : Les branchements électriques
+peuvent être vérifiés même si l'eau n'est pas
+disponible. Si l'eau est disponible et que vous
+voulez  tester certaines de vos stations ou la
+totalité, utilisez la fonctionnalité Test All Stations
+(tester toutes les stations) du programmateur.
+
+--- PAGE 84 ---
+
+PGM
+A
+Fonctionnement normal
+FRA
+Programmateur ESP-Me
+
+PROGRAM SELECT
+(sélection du
+programme)
+Sélectionnez le
+programme A, B, C ou D
+START TIMES
+(heures de démarrage)
+Paramétrez jusqu'à 6
+heures de démarrage par
+programme
+RUN TIMES (durées
+d'arrosage)
+Paramétrez des durées
+d'arrosage pour chaque
+programme
+ARROSAGE MANUEL
+Commencez à arroser
+immédiatement une
+station ou toutes les
+stations
+OPTIONS DE JOUR
+D'ARROSAGE
+Par jour, pair,
+impair ou cyclique
+RAIN SENSOR
+(sonde de pluie)
+Paramétrez le
+programmateur pour
+obéir à une sonde de
+pluie ou l'ignorer
+SEASONAL ADJUST (ajustement
+saisonnier) Ajustez les durées
+d'arrosage entre 5 % et 200 %
+BOUTONS
+PRÉCÉDENT/SUIVANT
+Sélectionnez les options de
+programmation
+BOUTONS - / +
+Ajustez les
+paramètres du
+programme
+OFF (arrêt)
+Désactive l'arrosage
+automatique
+AUTO RUN
+(démarrage
+automatique)
+L'arrosage se déclenche
+automatiquement
+DATE/HEURE
+Configurez la
+date et l'heure
+TEST ALL STATIONS
+(tester toutes les
+stations)
+DELAY WATERING
+(différer l'arrosage)
+Jusqu'à 14 jours
+INDICATEUR D'ALARME
+HOLD TO START
+(maintenez enfoncé
+pour démarrer)
+Arrosage manuel
+Fonctionnement normal
+Commandes et indicateurs Principales fonctionnalités d'utilisation du programmateur ESP-Me :
+JOURS D'ARROSAGE
+Sélectionnez les jours
+auxquels l'arrosage
+est autorisé
+
+--- PAGE 85 ---
+Fonctionnement normal
+FRA
+Programmateur ESP-Me
+
+DÉMARRAGE AUTOMATIQUE
+AUTO RUN (démarrage automatique) est le mode de
+fonctionnement normal. Remettez toujours la roue
+en position AUTO RUN une fois la programmation
+terminée.
+Pendant l'arrosage :
+L'écran affiche un symbole clignotant en forme
+d'arroseur, le numéro de la station ou du programme
+actif, ainsi que la durée d'arrosage restante.
+* Pour annuler l'arrosage, positionnez la roue sur
+OFF (arrêt) pendant trois secondes, jusqu'à ce que
+l'écran affiche OFF.
+Pour lancer manuellement un programme :
+A
+Appuyez sur le bouton PROGRAM SELECT
+(sélection du programme) pour sélectionner un
+programme.
+B
+Appuyez sur le bouton HOLD TO START
+(maintenir enfoncé pour démarrer) pour lancer
+immédiatement le programme affiché.
+ARRÊT
+Tournez la roue jusqu'à OFF (arrêt) afin d'arrêter l'arrosage automatique ou d'annuler immédiatement tous
+les arrosages en cours.
+ATTENTION  : L'arrosage ne s'effectuera PAS si le
+programmateur reste en mode OFF.
+
+--- PAGE 86 ---
+Programme DÉMARRAGE Station
+Démarrage
+programmé
+Démarrage
+effectif
+Durées d'arrosage
+A
+1er
+
+8:00 AM
+8:00 AM
+30 MIN
+
+8:30 AM
+30 MIN
+
+9:00 AM
+30 MIN
+
+9:30 AM
+30 MIN
+B
+1er
+
+8:00 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Fonctionnement normal
+FRA
+Programmateur ESP-Me
+
+Planification par programme
+L'ESP-Me utilise une méthode de planification par
+programme afin d'élaborer des calendriers d'arrosage.
+Pour chaque programme (A, B, C ou D) :
+A
+Sélectionnez des jours d'arrosage (personnalisés,
+pairs/impairs, cycliques) et des heures de
+démarrage devant s'appliquer à la totalité du
+programme.
+B
+Attribuez une durée d'arrosage à chaque
+numéro de station disponible devant arroser lors
+du programme sélectionné.
+Empilement de programmes
+Si des programmes ont des heures de démarrage qui
+se chevauchent, l'ESP-Me "empilera" les heures de
+démarrage. Lorsque toutes les stations auront arrosé
+dans le programme A, le programme B commencera
+à arroser. Les stations arroseront à la suite les unes des
+autres.
+Exemple : Le programme A et B sont tous les deux
+paramétrés pour démarrer à 8:00 AM. Cependant, le
+programme B n'arrosera pas tant que le programme A
+n'aura pas fini.
+Avec l'empilement
+des programmes,
+le programme B ne
+commence qu'une
+fois le programme A
+terminé
+
+--- PAGE 87 ---
+Fonctionnement normal
+FRA
+Programmateur ESP-Me
+
+Erreur de programmation commune
+L'erreur de programmation la plus commune consiste
+à répéter des cycles d'arrosage à cause d'heures de
+démarrage multiples.
+Exemple : Le programme A a une 1re heure de démarrage à 8:00 AM. Avec l'empilement des programmes,
+chaque station arrosera dans l'ordre, jusqu'à ce que
+toutes les zones aient été arrosées. Il est inutile de
+paramétrer séparément l'arrosage de chaque station.
+Dans cet exemple, une 2e heure de démarrage a
+accidentellement été paramétrée pour 8:30 AM, ce qui
+signifie que certaines zones vont être arrosées deux
+fois ce matin-là.
+b
+b
+REMARQUE  : Dans un programme, attribuez
+uniquement des durées d'arrosage aux stations
+qui doivent arroser. Si vous ne voulez pas qu'une
+station en particulier se déclenche lors d'un programme, paramétrez la durée d'arrosage sur zéro.
+Programme DÉMARRAGE
+Station
+Démarrage
+programmé
+Démarrage
+effectif
+Durées d'arrosage
+A
+1er
+
+8:00 AM
+8:00 AM
+30 MIN
+
+8:30 AM
+30 MIN
+
+9:00 AM
+30 MIN
+
+9:30 AM
+30 MIN
+A
+2e
+
+8:30 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Des heures de
+démarrage multiples
+provoquent un
+arrosage à répétition
+des stations.
+Pour corriger
+ce problème,
+supprimez la 2e
+heure de démarrage
+
+--- PAGE 88 ---
+Programmation de base
+FRA
+Programmateur ESP-Me
+
+Programmation de base
+1. Paramétrage de la date et de l'heure
+Tournez
+la
+roue
+jusqu'à
+SET
+DATE
+(régler la date).
+A
+Appuyez sur ou pour sélectionner le paramètre
+à modifier.
+B
+Appuyez sur
+ ou
+ pour sélectionner la valeur du
+paramètre.
+C
+Maintenez enfoncé
+ ou
+ pour accélérer les
+ajustements.
+Tournez la roue jusqu'à la position SET TIME
+(régler l'heure).
+A
+Appuyez sur ou pour sélectionner le paramètre
+à modifier.
+B
+Appuyez sur
+ ou
+ pour sélectionner la valeur du
+paramètre.
+C
+Maintenez enfoncé
+ ou
+ pour accélérer les
+ajustements.
+Pour modifier le format horaire (12 heures ou 24 heures) :
+A
+Quand MINUTES clignote, appuyez sur .
+B
+Appuyez sur
+ ou
+ pour sélectionner le format
+horaire désiré, puis appuyez sur pour retourner au
+réglage de l'heure.
+2. Configuration des heures de
+démarrage de l'arrosage
+Jusqu'à six heures de démarrage sont disponibles
+pour chaque programme.
+Tournez la roue jusqu'à SET WATERING START
+TIMES (régler les heures de démarrage de
+l'arrosage)
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré (si
+nécessaire).
+B
+Appuyez sur ou pour sélectionner une heure
+de démarrage disponible.
+C
+Appuyez sur
+ ou
+ pour paramétrer l'heure
+de démarrage sélectionnée (assurez-vous que le
+paramètre AM/PM est correct).
+D
+Appuyez sur pour paramétrer des heures de
+démarrage supplémentaires.
+b
+b
+REMARQUE : La position OFF (arrêt) pour toutes
+les heures de démarrage est entre 11:45 PM et
+minuit.
+
+--- PAGE 89 ---
+Programmation de base
+FRA
+Programmateur ESP-Me
+
+3. Réglage des durées d'arrosage
+Les durées d'arrosage peuvent aller d'une minute à six
+heures.
+Tournez la roue jusqu'à SET STATION RUN TIMES
+(paramétrer les durées d'arrosage des stations)
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré (si
+nécessaire).
+B
+Appuyez sur ou pour sélectionner une station.
+C
+Appuyez sur
+ ou
+ pour paramétrer la durée
+d'arrosage de la station sélectionnée.
+D
+Appuyez sur
+ pour paramétrer des durées
+d'arrosage supplémentaire.
+4. Réglage des jours d'arrosage
+Jours personnalisés
+Paramétrez l'arrosage pour qu'il s'effectue certains
+jours de la semaine.
+Tournez la roue jusqu'à ADVANCED WATERING
+CYCLES (cycles d'arrosage avancés)
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré (si
+nécessaire).
+B
+Appuyez sur
+ ou
+ pour sélectionner BY DAY
+(par jour).
+C
+Positionnez la roue sur MON (lundi).
+D
+Appuyez sur
+ ou
+ pour paramétrer le jour
+sélectionné (clignotant) sur ON (activé) ou OFF
+(désactivé), puis positionnez la roue sur le jour
+suivant.
+e
+e RÉPÉTEZ l'opération afin de choisir des jours
+supplémentaires pour le programme sélectionné.
+
+--- PAGE 90 ---
+Options d'arrosage manuel
+FRA
+Programmateur ESP-Me
+
+Options d'arrosage manuel
+Tester toutes les stations
+Vérifiez le fonctionnement des vannes du système.
+Tournez la roue jusqu'à TEST ALL STATIONS
+(tester toutes les stations).
+A
+Appuyez sur
+ ou
+ pour paramétrer une durée
+d'arrosage.
+B
+Appuyez sur le bouton HOLD TO START
+
+(maintenir enfoncé pour démarrer).
+C
+Tournez la roue jusqu'à AUTO RUN (démarrage
+automatique) après que l'écran affiche TESTING
+(test en cours).
+Pendant le test :
+L'écran affiche un symbole clignotant en forme d'arroseur,
+le numéro de la station ou du programme actif, ainsi que la
+durée d'arrosage restante.
+D
+Pour annuler le test, positionnez la roue sur OFF
+(arrêt) pendant trois secondes, jusqu'à ce que
+l'écran affiche OFF (arrêt).
+Activation d'une seule station
+Lancez immédiatement l'arrosage d'une seule station.
+Tournez la roue jusqu'à la position MANUAL
+STATION (arrosage manuel station).
+A
+Appuyez sur ou pour sélectionner une station.
+B
+Appuyez sur
+ ou
+ pour paramétrer une durée
+d'arrosage.
+C
+Appuyez sur le bouton HOLD TO START
+
+(maintenir enfoncé pour démarrer).
+D
+L'arrosage commence et “STARTED” (commencé)
+apparaît sur l'écran.
+
+--- PAGE 91 ---
+Options d'arrosage manuel
+FRA
+Programmateur ESP-Me
+
+Activation d'un seul programme
+Lancez immédiatement l'arrosage pour un seul
+programme.
+Tournez la roue jusqu'à MANUAL PROGRAM
+(programme manuel).
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré
+(si nécessaire). La durée d'arrosage totale du
+programme s'affiche.
+B
+Appuyez sur le bouton HOLD TO START
+
+(maintenir enfoncé pour démarrer) pour lancer
+l'arrosage du programme sélectionné.
+e
+e RÉPÉTEZ l'opération si vous le souhaitez
+pour planifier manuellement l'arrosage de
+programmes supplémentaires.
+b
+b
+REMARQUE : 38 stations au maximum peuvent
+être mises en file d'attente sur les quatre
+programmes.
+C
+L'arrosage commence et “STARTED” (commencé)
+apparaît sur l'écran.
+D
+Appuyez sur le bouton ADVANCE STATION
+
+(passer à la station suivante) pour passer à la
+station suivante si vous le souhaitez.
+Pendant l'arrosage manuel (une seule station ou un
+seul programme) :
+L'écran affiche un symbole clignotant en forme
+d'arroseur, le numéro de la station ou du programme
+actif, ainsi que la durée d'arrosage restante.
+* Pour annuler l'arrosage manuel, tournez la roue
+jusqu'à OFF (arrêt) pendant trois secondes, jusqu'à
+ce que l'écran affiche OFF.
+
+--- PAGE 92 ---
+Programmation avancée
+FRA
+Programmateur ESP-Me
+
+Programmation avancée
+Jours pairs ou impairs
+Paramétrez l'arrosage pour qu'il s'effectue tous les jours
+PAIRS ou IMPAIRS.
+Tournez la roue jusqu'à ADVANCED
+WATERING CYCLES (cycles d'arrosage
+avancés)
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré, si
+nécessaire).
+B
+Appuyez sur
+ ou
+ pour sélectionner ODD
+(impair) ou EVEN (pair).
+b
+b
+REMARQUE  : ODD (impair) ou EVEN (pair)
+s'affiche lorsque vous positionnez la roue sur un
+jour de la semaine.
+Jours cycliques
+Paramétrez l'arrosage pour qu'il s'effectue à des
+intervalles spécifiques, par exemple tous les 2 jours, ou
+tous les 3 jours, etc.
+Tournez la roue jusqu'à ADVANCED
+WATERING CYCLES (cycles d'arrosage
+avancés).
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré, si
+nécessaire).
+B
+Appuyez sur
+ ou
+ pour sélectionner CYCLIC
+(cyclique), puis appuyez sur
+C
+Appuyez sur
+ ou
+ pour paramétrer le DAY
+CYCLE (cycle de jours) désiré, puis appuyez sur
+
+--- PAGE 93 ---
+Programmation avancée
+FRA
+Programmateur ESP-Me
+
+D
+Appuyez sur
+ ou
+ pour paramétrer les DAYS
+REMAINING (jours restants) avant le début du
+cycle. Le jour d'arrosage NEXT (suivant) s'actualise
+sur l'écran pour indiquer le jour auquel l'arrosage
+commencera, comme indiqué.
+Sonde de pluie
+Paramétrez le programmateur pour obéir à une sonde
+de pluie ou l'ignorer.
+Lorsque le paramètre est ACTIF, l'arrosage automatique
+sera interrompu si de la pluie est détectée. Lorsque
+le paramètre est IGNORER, tous les programmes
+ignoreront la sonde de pluie.
+Tournez la roue jusqu'à RAIN SENSOR
+(sonde de pluie).
+* Appuyez sur
+ ou
+ pour sélectionner ACTIF ou
+IGNORER.
+Légende
+État de l'icône de la sonde de pluie
+Active
+Contournée
+Pluie détectée
+b
+b
+REMARQUE : Consultez Fonctions spéciales
+pour paramétrer le contournement de la sonde
+de pluie en fonction des stations.
+
+--- PAGE 94 ---
+Programmation avancée
+FRA
+Programmateur ESP-Me
+
+Ajustement saisonnier
+Augmentez ou réduisez les durées d'arrosage des
+programmes en fonction d'un pourcentage donné
+(5% à 200 %).
+Exemple  : Si l'ajustement saisonnier est paramétré
+sur 100  % et que la durée d'arrosage de la station
+est programmée pour 10 minutes, la station arrosera
+pendant 10 minutes. Si l'ajustement saisonnier est
+paramétré sur 50  %, la station arrosera pendant
+5  minutes.
+Tournez la roue jusqu'à la position SEASONAL
+ADJUST (ajustement saisonnier).
+A
+Appuyez sur
+ ou
+ pour augmenter ou réduire
+le paramètre de pourcentage global.
+B
+Pour ajuster un programme en particulier,
+appuyez sur PROGRAM SELECT (sélection du
+programme) afin de choisir le programme désiré
+(si nécessaire).
+Différer l'arrosage
+Différez l'arrosage jusqu'à une période de 14 jours.
+Tournez la roue jusqu'à la position
+DELAY WATERING (différer l'arrosage).
+A
+Appuyez sur
+ ou
+ pour paramétrer les DAYS
+REMAINING (jours restants). Le jour d'arrosage
+NEXT (suivant) s'actualise sur l'écran pour
+indiquer quand l'arrosage reprendra.
+B
+Pour annuler une suspension de l'arrosage,
+paramétrez DAYS REMAINING (jours restant)
+sur 0.
+b
+b
+REMARQUE  : Quand le délai expire, l'arrosage
+automatique reprend comme prévu.
+
+--- PAGE 95 ---
+Programmation avancée
+FRA
+Programmateur ESP-Me
+
+Jours désactivés permanents
+Empêchez l'arrosage certains jours de la semaine
+(pour la programmation paire, impaire ou cyclique
+uniquement).
+Tournez la roue jusqu'à la position
+1 MON (1 lundi, ou tout autre jour)
+A
+Appuyez sur PROGRAM SELECT (sélection du
+programme) pour choisir le programme désiré (si
+nécessaire).
+B
+Maintenez enfoncé
+ et
+ en même temps
+jusqu'à ce que l'écran jours désactivés permanents
+s'affiche.
+C
+Appuyez sur
+ pour paramétrer le jour
+sélectionné (clignotant) en tant que jour
+désactivé permanent (PERMOFF), ou appuyez sur
+ pour que le jour reste ON (actif).
+Calculatrice de la durée d'arrosage
+totale par programme
+Consultez la durée d'arrosage totale pour tout un
+programme.
+Le programmateur peut déterminer la durée d'arrosage
+totale d'un programme en ajoutant toutes les durées
+d'arrosage de chaque station de ce programme.
+Tournez la roue jusqu'à MANUAL PROGRAM
+(programme manuel).
+A
+La durée d'arrosage totale de PGM A s'affiche.
+B
+Appuyez sur le bouton PROGRAM SELECT
+(sélection du programme) pour afficher la durée
+d'arrosage totale du programme suivant.
+b
+b
+REMARQUE : La durée d'arrosage indiquée
+pour chaque programme correspond à la durée
+d'arrosage modifiée en fonction de l'ajustement
+saisonnier et ne comprend qu'une seule heure de
+démarrage.
+
+--- PAGE 96 ---
+
+PGM
+A
+Fonctionnalités spéciales
+FRA
+Programmateur ESP-Me
+
+Fonctionnalités spéciales
+A
+Tournez la roue jusqu'à la position désirée, indiquée
+ci-dessous, pour chaque fonctionnalité spéciale.
+B
+Maintenez enfoncés et en même temps.
+DÉLAI ENTRE LES VANNES
+Le délai de station (entre 1 seconde et 9 heures)
+permet de veiller à ce qu'une vanne se ferme
+complètement avant que la suivante s'ouvre.
+RÉTABLIR LES PARAMÈTRES
+PAR DÉFAUT
+Toutes les planifications
+programmées seront effacées.
+CONTOURNER LA SONDE DE
+PLUIE POUR UNE STATION
+Indique à une station d'obéir
+à une sonde de pluie ou de
+l'ignorer.
+ENREGISTRER DES
+PROGRAMMES
+RESTAURER LES PROGRAMMES
+ENREGISTRÉS
+PARAMÉTRER LA VANNE MAÎTRESSE
+EN FONCTION DES STATIONS
+Permet à une station d'être contrôlée
+par une vanne maîtresse ou un relais de
+démarrage de pompe.
+JOURS DÉSACTIVÉS
+PERMANENTS
+Empêchez l'arrosage certains
+jours de la semaine.
+
+--- PAGE 97 ---
+Options
+FRA
+Programmateur ESP-Me
+
+Options
+Bouton de réinitialisation
+Si le programmateur ne fonctionne pas correctement,
+vous pouvez essayer d'appuyer sur RESET
+(réinitialiser).
+* Insérez un outil fin, comme un trombone, dans
+l'orifice d'accès et appuyez jusqu'à ce que
+le programmateur se réinitialise. Toutes les
+planifications d'arrosage programmées resteront
+stockées en mémoire.
+RESET (réinitialiser)
+Accessoires externes
+Un port accessoire à 5 broches est disponible pour
+les appareils externes approuvés par Rain Bird,
+notamment :
+* Module WiFi LNK
+* Faisceau de connexion rapide du récepteur LIMR
+PORT
+
+--- PAGE 98 ---
+Options
+FRA
+Programmateur ESP-Me
+
+Programmation à distance
+Programmez à distance le panneau frontal alimenté
+par pile.
+Le panneau frontal peut être retiré du programmateur
+et programmé à distance grâce à l'alimentation fournie
+par une pile de 9 volts. Les paramètres peuvent être
+programmés pour la totalité des 22 stations, quels
+que soient les modules de station installés dans le
+programmateur.
+b
+b
+REMARQUE : C'est utile si un prestataire veut
+programmer
+le
+programmateur
+avant
+de
+l'installer sur site.
+A
+Retirez le panneau frontal.
+B
+Insérez une pile 9V dans le compartiment.
+C
+Programmez le programmateur.
+b
+b
+REMARQUE : Les informations sur les programmes
+sont stockées dans une mémoire non volatile,
+aussi ne seront-elles jamais perdues si le panneau
+frontal n'est plus alimenté.
+D
+Remettez le panneau frontal (consultez Terminez
+l'installation dans la section Installation).
+b
+b
+REMARQUE : Une fois le panneau frontal
+réinstallé, toutes les stations pour lesquelles
+aucun module de station correspondant n'est
+installé fonctionneront comme si la durée
+d'arrosage était de zéro.
+Durée de vie de la pile
+Si l'écran affiche "-- -- -- -- --" de manière répétée alors
+que vous utilisez une pile 9V pour la programmation à
+distance, remplacez la pile.
+
+--- PAGE 99 ---
+Dépannage
+FRA
+Programmateur ESP-Me
+
+Dépannage
+Détection des erreurs
+Le programmateur ESP-Me est équipé d'un dispositif
+de détection d'erreur intégré qui peut générer automatiquement une ALARME causée par une erreur
+de programmation essentielle ou un problème de
+court-circuit.
+La diode d'alarme sur le panneau frontal du programmateur ESP-Me s'allume pour indiquer un problème :
+Erreurs de programmation (diode clignotante)
+Erreur
+DIODE
+D'ALARME
+Message d'erreur sur l'écran
+Aucune heure de démarrage n'a été paramétrée
+CLIGNOTEMENT NO START TIMES
+(pas d'heure de
+démarrage)
+Aucune durée d'arrosage
+n'a été paramétrée
+CLIGNOTEMENT NO RUN TIMES (pas
+de durée d'arrosage)
+Aucun jour d'arrosage
+n'a été paramétré
+CLIGNOTEMENT NO WATER DAYS (pas
+de jour d'arrosage)
+Le programmateur ESP-Me se réinitialise ou s'efface
+lorsque l'erreur est corrigée.
+b
+b
+REMARQUE  : La roue doit être en position AUTO
+RUN (démarrage automatique) pour qu'un message
+d'ALARME apparaisse sur l'écran.
+Erreurs électriques (diode non clignotante)
+Erreur
+DIODE
+D'ALARME
+Message d'erreur
+sur l'écran
+Court-circuit de la
+vanne maîtresse
+ALLUMÉE EN
+CONTINU
+MASTER VALVE/PUMP WIRE
+SHORTED OR HIGH CURRENT
+(court-circuit de la vanne
+maîtresse/pompe ou courant
+trop fort)
+Court-circuit de la
+station
+ALLUMÉE EN
+CONTINU
+STATION “X” WIRE SHORTED
+(court-circuit de la station "X")
+Lorsqu'une erreur électrique est détectée, l'arrosage
+de la station concernée est annulé et l'arrosage passe à
+la station active suivante du programme.
+Le programmateur réessaiera d'arroser la station
+concernée au prochain arrosage prévu. La réussite
+d'un arrosage effacera l'erreur associée à cette station.
+Effacement des alarmes liées à
+une erreur électrique
+Positionnez la roue sur AUTO RUN
+(démarrage automatique) pour voir le
+message d'erreur sur l'écran. Pour effacer l'ALARME, appuyez sur le bouton de
+la flèche droite
+.
+
+--- PAGE 100 ---
+Dépannage
+FRA
+Programmateur ESP-Me
+
+Problèmes d'arrosage
+Problème
+Cause possible
+Solution possible
+L'écran indique qu'un
+programme est actif,
+mais le système
+n'arrose pas.
+La source d'eau n'envoie pas d'eau.
+Assurez-vous qu'il n'y a pas de coupure dans la canalisation
+d'eau principale et que toutes les autres canalisations
+d'alimentation en eau sont ouvertes et fonctionnent
+correctement.
+Des câbles sont desserrés ou mal
+branchés.
+Vérifiez que les câbles sur le terrain, ainsi que les fils de la
+vanne principale ou du relais de démarrage de pompe, sont
+correctement branchés au niveau du programmateur et sur
+le terrain.
+Les fils sont corrodés ou endommagés.
+Vérifiez que les fils ne soient pas endommagés, et remplacezles si nécessaire. Vérifiez les connexions des fils et remplacezles si nécessaire par des connecteurs sertis étanches.
+Panne d'alimentation électrique.
+Lorsqu'il y a une panne d'alimentation et qu'une pile
+de 9 volts est installée, le système n'arrose pas mais les
+programmes sont signalés comme actifs.
+Message NO AC (pas
+d'électricité) sur
+l'écran.
+Aucune alimentation détectée.
+Vérifiez le coupe-circuit et assurez-vous que l'unité est
+branchée à une prise ou une source d'alimentation électrique.
+Le programmateur peut être branché
+à une prise à disjoncteur de fuite de
+terre ou à une prise reliée à une prise à
+disjoncteur de fuite de terre.
+Vérifiez l'alimentation à la prise ou réinitialisez le coupecircuit.
+Il vient de pleuvoir
+mais l'alarme
+ne s'allume pas.
+Pourquoi?
+C'est normal. L'ESP-Me ne considère pas
+l'interruption de l'arrosage dû à la pluie
+comme une alarme.
+C'est normal.
+
+--- PAGE 101 ---
+Dépannage
+FRA
+Programmateur ESP-Me
+
+Problèmes d'arrosage
+Problème
+Cause possible
+Solution possible
+Les calendriers
+programmés ne
+démarrent pas.
+La sonde de pluie connectée est
+peut-être activée.
+Paramétrez la sonde de pluie sur BYPASS (contourner) pour
+ignorer la sonde de pluie. Si l'arrosage reprend, cela signifie
+que la sonde fonctionne correctement et aucune autre
+opération n'est nécessaire.
+Il se peut que la sonde de pluie
+connectée ne fonctionne pas
+correctement.
+Laissez sécher la sonde de pluie, ou déconnectez-la de la
+plaque à bornes du programmateur et remplacez-la par un fil
+de raccordement reliant les 2 bornes SENS, ou paramétrez-la
+sur Bypass (contourner).
+Si aucune sonde de pluie n'est
+connectée, il se peut que le fil de
+raccordement reliant les deux bornes
+SENS sur la plaque à bornes soit absent
+ou endommagé.
+Positionnez la roue sur contournement de la sonde et
+paramétrez-la sur Bypass (contourner).
+Trop d'arrosage
+Il y a plusieurs heures de démarrage
+dans un même programme.
+Désactivez les heures de démarrage supplémentaires qui
+entraînent la répétition des cycles d'arrosage, la position
+arrêt, pour toutes les heures de démarrage est entre 23h45
+et minuit. Consultez “Program Stacking” (Empilement de
+programmes) à page 86 pour plus d'informations.
+Plusieurs programmes s'exécutent en
+même temps.
+Vérifiez la programmation pour vous assurer qu'une même
+station n'est pas active dans plusieurs programmes.
+Une vanne fonctionne mal.
+Vérifiez si la diode d'ALARME du programmateur est allumée
+en continu, puis réparez ou remplacez la vanne si nécessaire.
+Le paramètre de l'ajustement saisonnier
+est trop élevé.
+Paramétrez l'ajustement saisonnier sur 100 %.
+
+--- PAGE 102 ---
+Dépannage
+FRA
+Programmateur ESP-Me
+
+Problèmes électriques (diode allumée en continu)
+Problème
+Cause possible
+Solution possible
+L'écran est vide ou
+figé, le programmateur
+n'accepte aucune
+programmation ou
+fonctionne de manière
+anormale.
+Le programmateur n'est pas
+alimenté.
+Assurez-vous que l'alimentation principale est bien branchée et
+qu'elle fonctionne correctement.
+Le programmateur doit être
+réinitialisé.
+Appuyez sur le bouton Reset (réinitialiser). Pour plus de détails,
+consultez la section "Bouton de réinitialisation".
+Il se peut qu'une surtension
+électrique ait interféré avec
+les composants électroniques
+du programmateur.
+Débranchez le programmateur pendant 2 minutes, puis rebranchezle. S'il n'y a pas de détérioration permanente, le programmateur
+devrait accepter les programmations et fonctionner de nouveau
+normalement.
+La détection d'erreur
+automatique indique un
+problème avec la diode
+d'ALARME et affiche un
+message d'erreur sur
+l'écran.
+Court-circuit ou surcharge
+au niveau des branchements
+de la vanne, de la vanne
+maîtresse ou du relais de
+démarrage de pompe.
+Identifiez et réparez le problème de branchement. Consultez les
+relais de démarrage de pompe compatibles. Pour plus de détails,
+voir la section "Connexion du relais de démarrage de pompe".
+La diode clignote ou est
+allumée en continu mais
+je ne vois aucun message
+sur l'écran.
+La roue n'est pas en position
+AUTO RUN (démarrage
+automatique).
+Positionnez la roue sur AUTO RUN (démarrage automatique).
+
+--- PAGE 103 ---
+Dépannage
+FRA
+Programmateur ESP-Me
+
+Partie 15 de la FCC
+Cet équipement a été testé et jugé conforme aux limites d'un appareil
+numérique de classe B, en vertu de la partie 15 des règles de la FCC. Ces limites
+sont conçues pour fournir une protection raisonnable contre les interférences
+nuisibles dans une installation résidentielle.
+Cet équipement génère, utilise et peut émettre des fréquences radio et, s'il
+n'est pas installé et utilisé conformément aux instructions, peut causer des
+interférences nuisibles vis-à-vis des communications radio. Cependant, il
+n'y a aucune garantie que des interférences ne se produiront pas dans une
+installation donnée.
+Si l'équipement cause effectivement des interférences nuisibles à la réception
+de la radio ou de la télévision, ce qui peut être déterminé en allumant puis en
+éteignant l'équipement, il est conseillé à l'utilisateur d'essayer de remédier aux
+interférences à l'aide des mesures suivantes :
+* Réorienter ou déplacer l'antenne réceptrice.
+* Augmenter la distance entre l'équipement et le récepteur.
+* Brancher l'équipement à une prise secteur sur un circuit différent de celui
+auquel est branché le récepteur.
+* Demander l'aide du revendeur ou d'un technicien radio/TV expérimenté.
+* Les modifications non expressément approuvées par Rain Bird Corporation
+peuvent annuler le droit de l'utilisateur à utiliser l'équipement.
+* Ce produit a été certifié par la FCC suite à des tests qui comprenaient le
+recours à des câbles E/S et à des connecteurs blindés entre les composants
+du système. Pour respecter les réglementations de la FCC, l'utilisateur doit
+utiliser des câbles et des connecteurs blindés, et les installer correctement.
+* Cet appareil numérique de classe B respecte toutes les exigences du
+règlement sur le matériel brouilleur du Canada.
+Cet appareil numérique de classe B respecte toutes les exigences du
+règlement sur le matériel brouilleur du Canada
+Informations sur la sécurité
+ATTENTION  : Cet appareil n'est pas conçu pour être utilisé par des
+personnes (notamment des enfants) aux capacités physiques, sensorielles
+ou mentales réduites, ou qui manquent d'expérience et de connaissances,
+sauf si une personne responsable de leur sécurité les supervise ou
+leur donne des instructions concernant l'utilisation de l'appareil. Il est
+indispensable de surveiller les enfants pour s'assurer qu'ils ne s'amusent
+pas avec l'appareil.
+c
+c
+AVERTISSEMENT  : Il convient de prendre des précautions
+particulières lorsque des fils de vannes (aussi appelés fils de station
+ou solénoïdes) se trouvent à proximité d'autres fils, ou partagent
+un conduit avec eux, par exemple dans le cas des fils servant à
+l'éclairage d'espace vert, à des systèmes "basse tension" ou à des
+alimentations "haute tension".
+Séparez et isolez soigneusement tous les conducteurs, en prenant
+soin de ne pas endommager l'isolation des fils lors de l'installation.
+Un "court-circuit" (contact) électrique entre les fils des vannes et une
+autre source d'alimentation peut endommager le programmateur
+et provoquer un incendie.
+c
+c
+AVERTISSEMENT : Toutes les connexions électriques et le câblage
+doivent être conformes aux normes locales de construction.
+Certaines normes locales exigent que seul un électricien agréé ou
+certifié puisse installer l'alimentation. Le programmateur ne doit
+être installé que par un professionnel. Consultez vos normes de
+construction locales pour plus d'instructions.
+b
+b
+REMARQUE : La date et l'heure sont conservées par une pile au
+lithium qui doit être éliminée conformément aux réglementations
+locales.
+ATTENTION : Utilisez uniquement des accessoires approuvés par Rain Bird.
+Les appareils non approuvés peuvent endommager le programmateur
+et annuler la garantie. Vous trouverez une liste d'appareils compatibles à
+l'adresse : www.rainbird.com
+
+--- PAGE 104 ---
+Programador ESP-Me
+
+POR
+Eliminação de resíduos eletrónicos
+Em conformidade com a Diretiva europeia
+2002/96/CE e EURONORM EN50419:2005, este
+dispositivo não deve ser eliminado juntamente
+com o lixo doméstico. Este dispositivo tem de
+ser alvo de um procedimento seletivo de remoção adequado para a sua recuperação.
+Assistência técnica
+Questões?
+Para o ajudar na configuração e
+funcionamento do programador
+ESP-Me da Rain Bird, digitalize o
+código QR para visitar
+www.rainbird.com/espme
+Documentação adicional para o utilizador está
+disponível no separador Manuals & Literature
+(Manuais e Literatura), incluindo:
+* Manual do utilizador (este documento)
+* Guia de referência rápida
+* Guia de programação
+* Apoio em idioma estrangeiro
+Para saber mais sobre os sistemas de rega Rain Bird
+e os nossos programas de formação da Rain Bird
+Academy, visite:
+www.rainbirdservices.com/training
+Para ver os vídeos de instruções do ESP-Me, visite
+www.youtube.com/
+Português
+
+--- PAGE 105 ---
+Índice
+POR
+
+Programador ESP-Me
+Assistência técnica....................................................104
+Eliminação de resíduos eletrónicos.........................104
+Introdução.................................................107
+Bem-vindo à Rain Bird..............................................107
+The Intelligent Use of Water®.....................................107
+Funcionalidades do programador ESP-Me...........107
+WiFi ativado......................................................................108
+Instalação..................................................109
+Montar o programador............................................109
+Ligações de cablagem..............................................110
+Ligar as válvulas..............................................................110
+Ligar a válvula principal (opcional)..........................110
+Ligar o relé de arranque da bomba (opcional)....111
+Ligar o sensor chuva/frio (opcional)........................112
+Ligar a alimentação.......................................................113
+Módulos de expansão de estação..........................115
+Instalar módulos.............................................................115
+Numeração de estações..............................................116
+Configuração dos módulos........................................116
+Completar a instalação do programador.............117
+Funcionamento normal............................118
+Controlos e indicadores...........................................118
+REGA AUTO.......................................................................119
+OFF......................................................................................119
+Horário baseado em programa..............................120
+Sobreposição de programa........................................120
+Erro de programação comum...................................121
+Programação básica.................................122
+1. Acertar a data e hora............................................122
+2. Definir as horas de arranque da rega...............122
+3. Definir os tempos de rega da estação..............123
+4. Definir dias de rega..............................................123
+Dias personalizados da semana................................123
+Opções de rega manual............................124
+Testar todas as estações...........................................124
+Colocar em funcionamento uma estação única..124
+Iniciar um programa único......................................125
+Manual do utilizador do programador ESP-Me
+Português
+
+--- PAGE 106 ---
+Índice
+POR
+
+Programador ESP-Me
+Programação avançada...........................126
+Dias de calendário ímpares ou pares....................126
+Dias cíclicos................................................................126
+Sensor de chuva........................................................127
+Ajuste sazonal............................................................128
+Atrasar a rega.............................................................128
+Dias sem rega permanente.....................................129
+Calculador do tempo de rega total
+Por programa.............................................................129
+Funcionalidades especiais........................130
+Opções ......................................................131
+Botão Reset................................................................131
+Acessórios remotos...................................................131
+Programação remota................................................132
+Autonomia da pilha..................................................132
+Resolução de problemas...........................133
+Deteção de erro.........................................................133
+Erros de programação (LED intermitente)............133
+Erros elétricos (LED não intermitente)....................133
+Limpar alertas de erro elétrico..................................133
+Problemas de rega....................................................134
+Problemas elétricos (indicador LED iluminado com
+luz fixa)........................................................................136
+Informação de segurança...........................................137
+
+--- PAGE 107 ---
+Introdução
+POR
+
+Programador ESP-Me
+Introdução
+Bem-vindo à Rain Bird
+Obrigado por ter escolhido o Programador Modular
+ESP-Me da Rain Bird. Neste manual existem instruções
+passo a passo para instalação e funcionamento do
+ESP-Me.
+
+
+PGM
+A
+The Intelligent Use of Water®
+É da responsabilidade da Rain Bird desenvolver
+produtos que utilizam água de forma eficiente.
+Funcionalidades do programador ESP-Me
+Funcionalidade
+Descrição
+Máximo de estações
+22 (com módulos de estação opcionais)
+Válvula principal ou relé de
+arranque da bomba
+Suportado
+Horas de arranque
+
+Programas
+
+Ciclos de programa
+Dias personalizados, ímpares,
+pares e cíclicos
+Dias sem rega permanente
+Suportado
+Controlo da válvula principal
+Ligar/Desligar por estação
+Atraso de chuva
+Suportado
+Sensor de chuva/frio
+Suportado
+Derivação de sensor
+Por estação
+Ajuste sazonal
+Global ou por programa
+Operação de estação manual
+Sim
+Operação de programa manual
+Sim
+Teste manual de todas as
+estações
+Sim
+Deteção de curto-circuito
+Sim
+Atraso entre estações
+Sim
+Porta auxiliar
+Sim (5 pinos)
+Guardar e recuperar
+programação
+Sim
+WiFi ativado
+Sim
+
+--- PAGE 108 ---
+Introdução
+POR
+
+Programador ESP-Me
+WiFi ativado
+O Módulo LNK WiFi permite uma ligação remota a um
+programador ESP-Me da Rain Bird utilizando um dispositivo
+inteligente compatível com Apple iOS ou Android. A aplicação
+móvel permite o acesso remoto e a configuração de um ou
+mais programadores de rega.
+Para mais informações sobre o Módulo LNK WiFi e o valor que
+este produto pode ter para o seu programador ESP-Me, visite:
+http://wifi-pro.rainbird.com
+Módulo LNK WiFi
+(vendido
+separadamente)
+Gestão remota
+dos locais
+
+--- PAGE 109 ---
+Instalação
+POR
+
+Programador ESP-Me
+Instalação
+Montar o programador
+A
+Instale um parafuso de montagem na parede,
+deixando uma folga de 1/8 polegadas (3,2 mm)
+entre a cabeça do parafuso e a superfície
+da parede (utilize as escoras fornecidas, se
+necessário), como ilustrado.
+B
+Localize o orifício na traseira da unidade do
+programador e pendure a unidade em segurança
+no parafuso de montagem.
+1/8"
+(3,2 mm)
+A
+B
+C
+Abra o painel frontal e instale três parafusos
+adicionais nos orifícios abertos dentro do
+programador e na parede, como ilustrado.
+
+VT = VALVE TEST
+VT MV COM
+24 VAC
+GND
+SENS
+VT MV COM
+
+CONNECT
+120 VAC
+C
+
+--- PAGE 110 ---
+Instalação
+POR
+
+Programador ESP-Me
+Ligações de cablagem
+Ligar as válvulas
+A
+Encaminhe todos os fios de campo pela abertura
+na parte inferior ou posterior da unidade. Prenda o
+condutor se pretendido, como ilustrado.
+c
+c
+ATENÇÃO: Não encaminhe os fios da válvula pela
+mesma abertura dos cabos de alimentação.
+B
+Ligue um fio de cada válvula ao terminal no módulo
+da base ou módulo de estação que corresponde ao
+número de estação pretendido (1-22).
+C
+Ligue um fio comum de campo (C) ao terminal
+comum (C) no módulo da base. Depois ligue o fio
+restante de cada válvula ao fio comum de campo,
+como ilustrado.
+D
+Para realizar um teste da válvula: ligue o fio comum
+ao terminal "COM" e o fio de alimentação ao
+terminal "VT". Isto irá imediatamente ligar a válvula.
+Ligar a válvula principal (opcional)
+E
+Ligue o fio da válvula principal ao terminal da
+válvula principal (MV) no módulo da base. Depois
+ligue o fio restante da válvula principal ao fio
+comum de campo, como ilustrado.
+A
+B
+VÁLVULA
+PRINCIPAL
+C
+MV
+
+SENS
+E
+C
+
+--- PAGE 111 ---
+Instalação
+POR
+
+Programador ESP-Me
+Ligar o relé de arranque da bomba
+(opcional)
+O ESP-Me pode controlar um relé de arranque da
+bomba para ligar e desligar a bomba, quando
+necessário.
+A
+Ligue um fio do relé de arranque da bomba
+(PSR) ao terminal da válvula principal (MV) no
+módulo da base. Depois ligue outro fio do relé
+de arranque da bomba ao fio comum de campo,
+como ilustrado.
+B
+Para evitar a possibilidade de dano da bomba,
+ligue um fio de ponte curto de qualquer
+(quaisquer) terminal(ais) não utilizado(s) ao
+terminal em uso mais próximo, como ilustrado.
+b
+b
+NOTA: O programador ESP-Me NÃO fornece
+alimentação elétrica a bombas. O relé deve estar
+ligado de acordo com as instruções do fabricante.
+Para a mais recente lista de compatibilidade dos relés de
+arranque da bomba, visite o nosso sítio de Internet em:
+www.rainbird.com/controllersupport
+A
+b
+b
+NOTA: Ligação
+à bomba e
+alimentação
+externa não
+apresentada.
+Consulte as
+instruções da
+instalação da
+bomba.
+RELÉ DE
+ARRANQUE
+DA BOMBA
+B
+C
+PSR
+
+--- PAGE 112 ---
+Instalação
+POR
+
+Programador ESP-Me
+Ligar o sensor chuva/frio (opcional)
+O programador ESP-Me pode ser definido para
+obedecer ou ignorar um sensor de chuva. Consulte a
+secção Sensor de chuva em Programação avançada.
+A
+Remova o fio de ponte amarelo dos terminais
+SENS no programador.
+b
+b
+NOTA: Não retire o fio de ponte amarelo, exceto
+se ligar um sensor de chuva.
+B
+Ligue ambos os fios do sensor de chuva aos
+terminais SENS, como ilustrado.
+c
+c
+ATENÇÃO: Não encaminhe os fios do sensor
+de chuva pela mesma abertura dos cabos de
+alimentação.
+b
+b
+NOTA: Os programadores Rain Bird apenas são
+compatíveis com sensores de chuva normalmente
+fechados.
+b
+b
+NOTA: Para sensores chuva/frio sem fios, consulte
+as instruções de instalação do sensor.
+B
+
+--- PAGE 113 ---
+Instalação
+POR
+
+Programador ESP-Me
+Ligar a alimentação
+c
+c
+ATENÇÃO: NÃO ligue o transformador nem ligue
+fontes de alimentação externas até ter concluído
+e verificado todas as ligações dos fios.
+c
+c
+ATENÇÃO: O choque elétrico pode provocar
+ferimentos graves ou a morte. Certifique-se de
+que a alimentação está DESLIGADA antes de ligar
+os fios de alimentação.
+Especificações elétricas
+Entrada 230 VAC, 0,2 AMP, 50/60 Hz
+Saída 25,5 VAC, 1,0 AMP, 50/60 Hz
+Ligações dos cabos de alimentação
+230 VAC (Internacional)
+Fio de alimentação preto (fase) ao fio preto do
+transformador, assinalado com "L"
+Fio de alimentação azul (neutro) ao fio azul do
+transformador, assinalado com "N"
+Fio de alimentação verde com linha amarela (terra) ao fio
+verde com linha amarela do transformador
+
+--- PAGE 114 ---
+Instalação
+POR
+
+Programador ESP-Me
+A
+Localize o compartimento de cablagem do
+transformador, situado no canto inferior esquerdo
+da unidade do programador. Utilize uma chave
+de fendas para remover a cobertura e expor os
+fios de ligação do transformador.
+B
+Encaminhe os três fios de alimentação externa
+pela abertura da conduta no fundo da unidade e
+para dentro do compartimento de cablagem.
+C
+Ligue os fios de alimentação externa (dois de
+alimentação e um terra) aos fios de ligação do
+transformador dentro do compartimento de
+cablagem.
+c
+c
+ATENÇÃO: O fio de terra tem de estar ligado para
+proporcionar proteção contra picos elétricos.
+O
+condutor
+montado
+permanentemente
+será utilizado para ligar a tensão de rede ao
+programador.
+b
+b
+NOTA: Utilize as porcas de fio fornecidas ou o
+conector instalado para este passo.
+D
+Certifique-se de que todas as ligações estão
+seguras e, depois, volte a colocar a cobertura
+do compartimento de cablagem e fixe-a com o
+parafuso.
+L
+N
+A
+C
+B
+
+--- PAGE 115 ---
+Instalação
+POR
+
+Programador ESP-Me
+Módulos de expansão de estação
+Os módulos de estação opcionais são instalados nas
+ranhuras vazias à direita do módulo de base para
+aumentar a capacidade da estação até 22 estações.
+b
+b
+NOTA: O módulo de 6 Estações apenas é compatível
+com o ESP-Me. Estes não são retrocompatíveis com
+o programador ESP-M anterior.
+b
+b
+NOTA: Para uma sequência ideal de estações,
+recomenda-se que seja sempre instalado um
+módulo de 6 estações no Bastidor 2. Para mais
+informações, consulte a secção Numeração de
+estações.
+VT MV COM
+
+
+3 ESTAÇÕES
+(ESPSM3)
+6 ESTAÇÕES
+(ESPSM6)
+Módulos de
+expansão (vendidos
+separadamente)
+Módulo base
+(incluído)
+Instalar módulos
+A
+Verifique se a alavanca de fixação do módulo
+está na posição desbloqueada (deslizada para a
+esquerda).
+B
+Coloque o módulo por baixo da ranhura
+pretendida, entre as calhas de plástico.
+C
+Empurre o módulo para cima na ranhura até
+ficar fixo.
+D
+Deslize a alavanca de fixação para a posição
+bloqueada (deslizada para a direita).
+e
+e REPETIR para outros módulos.
+b
+b
+NOTA: Os módulos podem ser instalados
+ou removidos com OU sem alimentação CA.
+Possuem capacidade de troca em funcionamento
+("hot swap").
+BC
+D
+
+--- PAGE 116 ---
+Instalação
+POR
+
+Programador ESP-Me
+Numeração de estações
+Descrição da numeração de estações fixas
+O programador está configurado com uma Numeração
+de estações fixas. Cada bastidor está configurado para
+aceitar um módulo de 6 estações, reserve este número
+de estações para utilizar no futuro se NÃO for instalado
+um módulo de 6 estações nos bastidores 2, 3 ou 4.
+Os números das estações estão pré-atribuídos da
+seguinte forma:
+Bastidor 1
+Bastidor 2 Bastidor 3 Bastidor 4
+VT MV COM
+
+
+
+VT MV COM
+
+Exemplo de instalação recomendada para 19 estações
+Configuração dos módulos
+Exemplo de instalação com intervalos na numeração
+de estações:
+* Estão instaladas 19 estações no total.
+* O módulo base está instalado no bastidor 1 e utiliza
+as estações de 1 a 4.
+* Está instalado um módulo de expansão de 6
+estações nos bastidores 2 e 3 utilizando as estações
+5 a 16.
+* Está instalado um módulo de 3 estações no bastidor
+4 e utiliza as estações numeradas de 17 a 19.
+Como está instalado um módulo de 3 estações no
+bastidor 4, apenas os três primeiros números de
+estação atribuídos a esse bastidor serão utilizados e
+os números não utilizados ficarão "reservados" para
+utilização futura.
+b
+b
+NOTA: Durante a programação, o programador
+irá saltar todos os números de estação não
+utilizados, criando um intervalo na numeração de
+estações.
+
+--- PAGE 117 ---
+Instalação
+POR
+
+Programador ESP-Me
+Como exemplo: um módulo de 3 estações foi
+instalado no bastidor 4, pelo que as estações 20-22
+ficarão indisponíveis para programação. Durante a
+programação as estações em falta serão apresentadas
+no ecrã como 20SKIP, 21SKIP, etc.
+O ecrã apresenta "20SKIP" com "20" intermitente
+indicando que a estação 20 (e também 21-22) não são
+utilizadas e estão indisponíveis para programação.
+Completar a instalação do
+programador
+A
+Reinstalar e voltar a ligar o painel frontal.
+B
+Ligue a alimentação do programador e teste o
+sistema.
+b
+b
+NOTA: As ligações elétricas podem ser verificadas
+mesmo sem água disponível. Se houver água
+disponível e desejar testar algumas ou todas as
+estações, a forma mais fácil de o fazer é utilizar a
+função Test All Stations (testar todas estações) do
+programador.
+
+--- PAGE 118 ---
+
+PGM
+A
+Funcionamento normal
+POR
+Programador ESP-Me
+
+PROGRAM SELECT
+(selecionar
+programa)
+Selecione o
+programa
+A, B, C ou D
+START TIMES
+(horas de arranque)
+Defina até 6 horas de
+arranque por programa
+RUN TIMES
+(tempos de rega)
+Defina os tempos
+de rega para cada
+programa
+REGA MANUAL
+Inicia a rega manual em
+qualquer estação ou
+em todas as estações
+imediatamente
+OPÇÕES DE
+DIA(S) DE REGA
+Diariamente, ímpar,
+par ou cíclico
+RAIN SENSOR
+(sensor de chuva)
+Configurar o
+programador para
+obedecer ou ignorar um
+sensor de chuva
+SEASONAL ADJUST
+(ajuste sazonal)
+Ajuste os tempos de
+rega de 5% a 200%
+BOTÕES VOLTAR/
+SEGUINTE
+Seleção de opções
+de programação
+BOTÕES - / +
+Ajuste as
+definições do
+programa
+OFF
+Desativa a rega automática
+AUTO RUN
+(rega auto)
+A rega ocorre
+automaticamente
+DATA/HORA
+Definir a data
+e hora atuais
+TEST ALL STATIONS
+(testar todas estações)
+DELAY WATERING
+(atrasar a rega)
+Até 14 dias
+INDICADOR
+DE ALARME
+HOLD TO START
+(manter premido
+para iniciar)
+Rega manual
+Funcionamento normal
+Controlos e indicadores
+Funcionalidades-chave de funcionamento do programador ESP-Me:
+DIAS DE REGA
+Selecione os dias
+para rega
+
+--- PAGE 119 ---
+Funcionamento normal
+POR
+
+Programador ESP-Me
+REGA AUTO
+O AUTO RUN (rega auto) é o modo de funcionamento
+normal. Coloque o mostrador na posição AUTO RUN
+quando a programação estiver concluída.
+Durante a rega:
+O ecrã mostra um símbolo de aspersor intermitente,
+o número ou programa da estação ativa e o tempo de
+rega restante.
+* Para cancelar a rega, rode o mostrador para OFF
+(desligado) durante três segundos até o ecrã
+apresentar OFF.
+Para iniciar manualmente um programa:
+A
+Prima o botão PROGRAM SELECT (selecionar
+programa) para escolher um programa.
+B
+Prima o botão HOLD TO START (manter premido
+para iniciar) para executar de imediato o
+programa apresentado.
+OFF
+Rode o mostrador para OFF (desligado) para parar a
+rega automaticamente ou para cancelar de imediato
+toda a rega ativa.
+AVISO: A rega NÃO ocorre se o programador continuar
+desligado.
+
+--- PAGE 120 ---
+Programa INÍCIO Estação
+Arranque
+agendado
+Arranque
+atual
+Tempos de rega
+A
+1º
+
+8:00 AM
+8:00 AM
+30 MIN
+
+8:30 AM
+30 MIN
+
+9:00 AM
+30 MIN
+
+9:30 AM
+30 MIN
+B
+1º
+
+8:00 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Funcionamento normal
+POR
+Programador ESP-Me
+
+Horário baseado em programa
+O ESP-Me utiliza um método de horário baseado em
+programa para criar horários de rega.
+Para cada programa (A, B, C e D):
+A
+Selecione
+dias
+de
+rega
+(personalizados,
+ímpares/pares, cíclicos) e as horas de arranque
+que se aplicam globalmente a todo o programa.
+B
+Atribua um tempo de rega a cada número de
+estação disponível para executar durante o
+programa selecionado.
+Sobreposição de programa
+Se algum programa com horas de arranque sobrepostas, o ESP-Me sobrepõe as horas de arranque. Quando
+todas as estações estiverem em funcionamento no
+programa A, o programa B inicia a rega. As estações
+individuais irão regar em ordem sequencial.
+Como exemplo: O programa A e B estão ambos
+definidos para iniciar às 8:00 AM. Mas o programa B
+não arranca até o programa A ter sido concluído.
+Com a sobreposição de
+programa, o programa
+B apenas arranca
+quando o programa A
+está concluído
+
+--- PAGE 121 ---
+Programa INÍCIO
+Estação
+Arranque
+agendado
+Arranque
+atual
+Tempos de rega
+A
+1º
+
+8:00 AM
+8:00 AM
+30 MIN
+
+8:30 AM
+30 MIN
+
+9:00 AM
+30 MIN
+
+9:30 AM
+30 MIN
+A
+2º
+
+8:30 AM
+10:00 AM
+30 MIN
+
+10:30 AM
+30 MIN
+
+11:00 AM
+30 MIN
+
+11:30 AM
+30 MIN
+Funcionamento normal
+POR
+
+Programador ESP-Me
+Erro de programação comum
+O erro mais comum de programação para qualquer
+programador baseado em programa são as horas de
+arranque múltiplas de programa que levam à repetição
+dos ciclos de rega.
+Como exemplo: O programa A tem a 1ª hora de
+arranque definida para iniciar às 8:00 AM. Com a
+sobreposição de programa, cada estação funciona
+em ordem, até todas as zonas serem regadas. Não há
+necessidade de definir cada estação para funcionarem
+separadamente.
+Neste exemplo, uma 2ª hora de arranque foi definida
+por engano para as 8:30 AM, o que significa que
+algumas zonas serão regadas duas vezes nessa manhã.
+b
+b
+NOTA: Apenas atribua tempos de rega num
+programa a estações que pretende regar. Se não
+pretender que uma estação específica funcione
+num programa selecionado, defina o tempo de
+rega para zero.
+Horas de arranque
+múltiplas fazem
+com que as
+estações reguem
+repetidamente.
+Para solucionar,
+remova a 2ª hora de
+arranque adicional
+
+--- PAGE 122 ---
+Programação básica
+POR
+
+Programador ESP-Me
+Programação básica
+1. Acertar a data e hora
+Rode o mostrador para SET DATE (acertar data)
+A
+Prima ou para selecionar a definição a alterar.
+B
+Prima
+ ou
+ para alterar o valor da definição.
+C
+Prima sem soltar
+ ou
+ para acelerar os ajustes.
+Rode o mostrador para SET TIME (acertar hora).
+A
+Prima ou para selecionar a definição a alterar.
+B
+Prima
+ ou
+ para alterar o valor da definição.
+C
+Prima sem soltar
+ ou
+ para acelerar os ajustes.
+Para alterar o formato de hora (12 horas ou 24 horas):
+A
+Com MINUTES (minutos) intermitente, prima .
+B
+Prima
+
+ou
+
+para
+selecionar
+o
+formato
+de
+hora
+pretendido
+e,
+ depois, prima para voltar à definição de hora.
+2. Definir as horas de arranque da
+rega
+Estão disponíveis até seis horas de arranque para
+cada programa.
+Rode o mostrador para SET WATERING START
+TIMES (definir as horas de arranque da rega)
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário).
+B
+Prima
+ ou
+ para selecionar uma hora de
+arranque disponível.
+C
+Prima
+ ou
+ para definir a hora de arranque
+selecionada (certifique-se de que a definição AM/
+PM está correta).
+D
+Prima para definir horas de arranque adicionais.
+b
+b
+NOTA: A posição OFF (desligado) para qualquer hora
+de arranque está entre as 11:45 PM e 12:00 AM.
+
+--- PAGE 123 ---
+Programação básica
+POR
+
+Programador ESP-Me
+3. Definir os tempos de rega da
+estação
+Os tempos de rega podem ser definidos entre um
+minuto e seis horas.
+Rode o mostrador para SET STATION RUN
+TIMES (definir os tempos de rega da estação)
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário).
+B
+Prima ou para selecionar uma estação.
+C
+Prima
+ ou
+ para definir o tempo de rega da
+estação selecionada.
+D
+Prima para definir tempos de rega de estação
+adicionais.
+4. Definir dias de rega
+Dias personalizados da semana
+Defina a rega para dias específicos da semana.
+Rode o mostrador para
+ADVANCED WATERING CYCLES
+(ciclos de rega avançada)
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário).
+B
+Prima
+ ou
+ para selecionar BY DAY
+(diariamente).
+C
+Rode o mostrador para MON (segunda-feira).
+D
+Prima
+ ou
+ para definir o dia selecionado
+(intermitente) como ON (ligado) ou OFF
+(desligado) e, depois, rode o mostrador para o dia
+seguinte da semana.
+e
+e REPETIR para selecionar dias adicionais, conforme
+pretendido para o programa selecionado.
+
+--- PAGE 124 ---
+Opções de rega manual
+POR
+
+Programador ESP-Me
+Opções de rega manual
+Testar todas as estações
+Verificar o funcionamento das válvulas no sistema.
+Rode o mostrador para TEST ALL STATIONS
+(testar todas estações).
+A
+Prima
+ ou
+ para definir um tempo de rega.
+B
+Prima o botão HOLD TO START
+ (manter
+premido para iniciar).
+C
+Rode o mostrador para AUTO RUN (rega auto)
+depois do ecrã apresentar TESTING (em teste).
+Quando em teste:
+O ecrã mostra um símbolo de aspersor intermitente,
+o número ou programa da estação ativa e o tempo de
+rega restante.
+D
+Para cancelar o teste, rode o mostrador para OFF
+(desligado) durante três segundos até o ecrã
+apresentar OFF.
+Colocar em funcionamento uma
+estação única
+Inicia a rega imediatamente numa estação única.
+Rode o mostrador para MANUAL STATION
+(estação manual).
+A
+Prima ou para selecionar uma estação.
+B
+Prima
+ ou
+ para definir um tempo de rega.
+C
+Prima o botão HOLD TO START
+ (manter
+premido para iniciar).
+D
+A rega começa e STARTED (iniciado) aparece no
+ecrã.
+
+--- PAGE 125 ---
+Opções de rega manual
+POR
+
+Programador ESP-Me
+Iniciar um programa único
+Começa a rega de imediato num programa.
+Rode
+o
+mostrador
+para
+MANUAL
+PROGRAM (programa manual).
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário). O tempo de rega total do
+programa é apresentado.
+B
+Prima o botão HOLD TO START
+ (manter
+premido para iniciar) para iniciar o programa de
+rega selecionado.
+e
+e REPETIR conforme pretendido para iniciar uma
+sequência de programas adicionais manualmente.
+b
+b
+NOTA: O máximo de 38 estações pode ser
+colocado em sequência nos quatro programas.
+C
+A rega começa e STARTED (iniciado) aparece no
+ecrã.
+D
+Prima o botão ADVANCE STATION
+ (avançar
+estação) para continuar para a estação seguinte,
+se assim pretender.
+Durante a rega manual (estação única ou programa
+único):
+O ecrã mostra um símbolo de aspersor intermitente,
+o número ou programa da estação ativa e o tempo de
+rega restante.
+* Para cancelar a rega manual, rode o mostrador para
+OFF (desligado) durante três segundos até o ecrã
+apresentar OFF.
+
+--- PAGE 126 ---
+Programação avançada
+POR
+
+Programador ESP-Me
+Programação avançada
+Dias de calendário ímpares ou pares
+Defina a rega para todos os dias de calendário ÍMPARES ou
+PARES.
+Rode o mostrador para
+ADVANCED WATERING CYCLES
+(ciclos de rega avançada)
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário).
+B
+Prima
+ ou
+ para selecionar ODD (ímpar) ou
+EVEN (par).
+b
+b
+NOTA: ODD (ímpar) ou EVEN (par) são
+apresentados quando o mostrador é selecionado
+para qualquer posição de dia da semana.
+Dias cíclicos
+Programar a rega para ocorrer em intervalos
+específicos, por exemplo, a cada 2 dias, a cada 3 dias, etc.
+Rode o mostrador para
+ADVANCED WATERING CYCLES
+(ciclos de rega avançada).
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário).
+B
+Prima
+ ou
+ para selecionar CYCLIC (cíclico) e,
+depois prima
+C
+Prima
+ ou
+ para definir o DAY CYCLE (ciclo
+diário) pretendido e, depois prima
+
+--- PAGE 127 ---
+Programação avançada
+POR
+
+Programador ESP-Me
+D
+Prima
+ ou
+ para definir DAYS REMAINING
+(dias restantes) antes de o ciclo começar. O dia
+de rega NEXT (seguinte) é atualizado no ecrã,
+indicando o dia em que a rega é iniciada, como
+ilustrado.
+Sensor de chuva
+Configurar o programador para obedecer ou ignorar
+um sensor de chuva.
+Quando definida para ATIVA, a rega automática
+é suspensa se for detetada pluviosidade. Quando
+definidos para DERIVAÇÃO todos os programas
+ignoram o sensor de chuva.
+Rode o mostrador para RAIN SENSOR
+(sensor chuva).
+* Prima
+ ou
+ para selecionar ATIVO (obedecer)
+ou DERIVAÇÃO (ignorar).
+Legenda
+Estado do ícone do sensor de chuva
+Ativo
+Ignorada
+Chuva detetada
+b
+b NOTA: Consulte Funcionalidades especiais
+para definir a derivação do sensor de chuva por
+estação.
+
+--- PAGE 128 ---
+Programação avançada
+POR
+
+Programador ESP-Me
+Ajuste sazonal
+Aumente ou diminua os tempos de rega do programa
+numa percentagem selecionada (5% a 200%).
+Como exemplo: Se o ajuste sazonal estiver definido
+para 100% e o tempo de rega da estação estiver
+programado para 10 minutos, a estação funciona
+durante 10 minutos. Se o ajuste sazonal estiver definido
+para 50%, a estação funciona durante 5 minutos.
+Rode o mostrador para SEASONAL ADJUST
+(ajuste sazonal).
+A
+Prima
+ ou
+ para aumentar ou diminuir a
+definição de percentagem global.
+B
+Para ajustar um programa individual, prima
+PROGRAM SELECT (selecionar programa) para
+escolher o programa pretendido (se necessário).
+Atrasar a rega
+Suspenda a rega até 14 dias.
+Rode o mostrador para a posição DELAY
+WATERING (atrasar a rega).
+A
+Prima
+ ou
+ para definir DAYS REMAINING
+(dias restantes). O dia de rega NEXT (seguinte)
+é atualizado no ecrã para indicar quando a rega
+será retomada.
+B
+Para cancelar um atraso de chuva, defina os DAYS
+REMAINING (dias restantes) para 0.
+b
+b
+NOTA: Quando o atraso expirar, a rega automática
+é retomada como agendado.
+
+--- PAGE 129 ---
+Programação avançada
+POR
+
+Programador ESP-Me
+Dias sem rega permanente
+Impedir a rega nos dias selecionados da semana
+(apenas para programação ímpar, par ou cíclico).
+Rode o mostrador para 1 MON
+(segunda-feira ou qualquer dia
+pretendido)
+A
+Prima PROGRAM SELECT (selecionar programa)
+para
+escolher
+o
+programa
+pretendido
+(se necessário).
+B
+PRIMA SEM SOLTAR e simultaneamente até o
+ecrã dias sem rega permanente ser apresentado.
+C
+Prima
+ para definir o dia selecionado
+(intermitente) como dias sem rega permanente
+(PERMOFF) ou prima
+ para deixar o dia ON
+(ligado).
+Calculador do tempo de rega total
+Por programa
+Consultar o tempo de rega total de todo um programa.
+O programador pode determinar o tempo de rega
+total de um programa somando todos os tempos de
+rega de cada estação desse programa.
+Rode
+o
+mostrador
+para
+MANUAL
+PROGRAM (programa manual).
+A
+É apresentado o tempo de rega total para o
+PGM A (programma A).
+B
+Prima o botão PROGRAM SELECT (selecionar
+programa) para ver o tempo de rega total do
+programa seguinte.
+b
+b
+NOTA: O tempo de rega apresentado para cada
+programa corresponde ao tempo de rega com
+ajuste sazonal e apenas inclui uma hora de
+arranque.
+
+--- PAGE 130 ---
+
+PGM
+A
+Funcionalidades especiais
+POR
+
+Programador ESP-Me
+Funcionalidades especiais
+A
+Rode o mostrador para a posição pretendida indicada
+abaixo para cada funcionalidade especial.
+B
+Prima sem soltar e simultaneamente.
+ATRASO ENTRE VÁLVULAS
+O atraso de uma estação (de 1 segundo a
+9 horas) assegura que uma válvula fechou
+completamente antes de a seguinte abrir.
+REPOR AS DEFINIÇÕES
+DE FÁBRICA
+Todos os horários
+programados são
+eliminados.
+SENSOR DE CHUVA
+DE DERIVAÇÃO PARA
+QUALQUER ESTAÇÃO
+Dá ordem a uma estação
+individual de obedecer ou
+ignorar um sensor de chuva.
+GUARDAR
+PROGRAMAS
+RECUPERAR
+PROGRAMAS
+GUARDADOS
+CONFIGURAR A VÁLVULA PRINCIPAL
+POR ESTAÇÃO
+Permite a uma estação ser controlada
+por uma válvula principal ou relé de
+arranque da bomba.
+DIAS SEM REGA
+PERMANENTE
+Impedir a rega em dias
+selecionados da semana.
+
+--- PAGE 131 ---
+Opções
+POR
+
+Programador ESP-Me
+Opções
+Botão Reset
+Se o controlador não estiver a funcionar
+corretamente, pode tentar pressionar RESET.
+* Insira um instrumento pequeno, como um clipe,
+no orifício de acesso e prima até o programador ser
+reiniciado. Todos os horários de rega anteriormente
+programados
+se
+mantêm
+armazenados
+na
+memória.
+RESET (reiniciar)
+Acessórios remotos
+Uma porta auxiliar de 5 pinos está disponível para
+dispositivos externos aprovados pela Rain Bird,
+incluindo:
+* Módulo LNK WiFi
+* Cablagem de ligação rápida do recetor LIMR
+PORTA
+
+--- PAGE 132 ---
+Opções
+POR
+
+Programador ESP-Me
+Programação remota
+Programar o painel frontal remotamente com
+alimentação da pilha.
+O painel frontal pode ser removido do programador e
+programado remotamente com uma pilha de 9 volts.
+As definições podem ser configuradas para todas as
+22 estações, independentemente dos módulos de
+estação instalados no programador.
+b
+b
+NOTA: Isto é útil se o cliente desejar configurar o
+programador antes da instalação no local.
+A
+Retire o painel frontal.
+B
+Instale uma pilha de 9 volts no compartimento da
+pilha.
+C
+Programar o programador.
+b
+b
+NOTA: A informação dos programas é armazenada
+numa memória não volátil de modo a que nunca
+se perca se o painel frontal perder energia.
+D
+Volte a colocar o painel frontal (consulte Concluir
+a instalação na secção Instalação).
+b
+b
+NOTA: Depois de voltar a colocar o painel frontal,
+todas as estações que não possuam o respetivo
+módulo de estação instalado irão funcionar como
+se o tempo de rega fosse zero.
+Autonomia da pilha
+Se o ecrã mostrar repetidamente "-- -- -- -- --" quando
+utiliza uma pilha de 9 V para programação remota,
+substitua a pilha.
+
+--- PAGE 133 ---
+Resolução de problemas
+POR
+
+Programador ESP-Me
+Resolução de problemas
+Deteção de erro
+O programador ESP-Me possui uma deteção de erro
+incorporada que pode gerar automaticamente um
+ALARME acionado por erro de programação essencial ou
+se for detetado um curto-circuito elétrico.
+A luz do indicador LED de alerta no painel frontal do
+programador ESP-Me vai acender para indicar uma
+condição de alarme:
+Erros de programação (LED intermitente)
+Erro
+LED de
+alerta
+Mensagem de
+erro no ecrã
+Não estão definidas
+horas de arranque
+INTERMITENTE
+NO START TIMES (sem
+horas de arranque)
+Não estão definidos
+tempos de rega
+INTERMITENTE
+NO RUN TIMES (sem
+tempos de rega)
+Não estão definidos
+dias de rega
+INTERMITENTE
+NO WATER DAYS (sem
+dias de rega)
+O programador ESP-Me vai reiniciar ou limpar se o erro for
+corrigido.
+b
+b NOTA: O mostrador deve estar na posição AUTO
+RUN (rega auto) para uma mensagem de ALARME
+aparecer no ecrã.
+Erros elétricos (LED não intermitente)
+Erro
+LED de
+alerta
+Mensagem de erro
+no ecrã
+Curto-circuito da
+válvula principal
+FIXO
+MASTER VALVE/PUMP
+WIRE SHORTED OR HIGH
+CURRENT (curto-circuito
+ou corrente alta na válvula
+principal/bomba)
+Estação em
+curto-circuito
+FIXO
+STATION “X” WIRE
+SHORTED (estação "x" em
+curto-circuito)
+Quando é detetado um curto-circuito, a rega da
+estação afetada é cancelada e avança para a próxima
+estação em funcionamento do programa.
+O programador vai tentar regar novamente com
+a estação afetada na próxima rega agendada. A
+conclusão bem-sucedida da rega vai limpar a condição
+de erro associada a essa estação.
+Limpar alertas de erro elétrico
+Rode o mostrador para a posição
+AUTO RUN (rega auto) a fim de ver a
+mensagem de erro no ecrã. Para limpar
+o ALARME, pressione o botão com seta
+para a direita
+.
+
+--- PAGE 134 ---
+Resolução de problemas
+POR
+
+Programador ESP-Me
+Problemas de rega
+Problema
+Causa possível
+Solução possível
+O ecrã apresenta um
+programa ativo, mas o
+sistema não rega.
+Fonte de água não fornece água.
+Verifique se não existe obstrução da linha de abastecimento
+de água principal e se as outras linhas de abastecimento de
+água estão desimpedidas e em funcionamento.
+A cablagem está solta ou não está
+corretamente ligada.
+Verifique se a cablagem de campo e a válvula principal ou o
+relé de arranque da bomba estão presas de forma segura no
+programador e no campo.
+Os fios de campo estão corroídos ou
+danificados.
+Verifique a cablagem de campo quanto a danos e substitua,
+se necessário. Verifique as ligações da cablagem e substitua
+com conectores de junção estanques, se necessário.
+Perda de alimentação CA.
+Quando ocorrer uma perda de corrente e uma pilha de 9
+volt estiver instalada, o sistema não rega mas os programas
+aparecem ativos.
+Nenhuma mensagem
+CA no ecrã.
+Nenhuma alimentação detetada.
+Verifique o disjuntor e se a unidade está ligada à tomada ou
+devidamente ligada à fonte de alimentação.
+O programador pode estar ligado a uma
+tomada GFI ou a uma tomada ligada a
+uma tomada GFI.
+Verifique a alimentação na tomada ou reinicie o disjuntor.
+Acabou de chover e a
+luz do alarme não está
+acesa, porquê?
+Este é o funcionamento normal. O ESP-Me
+não considera a interrupção de irrigação
+devido a pluviosidade como uma
+condição de alarme.
+Este é o funcionamento normal.
+
+--- PAGE 135 ---
+Resolução de problemas
+POR
+
+Programador ESP-Me
+Problemas de rega
+Problema
+Causa possível
+Solução possível
+Os horários
+programados não
+iniciam.
+O sensor de chuva ligado pode estar
+ativado.
+Coloque o sensor de chuva em DERIVAÇÃO para ignorar
+o sensor de chuva. Se a rega for retomada, o sensor está a
+funcionar corretamente e não é necessária qualquer outra
+correção.
+O sensor de chuva ligado pode não estar
+a funcionar corretamente.
+Deixe o sensor de chuva secar ou desligue-o da área do
+terminal do programador e substitua-o por um fio de ponte
+que ligue os dois terminais SENS ou coloque em derivação.
+Se nenhum sensor de chuva estiver
+ligado, o fio de ponte que liga os dois
+terminais SENS à área do terminal pode
+ficar em falta ou ficar danificado.
+Desloque a posição do mostrador para Derivação de sensor e
+defina para Derivação.
+Demasiada irrigação
+Horas de arranque múltiplas no mesmo
+programa.
+Desligue quaisquer horas de arranque adicionais que
+estejam a causar a repetição dos ciclos de rega (a posição
+para desligar a hora de arranque é entre as 11:45 e 12:00).
+Consulte “Sobreposição de programa” na página 18 para
+mais informação.
+Múltiplos programas estão a funcionar
+simultaneamente.
+Reveja a programação, assegurando-se de que a mesma
+estação não está a ativa em múltiplos programas.
+A válvula está avariada.
+Verifique para ver se a luz de ALARME no programador está
+fixa e, depois, repare ou substitua a válvula, se necessário.
+A definição de ajuste sazonal é demasiado
+elevada.
+Defina o ajuste sazonal para 100%.
+
+--- PAGE 136 ---
+Resolução de problemas
+POR
+
+Programador ESP-Me
+Problemas elétricos (indicador LED iluminado com luz fixa)
+Problema
+Causa possível
+Solução possível
+O ecrã está em branco
+ou bloqueado, o
+programador não
+aceita a programação
+ou funciona de forma
+anómala.
+O programador não está a
+receber energia.
+Verifique se a fonte de alimentação CA está ligada e a funcionar
+corretamente.
+O programador tem de ser
+reiniciado.
+Prima o botão Reset. Para mais informações, consulte a secção
+"Botão Reset".
+Um pico elétrico poderá ter
+danificado a eletrónica do
+programador.
+Desligue o programador durante 2 minutos e volte a ligar. Se
+não houver danos permanentes, o programador deverá aceitar a
+programação e retomar o funcionamento normal.
+A deteção de erro
+automática indica um
+problema através do
+LED de alerta e uma
+mensagem de erro
+aparece no ecrã.
+Curto-circuito ou condição
+de sobrecarga nas ligações
+da válvula, válvula principal
+ou relé de arranque da
+bomba.
+Identifique e repare a falha na ligação. Consulte a informação sobre
+os relés de arranque da bomba. Para mais informações, consulte a
+secção "Ligar o relé de arranque da bomba".
+O LED está
+intermitente ou aceso
+continuamente, mas
+não vejo qualquer
+mensagem no LCD.
+O mostrador não está na
+posição AUTO RUN (rega
+auto).
+Rode o mostrador para a posição AUTO RUN (rega auto).
+
+--- PAGE 137 ---
+Resolução de problemas
+POR
+
+Programador ESP-Me
+FCC Parte 15
+Este equipamento foi testado e considerado em conformidade com os
+limites para um dispositivo digital de Classe B, de acordo com a Parte 15
+das Regras FCC. Estes limites são concebidos para fornecerem proteção
+razoável contra interferências prejudiciais numa instalação residencial.
+Este equipamento gera, utiliza e pode irradiar energia de radiofrequência
+e, se não instalado e utilizado de acordo com as instruções, pode causar
+interferência prejudicial às radiocomunicações. No entanto, não existe
+garantia de que a interferência não ocorra numa instalação em particular.
+Se o equipamento não provocar interferência prejudicial à receção
+rádio ou televisão, o que pode ser determinado ligando e desligando o
+equipamento, o utilizador é encorajado a tentar corrigir a interferência
+através das seguintes medidas:
+* Reorientar ou reposicionar a antena recetora.
+* Aumentar a separação entre o equipamento e o recetor.
+* Ligar o equipamento a uma tomada num circuito diferente daquele a
+que o recetor está ligado.
+* Consultar o distribuidor ou um técnico com experiência em rádio/TV
+para ajuda.
+* As alterações ou modificações não expressamente aprovadas pela Rain
+Bird Corporation podem anular a autoridade do utilizador de operar o
+equipamento.
+* Este produto possui certificação FCC sob condições de teste que
+incluem a utilização de cabos e conectores de E/S blindados entre os
+componentes do sistema. De forma a estar em conformidade com as
+regulamentações FCC, o utilizador deve utilizar cabos e conectores
+blindados e instalá-los corretamente.
+* Este aparelho digital de classe B cumpre todos os requisitos das Regulamentações canadianas de equipamento causador de interferência.
+Cet appareil Numérique de la classe B respecte toutes les exigences du
+Règlement sur le matériel brouilleur du Canada
+Informação de segurança
+AVISO: Este dispositivo não se destina a ser utilizado por pessoas
+(incluindo crianças) com capacidade física, sensorial ou mental
+reduzidas ou sem experiência e conhecimento, exceto ser tiverem
+recebido supervisão ou instruções relativamente à utilização do
+dispositivo por uma pessoa responsável pela sua segurança. As
+crianças devem receber supervisão para assegurar que não brincam
+com o dispositivo.
+c
+c
+ATENÇÃO: Devem ser tomadas precauções especiais quando
+os fios da válvula (também conhecidos como fios de estação
+ou solenoide) estão localizados junto ou partilham um
+condutor com outros fios, como os utilizados para iluminação
+da paisagem, outros sistemas de "baixa tensão" ou outra
+alimentação de "alta tensão".
+Separe e isole todos os condutores com cuidado, para que
+não danifiquem o isolamento do fio durante a instalação. Um
+curto-circuito (contacto) elétrico entre os fios da válvula e
+outra fonte de alimentação pode danificar o programador e
+criar um risco de incêndio.
+c
+c
+ATENÇÃO: Todas as ligações elétricas e cablagem devem
+estar em conformidade com os códigos de construção locais.
+Alguns códigos locais requerem que apenas um eletricista
+licenciado ou certificado possa proceder à instalação. Apenas
+pessoal profissional pode instalar o programador. Consulte os
+seus códigos de construção locais para orientação.
+b
+b
+NOTA: A data e hora são retidas por uma pilha de lítio que
+deve ser eliminada de acordo com as regulamentações locais.
+AVISO: Utilize apenas dispositivos auxiliares aprovados pela Rain
+Bird. Os dispositivos não aprovados podem danificar o controlador
+e anular a garantia. Para uma lista de dispositivos compatíveis aceda
+a: www.rainbird.com
+
+--- PAGE 138 ---
+Rain+Birdt
+Declaration of Conformity
+Rain Bird Corporation hereby declares that the ESP-Me irrigation
+controller families conform to the European Directives 2004/108/EC
+for “Electromagnetic Compatibility”, 2006/95/EC for “Low Voltage”.
+and 2011/65/EU for “European ROHS”.
+Declaración de conformidad
+Por la presente, Rain Bird Corporation declara que las familias del
+programador de riego ESP-Me se ajustan a las Directivas Europeas
+2004/108/EC de “Compatibilidad Electromagnética, 2006/95/EC de
+“Bajo Voltaje” y 2011/65/EU de “ROHS Europa”.
+Déclaration de conformité
+Rain Bird Corporation déclare par la présente que les programmateurs d'arrosage de la gamme ESP-Me sont conformes aux
+directives européennes 2004/108/CE (pour la « compatibilité
+électromagnétique ») et, 2006/95/CE (pour les « basses tensions
+»). et 2011/65/EU (pour la « restriction de l'utilisation de certaines
+substances dangereuses dans les équipements électriques et
+électroniques »).
+Declaração de conformidade
+Rain Bird Corporation declara pela presente que as famílias de programadores de rega ESP-Me estão em conformidade com as Diretivas Europeias 2004/108/CE sobre a “Compatibilidade Eletromagnética” e 2006/95/CE sobre “Baixa Tensão” e 2011/65/EU sobre a
+“Restrição de Substâncias Perigosas”.
+Place:
+San Diego, CA USA
+Signature:
+Full Name:
+Ryan L. Walker
+Position:
+Director
+Rain Bird Corporation
+6991 East Southpoint Road
+Tucson, AZ 85756
+USA
+Tel: (520) 741-6100
+Rain Bird Corporation
+970 W. Sierra Madre Ave.
+Azusa, CA 91702
+USA
+Tel.: (626) 812-3400
+Rain Bird International
+145 North Grand Ave.
+Glendora, CA 91741
+USA
+Tel: +1 (626) 963-9311
+Rain Bird Europe S.A.R.L
+900, rue Ampère, B.P. 72000
+13792 Aix en Provence Cedex 3
+FRANCE
+Tel: 33 4 42 24 44 61
+
+--- PAGE 139 ---
+This page intentionally left blank.
+
+--- PAGE 140 ---
+P/N: 690417-02 Rev.11/16 30NO16
+ 2016 Rain Bird Corporation
+Registered trademark of Rain Bird Corporation
+Rain+Birdt
+Rain Bird Corporation
+6991 East Southpoint Road
+Tucson, AZ 85756
+USA
+Tel: (520) 741-6100
+Rain Bird Corporation
+970 West Sierra Madre Avenue
+Azusa, CA 91702
+USA
+Tel.: (626) 812-3400
+Rain Bird International
+1000 West Sierra Madre Avenue
+Azusa, CA 91702
+USA
+Tel: +1 (626) 963-9311
+Rain Bird Europe S.A.R.L
+900, rue Ampère, B.P. 72000
+13792 Aix en Provence Cedex 3
+FRANCE
+Tel: 33 4 42 24 44 61
+www.rainbird.com
+www.rainbird.eu
+1-800-724-6247

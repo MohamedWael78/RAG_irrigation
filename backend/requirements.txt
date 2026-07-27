@@ -1,0 +1,31 @@
+# ── Backend-only dependencies (FastAPI bridge) ──
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-dotenv>=1.0.0
+pydantic>=2.6.0
+groq>=0.9.0
+
+# ── Shared with the root RAG pipeline (main.py imports these root files
+#    at runtime: retrieve_context.py, prompting.py, vector_representation.py,
+#    create_chroma_store.py, chunking.py) — install the root requirements
+#    too, e.g.:
+#      pip install -r ../requirements.txt
+#      pip install -r requirements.txt
+#
+# Listed again here for a single `pip install -r backend/requirements.txt`
+# convenience install:
+chromadb>=0.4.22
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+langchain-chroma>=0.2.0
+langchain-huggingface>=0.2.0
+langchain-text-splitters>=0.3.0
+langchain-classic>=0.1.0
+sentence-transformers>=2.2.0
+huggingface-hub>=0.20.0
+torch>=2.0.0
+pymupdf>=1.24.0
+rank-bm25>=0.2.2
+flashrank>=0.1.2
+Pillow>=10.0.0

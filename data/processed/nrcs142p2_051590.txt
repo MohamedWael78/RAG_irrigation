@@ -1,0 +1,212 @@
+--- PAGE 1 ---
+Soil Quality Indicators
+Available Water Capacity
+Available water capacity is the maximum amount of plant
+available water a soil can provide. It is an indicator of a
+soil's ability to retain water and make it sufficiently
+available for plant use.
+Available water capacityis the water held in soil between
+its field capacity and permanent wilting point. Field
+capacity is the water remaining in a soil after it has been
+thoroughly saturated and allowed to drain freely, usually
+for one to two days. Permanent wilting point is the
+moisture content of a soil at which plants wilt and fail to
+recover when supplied with sufficient moisture. Water
+capacity is usually expressed as a volume fraction or
+percentage, or as a depth (in or cm).
+Factors Affecting
+Inherent - Available water capacity is affected by soil
+texture, presence and abundance of rock fragments, and
+soil depth and layers.
+Available water capacity increases with increasingly fine
+textured soil, from sands to loams and silt loams. Coarse
+textured soils have lower field capacity since they are high
+in large pores subject to free drainage. Fine textured soils
+have a greater occurrence of small pores that hold water
+against free drainage, resulting in a comparatively higher
+field capacity. However, in comparison to well-aggregated
+loam and silt loam soils, the available water capacity of
+predominantly clay soils tends to be lower since these soils
+have an increased permanent wilting point (see Figure 1).
+Rock fragments reduce available water capacity of soil
+proportionate to their volume, unless the rocks are porous.
+Soil depth and root restricting layers affect total available
+water capacity since they can limit the volume of soil
+available for root growth. (Restrictive layers may be
+naturally occurring or a result of management activities.)
+Plant rooting characteristics must be considered for a
+practical understanding of the effects of soil depth and
+restrictive layers on water available for plant growth. A
+restrictive layer at 20 inches might have little consequence
+on the water requirements of a shallow-rooted crop.
+However, this layer might severely limit the volume of soil
+a deep-rooted crop can explore for moisture.
+Dynamic - Available water capacity is affected by
+organic matter, compaction, and salt concentration of the
+soil.
+Organic matter increases a soil's ability to hold water, both
+directly and indirectly. When a soil is at field capacity,
+organic matter has a higher water holding capacity than a
+similar volume of mineral soil. While the water held by
+organic matter at the permanent wilting point is also
+higher, overall, an increase in organic matter increases a
+soil's ability to store water available for plant use.
+Indirectly, organic matter improves soil structure and
+aggregate stability, resulting in increased pore size and
+volume. These soil quality improvements result in
+increased infiltration, movement of water through the soil,
+and available water capacity (see Figure 2).
+Compaction reduces available water capacity through its
+adverse affects on both field capacity and permanent
+wilting point. Compaction reduces total pore volume,
+consequently reducing water storage when the soil is at
+field capacity. Compaction also crushes large soil pores
+into much smaller micropores. Since micropores hold
+water more tightly than larger pores, more water is held in
+soil at its permanent wilting point.
+Salts in soil water result from fertilizer application or
+naturally occurring compounds. Salt concentration
+increases as soil water decreases. For soils high in soluble
+salts, moisture stress results when plants cannot uptake
+USDA Natural Resources Conservation Service
+
+Inches of water / ft. soil depth
+Sandy
+loam
+Loam
+Silt
+loam
+Sand Loamy
+sand
+Fine
+sandy
+loam
+Silty
+clay
+loam
+Clay
+loam
+Silty
+clay
+Clay
+Field Capacity
+Permanent Wilting Point
+Available Water
+Fineness of texture
+Unavailable Water
+Figure 1. General relationship between soil moisture and texture.
+Ohio Agronomy Guide, 14th edition, Bulletin 472-05
+Indicator
+P
+Test
+L/O
+Function
+D
+Helping People Help the Land...
+
+--- PAGE 2 ---
+water across an unfavorable salt concentration gradient.
+Soils with high salt concentration tend to have reduced
+available water capacity because more water is retained at
+the permanent wilting point than if water was held by
+physical factors alone. These effects are most pronounced
+in soils in dry regions where salts accumulate because of
+irrigation or natural processes.
+Relationship to Soil Function
+Soil is a major storage reservoir for water. In areas where
+rain falls daily and supplies the soil with as much or more
+water than is removed by plants, available water capacity
+may be of little importance. However, in areas where
+plants remove more water than is supplied by precipitation,
+the amount of water held by the soil may be critical. Water
+held in the soil may be necessary to sustain plants between
+rainfall or irrigation events. By holding water for future
+use, soil buffers the plant - root environment against
+periods of water deficit.
+Available water capacity is used to develop water budgets,
+predict droughtiness, design and operate irrigation systems,
+design drainage systems, protect water resources, and
+predict yields.
+Problems with Poor Function
+Lack of available water reduces root and plant growth, and
+it can lead to plant death if sufficient moisture is not
+provided before a plant permanently wilts. A soil's ability
+to function for water storage also influences runoff and
+nutrient leaching.
+Agricultural land management practices that lead to poor
+available water capacity include those that prevent
+accumulation of soil organic matter and/or result in soil
+compaction and reduced pore volume and size:
+*
+Conventional tillage operations,
+*
+Low residue crop rotations, and burning, burying,
+harvesting, or otherwise removing plant residues,
+*
+Heavy equipment traffic on wet soils, and
+*
+Grazing systems that allow development of livestock
+loafing areas and livestock trails.
+As natural areas are permanently converted to homes,
+roads, and parking areas, the overall amount of water that
+can be stored in the soil is reduced. This leads to higher
+total runoff, increased pressure on storm water drainage
+systems, a higher likelihood of flooding, and generally
+poorer water quality in streams and lakes.
+Improving Available Water Capacity
+Farmers can grow high residue crops, perennial sod and
+cover crops, reduce soil disturbing activities, and manage
+residue to protect and increase soil organic matter to make
+improvements in a soil's available water capacity. When
+feasible, tillage, harvest, and other farming operations
+requiring heavy equipment can be avoided when the soil is
+wet to minimize compaction; and compacted layers can be
+ripped to break them and expand the depth of the soil
+available for root growth.
+For soil high in soluble salts, management activities that
+maintain salts below the root zone can be used. These
+include irrigation to leach salts below the root zone and
+practices that promote infiltration, reduce evaporation,
+minimize disturbance, manage residue, and prevent mixing
+of salt-laden lower soil layers with surface layers.
+Conservation practices resulting in available water capacity
+favorable to soil function include:
+*
+Conservation Crop Rotation
+*
+Cover Crop
+*
+Prescribed Grazing
+*
+Residue and Tillage Management
+*
+Salinity and Sodic Soil Management
+Developers can incorporate the use of permeable parking
+areas, green roofs, and other practices that minimize the
+impact of development on soil water storage.
+Measuring Available Water Capacity
+Reference: U.S. Department of Agriculture, Natural
+Resources Conservation Service, 2005. National Soil
+Survey Handbook, title 430-VI. Soil Properties and
+Qualities (Part 618), Available Water Capacity (618.05).
+Online at: http://soils.usda.gov/technical/handbook/
+Specialized equipment, shortcuts, tips:
+Determination of permanent wilting point moisture content
+requires a pressure membrane apparatus.
+Time needed: One to two days is required for free
+drainage and to allow soil to reach field capacity.
+
+0.10
+0.20
+0.30
+0.40
+0.50
+soil water ft3 / ft3 soil
+% soil organic matter by weight
+Field Capacity
+Available Water
+Permanent wilting percentage
+Figure 2. Effect of increasing organic matter on available water
+capacity of silt loam soils. Adapted from Hudson, SWCS, 1994.
+USDA is an equal opportunity provider and employer.
+June 2008

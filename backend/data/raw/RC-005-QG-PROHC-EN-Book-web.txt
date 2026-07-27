@@ -1,0 +1,2154 @@
+--- PAGE 1 ---
+PRO-HC IRRIGATION CONTROLLER
+Hydrawise
+™Ready
+Quick Start Guide
+hunterindustries.com
+
+--- PAGE 2 ---
+1
+TABLE OF CONTENTS
+PRO-HC SUPPORT
+Thank you for purchasing the Hunter Pro-HC Controller. This Quick Start Guide will help 
+you install and configure the Pro-HC Controller and connect to Wi-Fi. For support of the 
+Hydrawise™ cloud software or help with your Hydrawise account, please visit  
+hunter.direct/prohchelp.
+Your Pro-HC box contains:
+•	 A Pro-HC Wi-Fi controller
+•	 24 VAC transformer (indoor model) or built-in transformer (outdoor model)
+•	 Three screws and three wall anchors for wall mounting
+•	 Three wire nuts for U.S. outdoor and one Terminal block for European outdoor models
+Installation
+3
+Connecting AC Power
+5
+Connecting Station Wires
+7
+Connecting Sensors or Flow Meters
+8
+Connecting to a Wi-Fi Network 
+9
+App Configuration
+10
+
+--- PAGE 3 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+INSTALLATION
+Installing the Pro-HC Controller
+Start by choosing a location with good Wi-Fi coverage. Wi-Fi coverage can be easily 
+tested using a smartphone. A signal strength of two or three bars is recommended.    
+Wi-Fi connectivity can also be tested on the Pro-HC itself (signal strength is shown 
+when you select a wireless network).
+Mounting the controller to a wall
+All necessary hardware is included for most installations.
+
+--- PAGE 4 ---
+3
+Mounting the controller to a wall (continued)
+1.	 Use the hole at the top of the controller as a reference and secure a 1" (25 mm) screw 
+into the wall. Note: Install screw anchors when attaching the controller to drywall or 
+masonry wall. 
+2.	 Align controller with the screw and slide the keyhole on top of the controller over  
+the screw.
+3.	 Secure controller in place by installing screws in the other mounting holes. 
+ 
+For PHC-601-A, PHC1201-A, and PHC2401-A: If the supply cord is damaged,  
+it must be replaced by the manufacturer or service agent or a similarly qualified person  
+to avoid hazard.
+
+--- PAGE 5 ---
+4
+FR
+ES
+EN
+CONNECTING AC POWER
+Indoor cabinet
+Route transformer cable through the hole on the bottom left side of the controller and 
+connect one yellow wire to each of the screws marked 24AC and the green wire to GND.
+Note: The indoor Pro-HC is not water or weather resistant, and must be installed 
+indoors or in a protected area. This device is not intended for use by young children. 
+Never let children play with this device.
+Transformer
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+
+--- PAGE 6 ---
+5
+Outdoor cabinet
+The outdoor model is water and weather resistant. Connecting the outdoor Pro-HC to the 
+primary power should be done by a licensed electrician following all local codes. 
+ HOT
+ 
+(Black)
+ NEUTRAL
+ 
+(White)
+ GROUND
+ 
+(Green)
+1.	 Route AC power cable and conduit 
+through the ½" (13 mm) conduit opening 
+on the left side of the bottom of the 
+cabinet. 
+2.	 Connect the wires to the transformer 
+wires located inside the junction box. 
+International units are supplied with a 
+built-in terminal strip. Always use a UL 
+listed conduit ½" (13 mm) male adapter 
+when installing the AC wiring. 
+3.	 Insert the adapter into the ½" (13 mm) 
+hole at the bottom of the controller. 
+Attach a nut to the adapter inside the 
+enclosure. 
+4.	 A battery is not required for this controller. 
+Watering will not occur without AC power. 
+Since this controller has non-volatile 
+memory, the program, clock, and calendar 
+will be retained during a power outage.
+Note: To be performed by a licensed electrician only. Always use UL listed ½" (13 mm) 
+conduit with male adapter when installing AC wiring. Pro-HC controllers are  
+intended to be supplied AC power with an over-current protected device. Improper 
+installation could result in shock or fire hazard. This device is not intended for use by 
+young children. Never let children play with this device.
+
+--- PAGE 7 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONNECTING STATION WIRES
+1.	 Route valve wires between control valve 
+location and controller. 
+2.	 At valves, attach a common wire to 
+either solenoid wire of all valves. This is 
+most commonly a white-colored wire. 
+Attach a separate control wire to the 
+remaining wire of each valve. All wire 
+splice connections should be done using 
+waterproof connectors. 
+3.	 Route valve wires through the conduit 
+and attach conduit to one of the 
+openings on the bottom of the cabinet. 
+4.	 Strip ½" (13 mm) of insulation from ends 
+of all wires. Secure the valve common 
+wire to “COM” (Common) terminal. 
+Attach all individual valve control wires 
+to the appropriate station terminals.
+Note: All wire connections should be done using waterproof connectors. Connect 
+each of the other individual wires to a different colored wire. Record zones against 
+wire color for later reference. Connect the common wire from the multicore cable 
+(usually white) to the terminals on the controller marked COM.
+
+--- PAGE 8 ---
+7
+CONNECTING SENSORS OR FLOW METERS (OPTIONAL)
+Pro-HC Controller supports most open/closed contact type of sensors, such as Hunter 
+rain and soil moisture sensors.
+1.	 Connect one sensor wire to COMMON on the controller.
+2.	 Connect the Normally Closed or Normally Open wire from the sensor to SEN-1 or  
+SEN-2 on the controller and configure in the Hydrawise app.
+For full details, refer to the instructions 
+provided with your sensor, or flow meter. 
+Once you've wired your sensor, you must 
+configure it in your Hydrawise account.
+See Configuring Sensors at  
+hydrawise.com/support for full 
+instructions on setting up sensors.
+Wiring for standard Hydrawise 0.75" (20 mm) or 
+1" (25 mm) flow meters is as follows:
+Flow Meter Wire
+Label on Controller
+Blue
+SEN-1, SEN-2 
+White
+SEN COM 
+Red
+Not connected
+Wiring for open/closed contact sensors is as follows:
+Sensor Wire
+Label on Controller
+Normally Open / 
+Normally Closed wire
+SEN-1, SEN-2 
+Second (common) wire
+SEN COM
+
+--- PAGE 9 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONNECTING TO A WI-FI NETWORK
+When your controller is first powered on, it will run a short wizard to connect it to your 
+wireless router.
+If you’re not using the initial startup wizard, then go to the Wireless Settings section to 
+make changes. For support, please contact hunter.direct/prohchelp.
+Using the wizard
+1.	 Select your wireless network from the list shown on the controller display  
+and press the Confirm button on screen. 
+ 
+ 
+ 
+2.	 Enter your wireless password and press the OK button on keyboard.
+ 
+ 
+ 
+ 
+ 
+When connecting to your wireless network, the Wi-Fi icon 
+ at the bottom right of the 
+controller screen will flash. Connecting takes about 30 seconds and when successfully 
+connected the Wi-Fi icon 
+ will stop flashing and stay on.
+Note: If your network is not listed, check if the unit is 
+within wireless range.
+Note: Make sure you press the OK button after you’ve 
+entered your password. Pressing the Home 
+ or Back 
+ buttons will not save your changes.
+
+--- PAGE 10 ---
+9
+HYDRAWISE APP CONFIGURATION
+To connect the Pro-HC Controller to the Hydrawise app, follow these steps and then 
+follow the on-screen instructions.
+Register for an Account Online
+1.	 If you have not already done so, go to hydrawise.com and register for an account.
+Log in to Your Account
+2.	 If this is your first time logging in, you will be guided through a setup wizard to help 
+you with initial configuration of your controller.
+ 
+The owner’s manual and app instructions are located here: hydrawise.com/support
+  hunter.direct/prohchelp
+TROUBLESHOOTING 
+Need more helpful information on your product?  
+Find tips on installation, controller programming, and more.
+
+--- PAGE 11 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+U.S. FCC Statement
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant 
+to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful 
+interference in a residential installation. This equipment generates, uses and can radiate radio frequency 
+energy, and if not installed and used in accordance with the instructions, may cause harmful interference 
+to radio communications. However, there is no guarantee that interference will not occur in a particular 
+installation. If this equipment does cause harmful interference to radio or television reception, which can be 
+determined by turning the equipment off and on, the user is encouraged to try to correct the interference by 
+one or more of the following measures:
+•	 Reorient or relocate the receiving antenna. 
+•	 Increase the separation between the equipment and receiver. 
+•	 Connect the equipment into an outlet on a circuit different from where the receiver is connected. 
+•	 Consult the dealer or an experienced radio/TV technician for help. 
+To satisfy FCC RF Exposure requirements for mobile and base station transmission devices, a separation 
+distance of 20 cm or more should be maintained between the antenna of this device and persons during 
+operation. To ensure compliance, operation at closer than this distance is not recommended. The antenna(s) 
+used for this transmitter must not be co-located or operating in conjunction with any other antenna or 
+transmitter. 
+ISED Canada Statement
+This device complies with ISED Canada license-exempt RSS standard(s). Operation is subject to the following 
+two conditions: (1) this device may not cause interference, and (2) this device must accept any interference, 
+including interference that may cause undesired operation of the device.
+
+--- PAGE 12 ---
+1
+INHALT
+PRO-HC SUPPORT
+Vielen Dank, dass Sie sich für das Hunter Pro-HC Steuergerät entschieden haben. In dieser 
+Kurzanleitung werden wir Ihnen erklären, was Sie bei der Installation und Konfiguration des 
+Pro-HC Steuergeräts beachten müssen und wie Sie es mit dem Wi-Fi verbinden können. 
+Wenn Sie Support für die Hydrawise™ Cloud Software oder Hilfe mit Ihrem Hydrawise Konto 
+benötigen, dann besuchen Sie uns auf hunter.direct/prohchelp.
+Ihr Pro-HC Paket enthält:
+•	 Ein Pro-HC Wi-Fi Steuergerät
+•	 Einen 24V AC Transformator (Innenmodell) oder einen integrierten Transformator 
+(Außenmodell) 
+•	 3 Schrauben und 3 Dübel für die Wandmontage
+•	 3 Kabelverbinder für US Außen- und 1 Klemmenblock für Euro-Außenmodelle
+Installation des Pro-HC Steuergeräts
+3
+Anschließen der Netzstromversorgung
+5
+Verbinden der Stationsadern
+7
+Verbinden von Sensoren oder 
+Durchflussmessern
+8
+Verbindung mit einem W-Lan-Netzwerk
+9
+App-Konfiguration
+10
+
+--- PAGE 13 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+INSTALLATION DES PRO-HC STEUERGERÄTS
+Installation des Pro-HC-Steuergeräts 
+Wählen Sie zunächst einen Standort mit guter Wi-Fi-Abdeckung aus. Die Wi-Fi-
+Abdeckung können Sie ganz einfach mit Ihrem Smartphone testen. Wir empfehlen eine 
+Signalstärke von 2 oder 3 Balken. Sie können die W-Lan-Verbindung aber auch über das 
+HC direkt testen (die Signalstärke wird angezeigt, wenn Sie ein drahtloses Netzwerk 
+auswählen).
+Wandmontage des Steuergeräts
+Für die meisten Installationen ist das notwendige Material enthalten.
+
+--- PAGE 14 ---
+3
+Wandmontage des Steuergeräts (Fortsetzung)
+1.	 Verwenden Sie die Bohrung oben am Steuergerät als Bezugspunkt und befestigen Sie 
+eine 25 mm (1“) Schraube an der Wand. Hinweis: Bei der Montage an Leichtbauwänden 
+oder massivem Mauerwerk sind geeignete Dübel zu verwenden. 
+2.	 Schieben Sie die Schlüssellochöffnung an der Gehäuseoberseite über die Schraube.
+3.	 Befestigen Sie nun das Steuergerät mit weiteren Schrauben durch die vorgesehenen 
+Bohrungen. 
+ 
+Für das PHC-601-A, PHC1201-A und PHC2401-A: Wenn das Netzkabel beschädigt ist, muss 
+es vom Hersteller, von der Kundendienstvertretung oder von gleichwertig qualifiziertem 
+Fachpersonal ausgewechselt werden, um Risiken auszuschließen.
+
+--- PAGE 15 ---
+4
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+ANSCHLIESSEN DER NETZSTROMVERSORGUNG
+Modelle für den Innenbetrieb
+Führen Sie das Trafokabel durch die Öffnung unten links am Steuergerät und schließen 
+Sie die gelben Adern jeweils an einer der Klemmen an, die mit 24AC gekennzeichnet sind. 
+Schließen Sie die grüne Ader an der GND-Klemme an.
+Hinweis: Das Pro-HC für Innenmontage ist weder wetter- noch wasserbeständig 
+und muss im Innenbereich, geschützt installiert werden. Das Gerät darf nicht von 
+Kindern verwendet werden. Lassen Sie Kinder nicht mit dem Gerät spielen.
+AC-1
+(Gelb)
+)
+AC-2
+(Gelb)
+ERDUNG 
+(Grün)
+Transformator
+
+--- PAGE 16 ---
+5
+Modelle für den Außenbetrieb
+Das Außenmodell ist spritzwasser- und wetterfest. Der Netzanschluss darf nur von einem 
+zugelassenen Elektriker unter Beachtung der geltenden Vorschriften vorgenommen werden. 
+ PHASE
+ 
+(Schwarz)
+ NEUTRAL
+ 
+(Weiß)
+ ERDUNG
+ 
+(Grün)
+1.	 Führen Sie das AC-Netzstromkabel 
+und den Kabelkanal durch die 13 mm 
+(½“) Kabelkanalöffnung links unten am 
+Gehäuse. 
+2.	 Verbinden Sie die Adern mit den Adern 
+des Trafos, die sich in der Anschlussdose 
+befinden. Internationale Modelle 
+werden mit eingebauter Anschlussleiste 
+geliefert. Verwenden Sie zum Verlegen 
+der AC-Netzkabel ausschließlich UL-
+zertifizierte 13 mm (½“) Kabelkanaladapter 
+mit Außengewinde. 
+3.	 Stecken Sie den Adapter in die 13 mm (½“) 
+Bohrung unten am Steuergerät.  Sichern Sie 
+den Adapter im Gehäuse mit einer Mutter. 
+4.	 Für dieses Steuergerät ist keine 
+Batterie erforderlich. Die Beregnung 
+funktioniert jedoch nur mit Netzspannung. 
+Da das Steuergerät über einen 
+Permanentspeicher verfügt, werden 
+Programmuhr und Kalender während 
+eines Stromausfalls erhalten.
+Hinweis: Der Netzanschluss darf nur von einem zugelassenen Elektriker vorgenommen 
+werden. Nur zugelassenes Installationsmaterial verwenden. Pro HC Steuergeräte sind 
+für den Anschluss an Zuleitungen mit ordnungsgemäßer Absicherung vorgesehen. 
+Fehlerhafte Installationen können zu Elektroschlag oder Feuer führen. Das Gerät darf 
+nicht von Kindern verwendet werden. Lassen Sie Kinder nicht mit dem Gerät spielen.
+
+--- PAGE 17 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+VERBINDEN DER STATIONSADERN
+1.	 Verlegen Sie die Ventiladern zwischen den 
+Magnetventilen und dem Steuergerät. 
+2.	 Verbinden Sie jeweils eine der beiden 
+von jedem Ventil abgehenden Adern 
+zur Verwendung als Masseleiter an eine 
+gemeinsame Ader. Diese ist zumeist 
+weiß. Schließen Sie eine separate 
+Steuerleitung an der verbleibenden 
+Ader von jedem Ventil an. Für 
+sämtliche Spleißverbindungen müssen 
+wasserdichte Verbindungshülsen 
+verwendet werden. 
+3.	 Führen Sie die Ventiladern durch den 
+Kabelkanal. Bringen Sie den Kabelkanal 
+an einer der Öffnungen unten am 
+Gehäuse an. 
+4.	 Entfernen Sie 13 mm (½“) der Isolierung 
+von den Enden aller Adern. Schließen Sie 
+die gemeinsame Masseleitung der Ventile 
+an der "COM”-Klemme (Masseleiter) 
+an. Schließen Sie die Steueradern der 
+einzelnen Ventile an die Klemmen für die 
+entsprechenden Stationen an.
+Hinweis: Für sämtliche Adernanschlüsse müssen wasserdichte Anschlüsse 
+verwendet werden. Verbinden Sie jeden der anderen individuellen Drähte mit 
+einem andersfarbigen Draht. Notieren Sie sich die Zonen mit der entsprechenden 
+Drahtfarbe für den späteren Gebrauch. Verbinden Sie den gemeinsamen Draht 
+des mehradrigen Kabels (in der Regel weiß) mit einer der drei Klemmen des 
+Steuergeräts, die mit COMMON (Gemeinsam) beschriftet sind.
+
+--- PAGE 18 ---
+7
+VERBINDEN VON SENSOREN ODER 
+DURCHFLUSSMESSERN (OPTIONAL)
+Das Pro-HC Steuergerät unterstützt die meisten offenen/geschlossenen 
+Kontaktsensoren, inklusive Hunter Regensensoren und Sensoren für die Bodenfeuchte.
+1.	 Verbinden Sie einen Sensor mit COMMON des Steuergeräts.
+2.	 Verbinden Sie den Arbeitskontakt oder Ruhekontakt des Sensors mit SEN-1 oder SEN-
+2 auf dem Steuergerät und konfigurieren Sie die Hydrawise App.
+Die vollständigen Informationen finden 
+Sie in der Anleitung, die mit Ihrem 
+Sensor oder Durchflussmesser geliefert 
+wurde.
+Nachdem Sie Ihren Sensor verdrahtet 
+haben, sollten Sie daran denken, diesen 
+auch in Ihrem Hydrawise-Konto zu 
+konfigurieren.
+Im Abschnitt „Sensorkonfiguration“ 
+unter hydrawise.com/support erhalten 
+Sie Anleitungen, wie Sie Sensoren 
+einrichten können.
+Die Verdrahtung für Standard Hydrawise 20 mm (0,75") 
+oder 25 mm (1") Durchflussmesser ist folgende:
+Kabel des 
+Flussmessers
+Bezeichnung auf dem Steuergerät
+Blau
+SEN-1, SEN-2 
+Weiß
+SEN COM 
+Rot
+Not connected (Nicht verbunden)
+Verdrahtung für offene/geschlossene                             
+Kontaktsensoren ist folgende:
+Sensorkabel
+Bezeichnung auf 
+dem Steuergerät
+Verdrahtung mit Arbeitskontakt 
+oder mit Ruhekontakt
+SEN-1, SEN-2 
+Zweiter gemeinsamer (COM) Draht
+SEN COM
+
+--- PAGE 19 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+VERBINDUNG MIT EINEM W-LAN-NETZWERK
+Wenn Sie das Steuergerät zum ersten Mal einschalten, wird ein Assistent gestartet, der 
+Ihr Steuergerät mit dem drahtlosen Router verbindet.
+Falls Sie den Einrichtungsassistenten nicht verwenden, dann können Sie Ihre 
+Drahtloseinstellungen auch über den Abschnitt „Wireless Settings“ (Drahtloseinstellungen) 
+ändern. Weiteren Support erhalten Sie unter hunter.direct/prohchelp.
+Den Assistenten verwenden
+1.	
+Wählen Sie Ihr Drahtlosnetzwerk aus der Liste im Display des Steuergeräts und 
+drücken Sie auf die Taste Confirm (Bestätigen).        
+2.	 Geben Sie Ihr Kennwort ein und drücken Sie auf die Taste „OK“ auf dem Tastenfeld. 
+          
+
+Wenn Sie sich mit Ihrem Drahtlosnetzwerk verbinden, blinkt das W-Lan-Symbol 
+unten rechts auf dem Display des Steuergeräts auf. Der Verbindungsaufbau dauert ca. 
+30 Sekunden. Ist die Verbindung erfolgreich hergestellt, hört das W-Lan-Symbol 
+ 
+auf zu blinken und leuchtet konstant.
+Hinweis: Sollte Ihr Netzwerk nicht in der Liste aufgeführt sein, dann 
+überprüfen Sie, ob sich das Gerät innerhalb der Netz-Reichweite befindet.
+Hinweis: Denken Sie daran, die Taste „OK“ zu drücken, nachdem Sie Ihr 
+Kennwort eingegeben haben. Durch das Drücken der Tasten „Home“ 
+ 
+(Start) oder „Back“ 
+ (Zurück) werden Ihre Änderungen nicht gespeichert.
+
+--- PAGE 20 ---
+9
+KONFIGURATION DER HYDRAWISE APP
+Um das HC-Steuergerät mit der Hydrawise App zu verbinden, befolgen Sie die folgenden 
+Schritte und anschließend die Anweisungen auf dem Display.
+Online-Registrierung eines Kontos
+1.	 Wenn Sie noch über kein Konto verfügen, dann sollten Sie sich eines auf 	
+Hydrawise.com anlegen.
+Melden Sie sich an Ihrem Konto an
+1.	 Wenn Sie sich das erste Mal anmelden, hilft Ihnen ein Setup-Assistent bei der 
+erstmaligen Konfiguration Ihres Steuergeräts.
+ 
+Hier finden Sie die Bedienungs- und App-Anleitungen: Hydrawise.com/support
+  hunter.direct/prohchelp
+FEHLERBEHEBUNG
+Wünschen Sie weitere hilfreiche Informationen zu Ihrem Produkt?
+Hier finden Sie Tipps zur Installation, Programmieranweisungen 
+und weiteres.
+
+--- PAGE 21 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+US FCC-Erklärung
+Dieses Gerät wurde geprüft und hält die Grenzwerte für digitale Geräte der Klasse B entsprechend Teil 15 
+der FCC-Vorschriften ein. Diese Grenzwerte bieten einen ausreichenden Schutz gegen Funkstörungen bei 
+Installation in Wohnbereichen. Das Gerät erzeugt und verwendet hochfrequente Schwingungen und kann sie 
+ausstrahlen. Wenn es nicht gemäß den Anweisungen des Herstellers installiert und betrieben wird, können 
+Störungen bei Funkübertragungen auftreten. In Ausnahmefällen können bestimmte Installationen aber 
+dennoch Störungen verursachen. Falls dieses Gerät Radio- oder TV-Störstrahlungen verursacht, was durch 
+Aus- und Einschalten des Geräts festgestellt werden kann, so kann der Benutzer versuchen, die Störung durch 
+die folgenden Maßnahmen zu beheben: 
+•	 Richten Sie die Empfangsantenne neu aus oder platzieren Sie sie an einer anderen Stelle. 
+•	 Erhöhen Sie den Abstand zwischen dem Gerät und dem Empfänger. 
+•	 Schließen Sie das Gerät an eine Steckdose an, die mit einem anderen Stromkreis verbunden ist als die, an 
+die der Empfänger angeschlossen ist.
+•	 Bitten Sie Ihren Händler oder einen erfahrenen Radio- oder Fernsehtechniker um Hilfe.
+Um den Anforderungen der FCC RF Strahlenbelastungsrichtlinien für mobile und Basisstationen zu 
+entsprechen, ist ein Trennungsabstand von 20 cm oder mehr während des Betriebs zwischen der Antenne 
+des Geräts und Personen einzuhalten. Um die Einhaltung zu gewährleisten, ist der Betrieb bei einem 
+geringeren Trennungsabstand nicht empfohlen. Die für diesen Sender verwendeten Antennen dürfen nicht 
+nebeneinander liegen oder zusammen mit anderen Antennen oder Sendern betrieben werden.
+ISED Kanada Statement
+Dieses Gerät stimmt mit den Industry ISED Canada lizenzfreien RSS Standards überein. Der Betrieb unterliegt 
+den folgenden zwei Voraussetzungen: (1) dieses Gerät darf keine Störungen verursachen, und (2) dieses 
+Gerät muss Störungen hinnehmen, auch solche Störungen, die unerwünschte Betriebszustände verursachen 
+können. Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio exempts 
+de licence. L’exploitation est autorisée aux deux conditions suivantes: (1) l’appareil ne doit pas produire 
+de brouillage, et (2) l’utilisateur de l’appareil doit accepter tout brouillage radioélectrique subi, même si le 
+brouillage est susceptible d’en compromettre le fonctionnement.
+
+--- PAGE 22 ---
+1
+ÍNDICE DE CONTENIDO
+AYUDA PRO-HC
+Gracias por comprar el programador Pro-HC de Hunter. Esta guía de comienzo rápido 
+le ayudará a instalar y configurar el programador Pro-HC, así como a conectarlo a la 
+red Wi-Fi. Para obtener ayuda relacionada con el software Hydrawise™ o con su cuenta 
+Hydrawise, visite hunter.direct/hchelp.
+En la caja del Pro-HC encontrará:
+•	 Un programador Wi-Fi Pro-HC
+•	 Un transformador de 24V CA (modelo para interior) o un transformador incorporado 
+(modelo para exterior)
+•	 Tres tornillos y tres anclajes de pared para montaje en pared
+•	 3 tuercas para unir cable en el modelo de exterior para América del Norte y un bloque 
+de terminales en el modelo de exterior para Europa
+Instalación
+3
+Conexión a la corriente CA
+5
+Conectar cables de estaciones
+7
+Conexión de sensores o medidores de caudal
+8
+Conectar a una red Wi-Fi 
+9
+Configuración de la aplicación
+10
+
+--- PAGE 23 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+INSTALACIÓN
+Instalación del programador Pro-HC
+En primer lugar, escoja una ubicación que tenga buena señal de Wi-Fi. Es fácil 
+comprobar la señal Wi-Fi utilizando un teléfono inteligente. Se recomienda una señal 
+de, al menos, 2 o 3 barras. También puede comprobar laconectividad Wi-Fi en el propio 
+HC (se muestra la intensidad de señal cuando selecciona una red inalámbrica).
+Montaje del programador en la pared 
+Se incluyen los aditamentos de montaje para una instalación típica.
+
+--- PAGE 24 ---
+3
+Montaje del programador en la pared (continuación)
+1.	 Utilice el agujero en la parte superior del programador como referencia y fije un tornillo 
+de 25 mm (1") a la pared. Nota: Si se trata de una pared de yeso o azulejos, utilice 
+refuerzos para los tornillos. 
+2.	 Alinee el programador con el tornillo y deslice el orificio de la parte superior del 
+programador por el tornillo.
+3.	 Fije el programador colocando los tornillos en los orificios restantes. 
+ 
+Para los modelos PHC-601-A, PHC1201-A, PHC2401-A: Si el cable de corriente está dañado, 
+el fabricante, un agente de servicio o una persona igualmente capacitada, debe sustituirlo 
+para evitar que se produzcan riesgos.
+
+--- PAGE 25 ---
+4
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONEXIÓN A LA CORRIENTE CA
+Caja para interiores
+Introduzca el cable del transformador por el orificio ubicado en el área inferior izquierda 
+del programador, conecte un cable amarillo a cada uno de los tornillos marcados como 
+24AC y conecte el cable verde al terminal GND.
+CA-1
+(Amarillo)
+CA-2
+(Amarillo)
+TIERRA
+(Verde)
+Nota: El programador HC es un modelo para interior y no es resistente al agua 
+ni a las condiciones meteorológicas.Debe instalarse en el interior o en una zona 
+protegida. Este dispositivo no debe ser utilizado por niños. No deje el dispositivo al 
+alcance de los menores.
+Transformador
+
+--- PAGE 26 ---
+5
+Caja para exteriores
+El modelo para exteriores es resistente al agua y a los agentes climáticos. La conexión 
+del programador Pro-HC a la corriente principal debe realizarla un electricista certificado 
+respetando todas las normas locales. 
+ LÍNEA VIVA
+ 
+(Negro)
+ NEUTRO
+ 
+(Blanco)
+ TIERRA
+ 
+(Verde)
+1.	 Introduzca el conductor y el cable eléctrico 
+de corriente alterna a través de la abertura 
+de 13 mm (½") en el lado izquierdo de la 
+parte inferior del armario. 
+2.	 Conecte los cables a los cables del 
+transformador ubicados dentro de la caja de 
+conexiones. Las unidades internacionales 
+incluyen una regleta de terminales 
+integrada. Cuando instale el cableado de 
+corriente alterna, siempre utilice conductos 
+de 13 mm (½") aprobados por UL con un 
+adaptador macho. 
+3.	 Inserte el adaptador en el orificio de 13 mm 
+(½") que se encuentra en la parte inferior 
+del programador. Coloque una rosca en el 
+adaptador por dentro de la caja. 
+4.	 Este programador no requiere pilas. El 
+riego no se producirá si no llega corriente. 
+Como este programador dispone de una 
+memoria no volátil, el programa, el reloj 
+y el calendario se mantendrán aunque se 
+produzca una interrupción de corriente.
+Nota: Para ser realizado por un electricista calificado. Utilice siempre tubería conduit 
+aprobada de acuerdo a la certificación local para instalaciones eléctricas. Los controladores 
+Pro-HC están diseñados para ser suministrados con corriente alterna y con un dispositivo 
+de protección contra picos de voltaje. Una instalación incorrecta puede resultar en riesgo 
+de descargas eléctricas o de incendio. Este dispositivo no debe ser utilizado por niños. No 
+deje el dispositivo al alcance de los menores.
+
+--- PAGE 27 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONECTAR CABLES DE ESTACIONES
+1.	 Introduzca los cables de las válvulas 
+entre la válvula de control y el 
+programador.
+2.	 Una el cable común a uno de los cables 
+de los solenoides de todas las válvulas. 
+En la mayoría de los casos se utiliza 
+un cable de color blanco. Conecte 
+un cable de control independiente al 
+cable restante de cada válvula. Todas 
+las conexiones de empalme de los 
+cables deben realizarse con conectores 
+impermeables. 
+3.	 Introduzca los cables de las válvulas a 
+través del conducto y una el conducto 
+a una de las aperturas ubicadas en la 
+parte inferior de la caja. 
+4.	 Pele 13 mm (½") del aislamiento de los 
+extremos de todos los cables. Conecte el 
+cable común de las válvulas al terminal 
+“COM” (Común). Conecte el cable de 
+control de cada válvula con la terminal 
+de la estación correspondiente.
+Nota: Todas las conexiones de empalme de los cables deben realizarse con 
+conectores impermeables. Conecte cada uno de los cables individuales restantes 
+a un cable de distinto color. Anote el color del cable correspondiente a cada 
+zona para su posterior consulta. Conecte el cable común del cable multicolor 
+(generalmente blanco) a cualquiera de las tres terminales del programador 
+etiquetadas COMMON (común).
+
+--- PAGE 28 ---
+7
+CONEXIÓN DE SENSORES O MEDIDORES  
+DE CAUDAL (OPCIONAL)
+El programador Pro-HC es compatible con la mayoría de los sensores de contacto 
+abierto/cerrado, como los sensores de lluvia y humedad de suelo de Hunter.
+1.	 Conecte un cable del sensor a COMMON en el programador.
+2.	 Conecte el cable Normalmente cerrado o Normalmente abierto del sensor a SEN-1  
+o SEN-2 en el programador y configure la aplicación Hydrawise.
+Para obtener más detalles, 
+consulte las instrucciones 
+incluidas con su sensor o medidor 
+de caudal. 
+Una vez conectado, no olvide 
+configurar el sensor en su cuenta 
+Hydrawise.
+Consulte la sección  
+“configuración de sensores” en  
+hydrawise.com/support para 
+obtener instrucciones detalladas 
+sobre cómo configurar sensores.
+El cableado para los medidores de caudal Hydrawise estándar 
+de 20 mm (0,75") o 25 mm (1") es de la siguiente forma:
+Cable del medidor de 
+caudal
+Etiqueta en el programador
+Azul
+SEN-1, SEN-2 
+Blanco
+SEN COM 
+Rojo
+No conectado
+El cableado para los sensores de contacto abierto/ 
+cerrado es de la siguiente forma:
+Cable del sensor
+Label on Controller
+Cableado Normalmente 
+abierto / Normalmente 
+cerrado
+SEN-1, SEN-2 
+Segundo (COM) cable
+SEN COM
+
+--- PAGE 29 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONECTAR A UNA RED WI-FI
+La primera vez que encienda su programador, se abrirá un breve asistente de 
+configuración que le ayudará a conectar su programador al ruteador inalámbrico. 
+Si no utiliza el asistente inicial de configuración, vaya a la sección “configuración 
+inalámbrica” para cambiar su configuración inalámbrica. Para obtener ayuda, contacte 
+ hunter.direct/prohchelp.
+Utilizar el asistente de configuración
+1.	 Seleccione su red inalámbrica de la lista mostrada en la pantalla del programador  
+y presione el botón Confirmar que aparece en pantalla. 
+ 
+ 
+ 
+2.	 Ingrese su contraseña inalámbrica y presione el botón OK del teclado.
+ 
+ 
+ 
+ 
+ 
+Mientras conecta con la red inalámbrica, verá parpadear el ícono Wi-Fi 
+ en la parte 
+inferior derecha de la pantalla del programador. La conexión toma aproximadamente 30 
+segundos. Tras una conexión exitosa, el ícono Wi-Fi 
+ dejará de parpadear y se mostrará 
+continuamente.
+Nota: Si su red no aparece en la lista, compruebe que la 
+unidad se encuentra en el rango inalámbrico.
+Nota: Asegúrese de presionar el botón OK tras ingresar 
+la contraseña. Si presiona los botones Inicio 
+ o Atrás, 
+ no se guardarán los cambios.
+
+--- PAGE 30 ---
+9
+CONFIGURACIÓN DE LA APLICACIÓN HYDRAWISE
+Para conectar el programador HC a la aplicación Hydrawise, siga estos pasos y, a 
+continuación, las instrucciones que aparecen en pantalla.
+Registrar una cuenta en línea
+1.	 Si no lo ha hecho ya, visite Hydrawise.com y regístrese para obtener una cuenta.
+Inicie sesión en su cuenta
+2.	 Si es la primera vez que inicia sesión, se abrirá un asistente de configuración que le 
+ayudará con los primeros pasos en la configuración de su programador.
+ 
+Encontrará el manual del usuario y las instrucciones de la aplicación en la siguiente 
+dirección: Hydrawise.com/support
+  hunter.direct/prohchelp
+RESOLUCIÓN DE PROBLEMAS 
+¿Necesita más información sobre el producto?  
+Encuentre consejos de instalación, programación y más.
+
+--- PAGE 31 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+Certificado FCC de Estados Unidos
+Este equipo ha sido probado y cumple con los límites establecidos para un dispositivo digital de Clase B, según 
+la parte 15 de las Normas de la FCC. Estos límites se han establecido para brindar una protección razonable 
+frente a interferencias perjudiciales en aplicaciones de áreas residenciales. Este equipo genera, usa y puede 
+emitir energía de radiofrecuencia y, si no se instala y utiliza de acuerdo con las instrucciones, puede ocasionar 
+interferencias perjudiciales para las comunicaciones por radio. Sin embargo, no se garantiza que no se 
+presenten interferencias en una instalación en particular. Si este equipo provoca interferencias perjudiciales 
+para la recepción de radio o televisión, lo cual se puede comprobar apagándolo y encendiéndolo, se aconseja al 
+usuario que intente corregir la interferencia con una o más de las siguientes medidas:
+•	 Reorientar o reubicar la antena de recepción. 
+•	 Aumentar la separación entre el dispositivo y el receptor. 
+•	 Conectar el equipo a una toma de corriente en un circuito diferente al del receptor. 
+•	 Solicitar ayuda al distribuidor o a un técnico de radio/TV experto. 
+En cumplimiento de los requisitos de exposición a radiofrecuencias de la FCC para dispositivos de transmisión 
+móviles y fijos, ha de guardarse una distancia de al menos 20 cm con la antena de este dispositivo durante 
+su funcionamiento. Para garantizar el cumplimiento, se recomienda no utilizar el dispositivo a una distancia 
+menor. La antena o antenas utilizadas para este transmisor no deben emparejarse con otras antenas o 
+transmisores.
+Declaración del ISED de Canadá
+Este dispositivo cumple los estándares RSS generales de Industry ISED Canada. El funcionamiento está sujeto 
+a estas dos condiciones: 1) este dispositivo no debe causar ninguna interferencia, y 2) este dispositivo debe 
+aceptar cualquier interferencia, incluyendo aquellas que causen un funcionamiento indebido.
+Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio exempts de 
+licence. L’exploitation est autorisée aux deux conditions suivantes: (1) l’appareil ne doit pas produire de 
+brouillage, et (2) l’utilisateur de l’appareil doit accepter tout brouillage radioélectrique subi, même si le 
+brouillage est susceptible d’en compromettre le fonctionnement.
+
+--- PAGE 32 ---
+1
+TABLE DES MATIÈRES
+ASSISTANCE PRO-HC
+Merci d'avoir acheté le programmateur PRO-HC de Hunter. Ce guide de démarrage rapide 
+vous aidera à installer et configurer le programmateur Pro-HC et à le connecter au Wi-Fi. 
+Pour obtenir de l'aide concernant le logiciel de type cloud Hydrawise™ ou votre compte 
+Hydrawise, veuillez vous rendre sur hunter.direct/prohchelp.
+L'emballage de votre Pro-HC contient :
+•	 Un programmateur Wi-Fi Pro-HC Hunter
+•	 Un transformateur 24 V CA (modèle d'intérieur) ou un transformateur intégré  
+(modèle d'extérieur)
+•	 3 vis et 3 chevilles pour la fixation murale
+•	 3 serre-fils pour les modèles extérieurs américains et 1 bornier pour les modèles 
+extérieurs européens
+Installation
+3
+Connexion de l'alimentation secteur
+5
+Connexion des fils de station
+7
+Connexion des sondes ou des débitmètres
+8
+Connexion à un réseau Wi-Fi
+9
+Configuration de l'application
+10
+
+--- PAGE 33 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+INSTALLATION
+Installation du programmateur Pro-HC
+Commencez par choisir un emplacement avec une bonne couverture Wi-Fi. Il est facile 
+de tester la couverture Wi-Fi à l'aide d'un smartphone. Nous vous recommandons une 
+puissance de signal de 2 ou 3 barres. La connectivité Wi-Fi peut également être testée 
+sur le HC directement (la puissance du signal est indiquée lorsque vous sélectionnez un 
+réseau sans fil).
+Fixation murale du programmateur
+Tout le matériel nécessaire à la plupart des installations est inclus.
+
+--- PAGE 34 ---
+3
+Fixation murale du programmateur (suite)
+1.	 Utilisez comme point de référence le trou situé en haut du programmateur et enfoncez 
+une vis de 25 mm (1") dans le mur. Remarque : insérez des chevilles si vous fixez le 
+programmateur sur une cloison sèche ou un mur en maçonnerie. 
+2.	 Alignez le programmateur sur la vis et faites glisser le trou situé en haut du 
+programmateur sur la vis.
+3.	 Installez le programmateur en enfonçant des vis dans les autres trous de fixation.. 
+ 
+Pour lesPHC-601-A, PHC1201-A et PHC2401-A : Si le câble d'alimentation est 
+endommagé, il doit être remplacé par le fabricant, un technicien de maintenance ou toute 
+autre personne qualifiée pour des raisons de sécurité.
+
+--- PAGE 35 ---
+4
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONNEXION DE L'ALIMENTATION SECTEUR
+Boîtier d'intérieur
+Acheminez le câble du transformateur par le trou situé en bas à gauche du 
+programmateur, puis connectez un fil jaune à chacune des vis portant la mention 24AC et 
+le fil vert à la vis GND.
+AC-1 
+Jaune
+AC-2 
+Jaune
+TERRE 
+(Vert)
+Remarque : Le programmateur HC est un modèle d'intérieur qui n'est pas étanche 
+ou résistant aux intempéries. Il doit donc être installé à l'intérieur ou dans une 
+zone protégée. Cet appareil nest pas conçu pour les enfants. Ne laissez jamais des 
+enfants jouer avec cet appareil.
+Transformateur
+
+--- PAGE 36 ---
+5
+Boîtier d'extérieur
+Le modèle d'extérieur est étanche et résiste aux intempéries. La connexion du modèle  
+Pro-HC d'extérieur à l'alimentation principale doit être effectuée par un électricien agréé, 
+dans le respect de toutes les réglementations locales. 
+ CHAUD
+ 
+(Noir)
+ NEUTRE
+ 
+(Blanc)
+ TERRE
+ 
+(Vert)
+1.	 Acheminez le câble d'alimentation et 
+le conduit par l'ouverture de conduit de 
+13 mm (½") située en bas à gauche du 
+boîtier. 
+2.	 Connectez les fils à ceux du 
+transformateur, situés à l'intérieur 
+de la boîte de jonction. Les appareils 
+internationaux intègrent une plaque à 
+bornes. Utilisez toujours un adaptateur 
+mâle de conduit de 13 mm (½") lors de 
+l'installation du câblage secteur. 
+3.	 Insérez l'adaptateur dans le trou de 13 mm 
+(½") en bas du programmateur. Fixez 
+un écrou sur l'adaptateur à l'intérieur du 
+boîtier. 
+4.	 Aucune pile n'est nécessaire pour ce 
+programmateur. L'arrosage nécessite 
+toutefois une alimentation secteur. Ce 
+programmateur possédant une mémoire 
+non volatile, les programmes, l'horloge 
+et le calendrier sont conservés en cas de 
+panne de courant.
+Note : Doit être exclusivement installé par un électricien agréé. Lors de l'installation 
+du câblage électrique, utilisez toujours des câbles agréés UL de 13 mm (1/2") avec un 
+adaptateur mâle. Les programmateurs Pro-HC sont conçus pour être alimentés par courant 
+alternatif avec un dispositif de protection de surintensité. Une installation non conforme 
+peut engendrer un risque d'électrocution ou d'incendie. Cet appareil n'est pas conçu pour 
+être utilisé par de jeunes enfants. Ne laissez jamais des enfants jouer avec cet appareil.
+
+--- PAGE 37 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONNEXION DES FILS DE STATION
+1.	 Acheminez les fils des électrovannes 
+entre l'emplacement de l'électrovanne 
+de contrôle et le programmateur. 
+2.	 Au niveau des électrovannes, connectez 
+un fil neutre à l'un des deux fils de 
+solénoïde de toutes les électrovannes. 
+Il s'agit généralement d'un fil blanc. 
+Connectez un fil de commande distinct 
+à l'autre fil de chaque électrovanne. 
+Toutes les épissures doivent être 
+effectuées à l'aide de connecteurs 
+étanches. 
+3.	 Acheminez les fils des électrovannes par 
+le conduit, que vous fixerez à l'une des 
+ouvertures situées en bas du boîtier. 
+4.	 Dénudez 13 mm (½") d'isolant aux 
+extrémités de tous les fils. Connectez 
+le fil neutre de l'électrovanne à la borne 
+"COM" (neutre). Connectez chaque 
+fil de commande d'électrovanne aux 
+bornes de station appropriées.
+Remarque : Toutes les connexions de fil doivent être effectuées à l'aide de 
+connecteurs étanches. Connectez chacun des autres fils à un fil de couleur 
+différent. Notez quelles zones sont associées à chaque couleur de câble 
+pour pouvoir vous y référer ultérieurement. Connectez le fil neutre du câble 
+ulticonducteur (généralement blanc) à l'une des trois bornes du programmateur 
+sur lesquelles est inscrit COMMON (neutre).
+
+--- PAGE 38 ---
+7
+CONNEXION DES SONDES OU DES  
+DÉBITMÈTRES (FACULTATIF)
+Le programmateur Pro-HC prend en charge la plupart des sondes à contact ouvert/
+fermé, comme les sondes de pluie et d'humidité du sol de Hunter.
+1.	 Branchez un fil de sonde à la borne neutre (COM) du programmateur.
+2.	 Branchez le fil normalement fermé ou normalement ouvert de la sonde à la borne 
+SEN-1 ou SEN-2 du programmateur, puis configurez-la dans l'application Hydrawise.
+Pour plus de détails, consultez les 
+instructions fournies avec votre sonde  
+ou débitmètre. 
+Une fois que vous aurez branché votre 
+sonde, vous devrez la configurer sur 
+votre compte Hydrawise.
+Voir Configuration des sondes sur 
+hydrawise.com/support pour plus 
+d'instructions sur le paramétrage  
+des sondes.
+Voici comment brancher des débitmètres 
+Hydrawise 20 mm (0,75") ou 25 mm (1") standard :
+Fil du 
+débitmètre
+Étiquette du programmateur
+Bleu
+SEN-1, SEN-2 
+Blanc
+SEN COM 
+Rouge
+Not connected (non connecté)
+Voici comment brancher des sondes à contact          
+ouvert/fermé :
+Fil de la sonde
+Étiquette du 
+programmateur
+Fil normalement ouvert / 
+normalement fermé
+SEN-1, SEN-2 
+Deuxième fil (COM)
+SEN COM
+
+--- PAGE 39 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONNEXION À UN RÉSEAU WI-FI
+Quand votre programmateur est alimenté la première fois, un assistant se lance 
+brièvement pour connecter votre programmateur à votre routeur sans fil. Si vous 
+n'utilisez pas l'assistant de démarrage initial, rendez-vous à la section Paramètres 
+sans fil pour effectuer des modifications. Si vous avez besoin d'aide, veuillez contacter               
+hunter.direct/prohchelp.
+Utilisation de l'assistant
+1.	 Sélectionnez votre réseau sans fil dans la liste qui apparaît sur l'écran du 
+programmateur et appuyez sur le bouton Confirm (confirmer) à l'écran. 
+ 
+ 
+ 
+2. Saisissez votre mot de passe sans fil et appuyez sur le bouton OK du clavier. 
+ 
+ 
+ 
+ 
+     
+Lorsque vous vous connectez à votre réseau sans fil, l'icône du Wi-Fi 
+ située dans le 
+coin inférieur droit de l'écran du programmateur clignote. La connexion prend environ 30 
+secondes et, lorsque vous êtes bien connecté, l'icône du Wi-Fi 
+ s'arrête de clignoter et 
+s'affiche en continu.
+Remarque : Si votre réseau n'est pas répertorié, vérifiez si l'unité est bien à 
+portée sans fil.
+Remarque : Assurez-vous d'avoir bien appuyé sur le bouton OK une fois que 
+vous avez saisi votre mot de passe. Le fait d'appuyer sur les boutons Home 
+ (accueil) ou Back 
+  (retour) n'enregistre pas vos modifications.
+
+--- PAGE 40 ---
+9
+CONFIGURATION DE L'APPLICATION HYDRAWISE
+Pour brancher le programmateur HC à l'application Hydrawise, suivez ces étapes, puis 
+suivez les instructions à l'écran.
+Inscrivez-vous pour créer un compte en ligne
+1.	 Si vous ne l'avez pas déjà fait, rendez-vous sur Hydrawise.com et créez un compte.
+Connectez-vous à votre compte
+1.	 Si c'est la première fois que vous vous connectez, vous serez guidé par l'assistant de 
+paramétrage lors de la configuration initiale de votre programmateur.
+ 
+Le manuel d'utilisation et les instructions de l'application se trouvent à l'adresse : 
+Hydrawise.com/support
+  hunter.direct/prohchelp
+DÉPANNAGE 
+Vous avez besoin d'informations supplémentaires sur votre produit ?                  
+Découvrez des conseils sur l'installation, la configuration des programmateurs  
+et bien plus encore.
+
+--- PAGE 41 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+Déclaration de la FCC des États-Unis
+Cet appareil a été testé et déclaré conforme aux limitations applicables à un appareil numérique de classe
+B, en vertu de l'article 15 des réglementations FCC. Ces limitations sont conçues pour fournir une protection
+raisonnable contre les interférences nuisibles dans un environnement résidentiel. Cet appareil génère, utilise
+et peut émettre des radiofréquences ; dans le cas d'une installation et d'une utilisation non conformes aux
+instructions, il peut provoquer des interférences nuisibles avec les communications radio. Cependant, il
+n'existe pas de garantie qu'aucune interférence ne se produira dans une installation particulière. Si cet appareil
+provoque des interférences nuisibles avec un récepteur radio ou un téléviseur, ce qui peut être détecté en
+mettant l'appareil sous et hors tension, l'utilisateur peut essayer d'éliminer les interférences en essayant au
+moins l'une des procédures suivantes :
+• Réorienter ou déplacer l'antenne de réception.
+• Augmenter la distance entre l'appareil et le récepteur concerné.
+• Brancher l'appareil à une prise appartenant à un circuit différent de celui sur lequel est branché le récepteur.
+• Consulter le revendeur ou un technicien radio/TV expérimenté pour obtenir de l'aide.
+Pour satisfaire aux exigences d'exposition aux fréquences radio de la FCC pour les dispositifs de transmission
+mobiles et les stations de base, une distance de séparation de 20 cm ou plus doit être maintenue en
+cours de fonctionnement entre l'antenne de cet appareil et les personnes. Pour assurer la conformité,
+le fonctionnement à une distance inférieure n'est pas recommandé. L'(es) antenne(s) utilisée(s) pour ce
+transmetteur ne doit pas être co-localisée ni fonctionner en conjonction avec une autre antenne ou un autre
+transmetteur.
+Déclaration canadienne ISED
+Cet appareil se conforme aux normes RSS exemptes de licence d'Industrie ISED Canada. Son fonctionnement est
+soumis aux deux conditions suivantes : (1) cet appareil ne doit pas causer d'interférences, et (2) cet appareil
+doit accepter toutes les interférences, y compris les interférences qui peuvent provoquer un fonctionnement 
+non voulu de l'appareil.
+Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio exempts de
+licence. L’exploitation est autorisée aux deux conditions suivantes: (1) l’appareil ne doit pas produire de
+brouillage, et (2) l’utilisateur de l’appareil doit accepter tout brouillage radioélectrique subi, même si le
+brouillage est susceptible d’en compromettre le fonctionnement.
+
+--- PAGE 42 ---
+1
+SOMMARIO
+SUPPORTO PRO-HC
+Grazie per aver acquistato il programmatore Pro-HC di Hunter. In questa Guida di avvio 
+rapido, sono disponibili informazioni sull’installazione e configurazione del programmatore 
+Pro-HC e sul collegamento alla rete Wi-Fi. Per ricevere supporto sul software cloud 
+Hydrawise™ o assistenza per l’account Hydrawise, visitare hunter.direct/prohchelp.
+La confezione di Pro-HC contiene:
+•	 Un programmatore Pro-HC Wi-Fi
+•	 Un trasformatore da 24 Vac (modello per interni) o un trasformatore integrato  
+(modello per esterni)
+•	 3 viti e 3 tasselli per il montaggio a parete
+•	 3 fili per i modelli da esterno US e 1 blocco terminale per modelli Europei da esterno
+Installazione del programmatore Pro-HC
+3
+Collegamento dell'alimentazione CA
+5
+Collegamento dei cavi delle stazioni
+7
+Collegamento di sensori o misuratori                  
+di portata
+8
+Collegamento a una rete Wi-Fi 
+9
+Configurazione dell’applicazione
+10
+
+--- PAGE 43 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+INSTALLAZIONE DEL PROGRAMMATORE PRO-HC
+Installazione del programmatore Pro-HC
+Iniziare scegliendo un luogo con una buona copertura Wi-Fi. La copertura del segnale 
+Wi-Fi può essere facilmente verificata con uno smartphone. Si consiglia di collegarsi a un 
+segnale con potenza di 2 o 3 barre.  La connettività Wi-Fi può essere verificata anche sul 
+programmatore HC stesso (la potenza del segnale viene mostrata quando si seleziona 
+una rete wireless).
+Montaggio a parete del programmatore
+Tutto il necessario per l' installazione è incluso.  
+EN
+
+--- PAGE 44 ---
+3
+Montaggio a parete del programmatore (continuo)
+1.	 Utilizzare come riferimento il foro sulla parte superiore del programmatore e avvitare 
+una vite da 25 mm (1") alla parete. Nota: se la parete non è molto solida, utilizzare gli 
+appositi tasselli.
+2.	 Allineare il programmatore alla vite e far scorrere sulla vite il foro collocato sulla parte 
+superiore del programmatore.
+3.	 Fissare il programmatore collocando le viti negli altri fori di montaggio. 
+ 
+Per PHC-601-A, PHC1201-A e PHC2401-A: se il cavo di alimentazione è danneggiato, per 
+evitare pericoli deve essere sostituito dal produttore, da un rappresentante dell'assistenza 
+o da una persona qualificata.
+
+--- PAGE 45 ---
+4
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+COLLEGAMENTO DELL'ALIMENTAZIONE CA
+Armadietto per interni
+Far passare il cavetto del trasformatore nel foro collocato sul lato inferiore sinistro del 
+programmatore e collegare un cavo giallo a ogni vite contrassegnata con 24AC e il cavo 
+verde a GND.
+Nota: Il programmatore HC è un modello da interno, non è impermeabile o 
+resistente alle intemperie e deve essere installato all'interno di una abitazione 
+o in un'area protetta. Questo dispositivo non è destinato ad essere utilizzato da 
+bambini. Non lasciare che i bambini giochino con questo dispositivo.
+AC-1
+Giallo
+AC-2
+Giallo
+TERRA
+Verde
+Trasformatore
+ES
+EN
+
+--- PAGE 46 ---
+5
+Armadietto per esterni
+Il modello per esterni è impermeabile e resistente agli agenti atmosferici. Il collegamento 
+del programmatore Pro-HC per esterni alla fonte di alimentazione principale deve essere 
+effettuato da un elettricista qualificato, rispettando tutte le normative locali. 
+ FASE
+ 
+(Nero)
+ NEUTRO
+ 
+(Bianco)
+ TERRA
+ 
+(Verde)
+1.	 Far passare il cavetto di alimentazione CA 
+e la canalina nell'apertura del condotto 
+da 13 mm (½") collocata sul lato inferiore 
+sinistro dell'armadietto. 
+2.	 Collegare i cavi ai cavi del trasformatore 
+collocati all'interno del vano di 
+interconnessione. Le unità sono fornite 
+con una morsettiera integrata. Per 
+l'installazione del cablaggio CA adoperare 
+sempre un adattatore maschio per 
+canalina da 13 mm (½") omologato UL. 
+3.	 Inserire l'adattatore nel foro da 13 mm 
+(½") collocato nella parte inferiore del 
+programmatore. Applicare un dado 
+all'adattatore all'interno dell'involucro. 
+4.	 Questo programmatore non richiede una 
+batteria. In mancanza di alimentazione 
+CA, l'irrigazione non avrà luogo. 
+Questo programmatore è dotato di una 
+memoria permanente, per cui, in caso di 
+interruzione dell'alimentazione elettrica, 
+l'orologio e il datario del programmatore 
+continueranno a funzionare.
+Nota: L'installazione deve essere eseguita solo da un elettricista qualificato. Usare sempre un condotto da 
+½" (13 mm) con adattatore maschio durante l'installazione dei cavi. I programmatori Pro-HC devono essere 
+alimentati da corrente alternata con un dispositivo di protezione per la sovracorrente. Un'installazione non 
+corretta può provocare scosse elettriche o pericolo di incendio. Questo dispositivo non è destinato all'uso da 
+parte bambini piccoli. Non lasciare che i bambini giochino con questo dispositivo.
+
+--- PAGE 47 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+COLLEGAMENTO DEI CAVI DELLE STAZIONI
+1.	 Instradare i cavi delle valvole tra la loro 
+ubicazione e il programmatore. 
+2.	 In corrispondenza delle valvole, 
+collegare un cavo comune a uno dei 
+cavi del solenoide di ogni valvola. Nella 
+maggior parte dei casi, il cavo è di colore 
+nero. Collegare il cavo di comando 
+all'altro cavo del solenoide. Collegare 
+tutti i cavi adoperando connettori 
+impermeabili. 
+3.	 Far passare i cavi delle valvole nel 
+condotto e collegarli ai corrispettivi 
+morsetti contrassegnati da numeri. 
+4.	 Asportare 13 mm (½") di isolante dalle 
+estremità di tutti i cavi. Fissare il cavo 
+comune al terminale COM (Comune). 
+Collegare i cavi di comando delle valvole 
+ai terminali numerati corrispondenti alle 
+stazioni.
+Nota: collegare tutti i fili adoperando connettori a tenuta stagna. Collegare 
+ognuno dei fili a un filo con colore diverso. Prendere nota delle corrispondenza 
+tra zone e colore dei fili per riferimento futuro. Collegare il filo comune dal cavo 
+multipolare (in genere bianco) a uno qualsiasi dei tre terminali sul programmatore 
+contrassegnato come comune.
+EN
+
+--- PAGE 48 ---
+7
+COLLEGAMENTO DI SENSORI O MISURATORI DI 
+PORTATA (OPZIONALE)
+Il programmatore Pro-HC supporta la maggior parte dei sensori con tipo di contatto 
+aperto/chiuso, tra cui sensori pioggia e sensori di umidità Hunter.
+1.	 Collegate un filo del sensore all’ingresso COMMON (comune) sul programmatore.
+2.	 Collegare il filo normalmente chiuso o normalmente aperto dal sensore all’ingresso 
+SEN-1 o SEN-2 sul programmatore e configurare l’applicazione Hydrawise.
+Per dettagli completi, consultare le 
+istruzioni fornite in dotazione con il 
+sensore o il misuratore di portata. 
+Una volta collegato il sensore, è 
+necessario configurarlo nell'account 
+Hydrawise.
+Per istruzioni complete sulla 
+configurazione dei sensori, consultare 
+Configurazione dei sensori su 	
+hydrawise.com/support.
+I fili dei misuratori di portata da 20 mm (0,75") o 
+25 mm (1") di Hydrawise sono i seguenti:
+Filo del misuratore di 
+portata
+Etichetta sul 
+programmatore
+Blu
+SEN-1, SEN-2 
+Bianco
+SEN COM 
+Rosso
+Not connected (non 
+collegato)
+I fili sensori con contatto aperto/chiuso sono i seguenti:
+Cavo sensore
+Etichetta sul 
+programmatore
+Filo “normalmente aperto” 
+/“normalmente chiuso”
+SEN-1, SEN-2 
+Secondo filo (COM)
+SEN COM
+
+--- PAGE 49 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+COLLEGAMENTO A UNA RETE WI-FI
+Quando il programmatore viene acceso per la prima volta, verrà visualizzata una breve 
+procedura guidata per collegare il programmatore al router wireless.
+Se non si utilizza la configurazione guidata iniziale, andare alla sezione Impostazioni 
+wireless per apportare le modifiche. Per supporto, contattare hunter.direct/prohchelp.
+Utilizzo della procedura guidata
+1.	 Selezionare la rete wireless dall’elenco mostrato sul display del programmatore, quindi 
+premere il pulsante Confirm (Conferma) sullo schermo. 
+ 
+ 
+ 
+2.	 Inserire la password della rete wireless, quindi premere il pulsante OK sulla tastiera.
+ 
+ 
+ 
+ 
+ 
+Quando si esegue il collegamento alla rete wireless, l’icona Wi-Fi 
+ nella parte inferiore 
+destra della schermata del programmatore lampeggia. Il collegamento richiede circa 30 
+secondi; al termine, l’icona Wi-Fi 
+ smette di lampeggiare e resta accesa.
+Nota: se la rete non è presente nell’elenco, verificare che 
+l’unità si trovi nella portata del segnale wireless.
+Note: : accertarsi di premere il pulsante OK dopo aver 
+inserito la password. La pressione dei pulsanti Home 
+ o 
+Indietro 
+ non comporta il salvataggio delle modifiche.
+FR
+EN
+FR
+EN
+
+--- PAGE 50 ---
+9
+CONFIGURAZIONE DELL’APPLICAZIONE HYDRAWISE
+Per collegare il programmatore HC all’applicazione Hydrawise, procedere come segue, 
+quindi attenersi alle istruzioni visualizzate sullo schermo.
+Registrazione di un account online
+1.	 Se non è stato già fatto, visitare Hydrawise.com e registrare un account.
+Accesso all’account
+2.	 Se si tratta del primo accesso, verrà visualizzata una configurazione guidata che 
+consentirà di eseguire la configurazione iniziale del programmatore.
+ 
+Il manuale dell'utente e le istruzioni dell'applicazione sono disponibili qui: 	
+Hydrawise.com/support
+  hunter.direct/prohchelp
+RISOLUZIONE DEI PROBLEMI
+Avete bisogno di informazioni più utili sul vostro prodotto?
+Ricevete suggerimenti sull’installazione, sulla programmazione del 
+programmatore e molto altro ancora.
+
+--- PAGE 51 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+Dichiarazione FCC negli Stati Uniti
+Questa apparecchiatura è stata sottoposta a verifica ed è stata ritenuta conforme ai limiti relativi ai 
+dispositivi digitali di classe B, in osservanza delle normative FCC, Parte 15. Tali limiti sono concepiti per 
+fornire una protezione ragionevole contro interferenze dannose in un'installazione residenziale. La presente 
+apparecchiatura genera, utilizza e può irradiare energia in radiofrequenza; se non è installata e adoperata 
+rispettando le istruzioni fornite, può causare interferenze dannose alle comunicazioni radio. Tuttavia, 
+non esiste alcuna garanzia circa il verificarsi di interferenze in una determinata installazione. Se questa 
+apparecchiatura causa interferenze dannose alla ricezione radiotelevisiva, che possono essere determinate 
+spegnendo e accendendo l'apparecchiatura, si invita l’utente a eliminare le interferenze adottando una o più 
+contromisure di seguito indicate:
+• Modificare l'orientamento o la posizione dell'antenna ricevente.
+• Aumentare la distanza tra l'apparecchiatura e il ricevitore.
+• Collegare l'apparecchiatura a una presa di un circuito differente da quella a cui è collegato il ricevitore.
+• Per assistenza, rivolgersi al rivenditore o a un tecnico radio/TV esperto.
+Per soddisfare i requisiti di esposizione alle radiofrequenze FCC per i dispositivi mobili e a trasmissione di 
+stazioni di base, è necessario mantenere una distanza di separazione di almeno 20 cm tra l’antenna del 
+dispositivo e le persone durante il funzionamento. Per garantire la conformità, non si consiglia di operare a una 
+distanza inferiore a quella indicata. La o le antenne utilizzate per il presente trasmettitore non devono essere 
+collocate o funzionare congiuntamente ad altre antenne o trasmettitori.
+Dichiarazione ISED Canada
+Il presente dispositivo è conforme agli standard RSS esenti da licenza di Industry ISID Canada. Il 
+funzionamento è soggetto a due condizioni, di seguito indicate: (1) il presente dispositivo non può causare 
+interferenze e (2)il presente dispositivo deve accettare qualsiasi interferenza, incluse interferenze che 
+potrebbero  ausare il funzionamento indesiderato del dispositivo. Le présent appareil est conforme aux CNR 
+d’Industrie Canada applicables aux appareils radio exempts de licence. L’exploitation est autorisée aux deux 
+conditions suivantes: (1) l’appareil ne doit pas produire de brouillage, et (2) l’utilisateur de l’appareil doit 
+accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d’en compromettre le 
+fonctionnement. 
+EN
+
+--- PAGE 52 ---
+1
+ÍNDICE
+SUPORTE PRO-HC
+Obrigado por adquirir o controlador Pro-HC da Hunter. Neste guia você aprenderá como
+instalar e configurar o controlador Pro-HC e conectá-lo à internet (Wi-Fi).                         
+Para obter suporte técnico sobre o Hydrawise™ ou ajuda com sua conta Hydrawise, 
+acesse hunter.direct/prohchelp.
+Seu controlador é enviado com:
+•	 O controlador Wi-Fi Pro-HC da Hunter
+•	 Transformador 24V CA (interno) ou transformadores instalados de fábrica (externo)
+•	 3 parafusos e 3 buchas para montagem na parede
+•	 3 porcas de fios para modelos externos EUA e 1 bloco de terminal para modelos 
+externos europeus.
+Instalação
+3
+Conectando o cabo de alimentação
+5
+Conectando a fiação dos setores
+7
+Conectando sensores ou medidores de vazão
+8
+Conexão com uma rede Wi-Fi 
+9
+Configuração do aplicativo Hydrawise
+10
+
+--- PAGE 53 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+INSTALAÇÃO
+Instalação do controlador Pro-HC
+Comesse escolhendo um local com boa cobertura de Wi-Fi. A cobertura de Wi-Fi pode 
+ser testada com facilidade usando um celular smartphone. É recomendável que a 
+força do sinal seja de 2 ou 3 barras. A conectividade Wi-Fi também pode ser testada 
+diretamente no controlador Pro-HC (a força do sinal é mostrada quando você seleciona 
+uma rede sem fio).                             
+Montando o controlador na parede 
+Todo material necessário para a maioria das instalações esta incluso. 
+FR
+IT
+ES
+EN
+
+--- PAGE 54 ---
+3
+Montando o controlador na parede (continuação)
+1.	 Use o buraco no topo do controlador como uma referência e insira um parafuso de 25 
+mm na parede. Nota: é altamente recomendado o uso de buchas com os parafusos.
+2.	 Alinhe o controlador com o parafuso e deslize o buraco no topo do controlador sobre o 
+parafuso.
+3.	 Fixe o controlador no lugar parafusando nos outros buracos designados.
+ 
+Para os modelos  PHC-601-A, PHC1201-A e PHC2401-A: se o cabo fornecido estiver 
+danificado, ele deve ser substituído pelo fabricante ou por um representante ou alguém 
+qualificado, para evitar riscos.
+
+--- PAGE 55 ---
+4
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONECTANDO O CABO DE ALIMENTAÇÃO
+Gabinete interno
+Direcione o cabo do transformador pelo buraco no lado esquerdo na parte de baixo do 
+controlador e conecte um cabo amarelo a cada um dos parafusos marcados como 24AC e 
+o cabo verde ao parafuso GND.
+Nota: o modelo para interiores Pro-HC não é a prova d'água ou resistente aos elementos 
+naturais, e deve ser instalado em interiores ou em locais protegidos. Esse dispositivo não 
+é feito para ser usado por crianças. Nunca deixe crianças brincarem com esse dispositivo. 
+AC-1
+(amarelo)
+AC-2
+(amarelo)
+TERRA
+(verde)
+Transformador
+FR
+IT
+ES
+EN
+
+--- PAGE 56 ---
+5
+Gabinete exterior
+O modelo para exteriores é a prova d'água e resistente aos elementos naturais. A conexão do 
+Pro-HC modelo exterior à alimentação principal deve ser feita por um eletricista licenciado, 
+seguindo todas as normais locais.
+ QUENTE
+ 
+(Preto)
+ NEUTRO
+ 
+(Branco)
+ TERRA
+ 
+(Verde)
+1.	 Direcione o cabo CA de alimentação e o 
+conduíte através do entrada para o conduíte 
+de 13 mm no lado esquerdo na parte de 
+baixo do gabinete. 
+2.	 Conecte a fiação de alimentação à fiação do 
+transformador dentro da caixa de junção. 
+Unidades internacionais vem com uma faixa 
+de  blocos de terminais instalada. Sempre 
+use um adaptador macho de conduíte UL de 
+13 mm quando for instalar a fiação CA.
+3.	 Insira o adaptador no buraco de 13 mm 
+na parte de baixo do controlador. Anexe a 
+porca no adaptador na parte de dentro do 
+gabinete. 
+4.	 Baterias não são necessárias para esse 
+controlador. A rega não vai acontecer se não 
+houver energia. Como esse controlador tem 
+memória não-volátil, os programas, hora 
+do dia e calendário não serão perdidos caso 
+haja falta de energia. 
+Nota: a instalação deve ser feita por um eletricista licenciado. Sempre use cuinduítes 
+UL de 13 mm com adaptador macho quando fizer a instalação da fiação CA. 
+Controladores Pro-HC são projetados para serem alimentados por uma corrente CA 
+com um protetor de sobretensão. Instalações indevidas podem resultar em choques 
+ou riscos de incêndio. Esse dispositivo não deve ser usado por crianças. Não deixe 
+crianças brincarem com esse dispositivo.
+
+--- PAGE 57 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONECTANDO A FIAÇÃO DOS SETORES
+1.	 Posicione a fiação das válvulas entre o 
+controle das válvulas e o controlador. 
+2.	 Nas válvulas, anexe um fio comum a 
+um dos fios solenoide (repita isso com 
+todas as válvulas). Normalmente esse 
+é um fio branco. Anexe um outro fio 
+de controle ao segundo fio solenoide 
+(repita isso com todas as válvulas). 
+Todas as conexões devem ser feitas com 
+conectores à prova de água. 
+3.	 Encaminhe a fiação pelo conduíte e 
+anexe o conduíte a uma das aberturas 
+na parte de baixo do gabinete.
+4.	 Descasque 13 mm da ponta de todas 
+as fiações. Anexe a fiação comum da 
+válvula ao terminal COM. Anexe todas 
+as fiações individuais das válvulas aos 
+terminais de setores apropriados.  
+Nota: todas as emendas da fiação devem ser feitas com conectores à prova d'água. 
+Conecte cada um dos fios individuais a um fio de cor diferente. Registre setores 
+em relação à cor dos fios para referência futura. Conecte o fio comum do cabo de 
+vários núcleos (normalmente branco) a qualquer um dos terminais no controlador 
+marcado como comum (COM).
+FR
+IT
+ES
+EN
+
+--- PAGE 58 ---
+7
+CONECTANDO SENSORES OU MEDIDORES DE 
+VAZÃO (OPCIONAL)
+Controladores Pro-HC aceitam a maioria dos sensores de contato do tipo aberto/fechado, 
+como o sensor de chuva e sensor de umidade do solo da Hunter.  
+1.	 Conecte um fio do sensor ao COM no controlador.
+2.	 Conecte o fio normalmente aberto ou normalmente fechado do sensor ao SEN-1 ou  
+SEN-2 no controlador e configure no aplicativo Hydrawise.
+Para mais detalhes, veja as instruções 
+que são fornecidas com o seu sensor ou 
+medidor de vazão.
+Assim que você instalar seu sensor, 
+você deve configura-lo na sua conta 
+Hydrawise.
+Consulte "Configuring Sensors" no site 
+hydrawise.com/support para mais 
+instruções em como configurar os 
+sensores. 
+Fiação para sensores de vazão padrão                          
+de 0.75" (20mm) ou 1" (25mm):
+Fiação do Sensor de 
+Vazão
+Terminal no 
+Controlador
+Azul
+SEN-1, SEN-2 
+Branco
+SEN COM 
+Vermelho
+Não conectado
+Fiação para sensores de contato aberto/fechado:
+Fiação do Sensor de Vazão
+Terminal no 
+Controlador
+Fiação normalmente aberta/
+normalmente fechada
+SEN-1, SEN-2 
+Segundo fio (fiação comum)
+SEN COM
+
+--- PAGE 59 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+CONEXÃO COM UMA REDE WI-FI
+Quando o controlador é ligado pela primeira vez, um breve assistente é executado para 
+conectar o controlador ao roteador de internet.
+Se você não estiver usando o assistente inicial, vá para a seção "Wireless Settings" para 
+fazer mudanças. Para mais ajuda, acesse hunter.direct/prohchelp.
+Usando o assistente
+1.	 Selecione sua rede sem fio na lista mostrada no visor do controlador e pressione o 
+botão Confirm (Confirmar) na tela. 
+ 
+ 
+ 
+2.	 Insira a senha e pressione o botão OK no teclado.
+ 
+ 
+ 
+ 
+ 
+Ao se conectar à rede sem fio, o ícone Wi-Fi 
+ piscará na parte inferior direita da tela do 
+controlador. A conexão leva cerca de 30 segundos e, quando conectado com êxito, o ícone 
+Wi-Fi 
+ para de piscar e permanecerá ligado.
+Nota: se a sua rede não estiver listada, verifique se o 
+controlador esta dentro da cobertura da sua rede WiFi.
+Nota: certifique-se de pressionar o botão OK depois de 
+inserir a senha. Se você pressionar o botão Home 
+ (Inicial) 
+ou Back 
+ (Voltar) suas alterações não serão salvas.
+FR
+IT
+ES
+EN
+
+--- PAGE 60 ---
+9
+CONFIGURAÇÃO DO APLICATIVO HYDRAWISE
+Para conectar o controlador Pro-HC ao aplicativo Hydrawise, siga estas etapas e siga as 
+instruções na tela.
+Criando uma conta online
+1.	 Caso ainda não tenha feito isso, crie uma conta no site da Hydrawise.  
+Acesse Hydrawise.com e crie uma conta.
+Acessando sua conta
+2.	 Caso seja seu primeiro acesso à sua conta, você será guiado por um assistente de 
+configuração para ajudá-lo com a configuração inicial de seu controlador.
+ 
+O manual do proprietário e instruções do aplicativo podem ser                                                
+acessados no site Hydrawise.com/support
+  hunter.direct/prohchelp
+RISOLUZIONE DEI PROBLEMI
+Avete bisogno di informazioni più utili sul vostro prodotto?
+Ricevete suggerimenti sull’installazione, sulla programmazione del 
+programmatore e molto altro ancora.
+
+--- PAGE 61 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+Declaração do FCC dos EUA
+Este equipamento foi testado e considerado compatível com os limites de um dispositivo digital Classe B de 
+acordo com a parte 15 das Regras de FCC. Esses limites têm o objetivo de fornecer proteção razoável contra 
+interferência prejudicial em uma instalação residencial. Esse equipamento gera, usa e pode radiar energia de 
+radiofrequência e, se não for instalado e usado conforme as instruções, pode causar interferência prejudicial 
+em comunicações de rádio. Contudo, não há nenhuma garantia de que essa interferência não ocorrerá em uma 
+determinada instalação. Se o equipamento causar interferências na recepção de rádio ou TV, o que pode ser 
+determinado se o equipamento for desligado e ligado, o usuário poderá tentar corrigir as interferências por meio 
+de uma ou várias das seguintes medidas: 
+• Reoriente ou realoque a antena receptora.
+• Aumente o espaço entre o equipamento e o receptor.
+• Conecte o equipamento à tomada em um circuito diferente do qual o receptor está conectado.
+• Consulte o fornecedor ou um técnico de rádio/TV experiente para obter ajuda.
+Para atender aos requisitos de exposição RF do FCC para transmissão móvel e de estação base, uma distância de 
+separação de 20 cm ou mais deve ser mantida entre a antena desse dispositivo e as pessoas durante a operação. 
+Para assegurar a conformidade, a operação em uma distância mais próxima não é recomendável. As antenas 
+usadas para esse transmissor não devem ser coincidir ou operar em conjunto com qualquer outra antena ou 
+transmissor.
+Declaração da ISED Canadá
+Este dispositivo está em conformidade com os padrões RSS isentos de licença da indústria ISED canadense. 
+A operação está sujeita às duas condições a seguir: (1) este dispositivo não pode causar interferência e (2) 
+este dispositivo deve aceitar qualquer interferência, incluindo as que podem causar operação indesejada do 
+dispositivo. 
+Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio exempts de licence. 
+L’exploitation est autorisée aux deux conditions suivantes: (1) l’appareil ne doit pas produire de brouillage, et (2) 
+l’utilisateur de l’appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible 
+d’en compromettre le fonctionnement.
+
+--- PAGE 62 ---
+1
+İÇİNDEKİLER
+PRO-HC DESTEK
+Hunter Pro-HC Kontrol Ünitesini satın aldığınız için teşekkür ederiz. Bu Hızlı Başlangıç 
+Rehberi, Pro-HC Kontrol ünitesinin kurulum ile konfigürasyonunun ve Wi-Fi'ye bağlantının 
+nasıl yaptığı konularında sizlere yardımcı olacaktır.  Hydrawise bulut yazılımı ile ilgili destek 
+veya Hydrawise hesabınızla ilgili yardım için lütfent hunter.direct/prohchelp websitesini 
+ziyaretediniz.
+Pro-HC kutunuzda aşağıdakiler mevcuttur: 
+•	 Pro-HC Wi-Fi kontrol ünitesi
+•	 24 V AC transformatör (İç mekan modeli) veya Dahili Transformatör (Dış Mekan Modeli)
+•	 3 vida ve duvar montajı için 2 dübel
+•	 ABD dış mekan için 3 kablo bağlantısı ve Avrupa dış mekan modelleri için 1 Terminal blok
+Kurulum
+3
+AC Gücün Bağlanması
+5
+İstasyon kablolarının bağlanması
+7
+Sensör veya Debi Ölçerlerin Bağlanması
+8
+Wi-Fi ağına bağlanmak
+9
+Uygulama Konfigürasyonu
+10
+
+--- PAGE 63 ---
+2
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+KURULUM
+Pro-HC Kontrol Ünitesinin Kurulumu
+İyi Wi-Fi kapsama alanı olan bir lokasyon seçmek ile başlayınız. Wi-Fi kapsama 
+alanı bir akıllı telefon kullanılarak kolaylıkla test edilebilir. 2 veya 3 barlık sinyal gücü 
+önerilmektedir. Wi-Fi bağlantısı, HC'nin kendisinde de test edilebilir (kablosuz ağı 
+seçtiğinizde sinyal gücü belirecektir). 
+Kontrol ünitesinin duvara montajı
+Kurulum için gerekli tüm donanım dahildir.  
+FR
+IT
+PT
+ES
+EN
+
+--- PAGE 64 ---
+3
+Kontrol ünitesinin duvara montajı
+1.	 Kontrol ünitesinin üzerindeki deliği işaret olarak kullanın ve duvara 25 mm lik bir vida 
+sabitleyin. Not: Kontrol ünitesini alçı panele veya taş duvara monte ederken dübelleri 
+yerleştirin. 
+2.	 Kontrol ünitesini vida ile aynı hizaya getirin ve kontrol ünitesinin üzerindeki anahtar 
+deliğini vidaya doğru kaydırın. 
+3.	 Diğer montaj deliklerine vida yerleştirerek kontrol ünitesini sabitleyin.
+ 
+PHC-601-A, PHC1201-A ve PHC2401-A için: güç kaynağı kabloları hasar gördüyse, 
+tehlikeyi azaltmak için üretici firma, servis veya benzer şekilde kalifiye bir kişi tarafından 
+değiştirilmelidir.
+
+--- PAGE 65 ---
+4
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+AC GÜCÜN BAĞLANMASI
+İç mekan kabin
+Kontrol ünitesinin alt sol tarafındaki delikten transformatör kablosunu geçirin ve Sarı 
+Kabloyu 24AC olarak işaretlenmiş olan vidalara ve Yeşil Kabloyu GND olan vidaya bağlayın. 
+Not: İç mekan Pro-HC suya veya havaya dayanıklı değildir, ve iç mekanlara ve 
+korunaklı bölgelere monte edilmelidir. Bu cihazlar küçük çocukların kullanımına 
+uygun değildir. Çocukların bu cihazla oynamasına izin vermeyiniz.
+AC-1
+(San)
+AC-2
+(San)
+TOPRAK
+(Yeşil)
+Transformatör
+FR
+IT
+PT
+ES
+EN
+
+--- PAGE 66 ---
+5
+Dış mekan kabini
+Dış mekan modeli su ve havaya dayanıklıdır. Dış mekan Pro-HC'yi ana güce bağlama işlemi 
+lisanslı bir elektrikçi tarafından tüm yasal kodlar dikkate alınarak yapılmalıdır. 
+ FAZ
+ 
+(Siyah)
+ NÖTR
+ 
+(Beyaz)
+ TOPRAK
+ 
+(Yeşil)
+1.	 AC güç kablosunu ve elektrik borusunu 
+kabinin sol alt kısmındaki 1/2" boru 
+boşluğundan içeriye sokun. 
+2.	 Kabloları, buat kutusunun içerisindeki 
+transformatör kablolarına bağlayın. 
+Uluslararası üniteler, dahili klemens ile 
+temin edilmektedir. Her zaman UL onaylı 
+1/2" boru erkek adaptörü AC kablolamsı 
+esnasında kullanın. 	
+	
+	
+3.	 Adaptörü kontrol ünitesinin alt tarafındaki 
+1/2" deliğe yerleştiriniz. Kabinin içinden 
+bir somunu adaptöre bağlayınız. 
+4.	 Bu kontrol ünitesi için pil 
+gerekmemektedir. AC güç olmadan 
+sulama gerçekleşmeyecektir. Bu kontrol 
+ünitesinin kaybolmayan hafızası olduğu 
+için, elektrik kesintisi durumunda, 
+program, saat ve takvim korunuyor 
+olacaktır.
+Not: Sadece lisanslı elektrikçi tarafından yapılmalıdır. AC kablosunu bağlarken her 
+zaman UL onaylı 1,/2" kablo borusu ve erkek adaptör kullanın. AC gücü, Pro-HC kontrol 
+ünitelerinde, aşırı-akım korumalı cihaz ile temin edilmek üzere tasarlanmıştır. Hatalı 
+kurulum, şok veta yangın teklikesi ile sonuçlanabilir. Bu cihazlar küçük çocukların 
+kullanımına uygun değildir. Çocukların bu cihazla oynamasına izin vermeyiniz.
+
+--- PAGE 67 ---
+6
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+İSTASYON KABLOLARININ BAĞLANMASI
+1.	 Vana kablolarını kullanarak, kontrol 
+vanalarını ve kontrol ünitesini birbirine 
+bağlayın. 
+2.	 Vanalarda, ortak kabloyu vananın 
+üzerindeki solenoidin herhangi bir 
+kablosuna bağlayın. Bu genelde, 
+beyaz-renkli bir kablodur. Diğer bir 
+kontrol kablosunu, her bir vanada açıkta 
+kalan diğer kabloya bağlayın. Tüm 
+kablo kaynak bağlantıları, sugeçirmez 
+konnektörler ile yapılmalıdır. 
+3.	 Vana kablolarını bir boru içerisinden 
+geçiriniz ve kabinin altındaki girişlerden 
+birine kabloyu bağlayınız. 
+4.	 Yalıtım için tüm kabloların uçlarından 
+13 mm uzunluğunda parçayı sıyırın. 
+Vana ortak kablosunu "COM" (Ortak) 
+terminale sabitleyin. Her bir vana 
+kontrol kablosunu uygun istasyon 
+terminallerine bağlayınız.
+Not:  Tüm kablo bağlantıları, su geçirmez konnektörlerle yapılmalıdır. Solenoidde 
+kalan diğer kabloyu farklı renkte bir kabloya bağlayın. Daha sonrası referans olması 
+için, bölgeleri renklere göre kaydedin. Çok damarlı kablodan gelen ortak kabloyu 
+(genellikle beyaz), kontrol ünitesinde COMMON (ortak) olarak işaretlenmiş üç 
+terminalden herhangi birine bağlayın.
+
+--- PAGE 68 ---
+7
+SENSÖR VEYA DEBİ ÖLÇERLERİN BAĞLANMASI 
+(OPSİYONEL)
+Pro-HC Kontrol Ünitesi, Hunter yağmur ve nem sensörü gibi, çoğu açık/kapalı tip sensör 
+türünü destekler.
+1.	 Bir sensör kablosunu, kontrol üntesindeki COMMON (ortak)'a bağlayın.
+2.	 Sensörden, normalde Kapalı veya Normalde Açık kabloyu, kontrol ünitesindeki SEN-1 
+veya SEN2'ye bağlayınız ve Hydrawise uygulamasında konfigüre ediniz.
+Tüm detaylar için, sensörünüz veya debi 
+ölçerinizle sağlanan talimatlara bakınız.  
+ 
+Sensörünüzü kabloladığınızda, onu 
+Hydrawise hesabınızdan konfigüre 
+etmelisiniz.  
+ 
+Sensörlerin kurulumu için hydrawise.
+com/support'tan Sensörlerin 
+Konfigürasyonu bölümüne bakarak tüm 
+talimatlara ulaşabilirsiniz. 
+Standart Hydrawise 20 mm (0.75" veya 25 mm (1") 
+debi ölçerlerin kablolaması aşağıdaki gibidir:
+Debi Ölçer Kablosu
+Kontrol Ünitesindeki 
+Etiket
+Mavi
+SEN-1, SEN-2 
+Beyaz
+SEN COM 
+Kırmızı
+Bağlanmaz
+Açık/kapalı tip sensörleri için kablolama aşağıdaki 
+gibidir:
+Sensör Kablosu
+Kontrol Ünitesindeki 
+Etiket
+Normalde Açık/ 
+Normalde Kapalı kablo
+SEN-1, SEN-2 
+İkinci (ortak) kablo
+SEN COM
+
+--- PAGE 69 ---
+8
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+WI-FI AĞINA BAĞLANMAK
+Kontrol ünitenize ilk olarak elektriğe bağlandığında, kontrol ünitenizin Wi-Fi ağına 
+bağlanması için kolay kurulum sihirbazı çalışacaktır.
+Başlangıç kurulum sihirbazı kullanmıyorsanız, ayarlarda değişiklik yapmak için Wireless 
+Settings (Kablosuz Ayarlar)'e gidiniz. Destek için lütfen hunter.direct/prohchelp'ten 
+bizimle iletişime geçiniz.  
+Kolay Kurulum Sihirbazının Kullanımı
+1.	 Kontrol ünitesi ekranında görülen listeden wireless network (kablosuz ağ)'u seçiniz ve 
+ekranda beliren Confirm (Onayla) tuşuna basınız. 
+ 
+ 
+ 
+2. Kablosuz şifrenizi giriniz ve klaveyede OK (tamam) tuşuna basınız. 
+ 
+Kablosuz ağa bağlandığınızda, kontrol ünitesinin sağ alt tarafında Wi-Fi 
+  ikonu yanıp 
+sönecektir. Bağlanma yaklaşık 30 saniye sürecektir ve bağlantı gerçekleştiğinde, Wi-Fi 
+ 
+ikonunun yanıp sönmesi duracak, sürekli olarak görünecektir.
+Note:  Kablosuz ağınız listede görünmüyorsa, kontrol ünitesinin 
+kablosuz kapsama alanı içerisinde olduğundan emin olunuz. 
+Note: Şifrenizi girdikten sonra OK tuşuna bastığınıza emin 
+olunuz. Home 
+ (Ana sayfa)  veya Back 
+ (Geri) tuşlarına 
+basarsanız, değişiklikler kayıt edilmemiş olacaktır.
+FR
+IT
+PT
+ES
+EN
+FR
+IT
+PT
+ES
+EN
+
+--- PAGE 70 ---
+9
+HYDRAWISE UYGULAMA KONFİGÜRASYONU
+HC Kontrol Ünitesini Hydrawise uygulamasına bağlamak için, aşağıdaki adımları ve 
+sonrasında ekranda belirecek yönlendirmeleri takip edin.
+Online Hesap için Kaydolun
+1.	 Henüz yapmadıysanız, Hydrawise.com'a gidin ve hesap açın. 	
+	
+	
+Hesabınıza Giriş Yapın
+2.	 Hesabınıza ilk kez giriş yapıyorsanız, kontrol ünitenizin başlangıç konfigürasyonuna 
+yardımcı olması için bir başlangıç sihirbazı tarafından yönlendirileceksiniz.
+ 
+Kullanım kılavuzu ve uygulama talimatlarına buradan ulaşabilirsiniz: 	
+	
+Hydrawise.com/support
+  hunter.direct/prohchelp
+SORUN GİDERME
+Ürün hakkında daha faydalı bilgilere mi ihtiyaç duyuyorsunuz?   
+Kurulum, kontrol ünitesinin programlanması ve daha fazlası 
+hakkında bilgi bulabilirsiniz.
+
+--- PAGE 71 ---
+10
+ES
+FR
+IT
+PT
+TR
+DE
+EN
+ABD FCC Bildirimi
+Bu ekipman test edilmiş ve FCC Kuralları’nın 15. Bölüm’de bahsedilen Class B sınıfı dijital aygıtları limitlerine 
+uygun olduğu tespit edilmiştir. Bu limitler konutsal kullanımlarda belirli zararlara karşı yeterli koruma 
+koşullarını kapsar. Bu ekipman radyo frekansı enerjisi oluşturur, kullanır ve yayar, eğer talimatlara uygun 
+şekilde kurulmaz ve kullanılmazsa radyo iletişiminde ciddi sorunlara yol açabilir. Bunun yanında kullanımı 
+sırasında etkileşim yaratmayacağı konusunda herhangi bir garanti verilmemektedir. Eğer bu ekipman, radyo 
+ve televizyon alıcılarını kapatmaya ve açmaya kadar varan ciddi etkileşimler yaratırsa kullanıcı aşağıdaki 
+yöntemleriuygulayarak etkileşimi düzeltmek zorunda kalabilir:
+• Alıcı anteni yeniden yönlendirmeli veya konumlandırmalı.
+• Ekipman ve alıcı arasındaki mesafeyi arttırmalı.
+• Ekipmanı, alıcının bağlı olduğundan farklı bir devredeki prize bağlamalı.
+• Kullanıcı satıcıdan ya da deneyimli bir radyo/TV teknisyeninden yardım almalıdır.
+Cep telefonu ve baz istasyonları emisyon cihazlarının FCC Radyo frenkasına Maruz kalma konusunda 
+gereksinimlerini karşılayabilmesi için, işlem esnasında, cihazın anteni ile kişiler arasında 20 cm veya 
+daha fazla mesafe bırakılmalıdır. Gereksinimleri yerine getirmek için daha kısa mesafede işlem yapılması 
+önerilmemektedir. Verici cihaz için kullanılan anten(ler) başka herhangi bir anten veya verici ile birlikte 
+yerleştirilmemelidir veya birlikte çalıştırılmamalıdır
+ISED Kanada Bildirimi
+Bu cihaz, ISED Kanada İnnovasyon, Bilim ve Ekonomik Gelişme Bakanlığı'nın lisanstan muaf RSS standartlarına 
+uygundur. Yürürlük aşağıda belirtilen iki şarta bağlıdır: (1) bu cihaz etkileşim yaratmayabilir, ve (2) bu cihaz, 
+cihazın istenmeyen şekilde çalışmasına sebep olabilecek etkileşim de dahil olmak üzere, herhangi bir etkileşimi 
+kabul etmelidir. 
+Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio exempts de 
+licence. L’exploitation est autorisée aux deux conditions suivantes: (1) l’appareil ne doit pas produire de 
+brouillage, et (2) l’utilisateur de l’appareil doit accepter tout brouillage radioélectrique subi, même si le 
+brouillage est susceptible d’en compromettre le fonctionnement.
+FR
+IT
+PT
+ES
+EN
+
+--- PAGE 72 ---
+RESIDENTIAL & COMMERCIAL IRRIGATION  |  Built on Innovation®
+Learn more. Visit hunterindustries.com
+RC-005-QG-PROHC-EN   11/17

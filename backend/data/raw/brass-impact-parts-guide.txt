@@ -1,0 +1,3755 @@
+--- PAGE 1 ---
+Brass Impact Parts Guides
+
+--- PAGE 2 ---
+Impact Sprinkler Head Types:
+Spoon-Driven, Wedge-Driven,
+and Precision Jet (PJ™).
+Principal of Operation
+On spoon-driven sprinklers, (Figure 1) the
+water passes through the body (1), then
+through the nozzle (2), past the sloping vane (3),
+through the window (4) into the curve of the
+spoon (5). The reactionary force of the water
+leaving the spoon drives the arm out of the
+stream and away from the nozzle. The tension
+of the arm spring (6) then pulls the arm back
+into the original position where it impacts on
+the bridge or nozzle, causing the sprinkler to turn. The impact is accentuated by the
+thickness and angle of the leading edge of the sloping vane.
+This impact is only suﬃcient to cause a small degree of travel so that the rotation of
+sprinkler is uniform and relatively slow (one-half to three minutes per revolution,
+depending on pressure and size of sprinkler and nozzle). Slow rotation keeps wear on
+moving parts at a minimum and prolongs the life of the sprinkler. 
+Wedge-drive sprinklers (such as the Rain Bird 14V) operate in the same manner except
+that the wedge rather than a spoon serves to force the arm in or out of the water stream.
+The chief advantages of the wedge are that it prevents an excessive amount of water
+from being deposited just below the sprinkler, and that it provides a greater driving force
+that rotates these sprinklers satisfactorily with smaller size nozzles. 
+Rain Bird patented Precision Jet (PJ™)
+sprinklers operate in a manner similar
+to a spoon-drive sprinkler with the PJ
+tube replacing the spoon. When the
+arm enters the stream, the water is
+directed through a tube. The back force
+of the water exiting the tube is along a
+line away from the fulcrum and,
+therefore, the arm is kicked back out of
+the stream. The advantage of the
+precision jet sprinkler is that side splash
+is eliminated. The PJ feature is used on
+part circle sprinklers that are placed
+adjacent to areas not to be watered.
+Cause of Sprinkler Failure or 
+Faulty Operation 
+Through many years of experience, we
+have found the conditions which
+interfere with the proper operation of
+Rain Bird sprinklers. The following items
+outline these conditions in detail and
+provide the necessary steps to resume
+proper sprinkler operation
+Maintenance Guide
+Impact Sprinklers
+1 Foreign Objects in Irrigation Water 
+If the sprinkler does not contain a stream
+straightener (small vaned device inside sprinkler in
+the nozzle, or just behind nozzle), soft materials
+may be removed from obstructed nozzles by
+inserting a coated or covered piece of wire, such as
+a pipe cleaner, through the nozzle while the
+sprinkler is operating. Care should be taken to avoid
+scratching the nozzle opening. If this fails, the
+nozzle should be removed and cleaned. Sprinklers
+containing stream straighteners should not be
+cleaned with a wire because of the possibility of
+damaging the vanes on the straightener. It is
+recommended that the nozzle and straightener be
+removed and cleaned. 
+The best guarantee against nozzle plugging
+problems is to adequately screen the water where it
+enters the system. Where water is derived from
+irrigation ditches, screening at the intake is a
+necessity. Information on types of
+screening/ﬁltering devices may be obtained from
+your Rain Bird distributor. 
+Technical Guides
+Maintenance Guide
+www.rainbird.com/ag
+How Impact Sprinklers Operate
+FIGURE 1
+Page 1
+
+--- PAGE 3 ---
+2 Oil or Pipe Dope 
+Rain Bird sprinklers are WATER LUBRICATED and must NOT be oiled in any manner. Oil
+causes the bearing washer to swell and soften and aﬀects the rotation of the sprinkler,
+frequently bringing it to a complete stop. Pipe dope or thread lubricant contains oil, and
+when applied to the bearing threads is carried to the washer, saturating it and causing
+the sprinkler to stop turning. If oil has been applied to the sprinkler, it will be necessary to
+disassemble the bearing and wipe the oil oﬀ the sleeve and nipple and replace the
+washer(s) with a new, clean one. 
+Bearing washers are composed of material which provides the friction necessary for the
+successful operation of the sprinkler. As stated previously, Rain Bird sprinklers are WATER
+LUBRICATED and all materials used in their construction are anti-rust and anti-friction
+metals, except the bearing washer. 
+3 Improper Pressure 
+Rain Bird sprinklers are designed and adjusted to operate over fairly wide pressure
+ranges depending on the model. When operating on pressure that is either too high or
+too low, the performance will be unsatisfactory both as to sprinkler rotation and water
+distribution. Operating a nozzle at too low of a pressure will result in large droplets and a
+distribution of most of the water around the outer edge of the pattern. If the pressure is
+extremely low the sprinkler may fail to rotate. In the case of too high a pressure, the
+nozzle will tend toward misting and even slight wind currents will carry the water away
+from the desired pattern. Extremely
+high pressure could cause the
+sprinkler arm to strike the back of
+the sprinkler body, causing the
+sprinkler to stand still or turn
+backwards. In general, as nozzle size
+increases, so must the pressure for
+desired performance. 
+4 Measuring Water Pressure 
+The nozzle pressure of a sprinkler is
+measured with a pilot tube while the
+sprinkler is in operation. 
+The pitot tube is used with a
+pressure gauge a shown in Figure 2.
+When used to measure the
+operating pressure of a sprinkler,
+where more than one sprinkler is
+operating on one pipe line or lateral,
+the curved end the tube is inserted
+into the stream 1/16" from nozzle. 
+When measuring the operating
+pressure the curve end of the tube
+must be held approximately 1/16”
+out from the nozzle opening and in
+the center of the stream. (Figure 3)
+This is done so that the ﬂow of water
+from the individual sprinkler will not be retarded, thus building up the pressure. 
+Move the curve end of the tube back and forth through the stream until the highest
+pressure is recorded. Do not insert the pitot into the oriﬁce.
+All pressures indicated in this manual and our catalog are pressures at the sprinkler,
+which may diﬀer considerably from pressures at a distant source from which water is
+supplied. Small diameter pipe or hose will reduce pressure considerably. Failure of a
+sprinkler to perform properly when pressure is lower than recommended for a particular
+size nozzle may be overcome by changing to a smaller size nozzle. However, it is not
+advisable to use a nozzle smaller than the minimum
+recommended size for the particular sprinkler model.
+To illustrate, sprinkler Model No. 30W failing to
+operate properly with a 3/ 64 ” nozzle may give very
+satisfactory performance with a 9/64” nozzle. 
+On the ADJ models, an adjustable pin is used on the
+nozzle extension- see Figure 4. At pressures from 30
+pounds up, the pin should not be set into the stream
+as far as when the sprinkler is operating at lower
+pressures (20 to 30 pounds). For these low pressures,
+you can adjust the pin so as to secure the desired
+break-up of the stream. This pin also can be adjusted
+to shorten the throw of the stream, where it is
+desirable to use the sprinkler in a smaller area. 
+The DC nozzle is used for controlling distance of
+throw. It is operated by adjusting the deﬂector
+downward into the water stream to decrease the
+distance of throw as desired. 
+FIGURE 2
+Pitot Tube - 41017
+and Gauge - RBGL 100
+Technical Guides
+Maintenance Guide
+FIGURE 3
+Pilot tube shown properly inserted into sprinkler nozzle. 
+(Approx. 1/8" from nozzle opening)
+DC NOZZLE
+Adjusting 
+Screw & Spring
+Nozzle
+Nozzle
+ADJ NOZZLE
+Deﬂector
+FIGURE 4
+FIGURE 5
+Spring Holes
+Stream
+Section A-A
+Nozzle
+Page 2
+
+--- PAGE 4 ---
+5 Damaged Parts 
+Occasionally sprinkler parts may be bent by
+accident. Cast bronze and aluminum alloy, used
+in Rain Bird parts, are pliable to certain limits.
+These parts can usually be bent back into shape
+if they are not too badly damaged.
+In the case of bending of a model 20 or 25 arm
+into shape after it has been damaged, it should
+be done so the vane “x” ﬁts ﬂat on the nozzle
+surface and so the stream will enter the window
+“y” as show in Figure 5. 
+A good rule of thumb for adjusting a bent arm is to bend it so that when the arm is at
+rest, the vane “x” (Figure 5) is just to the left of the nozzle opening when viewed toward
+the nozzle face with the sprinkler in an upright position. 
+6 Broken Arm Spring 
+To replace arm spring, pull the fulcrum pin
+with a pair of large diagonals or side
+cutting pliers as show in Figure 6. The pin
+is pressed into the body and will come out
+when pulled as show in sketch. Cut the
+spring loose and remove parts. 
+Feed end of spring through the holes in
+the arm, as shown in Figure 7, in the
+following way. 
+Holding the arm in your hand with the cup part of the spoon facing you, and spoon end
+of arm pointed to your right, feed end of spring
+into hole on your right (hole nearest spoon) then
+on through the hole on the left from the back
+side. The end of the spring is now pointing
+toward you. Bend over end (approximately 1/4”)
+using needle nose pliers (see Figure 7). The
+spring wire is normally longer than required.
+Hold arm with spoon end pointing toward you
+(looking down on top of arm). Cut oﬀ the tag end
+of the spring at the center line of the arm. Now
+install arm in body as shown in Figure 7. Drive
+fulcrum pin into lower hole with hammer. Pull
+arm around as far back as it will go, away from
+nozzle and feed upper end of spring into the
+hole that is farthest from the nozzle. Then feed through the other hole so it extends
+about 1/8” and bend this extended spring end over sharply to clinch. Check the
+assembled spring to be sure that the spring end does not rub against the center bearing
+of the arm or the spring coils when it rotates (see Figure 7). 
+Arm weights for some sprinkler mo els are available from Rain Bird distributors and
+dealers in order to adjust for proper spring tension. To check spring tension with the arm 
+weight, hang the weight over the outer lip of the spoon, with the sprinkler held in a
+sideways position. The weight should deﬂect the leading edge of the spoon below the
+nozzle opening but not beyond the hex point on the outside of the nozzle. If an arm
+weight is not available check the arm tension with that of a new sprinkler or with one
+that is operating satisfactorily. 
+If possible, water test sprinkler. Bring pressure up
+slowly to ensure that arm does not stick in stream.
+Also, try to hold arm in stream to see if it will come
+out and oscillate of it’s own accord. 
+7 Worn Bearing Washer 
+Inspect bearing washer (normally black),
+periodically and replace if worn or damaged. Failure
+to make needed replacements of these parts will
+result in damage to the more expensive Bearing
+Nipple and Sleeve. 
+8 Worn Wear Washers 
+The Bearing Sleeve is threaded on the lower end for
+attachment of the sprinkler to the piping system.
+The bottom of the lower end of a TNT style bearing
+(see Figure 10) is machined in such a shape as to ﬁt
+a T-shaped wear washer. Because of this ﬁt the wear
+washer should not turn in the Sleeve recess. The
+bottom of the lower end of the Sleeve is a seat only,
+Technical Guides
+Maintenance Guide
+www.rainbird.com/ag
+FIGURE 6
+Pry Down
+FIGURE 7
+Bend Ends  
+Inside Arms
+Spoon End 
+of Arm
+FIGURE 8
+Use of Arm Weight
+H Style Bearing
+FIGURE 9
+Stainless Steel
+Washer
+Bearing Nipple
+Wear Washer
+Top Seal Washer
+Bearing Spring
+Bearing Sleeve
+Bearing Washers
+Wear Washer
+Bearing Washer
+FIGURE 10
+TNT Style Bearing
+FIGURE 11
+Universal Bearing
+Wrench
+Page 3
+
+--- PAGE 5 ---
+Technical Guides
+Maintenance Guide
+not a wearing surface, which is also true for the
+Sleeve in the H style bearing. Note that the H
+style wear washer is ﬂat and is located
+diﬀerently than the water washer for the TNT
+style bearing (see Figure 9). 
+Check the wear washer periodically and replace
+if worn or damaged. Failure to replace will
+damage the much more expensive Bearing
+Nipple and Sleeve. 
+9 Replacing Bearings 
+A special wrench (Figure 11) is made to ﬁt all
+Bearing Nipples and to unscrew them from the
+body. This wrench should be available at your
+Rain Bird dealer; however, if you can not secure
+one, a small bar or large screwdriver may be
+used to unscrew the bearing. Be cautious when
+placing the sprinkler in a vise, not to squeeze the arm or other extended parts use the
+body. Washers that are worn thin from sand and other abrasives in the water should be
+replaced. 
+10 Trip Mechanism on Part Circle Models
+Model No. 25 
+Sand-Cast Trip Models-Bronze Color
+The trip spring (Figure 12) is about the only item in this assembly that may need to be
+replaced after extended use. To reach this spring, pull oﬀ the whole assembly after ﬁrst
+removing clip. Cut the spring loose from the upper trip casting and replace with a new
+one in the same position.
+After bending the spring, be sure there is not too much wire left. If there is, cut the end
+oﬀ so that it won’t rub against the lower trip casting. The assembly must be put together
+before it goes on the shaft. 
+Be sure spacer washers are in place as shown in Figure 12. Some water causes lime
+deposits, which should be cleaned oﬀ. Lime deposits can cause the mechanism to stick
+after a few years use. 
+Model No. 25 
+Powered Metal trip Models-Yellow Color
+Removing and replacing the trip spring for these sprinklers is the same in every respect
+as for sand cast trip models expect that the spring is held in place by a preform on one
+leg of the spring. No bending and cutting of the wire is required. The new spring is
+installed by pressing the spring leg with the preform through the appropriate hole and
+then following the above instructions for the sand-cast trip models. 
+Models No. 35 and No. 65D
+Although somewhat diﬀerent in their parts, the operation of these models is basically the
+same as the No. 25. 
+11 Setting Part Circle Friction Collars
+The purpose of the friction collars is to control the
+arc of the circle of coverage. On the 25, 35, and 65D,
+the collars must be moved with the ﬁngers only.
+Never use pliers in setting these collars. Use of pliers
+will cause the collars to lose their tension and, after
+a few settings, they will no longer hold their
+position. 
+SPRINKLER REPAIR SERVICE 
+If, after following the directions in this manual, your
+Rain Bird sprinkler does not operate properly, take it
+to your dealer or distributor for servicing. If they do
+not have the facilities for necessary repairs, contact
+the factory for the nearest authorized servicing
+facility. 
+DO NOT USE 
+OIL • GREASE • PIPE DOPE
+RAIN BIRD SPRINKLERS ARE WATER LUBRICATED
+FIGURE 12
+Bearing Washer
+Trip Washers
+E-Ring
+Page 4
+
+--- PAGE 6 ---
+1/2" Full Circle Impact Sprinkler
+14VH
+202  Catalog Number 
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+ Ref. Part Description 
+14VH 
+UPPER ASSEMBLY
+  3      Fulcrum Kit	
+177416
+1		
+Fulcrum Pin	
+(100793)	
+2		
+Arm Hood	
+(117360)
+7	 Arm Spring Assembly	
+177521	
+4		
+Arm Spring	
+(100172)	
+5		
+Wedge	
+(111188)	
+6		
+Wedge Pin	
+(116046)	
+NOZZLES (Specify nozzle size when ordering)
+8	 Straight Bore	
+105780xx	
+BEARING ASSEMBLY
+9	 Bearing Assembly (H Style)	
+177535	
+10		
+Top Seal Washer (Black)	
+(104183)	
+11		
+Metal Top Seal Washer	
+(100280)	
+12		
+Bearing Spring	
+(105431)	
+13		
+Bearing Sleeve (Brass)	
+177510	
+14		
+Bearing Washer (2) (Black)	
+(104181)	
+15		
+Wear Washer 	
+(104696)	
+16		
+Bearing Nipple	
+177516
+17	 Bearing Washer Kit	
+177536 
+10		
+Top Seal Washer (Black)	
+(104183)
+11		
+Metal Top Seal Washer	
+(100280)
+  12		
+  Bearing Spring	
+(105431)
+14		
+Bearing Washer (2) (Black)	
+(104181)
+15		
+Wear Washer 	
+(104696)	
+2
+15
+4
+5
+6
+8
+10
+12
+13
+14
+14
+16
+1
+7
+11
+9
+(Picture does not 
+depict actual 
+part)
+3
+17
+Page 5
+
+--- PAGE 7 ---
+6
+3 
+5
+2
+10
+11
+12
+13
+14
+15
+14
+16
+Ref.  
+Part Description 
+20JH
+ 20 ADJ-B
+UPPER ASSEMBLY
+ 1 
+Fulcrum Kit
+177415
+—
+ 2 
+   Fulcrum Pin
+(100793) 
+ (100793)
+ 3 
+   Arm Hood 
+(100775 ) 
+—
+ 4 
+Arm Spring Assembly
+177525 
+ (104984)
+ 5 
+   Arm Spring 
+(100133)
+ (106330)
+NOZZLES (Specify nozzle size when ordering)
+ 6 
+Straight Bore
+105780xx 
+ 05780xx
+–
+Nozzle & Vane Assembly
+106160xx
+—
+–
+Vane
+101618 
+ 
+101618
+7 
+Adjustment Screw 
+—
+ 
+100136
+8 
+Spring
+— 
+ 
+100203
+BEARING ASSEMBLY
+ 9 
+Bearing Assembly  
+177422
+ (109220)
+ 10 
+     Top Seal Washer (White)
+(100279)
+—
+ 11 
+     Metal Top Seal Washer  
+(100280)
+—
+ 12 
+     Bearing Spring 
+(105431)
+—
+ 13 
+     Bearing Sleeve (Brass)
+177510
+ (104983)
+ 14 
+     Bearing Washer (2) (Black) 
+(104181)
+ (104181)
+ 15 
+     Wear Washer (White)
+(104696)
+ (104696)
+ 16 
+     Bearing Nipple 
+177516
+ (104982)
+ 17 
+Bearing Washer Kit  
+177445
+—
+ 10 
+    Top Seal Washer (White)
+(100279)
+—
+ 11 
+    Metal Top Seal Washer  
+(100280)
+—
+ 12 
+     Bearing Spring(105431) 
+—
+ 14 
+     Bearing Washer (2) (Black) 
+(104181)
+ (104181)
+ 15 
+Wear Washer (White)
+(104696)
+ (104696)
+(Picture does 
+not depict 
+actual part)
+1
+7
+8
+17
+4
+9
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+1/2" Full Circle Impact Sprinkler
+20JH / 20 ADJ-B
+Catalog Number   204
+Page 6
+
+--- PAGE 8 ---
+3/4" Full Circle Impact Sprinkler
+L36H  / L36AH
+Catalog Number  222
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+ Ref. 
+Part Description 
+L36H 
+L36AH
+UPPER ASSEMBLY
+1	
+Body Cap	
+NA	
+NA
+2	
+Arm Spring Assy	
+(177527)	
+(177449)	
+  3		
+Arm		
+(115063)	
+(112236)
+4		
+Arm Spring	
+(114472)	
+(114472)
+5	
+Arm Washer	
+(100270)	
+(100270)
+6	
+Fulcrum Pin	
+(110726)	
+(110726)
+7	
+Body			
+NA	
+NA
+NOZZLES (Specify nozzle size when ordering)
+8	
+Straight Bore, Quick Fit	
+107881xx	
+107881xx
+8	
+Low Pressure, Quick Fit	
+109247xx	
+109247xx
+BEARING ASSEMBLY
+9	
+Bearing Assembly	
+177424	
+177425
+10		
+Top Seal Washer	
+(Gr) (103709)	(W) (100313)
+11		
+Metal Top Seal Washer	
+(100312)	
+(100312)
+12		
+Bearing Spring	
+(106237)	
+(106237)
+13		
+Bearing Sleeve	
+177511	
+177511
+14		
+Bearing Washer 	
+(B) (100726)	 (B) (100726)
+15		
+Wear Washer 	
+(O) (103058)	 (O) (104762)
+16		
+Seal or Brg Washer	
+(G) (102345)	 (B) (100726)
+17		
+Bearing Nipple	
+177517	
+177517
+  18	
+Bearing Washer Kit	
+177447	
+177448
+  10		
+Top Seal Washer	
+(Gr) (103709)	(W) (100313)
+11		
+Metal Top Seal Washer	
+(100312)	
+(100312)
+12		
+Bearing Spring	
+(106237)	
+(106237)
+  14		
+Bearing Washer 	
+(B) (100726)	 (B) (100726)
+15		
+Wear Washer 	
+(O) (103058)	 (O) (104762)
+16		
+Seal or Brg Washer	
+(G) (102345)	 (B) (100726)
+Bearing washer color code: W = White, Gr = Dark Green, B = Black,  O = Orange, G = Grey
+* NOTE: Old style L36 has a plastic bearing nipple, while new style L36 has a brass bearing 
+nipple. 
+1
+4
+8
+5
+8
+7
+9
+2
+3
+6
+17
+16
+15
+14
+13
+12
+11
+10
+ 18
+Page 7
+
+--- PAGE 9 ---
+3
+6
+12
+5
+13
+14
+15
+16
+17
+18
+19
+ 4
+2
+7
+11
+(“H” Bearing 
+Assembly)
+8
+9
+1
+10
+10
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+3/4" Full Circle Impact Sprinkler
+30H
+214   Catalog Number 
+Page 8
+
+--- PAGE 10 ---
+30H
+30FH
+ Ref. 
+Part Description 
+30WH
+30PWH 
+30FWH
+UPPER ASSEMBLY
+ 
+1 
+Fulcrum Kit
+177417 
+177417 
+177417
+ 
+2 
+ Fulcrum Pin
+(100271) 
+(100271) 
+(100271)
+ 
+3 
+ Arm Hood 
+(100968) 
+(100968) 
+(100968)
+ 
+6 
+ Arm Washer
+(100270) 
+(100270) 
+(100270)
+ 
+4 
+Arm/Spring Assembly
+177529 
+177530 
+177529
+ 
+5 
+ Arm Spring 
+(231061) 
+(100358) 
+(231061)
+NOZZLES (Specify nozzle size when ordering)
+ 
+7 
+Drive Nozzles
+–
+Straight Bore 
+105842xx 
+105842xx 
+105842xx
+–
+Straight Bore w/Vane (E Models) 
+106131xx 
+106131xx
+—
+–
+Keyhole
+106353xx 
+106353xx 
+106353xx
+–
+Spreader Nozzles
+ 
+8 
+ Spreader 7 Degree 
+100225xx
+—
+—
+ 
+8 
+ Spreader 20 Degree 
+100226xx
+—
+—
+ 
+9 
+ Spreader Plug (W Models) 
+100255
+—
+—
+ 
+ 
+Vane (E Models Not Pictured)
+105816 
+105816
+—
+BEARING ASSEMBLY
+ 11 
+ Bearing Assembly  
+180712
+177425 
+177425
+ 12 
+  
+Top Seal Washer (W=Wht/G=Grn) G (103709) 
+W (100313) 
+W (100313)
+ 13 
+  
+Metal Top Seal Washer
+(100312) 
+(100312) 
+(100312)
+ 14 
+  
+Bearing Spring 
+(106237) 
+(106237) 
+(106237)
+ 15 
+  
+Bearing Sleeve
+177511 
+177511 
+177511
+ 16 
+  
+Bearing Washer (Black) 
+(100726) 
+(100726) 
+(100726)
+ 17 
+  
+Wear Washer (White) 
+ (104762) 
+ (104762) 
+ (104762)
+ 18 
+  
+Seal Washer (Black) 
+ (100726) 
+ (100726) 
+ (100726)
+ 19 
+  
+Bearing Nipple 
+177517
+177517 
+177517
+ 10 
+Bearing  Washer Kit  
+180703
+177448 
+177448
+ 12 
+  
+Top Seal Washer (W=Wht/G=Grn) G (103709) 
+W (100313) 
+W (100313)
+ 13 
+  
+Metal Top Seal Washer
+(100312) 
+(100312) 
+(100312)
+ 14 
+  
+      Bearing Spring 
+(106237) 
+(106237) 
+(106237)
+ 16 
+  
+Bearing Washer (Black) 
+(100726) 
+(100726) 
+(100726)
+ 17 
+  
+Wear Washer (White) 
+ (104762) 
+ (104762) 
+ (104762)
+ 18 
+  
+Seal Washer (Black) 
+ (100726) 
+ (100726) 
+ (100726) 
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+3/4" Full Circle Impact Sprinkler
+30H
+Catalog Number   214
+Page 9
+
+--- PAGE 11 ---
+1" Full Circle Impact Sprinkler
+70CH 
+Catalog Number  230
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+ 
+ 
+ 
+Ref. 
+Part Description  
+                                         70CH / 70CHM 
+UPPER ASSEMBLY
+1	
+Fulcrum Kit	
+177420
+2		
+Fulcrum Pin	
+(100348)		
+3		
+Arm Washer (2)	
+(100163)		
+4	
+Arm Spring Assembly 	
+177532		
+5		
+Arm Spring	
+(100369)	
+NOZZLES (Specify nozzle size when ordering)
+6	
+Straight Bore	
+100382xx	
+7	
+Plug	
+100417	
+–	
+Bushing (3/8" MNPT x 1/8" FNPT)	
+100418	
+–	
+20 Degree Spreader Nozzle	
+100226-08	
+–	
+Body Vane (Not Shown)	
+100695	
+BEARING ASSEMBLY
+8	
+Bearing Assy (Female H Style)(NPT Assy)	
+177514	
+9		
+Bearing Hood	
+(103119)	
+10		
+Bearing Spring	
+(100620)	
+11		
+Metal Top Seal Washer	
+(100312)	
+12		
+Top Seal Washer (White)	
+(103115)	
+13		
+Bearing Sleeve (FNPT)	
+231071	
+14		
+Bearing Washer (Black)	
+(104038)	
+15		
+Wear Washer (Orange)	
+(104037)	
+16		
+Bearing Washer (Black)	
+(104038)	
+17		
+Bearing Nipple	
+177518
+19	
+Bearing Washer Kit	
+177426
+9		
+Bearing Hood	
+(103119)	
+10		
+Bearing Spring	
+(100620)	
+11		
+Metal Top Seal Washer	
+(100312)	
+12		
+Top Seal Washer (White)	
+(103115)
+14		
+Bearing Washer (Black)	
+(104038)	
+15		
+Wear Washer (Orange)	
+(104037)	
+16		
+Bearing Washer (Black)	
+(104038)
+18	
+Bearing Assy (Male H Style)(NPT Assy)	
+177512	
+9		
+Bearing Hood	
+(103119)	
+10		
+Bearing Spring	
+(100620)	
+11		
+Metal Top Seal Washer	
+(100312)	
+12		
+Top Seal Washer (White)	
+(103115)	
+13		
+Bearing Sleeve  (MNPT)	
+108725	
+14		
+Bearing Washer (Black)	
+(104038)	
+15		
+Wear Washer (Orange)	
+(104037)	
+16		
+Bearing Washer (Black)	
+(104038)	
+17		
+Bearing Nipple	
+177518
+19	
+Bearing Washer Kit	
+177426	
+8	
+Bearing Assy (Female BSP Style)  
+ 	177513	
+  9	
+Bearing Hood	
+(103119)	
+10		
+Bearing Spring	
+(100620)	
+11		
+Metal Top Seal Washer	
+(100312)	
+12		
+Top Seal Washer (Black)	
+(103115)	
+13		
+Bearing Sleeve  (FBSP)	
+231070	
+14		
+Bearing Washer (Black)	
+(104038)	
+15		
+Wear Washer (Orange)	
+(104037)	
+16		
+Bearing Washer (Black)	
+(104038)	
+17		
+Bearing Nipple	
+177518
+19	
+Bearing Washer Kit	
+177426	
+2
+4
+3
+3
+5
+6
+7
+12
+14
+15
+16
+9
+10
+17
+11
+13
+8
+13
+18
+19
+  1
+19
+Page 10
+
+--- PAGE 12 ---
+5
+7
+8
+9
+11
+13
+14
+15
+17
+16
+18
+19
+20
+21
+20
+22
+6
+2
+4
+3
+12
+10
+25BPJ-FP
+Ref. Part Description 
+25BPJ-FP-ADJ
+ADJ-DA-TNT
+UPPER ASSEMBLY
+ 
+1 Fulcrum Kit
+177461
+177461
+ 
+2  
+Fulcrum Pin
+(100793)
+(100793)
+ 
+3 PJ Arm Spring Assembly 
+177507 
+177507
+ 
+4  
+Arm Spring (for PJ) 
+(104933)
+(104933)
+ 
+5 Adjustment Spring 
+100136
+100136
+ 
+6 Adjustment Pin
+100203
+100203
+TRIP MECHANISM 
+ 
+7 Upper Trip  
+(108994)
+(108994)
+ 
+8 Trip Spring  
+105720
+105720
+ 
+9 Lower Trip Assembly (FP) 
+(110124) 
+(110124)
+   10 Trip Lever 
+109484
+109484
+ 11 Trip Shaft 
+(104734)
+(104734)
+NOZZLES  (Specify nozzle size when ordering)
+ 12 Nozzle & Vane Assembly 
+106160xx 
+106160xx
+ 13  
+Nozzle 
+105780xx
+105780xx
+ 14  
+Vane
+101618 
+101618
+BEARING ASSEMBLY
+ 15 Bearing Assembly
+106181
+110950
+ 16  
+Bearing Spring 
+—
+(100182)
+ 17  
+Skirted Top Seal (Black) 
+—
+(100180)
+ 18  
+PTFE Top Seal (White)
+—
+(100181)
+ 19  
+Bearing Sleeve (B) 
+106183
+177498
+ 20  
+Bearing Washer (Black) 
+(104181)
+(104181)
+ 21  
+Wear Washer (White) 
+(104184)
+(104696)
+ 22  
+Bearing Nipple   
+104982
+177503
+ 23  
+Friction Collar, STD  (A) 
+104906 
+104906
+(A)
+STD friction collars 104906 include Quantity 1 per kit.
+(B)
+Two Collars included with Bearing Sleeve
+1
+23
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+1/2" Part Circle Impact Sprinkler
+25B SERIES
+300   Catalog Number 
+Page 11
+
+--- PAGE 13 ---
+Catalog Number  302
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+3/4" Part Circle Impact Sprinkler
+ 35A SERIES
+1
+2
+3
+9
+10
+13
+14
+14
+15
+17
+18
+19
+20
+21
+22
+23
+24
+4
+5
+6
+7
+8
+12
+11
+16
+25
+25
+26
+Page 12
+
+--- PAGE 14 ---
+302  Catalog Number 
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+3/4" Part Circle Impact Sprinkler
+35A SERIES
+ Ref. Part Description 
+35A-TNT 
+35A-ADJ-TNT 
+35A-PJDA-TNT 
+35A-PJADJ-TNT 
+35-A-PJ-TNT
+UPPER ASSEMBLY
+1	
+Fulcrum Pin	
+177462	
+177462	
+177462	
+177462	
+177462
+2	
+Arm Spring Assy, (PJ Pictured)	
+—	
+—	
+177469	
+177469	
+177469
+3		
+Arm Spring	
+—	
+—	
+(100305)	
+(100305)	
+(100305)
+2	
+Arm Spring Assy, STD	
+177468	
+177468	
+—	
+—	
+—
+3		
+Arm Spring	
+(100305)	
+(100305)	
+—	
+—	
+—
+NOZZLES  (Specify nozzle size when ordering.)
+4	
+Standard Range Nozzle	
+105842xx	
+—	
+—	
+—	
+—
+4	
+Keyhole Nozzle	
+106353xx	
+—	
+—	
+—	
+—
+5	
+ADJ Nozzle Assembly	
+—	
+100328xx	
+—	
+100328xx	
+100328xx
+6		
+Spring	
+—	
+100136	
+—	
+100136	
+100136
+7		
+Pin	—	
+100203	
+—	
+100203	
+100203
+8	
+DA Nozzle	
+—	
+—	
+100332xx	
+—	
+—
+TRIP MECHANISM
+9	
+Upper & Lower Trip Kit	
+114653	
+114653	
+114653	
+114653	
+114653
+–
+Trip Assembly, Upper with Trip Spring
+(11386901)	
+(11386901)	
+(11386901)	
+(11386901)	
+(11386901)
+10			
+Upper Trip	
+(11019201)	
+(11019201)	
+(11019201)	
+(11019201)	
+(11019201)
+11	
+		
+Trip Spring	
+100158	
+100158	
+100158	
+100158	
+100158
+12		
+Trip Assembly, Lower	
+114318	
+114318	
+114318	
+114318	
+114318
+13	
+	
+E-Ring	
+231086	
+231086	
+231086	
+231086	
+231086
+14	
+	
+Spacer Washers (2)	
+100164	
+100164	
+100164	
+100164	
+100164
+15	
+Trip Shaft	
+100320	
+100320	
+100320	
+100320	
+100320
+  26	 Lever	 	
+110430	
+110430	
+110430	
+110430	
+110430
+BEARING ASSEMBLY
+16	
+Bearing Washer Kit (New TNT Style)	
+177473	
+177473	
+177473	
+177473	
+177473
+17		
+Bearing Spring	
+(240013)	
+(240013)	
+(240013)	
+(240013)	
+(240013)
+18		
+Skirted Top Seal Washer (Black)	
+(240016)	
+(240016)	
+(240016)	
+(240016)	
+(240016)
+19		
+Top Seal Washer (PTFE) (White)	
+(104762)	
+(104762)	
+(104762)	
+(104762)	
+(104762)
+21		
+Bearing Washer (Black)	
+(100726)	
+(100726)	
+(100726)	
+(100726)	
+(100726)
+22		
+Wear Washer (Orange)	
+(103058)	
+(103058)	
+(103058)	
+(103058)	
+(103058)
+23		
+Bearing Washer, Seal (Gray)	
+(102345)	
+(102345)	
+(102345)	
+(102345)	
+(102345)
+20	
+Bearing Sleeve 	
+(A) 177466	
+(A) 177466	
+(A) 177466	
+(A) 177466	
+(A) 177466
+24	
+Bearing Nipple	
+177504	
+177504	
+177504	
+177504	
+177504
+25	
+Friction Collar, Wire 	
+(B) 105773	
+(B) 105773	
+(B) 105773	
+(B) 105773	
+(B) 105773
+(A)
+Bearing Sleeve Includes (2) Fricton Trip Collars 105773 
+(B)
+Friction Collars 105773 include Quantity 1 per kit 
+Page 13
+
+--- PAGE 15 ---
+2
+3
+1
+14
+21
+9
+20
+23
+19
+19
+16
+17
+18
+7
+6
+5
+4
+10
+12
+11
+12
+13
+22
+21
+65PJ-TNT
+ Ref. 
+Part Description 
+65PJADJ-TNT
+UPPER ASSEMBLY
+ 
+1 
+Fulcrum Pin
+100348
+ 
+2 
+Arm Spring Assembly PJ
+177508
+ 
+3 
+ 
+Arm Spring 
+(100369)
+NOZZLES  (Specify nozzle size when ordering)
+ 
+4 
+ADJ Nozzle Assembly
+10038516
+ 
+5 
+ 
+Pin
+(100203)
+ 
+6 
+ 
+Spring
+(100136)
+ 
+7 
+Range Nozzle
+100382xx
+TRIP MECHANISM
+ 
+9 
+Upper Trip Arm
+100370
+ 11 
+Lower Trip Arm
+100373
+ 
+8 
+Trip Hardware Kit
+179991
+ 10 
+ 
+Trip Spring 
+(231079)
+ 12 
+ 
+Spacer Washer (2) 
+(231077)
+ 13 
+ 
+E-Ring
+(231078)
+ 14 
+Trip Shaft 
+(100365)
+BEARING ASSEMBLY
+ 15 
+Bearing Washer Kit  
+177475
+ 16 
+ 
+Bearing Spring 
+(231064)
+ 17 
+ 
+Metal Top Seal Washer
+(231063)
+ 18 
+ 
+Top Seal Washer (White)
+(100313)
+ 21 
+ 
+Bearing Washer (2) (Black) 
+(104038)
+ 22 
+ 
+Wear Washer (Orange)
+(104037)
+ 19 
+Friction  (Trip) Collar
+(B) 105774
+ 20 
+Bearing Sleeve (FNPT) 
+177500
+ 20 
+Bearing Sleeve (BSP)
+177499
+ 23 
+Bearing Nipple 
+177518
+(A)
+65D arm is no longer available, use current PJ arm.
+(B)
+Friction Trip Collars available individually or with
+sleeve.
+Kit 105774 includes Quantity of 1
+15
+8
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+1" Part Circle Impact Sprinkler
+65PJ-TNT / 65PJADJ-TNT
+Catalog Number   304
+Page 14
+
+--- PAGE 16 ---
+1
+2
+5
+4
+3
+ 7
+ 6
+8
+11
+12
+24
+20
+19
+18
+16
+13
+14
+17
+21
+22
+23
+ Ref. 
+Part Description 
+85EHD 
+85EHD-BSP
+UPPER ASSEMBLY
+ 28 
+Fulcrum Kit
+177421 
+177421
+ 
+1 
+ 
+Fulcrum Pin
+(100430) 
+(100430) 
+ 
+2 
+ 
+Arm Hood 
+(108556)
+(108556)  
+ 
+3 
+Arm Washer (2) 
+(100432)
+(100432)
+ 
+4 
+Arm Spring Assembly
+177470 
+177470
+ 
+5 
+ 
+Arm Spring 
+(100431)
+(100431)
+TRIP MECHANISM
+ 
+6 
+Trip Arm, Upper
+108318 
+108318
+ 
+8 
+Trip Arm, Lower
+111129 
+111129
+ 
+9 
+Trip Hardware Kit
+179992 
+1 79992
+ 
+7 
+ 
+Trip Spring 
+(112858)
+(112858)
+  10 
+ 
+E-Ring 
+(231078)
+(231078)
+ 30 
+ 
+Spacer Washer
+(231077) 
+(231077)
+ 31 
+ 
+Trip Hood (2)
+(111812) 
+(111812) 
+ 11 
+Trip Shaft 
+(108321)
+(108321)
+NOZZLES (Specify nozzle size when ordering)
+ 12 
+Range Nozzle
+103043xx 
+103043xx
+ 13 
+Body Vane
+101275 
+101275
+ 12 
+Low Pressure Nozzle 
+108149xx
+108149xx
+ 14 
+20 Deg. Spreader Nozzle
+100226-14
+—
+–
+Nozzle Plug
+100255 
+—  
+ 15 
+Bearing Washer Kit
+177474 
+177474  
+ 16 
+  
+Seal Washer, Upper
+(104638) 
+(104638)  
+ 17 
+ 
+Bearing Hood 
+(113098)
+(113098)  
+ 18 
+ 
+Bearing Spring 
+(100449)
+(100449)
+ 19 
+ 
+Wear  Washer, Top (Black)
+(113309)
+(113309)
+ 21 
+ 
+Bearing Washer (Black) 
+(113099)
+(113099)  
+ 22 
+ 
+Wear Washer (Orange)
+(104639) 
+(104639)
+ 23 
+ 
+Bearing Washer, Seal
+(113100) 
+(113100)
+ 20 
+Bearing Sleeve
+177515 
+177467  
+ 24 
+Bearing Nipple 
+177506
+177506
+ 29 
+Collar Kit
+179993 
+179993
+ 25 
+ 
+Friction Collars (Top)
+(107959) 
+(107959)
+ 26 
+ 
+Screw  (2) 
+(111126)
+(111126)
+ 27 
+ 
+Friction Collars (Bottom)
+(107960 )
+(107960)
+26
+26
+29
+29
+30
+9
+10
+15
+15
+28
+31
+25
+27
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+11/4" Part Circle Impact Sprinkler
+85EHD SERIES
+306   Catalog Number 
+Page 15
+
+--- PAGE 17 ---
+Ref. 
+Part Description 
+85EHD-LA
+ 85EHD-LA-BSP
+UPPER ASSEMBLY
+ 33 
+Fulcrum Kit
+177421 
+ 
+177421
+ 
+1 
+ 
+Fulcrum Pin  
+(100430)
+(100430)
+ 
+9 
+ 
+Washer
+(100432) 
+ 
+(100432)
+ 
+2 
+ 
+Hood Arm
+(108556)
+(108556)
+ 
+3 
+Arm Spring Assy HD (With Spoon) 
+177471 
+ 
+177471
+ 
+4 
+ 
+Arm Spring 
+(100431)
+(100431)
+ 
+5 
+Detachable Spoon Kit HD 
+113878
+113878
+ 
+6 
+ 
+Screw (2)
+(111204-02) 
+ (111204-02)
+ 
+7 
+ 
+Washer (2) 
+(111809)
+(111809)
+ 
+8 
+ 
+Spoon
+(111804) 
+ 
+(111804)
+TRIP MECHANISM
+ 10 
+Trip Arm, Upper
+108318
+ 
+108318
+ 12 
+Trip Arm, Lower
+111129
+ 
+111129
+ 13 
+Trip Hardware Kit
+179992
+ 
+179992
+ 11 
+ 
+Trip Spring 
+(112858)
+(112858)
+ 14 
+ 
+Spacer Washer
+(231077) 
+ 
+(231077)
+ 15 
+ 
+E-Ring 
+(231078)
+(231078)
+ 35 
+ 
+Trip Hood (2)
+(111812) 
+ 
+(111812)
+ 16 
+Trip Shaft 
+(108321)
+(108321)
+NOZZLES (Specify nozzle size when ordering)
+ 17 
+Range Nozzle
+103043xx 
+ 
+103043xx
+ 18 
+Body Vane
+101275 
+ 
+101275
+ 18 
+Low Pressure Nozzle 
+108149xx
+ 
+108149xx
+ 19 
+Spreader Nozzle, 20Deg. (85ES) 
+—
+—
+BEARING ASSEMBLY
+ 20 
+Bearing Washer Kit  
+177474
+177474
+ 21 
+ 
+Seal Washer
+(104638) 
+ 
+(104638)
+ 22 
+ 
+Bearing Hood (Black)
+(113098)
+ 
+(113098)
+ 23 
+ 
+Bearing Spring 
+(100449)
+(100449)
+ 24 
+ 
+Wear Washer, Top (Black)
+(113309)
+ 
+(113309)
+ 26 
+ 
+Bearing Washer (Black) 
+(113099)
+(113099)
+ 27 
+ 
+Wear Washer (Orange)
+(104639)
+ 
+(104639)
+ 28 
+ 
+Bearing Washer,Seal (Gray) 
+(113100)
+(113100)
+ 25 
+Bearing Sleeve
+177515 
+ 
+177467
+ 29 
+Bearing Nipple 
+177506
+177506
+ 34 
+Collar Kit
+179993 
+ 
+179993
+ 30 
+ 
+Friction Collars (Top)
+(107959)
+ 
+(107959)
+ 31 
+ 
+Screw  (2) 
+(111126)
+(111126)
+ 32 
+ 
+Friction Collars (Bottom)
+(107960)
+ 
+(107960)
+25
+34
+29
+28
+27
+26
+21
+22
+23
+24
+31
+15
+14
+12
+16
+13
+10
+11
+17
+18
+9
+1
+7
+8
+6
+5
+4
+2
+3
+19
+34
+31
+20
+20
+33
+35
+30
+32
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+11/4" Part Circle Impact Sprinkler
+85EHD-LA SERIES
+Catalog Number   306
+Page 16
+
+--- PAGE 18 ---
+1/2" Full Circle Impact Sprinkler
+20AH / 20A TNT / 20AH PM
+210  Catalog Number 
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+20AH		
+20AH
+20A TNT	
+20AH PM	
+20A TNT
+	Ref.	
+Part Description	
+ALUM	
+ALUM	
+(C) BRONZE
+	UPPER ASSEMBLY
+1	
+Fulcrum Pin	
+100793	
+100793	
+100793
+2	
+Arm Hood	
+100775	
+100775	
+100775
+3	
+Arm Spring Assembly	
+115306	
+115306	
+(102254)
+4	
+Arm Spring	
+100172	
+100172	
+100133
+5	
+Arm Bumper (Since 93/94)	
+101156	
+101156	
+101156
+5	
+Arm Bumper (Old Style round arm)	
+101156	
+101156	
+101156
+6	
+Arm Bushing	
+111731	
+111731	
+–
+7	
+Arm Washer	
+100173	
+100173	
+100173
+8	
+Arm Wear Washer	
+103080	
+103080	
+–
+	NOZZLES (Specify nozzle size when ordering)
+9	
+Straight Bore	
+105780	
+105780	
+105780
+–
+Low Angle 5 Degree	
+104590	
+104590	
+–
+–	
+Low Angle 7 Degree	
+100225	
+100225	
+100225
+–
+Low Angle 12 Degree	
+100622	
+100622	
+100622
+–
+Low Angle 20 Degree	
+100226	
+100226	
+100226
+–
+Low Angle 23 Degree	
+100227	
+100227	
+100227
+–
+Low Pressure 0 Degree	
+104571	
+–	
+–
+–
+Plastic Quick Fit SBN (B)	
+117324	
+117324	
+–
+	BEARING ASSEMBLY
+10	
+Bearing Assembly (H Style)	
+118343	
+104792	
+(108963)
+11		
+Top Seal Washer (Black)	
+104183	
+104183	
+104183
+12		
+Metal Top Seal Washer	
+100280	
+100280	
+100280
+13		
+Bearing Spring	
+105431	
+105431	
+100272
+14		
+Bearing Sleeve (Brass)	
+104153	
+–	
+104153
+14		
+Bearing Sleeve (Plastic)	
+–	
+(104631)	
+–
+15		
+Bearing Washer (2) (Black)	
+104181	
+104181	
+104181
+16		
+Wear Washer (O-Orange, W-White)	 (W)104696	
+(W)104696	
+(O)104184
+17		
+Bearing Nipple	
+102020	
+102020	
+102020
+Bearing Assembly (Old TNT Style) (A)
+19		
+Bearing Spring	
+100182	
+–	
+100182
+20		
+Skirted Top Seal Washer (Black)	
+100180	
+–	
+100180
+21		
+Top Seal Washer (White)	
+100181	
+–	
+100181
+22		
+Bearing Sleeve 	
+(A)
+–
+(A)
+23		
+Wearing Ring (T-Ring)(Orange)	
+(102704)	
+–	
+(102704)
+24		
+Bearing Washer (Black)	
+104181	
+–	
+104181
+25		
+Bearing Nipple	
+100178	
+–	
+100178
+18	
+Bearing Assembly (TNT Replacment)	
+110949	
+–	
+110949
+19		
+Bearing Spring	
+100182	
+–	
+100182
+20		
+Skirted Top Seal Washer (Black)	
+100180	
+–	
+100180
+21		
+Top Seal Washer (Whtie)	
+100181	
+–	
+100181
+22		
+Bearing Sleeve 	
+(A)
+–
+(A)
+23		
+Bearing Washer (2) (Black)	
+104181	
+–	
+104181
+24		
+Wear Washer (Orange)	
+104184	
+–	
+104184
+25		
+Bearing Nipple	
+100178	
+–	
+100178
+(A)
+Bearing sleeve not available. Use 110949 Bearing Assembly.
+(B)
+To be used with 117312 Quick Fit Connector.
+(C)
+Not available; no replacement
+H Style
+10
+13
+14
+15
+16
+17
+22
+23
+23
+24
+25
+TNT Style
+18
+11
+12
+15
+1
+2
+4
+5
+6
+8
+7
+3
+20
+21
+19
+9
+Page 17
+
+--- PAGE 19 ---
+1/2" Full Circle Impact Sprinkler 
+                                            
+29JH 
+Catalog Number  212
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+	Ref.	
+Part Description  
+  29JH  
+	UPPER ASSEMBLY
+  1    Fulcrum Kit  
+  177417
+2		
+Fulcrum Pin	
+  (100271)
+3		
+Arm Hood	
+(100968)
+6		
+Arm Washer	
+(100270)
+4	
+Arm Spring Assembly	
+177526
+5		
+Arm Spring	
+(231061)
+	NOZZLES (Specify nozzle size when ordering)
+  15	
+Straight Bore	
+105842xx	
+–
+Straight Bore/w Vane	
+106131xx	
+–
+Keyhole		
+106353xx
+	BEARING ASSEMBLY (H Style)
+7	
+Bearing Assembly	
+104919	
+8		
+Top Seal Washer (White)	
+(100279)	
+9		
+Metal Top Seal Washer	
+(100280)	
+10		
+Bearing Spring	
+(100272)	
+11		
+Bearing Sleeve (Brass)	
+177510	
+12		
+Bearing Washer (2) (Black)	
+(104181)	
+13		
+Wear Washer (Orange)	
+(104184)	
+14		
+Bearing Nipple	
+177516
+  16	
+Bearing Washer Kit	
+179990
+8		
+Top Seal Washer (White)	
+(100279)	
+9		
+Metal Top Seal Washer	
+(100280)
+10		
+Bearing Spring	
+(100272)
+12		
+Bearing Washer (2) (Black)	
+(104181)	
+13		
+Wear Washer (Orange)	
+(104184)
+2
+3
+4
+5
+6
+15
+7
+8
+9
+10
+11
+12
+13
+12
+14
+1
+16
+Page 18
+
+--- PAGE 20 ---
+3/4" Full Circle Impact Sprinkler
+30B TNT / 30BW TNT / 30BH
+30BEH / 30BWH / 30BEWH
+ 216  Catalog Number 
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+30B H
+30BE H
+30B TNT	
+30BW H
+	Ref.	
+Part Description	
+30BW TNT	
+30BEW H
+UPPER ASSEMBLY
+1	
+Fulcrum Pin	
+100271	
+100271
+2	
+Arm Hood	
+100968	
+100968
+3	
+Arm Spring Assembly	
+104236	
+104236
+4		
+Arm Spring	
+100305	
+100305
+5	
+Arm Washer	
+100270	
+100270
+	NOZZLES (Specify nozzle size when ordering)
+6	
+Straight Bore	
+105842	
+105842
+–
+Straight Bore w/Vane (E Model)	
+–	
+106131
+–
+Keyhole	
+106353	
+106353
+7	
+Spreader 7 Degree	
+100225	
+100225
+7	
+Spreader 20 Degree	
+100226	
+100226
+–
+Rain Flow	
+111089	
+111089
+7	
+Spreader Plug (W Model)	
+100255	
+100255
+–
+Vane (E Model)	
+105816	
+105816
+	BEARING ASSEMBLY
+8	
+Bearing Assembly (H Style)	
+104761	
+104761
+9		
+Top Seal Washer (White)	
+100313	
+100313
+10		
+Metal Top Seal Washer	
+100312	
+100312
+11		
+Bearing Spring	
+106237	
+106237
+12		
+Bearing Sleeve	
+103670	
+103670
+13		
+Bearing Washer (Black)	
+100726	
+100726
+14		
+Wear Washer (White)	
+104762	
+104762
+15		
+Seal Washer (Gray)	
+102345	
+102345
+16		
+Bearing Nipple	
+103669	
+103669
+17	
+Bearing Assembly (Old TNT Style)	
+(A)
+18		
+Bearing Spring	
+106237	
+–
+19		
+Top Seal Washer (White)	
+100313	
+–
+20		
+Metal Top Seal Washer	
+100312	
+–
+21		
+Bearing Sleeve	
+(A) (102486)	
+–
+22		
+Wear Washer (T-Ring)(Orange)	
+102076	
+–
+23		
+Bearing Washer (Black)	
+100726	
+–
+24		
+Seal Washer (Gray)	
+102345	
+–
+25		
+Bearing Nipple	
+(A) (100316)	
+–
+(A)
+Not Available. Use Bearing Assembly # 104761. (H Style)
+H Style
+8
+11
+12
+13
+14
+16
+21
+22
+24
+23
+25
+TNT Style
+17
+10
+15
+20
+19
+1
+2
+4
+3
+5
+6
+7
+9
+18
+Page 19
+
+--- PAGE 21 ---
+3/4" Full Circle Impact Sprinkler 
+                                             
+30IBH / 30IEBH
+Catalog Number  218
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+30IBH
+	Ref.	
+Part Description	
+30IEBH
+UPPER ASSEMBLY
+1	
+Fulcrum Pin	
+100271
+2	
+Arm Hood	
+100968
+3	
+Arm Spring Assembly	
+104236
+4		
+Arm Spring	
+100305
+5	
+Arm Washer	
+100270
+	NOZZLES (Specify nozzle size when ordering)
+6	
+Straight Bore w/Vane	
+106131
+7	
+Spreader 7 Degree	
+100225
+7	
+Spreader 20 Degree	
+100226
+7	
+Spreader Plug (W Model)	
+100255
+	BEARING ASSEMBLY
+10	
+Bearing Assembly (Standard H Style)	
+104152
+11		
+Top Seal Washer	
+103709
+12		
+Metal Top Seal Washer	
+100312
+13		
+Bearing Spring	
+106237
+14		
+Bearing Sleeve	
+103670
+15		
+Bearing Washer (Black)	
+100726
+16		
+Wear Washer (T-Ring) (Orange)	
+103058
+17		
+Seal Washer (Gray)	
+102345
+18		
+Bearing Nipple	
+103669
+	Consult current Agricultural Equipment Price List.
+1
+6
+2
+4
+3
+5
+7
+7
+11
+12
+13
+14
+10
+15
+16
+17
+18
+Page 20
+
+--- PAGE 22 ---
+1" Full Circle Impact Sprinkler
+70EH / 70 E TNT / 70EWH / 70EW TNT / 70ESPH
+70ESP TNT / 70CWH / 70CW TNT / 70CSPH / 70CSP TNT
+Catalog Number  230
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+70EWH	
+70CWH
+70EW TNT	
+70CW TNT
+70EH	
+70ESPH	
+70CSPH
+Ref.	
+Part Description	
+70E TNT	
+70ESP TNT	
+70CSP TNT
+UPPER ASSEMBLY
+1	
+Fulcrum Pin	
+100348	
+100348	
+100348
+2	
+Arm Washer (2)	
+100163	
+100163	
+100163
+3	
+Arm Spring Assembly (A) 	
+–	
+105879	
+105879
+4	
+	
+Arm Spring	
+100369	
+100369	
+100369
+NOZZLES (Specify nozzle size when ordering)
+5	
+Straight Bore	
+100382	
+100382	
+100382
+6	
+Plug	
+–	
+100417	
+100417
+–
+Bushing
+–
+100418	
+100418
+–
+20 Degree Spreader Nozzle	
+–	
+100226-08	
+100226-08
+–
+Spreader Nozzle Assembly
+(100407)	
+–	
+–
+–
+Body Vane	
+100695	
+100695	
+100695
+BEARING ASSEMBLY
+7	
+Bearing Assy (Female H Style)(NPT Assy)	
+104041	
+104041	
+104041
+8		
+Bearing Hood	
+103119	
+103119	
+103119
+9		
+Bearing Spring	
+100620	
+100620	
+100620
+10		
+Metal Top Seal Washer	
+100312	
+100312	
+100312
+11		
+Top Seal Washer (White)	
+103115	
+103115	
+103115
+12		
+Bearing Sleeve (NPT)	
+105907	
+104040	
+104040
+13		
+Bearing Washer (Black)	
+104038	
+104038	
+104038
+14		
+Wear Washer (Orange)	
+104037	
+104037	
+104037
+15		
+Bearing Washer (Black)	
+104038	
+104038	
+104038
+16		
+Bearing Nipple	
+100390	
+100390	
+100390
+17	
+Bearing Assy (Male H Style)(NPT Assy)	
+108726	
+108726	
+108726
+8		
+Bearing Hood	
+103119	
+103119	
+103119
+9		
+Bearing Spring	
+100620	
+100620	
+100620
+10		
+Metal Top Seal Washer	
+100312	
+100312	
+100312
+11		
+Top Seal Washer (White)	
+103115	
+103115	
+103115
+18		
+Bearing Sleeve 	
+(108725)	
+(108725)	
+(108725)
+13		
+Bearing Washer (Black)	
+104038	
+104038	
+104038
+14		
+Wear Washer (Orange)	
+104037	
+104037	
+104037
+15		
+Bearing Washer (Black)	
+104038	
+104038	
+104038
+16		
+Bearing Nipple	
+100390	
+100390	
+100390
+–
+Bearing Assy (Male or Female TNT Style)
+8		
+Bearing Hood	
+103119	
+103119	
+103119
+9		
+Bearing Spring	
+100620	
+100620	
+100620
+10		
+Metal Top Seal Washer	
+100312	
+100312	
+100312
+11		
+Top Seal Washer (Black)	
+103115	
+103115	
+103115
+	12\18		
+Bearing Sleeve 	
+(B)
+(B)	
+(B)
+13		
+Wearing Ring (T-Ring)(Orange)	
+100389	
+100389	
+100389
+14		
+Bearing Seal Washer (Black)	
+101323	
+101323	
+101323
+15		
+Wear Washer (Black)	
+104038	
+104038	
+104038
+16		
+Bearing Nipple	
+100390	
+100390	
+100390
+(A) 	Old style 70E arm is not available. Only replacement is 70EW arm spring  # (102562).
+(B) 	When replacing older TNT style bearing sleeve use MALE 
+H bearing assembly 
+  P/N 108726, or use FEMALE H bearing sleeve P/N 104040(NPT) or (104070)(BSP).  
+    	With H bearing sleeve also install 2 washers P/N 104038 and 1 washer P/N 104037.
+	Call Ag customer service to order parts at 1-800-435-5624.
+1
+3
+2
+2
+4
+5
+6
+11
+13
+14
+15
+8
+9
+16
+10
+12
+7
+18
+17
+Page 21
+
+--- PAGE 23 ---
+2
+4
+3
+3
+5
+6
+7
+12
+14
+15
+16
+9
+10
+17
+11
+13
+8
+13
+18
+ Ref. 
+Part Description 
+70CH / 70CHM
+UPPER ASSEMBLY
+ 
+1 
+Fulcrum Kit
+177420
+ 
+2 
+ 
+Fulcrum Pin
+(100348)
+ 
+3 
+ 
+Arm Washer (2) 
+(100163)
+ 
+4 
+Arm Spring Assembly  
+177532
+ 
+5 
+ 
+Arm Spring 
+(100369)
+NOZZLES (Specify nozzle size when ordering)
+ 
+6 
+Straight Bore
+100382xx
+ 
+7 
+Plug
+100417
+–
+Bushing (3/8" MNPT x 1/8" FNPT)
+100418
+–
+20 Degree Spreader Nozzle
+100226-08
+–
+Body Vane (Not Shown)
+100695
+BEARING ASSEMBLY
+ 
+8 
+Bearing Assy (Female H Style)(NPT Assy) 
+177514
+ 
+9 
+ 
+Bearing Hood 
+(103119)
+ 
+10 
+ 
+Bearing Spring 
+(100620)
+ 
+11 
+ 
+Metal Top Seal Washer
+(100312)
+ 
+12 
+ 
+Top Seal Washer (White)
+(103115)
+ 
+13 
+ 
+Bearing Sleeve (FNPT) 
+231071
+ 
+14 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+15 
+ 
+Wear Washer (Orange)
+(104037)
+ 
+16 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+17 
+ 
+Bearing Nipple 
+177518
+ 
+19 
+Bearing Washer Kit
+177426
+ 
+9 
+ 
+Bearing Hood 
+(103119)
+ 
+10 
+ 
+Bearing Spring 
+(100620)
+ 
+11 
+ 
+Metal Top Seal Washer
+(100312)
+ 
+12 
+ 
+Top Seal Washer (White)
+(103115)
+ 
+14 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+15 
+ 
+Wear Washer (Orange)
+(104037)
+ 
+16 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+18 
+Bearing Assy (Male H Style)(NPT Assy) 
+177512
+ 
+9 
+ 
+Bearing Hood 
+(103119)
+ 
+10 
+ 
+Bearing Spring 
+(100620)
+ 
+11 
+ 
+Metal Top Seal Washer
+(100312)
+ 
+12 
+ 
+Top Seal Washer (White)
+(103115)
+ 
+13 
+ 
+Bearing Sleeve  (MNPT) 
+108725
+ 
+14 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+15 
+ 
+Wear Washer (Orange)
+(104037)
+ 
+16 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+17 
+ 
+Bearing Nipple 
+177518
+ 
+19 
+Bearing Washer Kit
+177426
+ 
+8 
+Bearing Assy (Female BSP Style)  
+177513
+ 
+9 
+ 
+Bearing Hood 
+(103119)
+ 
+10 
+ 
+Bearing Spring 
+(100620)
+ 
+11 
+ 
+Metal Top Seal Washer
+(100312)
+ 
+12 
+ 
+Top Seal Washer (Black) 
+(103115)
+ 
+13 
+ 
+Bearing Sleeve  (FBSP)
+231070
+ 
+14 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+15 
+ 
+Wear Washer (Orange)
+(104037)
+ 
+16 
+ 
+Bearing Washer (Black) 
+(104038)
+ 
+17 
+ 
+Bearing Nipple 
+177518
+ 
+19 
+Bearing Washer Kit
+177426
+19
+  1
+19
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+12" Full Circle Impact Sprinkler
+70CH
+Catalog Number   230
+Page 22
+
+--- PAGE 24 ---
+Ref. 
+Part Description 
+80EHD
+ 80EHD-LA
+80EHD-BSP
+UPPER ASSEMBLY
+ 
+1 
+Fulcrum Kit
+177421 
+177421
+177421
+ 
+2 
+ Fulcrum Pin
+(100430) 
+(100430)
+(100430)
+ 
+3 
+ Arm Washer (2) 
+(100432)
+(100432)
+(100432)
+ 
+4 
+Arm Spring Assembly
+177533 
+177533
+177533
+ 
+5 
+ Arm Spring 
+(100431)
+(100431)
+(100431)
+NOZZLES (Specify nozzle size when ordering)
+ 
+6 
+Range Nozzle
+103043xx 
+103043xx
+103043xx
+ 
+7 
+Nozzle Vane
+101275 
+101275
+101275
+ 
+8 
+Spreader 20 Degree 
+100226-14
+— 
+100226-14
+–
+Plug
+100255
+— 
+100255
+BEARING ASSEMBLY
+ 
+9 
+Bearing Assembly ( H Style)
+177427
+177427
+118039
+ 10 
+ Top Seal Washer, Upper (Black) 
+ (113100)
+(113100)
+(113100)
+ 11 
+ Hood Bearing
+(113098) 
+(113098)
+(113098)
+ 12 
+ Bearing Spring 
+(100449)
+(100449)
+(100449)
+ 13 
+ Top Seal Washer, Lower (Black) 
+(113309)
+(113309)
+(113309)
+ 14 
+ Bearing Sleeve
+177515 
+177515
+177467
+ 15 
+ Bearing Washer (Black) 
+(113099)
+(113099)
+(113099)
+ 16 
+ Wear Washer (Orange)
+(104639)
+(104639)
+(104639)
+ 17 
+ Bearing Washer, Seal (Black) 
+(104638)
+(104638)
+(104638)
+ 18 
+ Bearing Nipple 
+177506
+177506
+177506
+ 19 
+Bearing Washer Kit
+177474 
+177474
+177474
+ 10 
+ Top Seal Washer, Upper (Black) 
+(113100)
+(113100)
+(113100)
+ 11 
+ Hood Bearing
+(113098) 
+(113098)
+(113098)
+ 12 
+ Bearing Spring 
+(100449)
+(100449)
+(100449)
+ 13 
+ Top Seal Washer, Lower (Black) 
+(113309)
+(113309)
+(113309)
+ 15 
+ Bearing Washer (Black) 
+(113099)
+(113099)
+(113099)
+ 16 
+ Wear Washer (Orange)
+(104639)
+(104639)
+(104639)
+ 17 
+ Bearing Washer, Seal (Black) 
+(104638)
+(104638)
+(104638)
+5
+4
+3
+6
+7
+8
+3
+2
+10
+11
+12
+13
+15
+16
+17
+18
+14
+1
+19
+9
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+11/4" Full Circle Impact Sprinkler
+80EHD / 80EHD-LA / 80EHD-BSP
+232   Catalog Number 
+Page 23
+
+--- PAGE 25 ---
+1/2" Full Circle Impact Sprinkler
+L20H 
+Catalog Number  208
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+ Ref. 
+Part Description 
+L20H 
+UPPER ASSEMBLY
+3	
+Fulcrum Kit	
+177415	
+1		
+Fulcrum Pin	
+(100793)	
+2		
+Arm Hood	
+(100775)
+6		
+Arm Washer	
+(100173)	
+5 	
+Arm Spring Assembly	
+177522
+4		
+Arm Spring	
+(100172)
+NOZZLES (Specify nozzle size when ordering)
+16 	
+Straight Bore	
+105780xx	
+BEARING ASSEMBLY
+7	
+Bearing Assembly	
+177422	
+8		
+Top Seal Washer (White)	
+(100279)	
+9		
+Metal Top Seal Washer	
+(100280)	
+10 		
+Bearing Spring	
+(105431)	
+11		
+Bearing Sleeve (Brass)	
+177510
+12		
+Bearing Washer (2) (Black)	
+(104181)	
+13 		
+Wear Washer (White)	
+(104696)	
+14 		
+Bearing Nipple	
+177516
+15	
+Bearing Washer Kit	
+177445
+8		
+Top Seal Washer (White)	
+(100279)	
+9		
+Metal Top Seal Washer	
+(100280)
+10 		
+Bearing Spring	
+(105431)
+12		
+Bearing Washer (2) (Black)	
+(104181)	
+13 		
+Wear Washer (White)	
+(104696)	
+7
+5
+1
+2
+4
+14
+12
+12
+11
+10
+13
+9
+8
+6
+16
+3
+15
+Page 24
+
+--- PAGE 26 ---
+1/2" Full Circle Impact Sprinkler
+L20VH / M20VH-PM
+206  Catalog Number 
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+ Ref. Part Description 
+L20VH 
+M20VH-PM 
+UPPER ASSEMBLY
+3	 Fulcrum Kit	
+177415	
+177415
+1		
+Fulcrum Pin	
+(100793)	
+(100793)	
+2		
+Arm Hood	
+(100775)	
+(100775)	
+7	 Arm Spring Assembly	
+177523	
+177523
+  5 		
+Arm Spring	
+(100172)	
+(100172)	
+  4  
+Wedge	
+(111188)	
+(111188)	
+  6  
+Wedge Pin	
+116046	
+116046	
+NOZZLES (Specify nozzle size when ordering)
+  8  	 Straight Bore	  
+  105780xx  
+  105780	xx
+BEARING ASSEMBLY
+  16	 Bearing Assembly (Complete)	
+177535	
+177423	
+	  9 		
+Top Seal Washer (Black)	
+(104183)	
+(104183)	
+10 		
+Metal Top Seal Washer	
+(100280)	
+(100280)	
+11 		
+Bearing Spring	
+(105431)	
+(105431)	
+12 		
+Bearing Sleeve (Brass)	
+177510	
+–	
+12		
+Bearing Sleeve (Plastic)	
+–
+177509	
+13 		
+Bearing Washer (2) (Black)	
+(104181)	
+(104181)	
+14 		
+Wear Washer (White)	
+(104696)	
+(104696)	
+15		
+Bearing Nipple	         
+  177516  
+  177516
+17	 Bearing Washer Kit  
+  177536  
+  177536
+9 		
+Top Seal Washer (Black)	
+(104183)	
+(104183)	
+10 		
+Metal Top Seal Washer	
+(100280)	
+(100280)	
+  11 		
+Bearing Spring	
+(105431)	
+(105431)	
+13 		
+Bearing Washer (2) (Black)	
+(104181)	
+(104181)	
+14 		
+Wear Washer (White)	
+(104696)	
+(104696)	
+4
+7
+11
+2
+5
+6
+8
+9
+12
+13
+14
+13
+ 15
+1
+10
+16
+(Picture does not 
+depict actual 
+part)
+    3
+17
+Page 25
+
+--- PAGE 27 ---
+8
+11
+12
+13
+14
+16
+15
+H Style
+5
+4
+1
+2
+3
+7
+10
+9
+ Ref. 
+Part Description 
+L3030H
+UPPER ASSEMBLY
+ 
+6 
+Fulcrum Kit
+177419
+ 
+1 
+ 
+Fulcrum Pin
+(100271)
+ 
+2 
+ 
+Arm Hood 
+(100968)
+ 
+5 
+ 
+Arm Washer
+(100270)
+ 
+3 
+Arm Spring Assembly
+177528
+ 
+4 
+ 
+Arm Spring 
+(231061)
+NOZZLES (Specify nozzle size when ordering)
+ 
+7 
+Straight Bore
+105842xx
+–
+Plug
+100289
+BEARING ASSEMBLY
+ 
+8 
+Bearing Assembly
+177424
+ 
+9 
+ 
+Top Seal Washer (Green) 
+(103709)
+ 10 
+ 
+Metal Top Seal Washer
+(100312)
+ 11 
+ 
+Bearing Spring 
+(106237)
+ 12 
+ 
+Bearing Sleeve
+177511
+ 13 
+ 
+Bearing Washer (Black) 
+(100726)
+ 14 
+ 
+Wear Washer (Orange)
+(103058)
+ 15 
+ 
+Seal Washer (Gray) 
+(102345)
+ 16 
+ 
+Bearing Nipple 
+177517
+ 17  
+Bearing Washer Kit
+177447
+ 
+9 
+ 
+Top Seal Washer (Green) 
+(103709)
+ 10 
+ 
+Metal Top Seal Washer
+(100312)
+   11 
+ 
+Bearing Spring 
+(106237)
+ 13 
+ 
+Bearing Washer (Black) 
+(100726)
+ 14 
+ 
+Wear Washer (Orange)
+(103058)
+ 15 
+ 
+Seal Washer (Gray) 
+(102345)
+6
+17
+Note: Part numbers enclosed in brackets (  ) are not available individually, but may be sold in assemblies or kits.
+3/4" Full Circle Impact Sprinkler
+L3030H
+220   Catalog Number 
+Page 26

@@ -1,0 +1,538 @@
+--- PAGE 1 ---
+®
+®
+Know how. Know now.
+University of Nebraska-Lincoln Extension, Institute of Agriculture and Natural Resources
+G1850
+Irrigation Management for Corn
+William L. Kranz, Irrigation Specialist, Northeast Research and Extension Center
+Suat Irmak, Agricultural Water Management Specialist, Biological Systems Engineering
+Simon J. van Donk, Water Resources Engineer, West Central Research and Extension Center
+C. Dean Yonts, Irrigation Engineer, Panhandle Research and Extension Center
+Derrel L. Martin, Professor, Biological Systems Engineering
+This NebGuide discusses corn irrigation manage­
+ment strategy options and objectives.
+There are more than 16 million acres in harvested row
+crop production in Nebraska. About 8 million of these acres
+are irrigated. Corn occupies approximately 70 percent of the
+irrigated acreage, or 5.6 million acres. Consequently, improving
+irrigation management can have significant impact on the quan­
+tity and quality of Nebraska's most precious resource: water.
+Soil - Plant - Water Relationships
+Understanding the relationships between plants and their
+environment is essential to effective irrigation management.
+Plant characteristics important to irrigation management
+include total seasonal water use, daily crop water use, rate
+of plant development, and rooting depth. Important soil
+characteristics include water holding capacity, water intake
+rate, and the presence of any restrictive soil layers that might
+inhibit root penetration and/or water movement. Quantity
+and quality of the available water supply also must be con­
+sidered. The objective of irrigation management is to provide
+supplemental water needed by the plant while maximizing
+the value of water.
+Corn Water Use Characteristics
+Evapotranspiration (ETc), or crop water use, is the water
+removed from the soil by evaporation from the soil surface
+and transpiration by the plant. For corn, evaporation can ac­
+count for 20 percent to 30 percent of growing season ETc.
+Transpiration is the last step in a continuous water pathway
+from the soil, into the plant roots, through the plant stems
+and out through leaf surfaces and into the atmosphere. Ap­
+proximately 70 percent to 80 percent of crop water use results
+from plant transpiration. The amount of daily corn water use
+varies with atmospheric conditions: air temperature, humidity,
+solar radiation and wind speed. High air temperatures, low
+humidity, clear skies and high wind speed will result in high
+ETc demand. High humidity, clear skies and low wind speed
+will result in lower ETc demand.
+Atmospheric demand must be adjusted for the stage of
+crop development to estimate crop water use on a daily basis.
+A high atmospheric demand day in early May will result in
+little ETc because the corn plant is small with a limited root
+zone and little leaf area to transpire water. The same atmo­
+spheric demand day in mid-July will result in near peak crop
+water use because the corn roots are fully developed and the
+plant leaf area is sufficient to transpire water at rates equal
+to the atmospheric demand. This adjustment is referred to
+as applying a crop coefficient to the atmospheric demand or
+potential evapotranspiration.
+Seasonal water use is affected by climatic conditions,
+relative maturity range, soil fertility, water availability and
+the interaction of these factors. Although the total amount of
+water used by corn will vary from season to season and loca­
+tion to location, it will generally follow the pattern dictated
+by seasonal trends in weather variables and corn develop­
+ment. The smooth curve in Figure 1 (Curve A) illustrates the
+long-term average water use pattern for corn. This average
+water use pattern shows typical daily ETc levels throughout
+the growing season based upon the average daily ETc over a
+10 plus year period. The jagged curve in Figure 1 (Curve B)
+illustrates the fluctuation possible in daily ETc values for an
+individual year. Thus, irrigation managers must be familiar
+with the long-term trend but more importantly be able to
+determine what the daily ETc was over the last few days.
+Knowledge of the long-term trend and actual daily crop water
+use rates are critical to determining when to irrigate and how
+much water to apply.
+In Nebraska, total corn water use ranges from 28 inches
+per year in the southwest to 24 inches in the east. Water require­
+ment depends both on the previously mentioned atmospheric
+conditions and corn variety. The relative maturity range of a
+particular variety has the most impact on seasonal ETc. For
+example, at the same location and in the same year, a corn
+hybrid with a 113-day maturity will use more water than a
+100-day hybrid. Longer-season corn hybrids use more water,
+but they also have the potential to produce more grain if the
+heat units and water supply are available. If both varieties are
+able to mature fully, the grain produced for each inch of ETc
+is approximately equal. The difference in seasonal water use
+is due to total days of water use, and in some cases a differ­
+ence in daily water use.
+Due to variation in weather conditions in a given year
+and from year to year, the long-term average crop water use
+per day (Curve A) could vary by plus or inus 0.03 inches per
+day. Day-to-day variation within a given year (Curve B) can
+be more than 0.20 inches per day. Thus, for reasons described
+above, use of soil water sensors and accessing daily crop
+water­ use estimates based on the weather conditions dur­
+ing the current­ growing season are highly recommended. In
+addition­, the duration of each growth stage could vary by plus
+or minus two days when compared to the long-term average
+values provided in Table I.
+
+--- PAGE 2 ---
+Table I.
+Average crop water use (ETc) by growth stage for 113-day
+maturity corn grown in South Central Nebraska.
+
+Average
+
+Water
+Water water
+
+needed to
+needed use rate
+Duration1
+reach stage
+cumulative
+Growth stage
+(in/day)
+(days)
+(inches)
+(inches)
+Emergence (VE)
+0.08
+0-10
+0.8
+0.8
+4-leaf (V4)
+0.10
+11-29
+1.8
+2.6
+8-leaf (V8)
+0.18
+30-46
+2.9
+5.5
+12-leaf (V12)
+0.26
+47-55
+1.8
+7.3
+Early tassel (R1)
+0.32
+56-68
+3.8
+11.1
+Silking (R2)
+0.32
+69-81
+3.8
+14.9
+Blister Kernel (R3)
+0.32
+82-88
+1.9
+16.8
+Beginning Dent (R4.7) 0.24
+89-104
+3.8
+20.7
+Full Dent (R5.5)
+0.20
+105-125
+3.8
+24.5
+Maturity (R6)
+0.10
+126-140
+1.4
+25.9
+1Long-term average number of days since planting required to progress from
+the previous growth stage to the next. For example, to go from the blister kernel
+stage to the beginning dent stage requires approximately 15 days (day 89 to
+day104). Days to each growth stage were determined using the Hybrid-Maize
+Corn Growth Model for the period 1982-2005 at Clay Center, Neb.
+Corn does not extract water uniformly throughout its
+rooting depth. Generally, more water is extracted from shal­
+low depths and less from deeper depths. If water is applied
+to the soil surface, the typical extraction pattern follows the
+4-3-2-1 rule: 40 percent of the
+water comes from the top 1/4
+of the root zone, 30 percent
+comes from the second 1/4
+and so on. The 4-3-2-1 rule
+is illustrated in Figure 2.
+Water applied using subsur­
+face drip irrigation systems
+will result in more water re­
+moval from the depth where
+the drip lines are placed. In
+addition, though corn roots
+can reach depths of 5 to 6
+feet, until late in the season
+conservative irrigation man­
+agement assumes­ a 3-foot
+effective root zone. Later,
+when predicting the timing
+and amount of the last irriga­
+tion, the effective root zone
+is expanded to 4 feet.
+Matching Crop Demands with Water Application
+In general, irrigation water is meant to supplement water
+stored in the soil profile and any effective rainfall recorded
+during the growing season. Thus, a water balance approach
+for estimating the irrigation requirement would be: Effective
+rainfall + Soil water removed - Seasonal ETc = Irrigation
+requirement. On a long-term average, corn grown on a deep
+silt loam soil in southeast Nebraska requires about 6 inches
+of net irrigation, central Nebraska requires about 9 inches,
+and the Panhandle of Nebraska requires about 14 inches of
+net irrigation per year (Department of Natural Resources,
+2006). These values will vary from year to year as a function
+of climatic conditions (rainfall, solar radiation, air tempera­
+ture, wind speed and relative humidity) that impact ETc as
+described earlier.
+When planning an irrigation system, sufficient system
+capacity should be available to meet the crop water use rates
+in column 2 of Table I. However, simply converting the crop
+water use rate to a system capacity may result in unnecessarily
+oversized system components. NebGuide G1851 Minimum
+Center Pivot Design Capacities in Nebraska provides a method
+for estimating system flow rates needed to meet crop water
+demand while accounting for system down time, soil water
+holding capacity­ and the potential for rainfall during the growing
+season. Using this approach, system capacities can be determined
+to meet the management scheme of the operator and minimize
+the installation and operating cost of the system.
+The goal of irrigation management should be to provide
+supplemental water while considering the economic and envi­
+ronmental consequences. One reason is that corn yield response
+to irrigation water application follows the law of diminishing
+returns (i.e., as the crop approaches maximum yield, the last inch
+or two of water applied will net less additional grain yield than
+the first inch applied). In addition, because irrigation systems
+are not 100 percent efficient at delivering water, it is impos­
+sible to convert all of the applied water to ETc and ultimately
+to grain yield. Thus, managers need to consider the potential
+for increased grain yield and cost of water application when
+deciding whether to apply the last inch of irrigation.
+Applying several inches of excess water will lower the
+net return for the irrigated field potentially due to depressed
+grain yield resulting from leaching nutrients below the active
+root zone and inhibiting soil aeration. In addition, the cost of
+pumping the extra water would add to corn production costs.
+Pumping costs can be estimated by multiplying the fuel use
+Figure 1. Long-term daily average and individual year corn water use with select growth stages.
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+Crop water use (in/day)
+04/10
+05/10
+06/09
+07/09
+08/08
+09/07
+10/07
+Date
+A
+B
+12 Leaf
+Blister kernel
+Tassel
+Silking
+Beginning dent
+Maturity
+Figure 2. Root zone soil water extraction and plant root development
+patterns.
+Days After Emergence
+
+Percent of Depth
+Percent of Water Extraction
+
+40%
+
+30%
+
+20%
+
+10%
+
+--- PAGE 3 ---
+rate per acre-inch by the cost of fuel per unit. For example,
+the estimated fuel use to pump water from a depth of 100
+feet at a pump outlet pressure of 50 psi is approximately1.97
+gallons of diesel fuel per acre-inch. Thus, the pumping cost
+for each inch of water applied would be approximately 1.97
+times the cost of diesel fuel.
+In situations where irrigation water supplies and natural
+precipitation are not adequate to meet crop ETc demands, limited
+or deficit irrigation can be effective in increasing yields above
+dryland levels. However, applying less water than is needed by
+the crop will typically result in yield reductions when compared
+to fully irrigated corn. Under extreme water limited conditions,
+water applications should be targeted to critical growth stages
+such as between pollination and early dough, thereby making
+the most efficient use of the water available.
+Growth Stages
+Immediately after planting, crop water use consists al­
+most entirely of evaporation from the soil surface. Estimated
+ETc rates will typically be less than 0.10 inch per day unless
+the soil surface is wetted by a water application event. Fol­
+lowing a rainfall event soil evaporation rate could be more
+than 0.20 inches per day depending on the soil texture and
+residue cover and the recorded amount of rainfall. Irrigation
+during this period is discouraged because water application
+via sprinkler systems could cause a crust to form on the soil
+surface that will reduce water infiltration and in some cases
+impede plant emergence. Maintaining good residue cover will
+limit crust development by absorbing the water droplet energy
+and also minimize soil evaporation by reflecting some of the
+incoming solar radiation.
+About two weeks after emergence, the corn plant grows to
+a height of about 6 inches (4-leaf stage). The permanent root
+system begins to develop from the nodes and growing point
+during this time. At a plant height of about 10 to 12 inches
+(6-8 leaf stage), the tassel and ear are beginning to form inside
+the stalk. The number of kernel rows and kernels in a row are
+being determined at this time. Leaf area index (LAI) increases
+to 2.0 for fully irrigated corn. Daily corn water use averages
+between 0.15 and 0.20 inches per day (Table I). The plant's
+roots are concentrated in the top 18 inches of soil if there are
+no soil-limiting factors such as compaction, impermeable layer,
+or gravel. Assuming an effective root depth of 18 inches, plant
+available water equals 3 inches in a silt loam soil and 1.5 inches
+in sandy soils. First irrigation depths should account for rainfall
+and be light to limit deep percolation losses.
+Between the 8-leaf stage and tassel emergence corn root
+depth, leaf area and water use grow rapidly reaching peak daily
+water use rates during pollination. Root depth increases from
+18 inches to 4 feet during this period doubling the amount of
+soil water available for plant growth. LAI increases to over
+5.0 under fully irrigated corn with plant populations above
+24,000 plants per acre. Water use rates grow to 0.32 inches
+per day when averaged over a three- to five-day period (Table
+I). Individual day water use rates can reach over 0.40 inches
+per day when high air temperature, low humidity and windy
+conditions prevail. Due to the high water use rates, it is im­
+portant to avoid water stress during the reproductive stage.
+Severe water stress during silking tends to desiccate the silks
+and pollen grains causing poor pollination. Water stress during
+silking will result in the greatest yield reduction. Irrigation
+depths should be increased to match corn ETc minus rainfall
+while leaving some room in the soil for future potential rainfall
+events (0.5 inches for a silt loam soil).
+Water requirements remain high during the early repro­
+ductive stages, often remaining in the 0.30 to 0.35 inches per
+day range until the dough stage (Table I). During this time,
+kernels are growing as the plant transfers dry matter to the
+grain. Root development begins to slow down during the
+blister kernel stage and remains nearly constant at 4.5 to 5
+feet for the remainder of the season and plant available soil
+water reaches a maximum value. Bottom leaves begin dying
+back during this period of time but have little impact of crop
+water use rates or yield. Irrigation depths should match corn
+water use minus rainfall while continuing to leave room for
+future rainfall events.
+Corn water use rates decline beginning with the dough
+stage in response to lower atmospheric demand (shorter days
+and cooler temperatures and lower solar radiation), loss of trans­
+piring leaf area, and changes in plant physiology as the grain
+approaches maturity. Corn water use drops from 0.30 inches
+per day to 0.20 inches per day by full dent (Table I). Lower
+leaf loss continues during this period as well. It is assumed­ that
+the crop root zone remains constant at approximately­ 4.5 feet
+under fully irrigated conditions. Due to reduced crop water
+requirements, soil water levels can be drawn down below 50
+percent depleted toward the end of the dent stage without
+affecting­ grain yield. However, corn does require some water
+right up to physiological maturity so one should continue to
+monitor corn water use rates and soil water levels.
+As corn approaches physiological maturity more water can
+be removed from the soil profile without impacting final grain
+yields. Determining when to stop irrigating is an important
+economic decision. Saving one pass with a center pivot or one
+irrigation event with a furrow irrigation system reduces produc­
+tion costs associated with pumping the irrigation water.
+Irrigation Management
+Irrigation management is basically deciding when to
+irrigate and how much to apply. The decision must be based
+on the available irrigation water supply, the soil water hold­
+ing capacity and water intake rate, and the corn water needs.
+Well-timed irrigations provide enough water to prevent corn
+stress while fully using water from rainfall and available in
+the soil. Thus, irrigation scheduling accounts for all plant
+sources of water to produce economic yields.
+EC783 Watermark Granular Matrix Sensor to Measure
+Soil Matric Potential for Irrigation Management provides a
+detailed discussion about granular matrix soil water sensor
+field preparation and installation procedures. In addition, the
+publication provides information on how to convert readings
+recorded in the field into how much plant available water has
+been removed from the soil or soil water depletion. Tabular
+values are provided for eight general soil texture classifica­
+tions. Finally, an example is provided to show how the soil
+water readings can be used to determine the time for the next
+irrigation event.
+Irrigation management based upon potential crop water
+use estimates obtained from ETgages is discussed in detail
+in NebGuide G1579 Using Modified Atmometers (ETgage)
+for Irrigation Management. Estimated potential crop water
+use rates based on weather conditions can be obtained from
+the High Plains Regional Climate Center. Estimated ETc can
+be obtained using a subscription program directly from the
+Climate Center via the Internet. In this way, crop water use
+can be estimated for specific fields using the field location,
+emergence date and relative maturity. Similar information
+is available from radio stations and some newspapers based
+upon an average emergence date and crop relative maturity
+planted in the area.
+Irrigation management also includes considering the
+economic and environmental consequences of each irriga­
+tion event. For example, suppose a crop production function
+indicates that the last 2 inches of irrigation water applied under­
+
+--- PAGE 4 ---
+Extension is a Division of the Institute of Agriculture and Natural Resources at the University of Nebraska-Lincoln
+cooperating with the Counties and the United States Department of Agriculture.
+University of Nebraska-Lincoln Extension educational programs abide with the nondiscrimination policies
+of the University of Nebraska-Lincoln and the United States Department of Agriculture.
+© 2008, The Board of Regents of the University of Nebraska on behalf of the University of Nebraska-Lincoln Extension. All rights reserved.
+full irrigated conditions produces 2.5 bushels of corn per
+inch. If the price for corn is $3.15 per bushel, the increase in
+income resulting from the water application is $7.88 per acre
+(2.5 bu/ac x $3.15 / bu). If pumping cost (fixed and owner­
+ship) is less than $7.88 per acre, net income will increase as a
+result of applying the water. However, irrigation management
+must also evaluate the environmental aspects of irrigating.
+For example, if the plant uses 0.2 inch of the applied water,
+what are the potential environmental effects of the remaining
+0.8 inches of water? If the extra water makes its way to the
+aquifer and carries 8 lbs of nitrogen with it, will the increase
+in net income be worth it?
+Soil Textures
+Soils classified as coarse-textured include: fine sands,
+loamy sands and fine sandy loams. These soils generally have
+plant available water holding capacities less than 1.5 inches
+per foot. In the top 3 feet, the plant available soil water at
+field capacity can be between 1.5 and 2.7 inches. Some sandy
+soils in Nebraska also have root-restricting layers at shallow
+depths that can restrict root development. The combination
+of low plant available water capacity and shallow rooting
+depth results in a relatively small soil-water reservoir. Small
+soil-water reservoirs create challenging water management
+scenarios. Application depths greater than 0.75 inches could
+result in plant stress in the event of an unexpected system failure.
+Frequent irrigations of less than 0.50 inches reduce the water
+application efficiency due to the amount of water lost during
+each application event. A compromise is to apply relatively
+frequent light (0.50 to 0.75 in.) water applications.
+Medium- and fine-textured soils generally have plant avail­
+able water capacities of more than 1.8 inches per foot. In the
+top 3 feet, the plant available soil water at field capacity can
+be between 5.4 and 7.6 inches. Because these soil textures can
+store more water, irrigators have more scheduling flexibility.
+If no leaching or surface runoff occurs, water applications of
+0.75 to 1.3 inches are appropriate for these soils.
+Irrigation Systems
+In Nebraska, approximately 70 percent of the irrigation
+water is supplied by center pivot sprinkler systems and about
+30 percent using furrow irrigation. An estimate of the water ap­
+plication efficiency is needed to determine the amount of water
+that might need to be pumped per season. Conventional gated
+pipe irrigation with no reuse pit typically has an efficiency of
+about 50 percent. This means if 10 inches of net irrigation is
+required, an irrigator using conventional gated pipe and no reuse
+would have to pump 20 inches of water. With a reuse system the
+maximum efficiency increases to near 70 percent, and the depth
+pumped would decrease to 14 inches. When furrow irrigating,
+it is important to irrigate the entire field quickly. Every-otherfurrow irrigation supplies water to more area in a given amount
+of time and produces yield comparable to those achieved when
+every-furrow is irrigated. In addition to saving time, the water
+application depth may be reduced 20 percent to 30 percent by
+implementing every-other-furrow irrigation. With no reuse sys­
+tem, every-other-furrow irrigation is about 60 percent efficient.
+With a reuse system, maximum efficiency increases to near 75
+percent. Surface irrigation management is discussed in detail in
+NebGuide G1338 Managing Furrow Irrigation Systems.
+Properly designed and well-maintained center pivot and
+lateral move sprinkler irrigation systems can be 85 percent
+to 90 percent efficient. A sprinkler irrigation system that is
+90 percent efficient would require a gross application of
+11 inches to deliver a net application of 10 inches. If farm­
+ing practices are changed to accommodate increased water
+application­ rates, and sprinkler spacing is less than 7.5 feet,
+system efficiencies can be improved by dropping the sprinkler
+nozzles nearer the soil surface. Center pivots also allow more
+precise application depths and timing than are possible with
+furrow irrigation systems. The ability to consistently apply
+only the depth of water needed allow center pivots to take
+full advantage of rainfall and minimize the potential for plant
+stress. For more information about center pivot system design
+and management see the University of Nebraska-Lincoln
+Extension publication Web site.
+Summary
+Proper water management on irrigated corn can produce
+economic yields, conserve water supplies and preserve or
+enhance water quality. Use corn ETc estimates and regular
+soil water measurements to determine irrigation timing and
+amount. Consider the irrigation water supply and the system's
+ability to deliver the water. Work to maximize the efficiency of
+your irrigation system by performing regular maintenance. A
+critical concept of any crop production parameter is: to man­
+age it, you must measure it. In order to manage an irrigation
+system effectively, irrigators need to know how much water
+has been pumped and where it has gone. Efficient irrigation
+management requires that accurate records be kept document­
+ing the water applied and rainfall for each field.
+Acknowledgments
+The authors would like to recognize the work of the
+extension specialist who wrote the original edition of this
+NebGuide: Brian Benham, former water resources engineer,
+South Central Research and Extension Center.
+References
+Eisenhauer, D.E., D.L. Martin, G.J. Hoffman. 1997. Irrigation Systems
+Management MSM452/852: Class Notes. University of Nebraska,
+Lincoln, Neb.
+Hoffman, G. J., R.G. Evans, M.E. Jensen, D.L. Martin, and R.L. Elliot, Edi­
+tors. 2007. Design and Operation of Farm Irrigation Systems. ASAE,
+St. Joseph, Mo.
+Ritchie, S.W., J.J. Hanway, and G.O. Benson. 1986. How a Corn Plant
+Develops. Special Report No. 48. Iowa State University Cooperative
+Extension, Ames, Iowa.
+Nebraska Department of Natural Resources. 2007. Annual Evaluation of
+Availability of Hydrologically Connected Water Supplies (Figure
+M-1). http://www.dnr.state.ne.us/LB962/AnnualReport_2007/Annu­
+alReport2007.pdf.
+This publication has been peer reviewed.
+UNL Extension publications are available online
+at http://extension.unl.edu/publications.
+Index: Field Crops
+Corn
+Issued May 2008

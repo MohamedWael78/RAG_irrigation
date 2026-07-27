@@ -1,0 +1,856 @@
+--- PAGE 1 ---
+Spanish Journal of Agricultural Research
+13(1), e03-001, 10 pages (2015)
+eISSN: 2171-9292
+http://dx.doi.org/10.5424/sjar/2015131-6412
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA)
+RESEARCH ARTICLE
+OPEN ACCESS
+air temperature, air humidity and wind speed should
+be considered when assessing transpiration (Allen
+et al., 1998). Various equations are available for estimating ETo. These equations range from the most
+complex energy balance equation requiring detailed
+climatological data, such as Penman Monteith (Allen
+et al., 1989) to simpler equations requiring limited data
+(Blaney & Criddle, 1950; Hargreaves & Samani, 1982,
+1985). The Penman-Monteith equation (P-M) is widely recommended because of its detailed theoretical base
+and its accommodation to small time periods. However, the detailed climatological data required by the
+P-M are not often available especially in developing
+Water requirements for wheat and maize under climate
+change in North Nile Delta
+Samiha Ouda, Tahany Noreldin and Khaled Abd El-Latif
+Agricultural Research Center. Soils, Water and Environment Research Institute.
+Water Requirement and Field Irrigation Department. Giza, Egypt
+Abstract
+Determination of water requirements for wheat and maize under climate change is important for policy makers in Egypt. The
+objectives of this paper were to calculate (i) ETo and (ii) water requirements for wheat and maize crops grown in five governorates
+(Alexandria, Demiatte, Kafr El-Sheik, El-Dakahlia and El-Behira) located in North Nile Delta of Egypt under current climate and
+climate change. ECHAM5 climate model was used to develop A1B climate change scenario in 2020, 2030 and 2040. Monthly
+values of evapotranspiration (ETo) under the different scenarios in these governorates were calculated using Hargreaves-Samani
+equation (H-S). Then, these values were regressed on ETo values previously calculated by Penman-Monteith equation (P-M) and
+linear regression (prediction equations were developed for each governorate). The predicted ETo values were compared to the
+values of ETo calculated by P-M equation and the deviations between them were very low (RMSE/obs=0.04-0.06 mm and R2 =0.96-0.99).
+Water requirements for wheat and maize were calculated using BISm model under current climate and in 2020, 2030 and 2040. The
+results showed that average annual ETo would increase by low percentage in 2020 and 2030. However, in 2040 the increase would
+reach 8%. Water requirements are expected to increase by 2-3% for wheat and by 10-15% for maize, which would result in reduction of the cultivated area. Thus, it is very important to revise and fix the production system of wheat and maize, in terms of the
+used cultivars, fertilizer and irrigation application to overcome the risk of climate change.
+Additional key words: Triticum spp; Zea mays; Penman-Monteith equation; Hargreaves-Samani equation; BISm model; ECHAM5
+climate model; A1B climate change scenario.
+Abbreviations used: BISm (basic irrigation scheduling model); CCAFS (Climate Change, Agriculture and Food Security); ETo
+(evapotranspiration); H-S (Hargreaves & Samani); Kc (crop coefficient); PI (percentage of increase); P-M (Penman Monteith);
+RMSE (root mean square error); WHC (water holding capacity).
+Citation: Ouda, S.; Noreldin, T.; Abd El-Latif, K. (2015). Water requirements for wheat and maize under climate change in North
+Nile Delta. Spanish Journal of Agricultural Research, Volume 13, Issue 1, e03-001, 10 pages. http://dx.doi.org/10.5424/
+sjar/2015131-6412.
+Received: 15 Jun 2014. Accepted: 02 Dec 2014.
+http://dx.doi.org/10.5424/sjar/2015131-6412
+Copyright © 2015 INIA. This is an open access article distributed under the Creative Commons Attribution License (CC by 3.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Funding: The author(s) received no specific funding for this work.
+Competing interests: The authors have declared that no competing interests exist.
+Correspondence should be addressed to Samiha Ouda: samihaouda@yahoo.com
+Introduction
+Climate plays an important role in the crop production. Crops growth periods, crops water requirements
+and irrigation scheduling for crops are dependent on
+weather conditions in a site. The amount of applied
+water for a crop is associated with the calculation of
+reference evapotranspiration (ETo). The ETo is a combination of two processes: water evaporation from soil
+surface and transpiration from the growing plants
+(Gardner et al., 1985). Direct solar radiation and, to a
+lesser extent, the ambient temperature of the air provides energy for evaporation. Whereas, solar radiation,
+
+--- PAGE 2 ---
+Samiha Ouda et al.
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+quantify how climate change will affect the water requirements for strategic crops in Egypt, such as wheat
+(Triticum spp) and maize (Zea mays). These two crops
+are cultivated mostly under surface irrigation with low
+application efficiency, i.e. 60% (Abou Zeid, 2002).
+The objectives of this research were to calculate,
+under current climate and under climate change (i) ETo
+and (ii) water requirements for wheat and maize grown
+in five governorates in North Nile Delta of Egypt.
+Material and methods
+Description of the study area
+The study area is composed of five governorates in
+the North Nile Delta. These governorates are: Alexandria (lat. 31.70°, long. 29.00°, 7.00 masl), Demiatte
+(lat. 31.25°, long. 31.49°, 5.00 masl), Kafr El-Sheik
+(lat. 31.07°, long. 30.57°, 20.00 masl), El-Dakahlia (lat.
+31.03°, long. 31.23°, 7.00 masl) and El-Behira (lat.
+31.02°, long. 30.28°, 6.70 masl). Each of these governorates has a weather station. All these governorates
+are close to the Mediterranean Sea, thus they have
+relatively similar weather conditions. Fig. 1 shows the
+map of the studied governorates.
+Evapotranspiration (ETo) under current climate
+Monthly ETo values were calculated using the Penman Montieth equation (P-M) for each governorate, as
+countries. In the meantime, a reduced-weather-dataequation to calculate ETo could be more appropriate
+in some developing countries. However, using this type
+of equation could reduce accuracy of calculation.
+Therefore, calibrating more simple equation needs
+limited data requirements with P-M equation could be
+a solution to that problem (Shahidian et al., 2012).
+Agriculture is strongly influenced by the availability
+of water. Agriculture water demand in Egypt represents
+serious pressure on water sector, since 85% of total available water is consumed in the agricultural area and most
+of the on-farm irrigation systems are low efficient coupled with poor irrigation management (Abou Zeid,
+2002). Climate change will modify rainfall, evaporation,
+runoff, and soil moisture storage (IPCC, 2007). A temperature rise of 1°C may increase ETo by about 4-5%,
+while a rise of 3°C may increase ETo by about 15% (Eid,
+2001). Thus, irrigation water management becomes
+increasingly important in the presence of low water supplies and expected future climate change. In order to
+avoid underestimation or overestimation of crop water
+consumption, knowledge of the exact water loss through
+actual ETo is necessary for sustainable development and
+environmentally sound water management (Shideed
+et al., 1995), which could reduce both waste of water
+and negative impacts on economic, social and environmental levels (Katerji & Rana, 2008). Furthermore, the
+evidence of future warming is the reason for paying more
+attention to the efficiency of water application to crops
+(Abou Zeid, 2002).
+Previous studies on the effect of climate change on
+the Nile flow clearly indicated that the Nile is very
+sensitive to temperature and precipitation changes
+(Soliman et al., 2008) mainly because of its low runoff/
+rainfall ratio, which equals to 4% (IPCC, 2007). Furthermore, Sayed (2004) indicated that the magnitude
+of temperature change varies and the direction of this
+change is clear. For rainfall, however, not only the
+magnitude varies substantially across the models, but
+also the signal of the change varies. Thus, water gap
+in Egypt could increase in the future, under the expected climate change (Sanchez et al., 2005). The
+uncertain climate change impacts on the Nile flow
+could add another challenge for water management in
+Egypt. It is expected that the projected high temperature would increase the local water demands, especially for agricultural sector. Attaher et al. (2006)
+concluded that future climate change will increase
+potential irrigation demands in all Egypt by a range of
+6-16%, due to the increase in ETo. Another study by
+Ouda et al. (2011) revealed that an increase by 33% in
+water required for irrigation is expected to occur in
+Egypt in 2025, as a result of temperature increase by
+2°C and population increase. Thus, it is important to
+Figure 1. Map of the studied governorates in the North Nile
+Delta in Egypt.
+
+--- PAGE 3 ---
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+Water requirements for wheat and maize under climate change in North Nile Delta
+tion of new and more efficient technologies. Major
+underlying themes are convergence among regions,
+capacity building and increased cultural and social
+interactions, with a substantial reduction in regional
+differences in per capita income. One of A1 family is
+A1B climate change scenario, where it is characterized
+by technological balance across all sources (balanced
+is defined as not relying too heavily on one particular
+energy source, on the assumption that similar improvement rates apply to all energy supply and end-use
+technologies).
+The downloaded scenario was for the years 2020,
+2030 and 2040 and composed of maximum and
+minimum temperature, rain and solar radiation. These
+weather parameters were not enough to calculate ETo
+with P-M equation. However, they are enough to
+calculate ETo using Hargreaves-Samani equation
+(H-S) (Hargreaves & Samani, 1985; modified later
+by Hargreaves, 1994). Thus, the H-S equation was
+used to calculate ETo for the studied governorates
+under current climate using maximum and minimum
+temperature and then it was compared to the previously calculated values by P-M equation. The comparison showed that there were deviations (positive
+or negative) between monthly ETo values. Therefore,
+to increase the accuracy of estimation, a linear regression equation established with P-M values was plotted as the dependent variable and values from H-S
+equation were plotted as the independent variable.
+The intercept a and calibration slope b of the best fit
+regression line, were then used as regional calibration
+coefficients for each governorate, following Shahidian et al. (2012):
+
+ETo[P-M]= a + b (ETo[H-S])
+[1]
+An equation for each governorate was developed,
+where different a and b values were estimated. The
+quality of the fit between the two values was presented
+in terms of the coefficient of determination (R2), which
+is the ratio of the explained variance to the total variance and through calculation of root mean square error
+per observation (RMSE/obs), which gives the standard
+deviation of the model prediction error per observation
+(Jamieson et al., 1998). The obtained equation for each
+governorate was used to predict monthly values of ETo
+similar to the values calculated with P-M equation and
+was compared with the obtained values of ETo[P-M],
+to check its accuracy. Then, the developed prediction
+equations were used to calculate monthly ETo values
+under A1B climate change scenario in 2020, 2030 and
+2040 for every month and annual average value was
+calculated and compared to average ETo values under
+current climate.
+an average over 10 years, from 2002 to 2011. The used
+weather data were maximum and minimum temperature,
+relative humidity, wind speed and potential sun shine
+hours. The stability of these weather parameters through
+time were tested through comparison of ETo values with
+previously calculated values from 1960 to 1991, where
+R2 was 0.91. Furthermore, when these values were compared with ETo values calculated from 1997 to 2006, R2
+was 0.83. Eid (2001) stated that the weather parameters
+in northern Nile Delta are fairly stable.
+Climate change model ECHAM5
+Research program on Climate Change, Agriculture
+and Food Security (CCAFS) is part of CGIAR (Consortium of International Agricultural Research Centers)
+research programs that implement a uniquely innovative and transformative research program that addresses agriculture in the context of climate variability,
+climate change and uncertainty about future climate
+conditions. In the CCAFS web site (http://www.ccafs.
+cgiar.org/marksimgcm#.Ujh1gj-GfMY), which describes seven global climate change models, three
+climate change scenarios (A1B, A2 and B1) can be
+downloaded. The details of these models are presented
+in Jones et al. (2009). The climate model ECHAM5
+(Roeckner et al., 2003) is one of them and was used in
+this analysis.
+The ECHAM5 is an atmospheric oceanic general
+circulation model (EC stands for being developed
+from the ECMWF operational forecast model cycle
+36 in 1989, and HAM for the parameterization package being developed at Hamburg). The part describing
+the dynamics of ECHAM is based on the ECMWF
+documentation, which has been modified to describe
+the newly implemented features and the changes necessary for climate experiments. Since the release of
+the previous version, ECHAM4, the whole source
+code has been extensively redesigned in the major
+infrastructure and transferred to FORTRAN 95.
+ECHAM5 is now fully portable and runs on all major
+high performance platforms. The resolution of the
+model is 1.9 × 1.9 degrees.
+Climate change scenario
+ECHAM5 model was used to develop A1B climate
+change scenario for each weather station in each governorate. IPCC (2007) describes the A1 storyline and
+scenario family as a future world of very rapid economic growth, global population that peaks in midcentury and declines thereafter, and the rapid introduc-
+
+--- PAGE 4 ---
+Samiha Ouda et al.
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+BISm model
+The Basic Irrigation Scheduling model (Snyder
+et al., 2004) which helps planning irrigation management of crops, calculates ETo, crop Kc, water depletion from root zone and schedules irrigation. Moreover, ETo values can be directly input in the model.
+The BISm application calculates ETo using the P-M
+equation (Monteith, 1965) as presented in Allen et al.
+(1998). If only temperature data are input, H-S equation is used to calculate ETo (Hargreaves & Samani,
+1985). For ETo calculations, the station latitude and
+elevation must be input. After calculating daily
+means per month, a cubic spline curve fitting subroutine was used to estimate daily ETo rates for the
+entire year. The model requires the input of: sowing
+and harvest dates to calculate crop Kc; irrigation
+frequency to determine initial Kc; and total water
+holding capacity (WHC) and available water to calculate water depletion from root zone. The model
+then determines the time when irrigation needs to be
+applied and the required amounts (Snyder et al.,
+2004).
+Calculation of water requirements
+The obtained monthly values for ETo under current
+climate and the calculated values under climate change
+using the prediction equations were used in BISm
+model to calculate water requirements for wheat and
+maize grown under surface irrigation in each of the five
+governorates. Sowing date for wheat was assumed to
+be 15th of November, which is the recommended sowing date and 18th of April was set as a harvest date. The
+season length for wheat as winter crop is 155 days. The
+recommended sowing date for maize is 15th of May and
+harvest date is 1st of September, with a season length
+of 110 days. The same sowing date was assumed under
+climate change and harvest date was assumed to be one
+week earlier for wheat and maize crops. Previous research on the effect of climate change on season length
+of wheat and maize indicated that it could be reduced
+by 7-12 days (Khalil et al., 2009; Ouda et al., 2009).
+Representative values for WHC and available water
+for the soil of each governorate were used in the model
+(Table 1). These values were obtained from our Department (unpublished results). Irrigation schedule for each
+crop was developed in each governorate and water
+requirements under surface irrigation were calculated.
+Irrigation efficiency was assumed to be 60% under both
+current and climate change conditions, which is the
+efficiency of surface irrigation in Egypt (Abou Zeid,
+2002).
+Results
+Comparison between ETo[P-M] and
+ETo[H-S] values
+The obtained values of ETo[P-M] and the calculated
+values by ETo[H-S] in North Nile Delta governorates
+were compared in Fig. 2. The results showed that in all
+governorates the H-S equation under-estimated ETo
+during all months, especially in the summer months.
+There were deviations between monthly ETo values
+calculated from each equation in each governorate.
+Prediction of ETo[P-M] values under current
+climate
+Table 2 presents the developed regression equations,
+coefficients of determination (R2: between 0.95 and 0.98)
+and root mean square error per observation (RMSE/obs:
+between 0.04 and 0.06 mm), which shows a good accuracy of the prediction of these equations. These equations
+were used to predict values of ETo[P-M]. Figure 3 indicates
+that the predicted values were close to obtained values of
+ETo[P-M] in most of the months, which implies a high
+degree of accuracy because R2 for each equation was close
+to one and RMSE/obs was close to zero (Table 2).
+Calculation of ETo under a climate change
+scenario
+Table 3 shows that under climate change conditions, the
+annual ETo value is expected to increase by low percentage
+in 2020 and 2030. However, in 2040 it is expected to increase by 8% in all the studied governorates (Table 3).
+Water requirements under climate change
+With respect to wheat, Table 4 shows that water
+requirements were the lowest at Alexandria and the
+highest at El-Dakahlia. Water requirements will inTable 1. Soil water holding capacity (WHC) and available
+water prevailed in each governorate
+Governorate
+WHC (m/m)
+Available water (m/m)
+Alexandria
+0.373
+0.206
+Demiatte
+0.376
+0.222
+Kafr El-Sheik
+0.405
+0.170
+El-Dakahlia
+0.395
+0.196
+El-Behira
+0.408
+0.230
+
+--- PAGE 5 ---
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+Water requirements for wheat and maize under climate change in North Nile Delta
+Figure 2. Comparison between ETo[P-M] and ETo[H-S] in (a) Alexandria, (b) Demiatte, (c) Kafr El-Sheik, (d) El-Dakahlia and
+(e) El-Behira governorates.
+Eto (mm/day)
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+a)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov b)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov c)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov e)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov d)
+Dec
+EtoP-M
+EtoH-S
+Table 2. Prediction equations for ETo, coefficients of determination (R2) and root mean
+square error per observation (RMSE/obs) between Penman-Monteith and HargreavesSamani equations in each governorate studied
+Governorate
+Prediction equation
+R2
+RMSE/obs
+(mm/day)
+Alexandria
+ETo[P-M]= -0.4252 + 1.2134* ETo[H-S]
+0.95
+0.06
+Demiatte
+ETo[P-M]= -0.22 97 + 1.2714* ETo[H-S]
+0.98
+0.05
+Kafr El-Sheik
+ETo[P-M]= -0.1280 + 1.1690* ETo[H-S]
+0.98
+0.05
+El-Dakahlia
+ETo[P-M]= 0.0338 + 1.0745* ETo[H-S]
+0.98
+0.04
+El-Behira
+ETo[P-M]= 0.3432 + 1.1157* ETo[H-S]
+0.96
+0.04
+
+--- PAGE 6 ---
+Samiha Ouda et al.
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+crease in 2020 by low percentage, 1-2%. In 2030, the
+percentage of increase between water requirements
+under current climate and under climate change conditions will be 1-3%, whereas in 2040, the percentage of
+increase will be 2-3%. This increase will result in reduction in wheat cultivated area and that will increase
+wheat production-consumption gap in Egypt.
+With respect to maize, Table 4 shows that in 2020,
+water requirements are expected to increase by a low
+percentage in all governorates (3-4%), except for
+El-Behira governorate, where PI=9%. In 2030, the
+highest PI is expected to occur in El-Dakahlia and
+El-Behira (11% and 14%, respectively). This can be
+attributed to the fact that ETo values in both governorates in the summer months were over 7.00 mm
+day-1 (Figs. 3d and 3e). Water requirements for maize
+in 2040 are expected to increase between 10% and
+15%.
+Figure 3. Comparison between ETo[P-M] and predicted values of ETo in (a) Alexandria, (b) Demiatte, (c) Kafr El-Sheik,
+(d) El-Dakahlia and (e) El-Behira governorates.
+Eto (mm/day)
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+a)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov b)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov c)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov e)
+Dec
+Eto (mm/day)
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov d)
+Dec
+EtoP-M
+Predicted ETo
+
+--- PAGE 7 ---
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+Water requirements for wheat and maize under climate change in North Nile Delta
+curacy. Regional calibration is important in decreasing the bias of the ETo estimates.
+Our results showed that this method was accurate
+and the predicted ETo values were close to the previously calculated values by P-M equation. Thus, these
+developed equations can be used for accurate prediction
+of ETo values under climate change scenarios using
+the same methodology.
+The rise in temperature, as a syndrome of climate
+change, is going to increase water requirements for
+both wheat and maize, as a result of increase in
+evaporation from soil and transpiration from plants
+surface (Abdrabbo et al., 2013). Khalil (2013) calculated ETo values under climate change similar to what
+is presented in Table 3. Furthermore, he also stated
+that ETo value calculated for Demiatte was the lowest
+in all studied governorates. Snyder et al. (2011) concluded that the impact of global warming on ETo will
+likely be less in locations with higher wind speeds.
+So, the studied governorates are located close to the
+Mediterranean Sea and are characterized by wind
+speeds between 4.3 and 4.9 m/s. Moreover, Ouda et al.
+Discussion
+Quantification of the impact of climate change on
+water requirements of two strategic crops in Egypt,
+i.e. wheat and maize, is very important for policy
+makers when developing future plans. This requires
+an accurate equation to calculate ETo values. With
+only monthly maximum and minimum temperature
+measurements and solar radiation available, monthly ETo can be calculated by H-S equation and, then
+regressed on ETo value previously calculated from
+P-M equation to develop calibration coefficients for
+each site. The calibration coefficients (a and b)
+should be developed for each site to increase the
+accuracy of prediction of EToP-M values. Furthermore, the results showed in Fig. 3 prove that the
+calibration coefficients were capable to account for
+the effect of relative humidity, wind speed and potential sun shine hours, which were not included in
+the H-S equation. Shahidian et al. (2012) concluded
+that both temperature and radiation can be used successfully to calculate ETo values with relative acTable 3. Mean annual values of ETo (mm/day) and percentage of increase (PI%) under
+current climate, and under 2020, 2030 and 2040 climate change scenarios
+Governorate
+Current
+climate
+
+ETo
+ETo
+PI%
+ETo
+PI%
+ETo
+PI%
+Alexandria
+4.3
+4.5
+
+4.5
+
+4.7
+
+Demiatte
+4.3
+4.4
+
+4.4
+
+4.6
+
+Kafr El-Sheik
+4.3
+4.5
+
+4.5
+
+4.6
+
+El-Dakahlia
+4.6
+4.7
+
+4.7
+
+5.0
+
+El-Behira
+4.8
+4.9
+
+5.1
+
+5.2
+
+Table 4. Water requirements (mm) for wheat and maize under current climate, and under
+A1B climate change scenario in 2020, 2030 and 2040
+Governorate
+Current
+(mm)
+
+mm
+PI%
+mm
+PI%
+mm
+PI%
+Wheat
+Alexandria
+
+Demiatte
+
+Kafr El-Sheikh
+
+El-Dakahlia
+
+El-Behira
+
+Maize
+Alexandria
+
+Demiatte
+
+Kafr El-Sheikh
+
+El-Dakahlia
+
+El-Behira
+
+PI%: percentage of increase.
+
+--- PAGE 8 ---
+Samiha Ouda et al.
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+(2010) and Ibrahim et al. (2012) calculated water
+requirements for wheat grown in El-Behira governorate under climate change in 2030. They both concluded that it would increase by an average of 3-4%
+under A2 and B2 climate change scenarios developed
+by Hadley model. In Demiatte governorate, the water
+requirement used for wheat is expected to increase
+under climate change condition by 3% (Noreldin
+et al., 2013). Regarding to maize, similar results were
+obtained by Ouda et al. (2012) and Abdrabbo et al.
+(2013) under El-Behira governorate. The expected
+increase in water requirements for both wheat and
+maize will probably cause reduction in the cultivated
+area of these crops in each governorate due to unavailability of water for irrigation. Taking into consideration population increase, food insecurity problem
+could increase.
+Furthermore, the above methodology could solve
+a large problem that researchers and extension workers face on irrigation scheduling in Egypt and in other
+developing countries. The availability of a number
+of meteorological stations, to measure weather parameters is limited and reliability of the measured
+data could be an obstacle. There are also concerns
+about the accuracy of the observed meteorological
+parameters (Droogers & Allen, 2002), since pyranometers (solar radiation) and hygrometers (relative
+humidity), are often subject to stability errors, where
+it is common to see a drift as high as 10% in pyranometers (Samani, 2000). Sepaskhah & Razzaghi (2009)
+have observed that hygrometers lose about 1% in
+accuracy per installed month. Thus, they recommend
+the use of ETo equations that require fewer variables.
+Hargreaves & Allen (2003) concluded that the differences in ETo values, calculated by the different
+methods, are minor when compared with the uncertainties in estimating actual crop ETo from measured
+weather data. Additionally, these equations can be
+more easily used in adaptive or smart irrigation
+controllers that adjust the application depth according to the daily ETo demand (Shahidian et al.,
+2009).
+The methodology presented in this paper could be
+applied in developing countries, where few weather
+stations exist or few weather parameters are measured.
+The values of ETo for any site on Earth can be obtained
+from FAO AQUASTAT website (http://www.fao.org/nr/
+water/aquastat/main/index.stm), which provides climate
+normals (1960-1991) in this site, as well as ETo values.
+These values can be compared to ETo values recently
+calculated with H-S equation and if the deviation is
+high, a linear regression equation should be established
+with ETo[P-M] values plotted as the dependent variable
+and values from H-S equation plotted as an independent
+variable. The intercept a and calibration slope b of the
+best fit of regression line, are then used as regional
+calibration coefficients for each region.
+In semiarid regions, where Egypt is located, more
+pressure will be put on water resources distribution
+between economic sectors under climate change,
+especially agriculture. Reduction in the amount of
+allocated water for irrigation, increase in water requirements for crops and yield reduction under climate change conditions will worsen food security
+situation in Egypt. The studied area is located in
+North Egypt and it has the lowest temperature, as a
+result of its location near the Mediterranean Sea,
+which implies that the risk of climate change on water
+requirements for crops will increase in the rest of the
+country. Furthermore, in the five studied governorates, surface irrigation was used. However, changing
+irrigation system from surface irrigation to sprinkler
+for wheat and drip for maize could increase application efficiency from 60% under surface to 80% under
+sprinkler or 95% under drip irrigation. Another option was successfully used in Egypt and proved to
+save irrigation water, increase yield and does not
+involve any extra cost for farmers, i.e. cultivation
+on raised bed. These options, if implemented, will
+save on the applied irrigation water, which can be
+used to irrigate new lands under climate change
+conditions.
+In conclusion, water requirements for wheat (winter
+crop) under climate change in 2020, 2030 and 2040 are
+expected to increase by a low percentage, 2-3%. For
+maize (summer crop), the percentage of increase is
+expected to be high (15% at El-Behira governorate).
+Thus, it is very important to revise and fix the production system for wheat and maize, in terms of the used
+cultivars, fertilizer and irrigation application.
+Acknowledgment
+The authors thank their colleagues, especially Prof.
+Fouad Khalil and Prof. Manal El-Tantawy for their help
+in the preparation and revision of this paper.
+References
+Abdrabbo M, Ouda S, Noreldin T, 2013. Modeling the irrigation schedule on wheat under climate change. Nature and
+Science 11(5): 10-18.
+Abou Zeid K, 2002. Egypt and the world water goals. Egypt
+statement in the World Summit for Sustainable Development and Beyond, Johannesburg.
+Allen RG, Jensen ME, Wright JL, Burman RD, 1989. Operational estimate of reference evapotranspiration. Agron
+
+--- PAGE 9 ---
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+Water requirements for wheat and maize under climate change in North Nile Delta
+Egypt. 13th Conf on Water Technol, 12-15 March,
+Hurghada, Egypt, pp: 71-88.
+Monteith JL, 1965. Evaporation and environment. Symp Soc
+for Exp Biol: The State and Movement of Water in Living
+Organisms, Vol. 19 (Fogg GE, ed.), Academic Press, Inc,
+NY, USA. pp: 205-234.
+Noreldin T, Ouda S, Abou Elenein R, 2013. Development
+of management practices to address wheat vulnerably
+to climate change in north Delta. 11th Int Conf on
+Development of Dry Lands. Beigin, China, 18-21
+March.
+Ouda S, Khalil F, Yousef H, 2009. Using adaptation strategies
+to increase water use efficiency for maize under climate
+change conditions. 13th Int Conf on Water Technology.
+Hurghada, Egypt. 12-15 March.
+Ouda S, Sayed M, El Afandi G, Khalil F, 2010. Developing
+an adaptation strategy to reduce climate change risks on
+wheat grown in sandy soil in Egypt. 10th Int Conf on
+Development of Dry Lands. 12-15 December. Cairo,
+Egypt.
+Ouda S, Khalil F, El Afendi G, Abd El-Hafez S, 2011. Prediction of total water requirements for agriculture in the Arab
+World under climate change. 15th Int Water Technol Conf,
+pp: 1150-1163.
+Ouda S, Abdrabbo M, Noreldin T, 2012. Effect of changing
+sowing dates and irrigation scheduling on maize yield
+grown under climate change conditions. 4th Int Conf for
+Field Irrigation and Agricultural Meteorology. 5-7 November. Ameria, Egypt.
+Roeckner E, Bäuml G, Bonaventura L, Brokopf R, Esch M,
+Giorgetta M, Hagemann S, Kirchner I, Kornblueh L,
+Manzini E, et al., 2003. The atmospheric general circulation model ECHAM5. Part I: Model description. MPI
+Report 349, Max Planck Institute for Meteorology, Hamburg, Germany, 127 pp.
+Samani Z, 2000. Estimating solar radiation and evapotranspiration using minimum climatological data. J Irrig
+Drain Eng 126 (4): 265-267. http://dx.doi.org/10.1061/
+(ASCE)0733-9437(2000)126:4(265)
+Sanchez P, Swaminathan MS, Dobie P, Yuksel N, 2005.
+Halving hunger: it can be done. UN Millennium Project,
+UNDP.
+Sayed MAA, 2004. Impacts of climate change on the Nile
+Flows. Ain Shams, University, Cairo, Egypt.
+Sepaskhah AR, Razzaghi FH, 2009. Evaluation of the adjusted Thornthwaite and Hargreaves-Samani methods for
+estimation of daily evapotranspiration in a semiarid region
+of Iran. Arch Agron Soil Sci 55 (1): 51-56. http://dx.doi.
+org/10.1080/03650340802383148
+Shahidian S, Serralheiro R, Teixeira JL, Santos FL, Oliveira
+MR, Costa J, Toureiro C, Haie N, Machado R, 2009. Drip
+irrigation using a PLC based adaptive irrigation system.
+WSEAS T Environ Develop 2 (5): 209-218.
+Shahidian S, Serralheiro R, Serrano J, Teixeira J, Haie N,
+Francisco S, 2012. Hargreaves and other reduced-set
+methods for calculating evapotranspiration. In: Evapotranspiration - Remote sensing and modeling (Irmak A,
+ed.), InTech. Available in http://www.intechopen.com/
+books/evapotranspiration-remote-sensing-and-modeling/
+J 81: 650-662. http://dx.doi.org/10.2134/agronj1989.000
+21962008100040019x
+Allen RG, Pereira LS, Raes D, Smith M, 1998. Crop evapotranspiration: Guideline for computing crop water requirements. FAO Irrig Drain Paper No. 56, Roma.
+Attaher S, Medany M, AbdelAziz AA, El-Gendi A, 2006.
+Irrigation- water demands under current and future climate
+conditions in Egypt. Proc 14th Annu Conf of the Misr Soc
+Agric Eng, pp: 1051-1063.
+Blaney HF, Criddle WD, 1950. Determining water requirements in irrigated areas from climatological and irrigation
+data. USDA/SCS, SCS-TP 96.
+Droogers P, Allen RG, 2002. Estimating reference evapotranspiration under inaccurate data conditions. Irrig Drain Syst
+16(1): 33-45. http://dx.doi.org/10.1023/A:1015508322413
+Eid HM, 2001. Climate change studies on Egyptian agriculture. Soils, Water and Environment Research Institute,
+Agricultural Research Center, Egypt.
+Gardner FP, Pearce RB, Mitchell RL, 1985. Physiology of
+crop plants. Iowa State University Press, Ames (IA),
+USA.
+Hargreaves GH, 1994. Simplified coefficients for estimating
+monthly solar radiation in North America and Europe.
+Departmental Paper, Dept Biol Irrig Eng, Utah State Univ,
+Logan (UT), USA.
+Hargreaves GH, Samani ZA, 1982. Estimating potential
+evapotranspiration, Tech. note. J Irrig Drain Div, ASCE
+108 (3): 225-230.
+Hargreaves GH, Samani ZA, 1985. Reference crop evapotranspiration from temperature. Appl Eng Agr 1(2): 96-99.
+http://dx.doi.org/10.13031/2013.26773
+Hargreaves GH, Allen RG, 2003. History and evaluation of
+Hargreaves evapotranspiration equation. J Irrig Drain Eng
+129(1): 53-63. http://dx.doi.org/10.1061/(ASCE)07339437(2003)129:1(53)
+Ibrahim M, Ouda S, Taha A, El Afandi G, Eid SM, 2012. Water
+management for wheat grown in sandy soil under climate
+change conditions. J Soil Sci Plant Nutr 12(2): 195-210.
+http://dx.doi.org/10.4067/S0718-95162012000200001
+IPCC, 2007. Intergovernmental Panel on Climate Change,
+4th Assessment Report: Climate change 2007. Synthesis
+Report. World Meteorological Organization, Geneva,
+Switzerland.
+Jamieson PD, Porter JR, Goudriaan J, Ritchie JT, van Keulen
+H, Stol W, 1998. A comparison of the models
+AFRCWHEAT2, CERES-Wheat, Sirius, SUCROS2 and
+SWHEAT with measurements from wheat grown under
+drought. Field Crops Res 55: 23-44. http://dx.doi.
+org/10.1016/S0378-4290(97)00060-9
+Jones PG, Thornton PK, Heinke J, 2009. Generating characteristic daily weather data using downscaled climate model
+data from the IPCC's Fourth Assessment: Project Report.
+Katerji N, Rana G, 2008. Crop evapotranspiration measurement and estimation in the Mediterranean region, INRACRA, Bari. ISBN 978 8 89015 2412.
+Khalil AA, 2013. Effect of climate change on evapotranspiration in Egypt. Researcher 5(1): 7-12.
+Khalil FA, Farag H, El Afandi G, Ouda SA, 2009. Vulnerability and adaptation of wheat to climate change in Middle
+
+--- PAGE 10 ---
+Samiha Ouda et al.
+Spanish Journal of Agricultural Research
+ March 2015 * Volume 13 * Issue 1 * e03-001
+
+hargreaves-and-otherreduced-set-methods-for-calculatingevapotranspiration.
+Shideed K, Oweis T, Gabr M, Osman M, 1995. Assessing
+on-farm water use efficiency: a new approach. Ed. ICARDA/ESCWA, Aleppo, Syria, 86 pp.
+Snyder RL, Orang M, Bali K, Eching S, 2004. Basic Irrigation Scheduling (BISm). Available in http://www.waterplan.water.ca.gov/landwateruse/wateruse/Ag/CUP/Californi/Climate_Data_010804.xls.
+Snyder RL, Moratiel R, Zhenwei S, Swelam A, Jomaa I,
+Shapland T, 2011. Evapotranspiration response to climate
+change. Acta Hortic 922: 91-98.
+Soliman ESA, Sayed M, Aty A, Nour El-Din MM, 2008.
+Application of regional climate models to test the impacts of land use change on basin hydro-climatology, a
+case study. Baro-Akobo Sobat Subbasin, Nile Basin
+Capacity Building Network Journal, August 2008.
+122 pp.

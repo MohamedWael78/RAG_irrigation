@@ -1,0 +1,190 @@
+--- PAGE 1 ---
+Chapter 2
+Soils
+Part 652
+
+Irrigation Guide
+NEBRASKA AMENDMENT
+
+(c) Soil and Irrigation Parameters
+It has been said that you don't irrigate a crop,
+you irrigate the soil. In order to understand
+the principles of irrigation, it is imperative that
+a person who works with irrigation keep the
+following in mind:
+1. Water is first introduced to the soil surface
+and then to the soil profile either by
+snowmelt, rainfall or irrigation.
+2. The crop then removes the water from the
+soil.
+When water is to be introduced to the soil,
+there are two things that an irrigator is
+interested in:
+1. How fast can the soil take the water?
+2. How much water can the soil profile hold?
+Intake rates (inches/hr) are used to describe
+or measure how fast the soil can take water.
+Intake rates are described in three ways:
+*1. Initial Intake Rate is the rate the soil will
+take water when it is dry and water first
+contacts the surface.
+*2. Basic Intake Rate is the rate the soil will
+take water after it is saturated.
+*3. Average Intake Rate is the average rate of
+intake of a soil from a dry to a saturated
+condition.
+*In these cases, this is without runoff.
+Curves have been developed which show the
+intake rate of different soils plotted against
+time. The soils have been grouped together
+in "Intake Families."
+An Intake Family of soils has the same
+average intake rate. Figure 2-3 (pg 2-18) &
+Figure 2-4 (pg. 2-19) is a plotting of the
+Family Intake Curves the NRCS uses.
+To understand how much water can or will be
+introduced to a soil profile, the irrigator and
+technician need to become familiar with the
+following terms.
+Wilting Point - The amount of moisture a soil
+profile will have when the plant is unable to
+obtain sufficient moisture to continue active
+growth.
+Permanent Wilting Point - The amount of
+moisture a soil profile will have when the
+plant is unable to obtain any more moisture
+from the soil.
+Saturation Point - The maximum amount of
+moisture a soil profile can hold.
+Available Water Capacity (AWC) - How much
+water is available to the plant, the difference
+between the Field Capacity and the
+Permanent Wilting Point.
+Figure 2-1 (pg 2-9) shows a graphical
+example of these parameters for different soil
+textures.
+When we talk about the amount of moisture
+in the soil profile, it becomes evident that we
+are considering one specific depth.
+The crop that is being grown and the stage of
+development it is in will dictate what depth of
+profile should be considered. See Nebraska
+supplements to Chapter 3 for root depths by
+crop and growth stage. Normal irrigation
+depths can be found in Nebraska
+supplements to Chapter 6, by crop, irrigation
+group, and slope group. It was stated earlier
+that the Available Water Capacity (AWC) is
+how much water is available to the plant.
+Although this water is available to the plant, in
+most cases the roots can't extract the
+moisture fast enough to keep the plant from
+stressing as it approaches the Permanent
+Wilting Point, see Figure 2-1 (pg 2-9).
+If it is the irrigator's intention to irrigate before
+the plant is stressed, irrigation should begin
+before the Wilting Point. In this Irrigation
+Guide, we have said this will be when half of
+the water is used between the Field Capacity
+and the Permanent Wilting Point or half of the
+Available Water Capacity (AWC). This
+amount of moisture is called Management
+Allowable Depletion (MAD).
+
+(210-VI-NEH-IG, Amend 4, April 2005)
+NE2-35
+
+--- PAGE 2 ---
+Chapter 2
+Soils
+Part 652
+
+Irrigation Guide
+NEBRASKA AMENDMENT
+
+One half of the AWC was selected as an
+average for all soils. In reality, it will vary with
+different soils, crops, and climate. See
+“Consumptive Use of Selected Nebraska
+Crops” table in Nebraska Supplements to
+Chapter 4.
+(d) Use of Irrigation Design Groups
+The soils listed in this Irrigation Guide include
+the irrigable soils presently being mapped in
+Nebraska. Land types and soils genera1ly
+considered non-irrigable are not included. As
+additional soils are recognized, they are to be
+added to the appropriate irrigation design
+group. Some soil phases or variants suitable
+for irrigation are not included in the listing of
+soils. The design group will be assigned
+locally in counties where they occur.
+The soils in each series were evaluated and
+placed into one of 14 groups called Irrigation
+Design Groups. Soils having approximately
+equal intake rates, available water capacities,
+and available root zone depths were placed
+together. Some groups include soils with
+minor variations in intake rate, available water
+capacity and permeability. If the variation is
+significant, it is noted in the irrigation design
+group where the soil is listed.
+The grouping of soils is shown in the two
+listings that follow. The first list shows all the
+soils in alphabetical order by series, surface
+texture with the appropriate irrigation design
+group.
+The second listing is by irrigation design
+groups and gives the principal soils included
+in each of the 14 groups. Two of these are
+divided into sub- groups because of minor
+profile differences and avai1able water
+capacity. This is not enough difference to
+justify dividing the soils into additional design
+groups. The intake family used in preparing
+the design data is included.
+Included is a general description of the
+texture profiles. Where soils of a design
+group are subdivided, there is a general
+description for each subgroup.
+The estimated available water capacity for
+each soil group or subgroup follows the
+description. The amounts of moisture are
+cumulative by one-foot or one-half foot
+increments of depth. The data used to
+calculate the available water capacities are in
+Table 2-16 that follows this grouping of soils.
+This table shows available water capacities
+by soil texture classes. It also gives the
+range of availab1e water capacity for each of
+the soil texture classes for the surface layer,
+subsoil, and lower horizon. With this table it
+is possible to make a reasonable estimate of
+the available water capacity of any soil profile
+for which the horizon thickness and texture is
+mown.
+The most common soils and their respective
+field symbol are listed below the available
+water capacities for each design group or
+subgroup.
+A form for listing each soil and the irrigation
+design group number in a county or survey
+area is included last in this section. Listing
+the mapping unit or soils in a county on one
+or several pages of this form simplifies the
+use of this guide for each area. The
+statewide list that follows this section will be
+of value in preparing the county list.
+Available Water Capacity of Soils by Soil
+Texture Classes
+In estimating available water capacity of the
+groups of soils in this irrigation guide, the
+predominant soil textures of the major soil
+horizons for soils in each irrigation group
+were used. Individual soils in the irrigation
+design groups vary somewhat in total
+available water capacity because of minor
+differences in texture of the soil horizons.
+
+NE2-36
+(210-VI-NEH-IG, Amend 4, April 2005)

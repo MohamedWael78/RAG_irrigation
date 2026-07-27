@@ -1,0 +1,11566 @@
+--- PAGE 1 ---
+hunterirrigation.com/golf
+GOLF IRRIGATION | Built on Innovation®
+Golf Irrigation Product Catalog
+VOLUME 41
+
+--- PAGE 2 ---
+Table of CONTENTS
+●
+●
+HUNTER SUPPORT NETWORK
+
+Membership Benefits
+●
+●
+PILOT® CONTROL NETWORK
+
+Pilot Command Center Software
+
+Pilot Field Controller Systems
+
+Pilot Integrated Hub Systems
+
+POGO® Hardware
+
+Maintenance Radio
+
+ICD-HP Programmer
+●
+●
+GOLF ROTORS
+
+TTS-800 Series Advanced Features
+
+TTS-800 Series
+
+G-800 Series
+
+B Series
+
+G-900 Series
+●
+●
+SWING JOINTS AND ACCESSORIES
+
+HSJ Swing Joints Advanced Features
+
+HSJ Swing Joints
+
+ACME Adapter Fittings
+
+Rotor Acessories
+
+SpotShot Hose-End Nozzles
+
+Quick Couplers
+
+Hunter Saddles
+
+SnapLok™ Combo Kits
+
+Tools
+●
+●
+RESIDENTIAL AND COMMERCIAL IRRIGATION
+
+PGP® Ultra
+
+I-20
+
+I-25
+
+MP Rotator® Nozzle
+
+Pro-Spray® PRS40
+
+Accu Sync® Pressure Regulator
+
+ICV
+
+PGP® Ultra
+●
+●
+LANDSCAPE AND ARCHITECTURAL LIGHTING
+
+Overview
+●
+●
+TECHNICAL INFORMATION
+
+Hunter University
+
+Precipitation Rates
+
+Conversion Factors
+
+Symbols and Constants
+
+Electrical Specifications
+
+Integrated Hub Electrical Specifications
+
+Current Requirement Charts
+
+Wire Use Charts
+
+Wire Sizing and Data
+
+Friction Loss Charts
+WARRANTY
+
+Statement
+
+--- PAGE 3 ---
+
+For over 30 years, Hunter Industries has led golf irrigation advancements, delivering
+best-in-class solutions that save time, cut costs, and keep you ahead of the curve. The
+Pilot Navigator™ App puts Pilot Command Center Software in your pocket for seamless
+system management - on the course or on the go. Paired with robust TTS-800 Series
+Golf Rotors, this intuitive solution keeps courses pristine, protected, and always ready
+for play.
+Hunter Golf solutions also provide reliable irrigation for sports fields, promoting
+healthy turf and athlete safety. Built for water efficiency, uniform distribution, and
+durability, they set the standard for quality and dependability.
+OUR STORY
+BREAKTHROUGH IRRIGATION
+SOLUTIONS FOR THE GOLF COURSE
+
+--- PAGE 4 ---
+
+HUNTER SUPPORT
+NETWORK
+
+--- PAGE 5 ---
+HUNTER SUPPORT NETWORK
+GOLF IRRIGATION | Built on Innovation®
+
+Your membership in the Hunter Support
+Network entitles you to a host of
+exclusive services and benefits, ranging
+from troubleshooting and staff training
+to premium software features like the
+Pilot Navigator™ App. Whatever your needs
+are, you'll receive our unwavering support
+to ensure optimal central control system
+performance and a healthy irrigation
+system year-round.
+HUNTER SUPPORT NETWORK
+Plan
+Description
+HSN-PILOT
+Hunter Support Network Welcome Kit, one-year membership; includes uninterruptible power supply
+HSN-RENEWAL
+Hunter Support Network Renewal, one-year membership renewal; available to to active members only
+Members-Only Access to
+EXCLUSIVE SERVICES AND BENEFITS
+CONTACT HUNTER SUPPORT NETWORK TO JOIN: +1-833-476-4653
+HSN Membership BENEFITS
+*
+Unlimited phone support for software and hardware
+golf course installations provided by your local
+distributor representative or Hunter Golf Support
+*
+System commissioning from a Hunter Field Service
+Manager (FSM) or distributor rep for first-year
+members with new Pilot® Systems
+ -
+On-site training from a Hunter FSM
+ -
+Complete control system diagnostics
+ -
+Computer setup and programming
+ -
+Communications setup and testing
+ -
+Field wiring diagnostics and
+benchmark report
+ -
+Equipment grounding test
+*
+Pilot Navigator App access and support
+*
+First year of HSN membership includes an
+uninterruptible power supply
+*
+Replacement Pilot PC eligibility with next-
+business-day shipping
+*
+Remote assistance/desktop
+sharing support
+*
+Automatic cloud-based database backups
+*
+Access to partnerships data integration
+Become a member
+today to access
+premium software
+features and support!
+
+--- PAGE 6 ---
+
+PILOT
+® CONTROL
+NETWORK
+TTS-800 Series
+Golf Rotors
+ICD-HP Programmer
+Pilot Integrated Hub
+
+--- PAGE 7 ---
+PILOT CONTROL NETWORK
+
+Pilot Command
+Center Software
+Pilot
+Navigator™ App
+YOUR COURSE.
+CONNECTED WITHOUT LIMITS.
+
+--- PAGE 8 ---
+
+ hunterirrigation.com/golf
+Take control of your irrigation from anywhere with the
+Pilot Navigator App. Its powerful, customizable features
+let you make quick system adjustments, run stations
+seamlessly, add custom notes, and shut down instantly
+in changing conditions - all from your phone. Save
+time, conserve water, and stay proactive, no matter
+where you are.
+PILOT NAVIGATOR APP
+With cloud database backups, web-based
+features, and POGO visual insight integrations,
+Pilot Command Center Software delivers intuitive
+irrigation control. Its streamlined display, real-time
+data, and convenient app control enable smarter
+scheduling adjustments, saving time and resources
+while unlocking new possibilities for third-party
+integrations and mobile optimization.
+PILOT COMMAND CENTER SOFTWARE
+YOUR COURSE.
+OUR INNOVATION.
+
+--- PAGE 9 ---
+
+GOLF IRRIGATION | Built on Innovation®
+Maximize performance in the field with our
+top-of-the-line golf rotors. Featuring exclusive
+PressurePort™ Nozzle Technology for maximum
+distribution uniformity, no-dig Total-TopServiceability for easy maintenance, and the largest
+flange compartment in the industry, these rotors
+ensure peak playability and years of reliable operation.
+TTS-800 SERIES GOLF ROTORS
+Program and troubleshoot Pilot Two-Way Modules
+with no digging or wires required. The handy device
+communicates directly through the plastic without
+barcodes, saving you time in the field.
+ICD-HP PROGRAMMER
+Integrated Hub Systems help you save time and money
+from day one. Compared to a Field Controller System,
+an Integrated Hub System uses less copper wire and
+requires fewer splices, valve boxes, and concrete pads.
+This means lower costs, faster installation, and easier
+system diagnosis and repair, if needed. You can also
+easily expand the system if desired.
+PILOT INTEGRATED HUB SYSTEM
+
+--- PAGE 10 ---
+PILOT CONTROL NETWORK
+
+ hunterirrigation.com/golf
+PILOT COMMAND CENTER SOFTWARE
+Pilot Command Center Software (CCS) is easy to use and has all the features
+you need to reliably water your course. Run times can be adjusted manually or
+determined automatically using evapotranspiration (ET). You create watering
+plans directly in the Command Center, a powerful irrigation planning tool
+that shows you every sprinkler on the course, organized according to your
+management style.
+PILOT SPECIFICATIONS
+* Operating system: 64-bit Windows®
+* Maximum controllers or hubs: about 1,000
+* Maximum Two-Way Module stations: about 1 million
+* Sprinkler run time options: minutes, inches, or ET
+* Hydraulic management: fully customizable down to individual stations
+* Mapping: interactive and based on scalable vector graphics (SVG)
+Windows is a trademark of Microsoft Corporation in the United States and/or other countries.
+Lenovo® and ThinkVision® are trademarks of Lenovo in the United States, other countries, or both.
+Enjoy simple yet powerful irrigation management and control with revolutionary Pilot CCS.
+
+Pilot Command Center Software
+
+--- PAGE 11 ---
+PILOT CONTROL NETWORK
+GOLF IRRIGATION | Built on Innovation®
+
+Command Center
+Maps
+Flow Optimization
+SET SCHEDULES WITH THE COMMAND CENTER
+Planning daily watering for your course has never been simpler. The
+Command Center shows every sprinkler on the course, logically arranged
+according to your personal management requirements. You can easily
+make daily adjustments with just a few clicks of the mouse.
+SPEND LESS TIME RUNNING YOUR PUMP
+Pilot CCS uses your electrical and hydraulic data to efficiently balance
+sprinkler demand while maintaining flow at safe velocities. To protect
+your pump station and maintain optimal sprinkler uniformity, you can
+gradually step up irrigation in safe increments.
+ACCESS INSIGHTS FROM ANYWHERE WITH PILOT CLOUD
+Bring powerful irrigation control and monitoring to your fingertips
+with Pilot Cloud. Web-based features enable optimized display
+and functionality from any location on any device, while third-party
+integrations save time and resources with more informed scheduling
+adjustments using real-time data. Plus, cloud-based backups ensure
+peace of mind if the computer ever needs to be restored.
+PILOT COMMAND CENTER SOFTWARE
+Model
+Part Description
+PILOT-CCS-TABLET
+Pilot Command Center Software includes a tablet, a docking station, a rugged case, and a monitor.
+PILOT-MOD-LAN, WIFI, or LTEM required for use. Add HSN-PILOT for first-year membership to the Hunter Support Network.
+PILOT-CCS
+Pilot Command Center Software includes a computer. Add HSN-PILOT for first-year membership to the
+Hunter Support Network.
+
+--- PAGE 12 ---
+PILOT CONTROL NETWORK
+
+ hunterirrigation.com/golf
+KEY BENEFITS
+* Five languages
+* Up to 80 station outputs in 10-station increments
+* Up to three Hunter golf Valve-in-Head Technology rotors per station
+output
+* Up to 20 simultaneous Hunter golf Valve-in-Head Technology rotors
+active per controller
+* 32 automatic schedules with eight start times per schedule
+* Exclusive Safe-Toggle™ Technology for mechanical on-off-auto station
+switches
+* 1 to 31 day skip-day scheduling
+* One-touch rain shutdown up to 30 days or indefinitely
+* One-touch Safe-Pause™ Technology with 30-minute safety timer
+* 1% to 300% run time seasonal adjustment
+* Seasonal start time adjustment is used to quickly change all start times
+plus or minus 30 minutes
+* PilotFCP Utility enables remote scheduling from a computer or tablet
+for basic course irrigation management
+POWER SUPPLY INPUT
+Two voltage settings:
+* 120 VAC nominal voltage at 60/50 Hz (100 to 132 VAC)
+* 230 VAC nominal voltage at 50/60 Hz (200 to 260 VAC)
+Current requirement:
+* 1 A under load at 110 VAC
+* 0.7 A under load at 230 VAC
+For additional information, see electrical data on page 76.
+Pilot-FC Plastic Pedestal
+Height: 39"
+Width: 24"
+Depth: 17"
+Weight: 70 lb
+Pilot Communication Modules
+Pilot-MOD-LAN
+Pilot-MOD-WIFI
+Pilot-MOD-LTEM
+The sleek, clean design of Pilot Field Controllers makes them easy to
+install, use, and maintain.
+PILOT FIELD CONTROLLER SYSTEMS
+RADIO SYSTEMS
+* UHF radio: 450 to 490 MHz; other UHF frequencies
+available for selected markets
+OUTPUT VOLTAGE
+* Station: 1 A at 24 VAC
+* Hot post: 0.4 A at 24 VAC
+* Capacity: Three standard 24 VAC Hunter golf rotors per
+output; 20 maximum simultaneously running stations
+WIRED SYSTEMS
+* LAN: RJ-45 cable. Maximum 300' distance connection
+* GCBL: Two twisted pairs of shielded wire, 18 AWG
+* GCBLA: Two twisted pairs of shielded and armored
+wire, 18 AWG
+PILOT COMMUNICATION MODULES
+Delivering high-speed, direct-to-cloud connectivity, Pilot Communication
+Modules untether superintendents from outdated hardware, enabling up to
+100x faster communication and smarter irrigation control from anywhere.
+* Fewer site visits thanks to over-the-air firmware updates
+* Flexible communication options: Ethernet (LAN), Wi-Fi, and Cellular (LTEM)
+* Hybrid operation with existing HWR and UHFA communication modules
+* On-the-go access to your entire system via tablet
+* Future-ready hardware that supports software enhancements
+PILOT COMMUNICATION MODULES
+Model
+Part Description
+Operating Specifications
+Product Specifications
+PILOT-MOD-LAN
+Pilot Sled with factory-installed LAN Module
+LAN (Ethernet) connection required
+Ethernet with RJ-45 connection; low data
+requirements
+PILOT-MOD-WIFI
+Pilot Sled with factory-installed Wi-Fi Module
+Wireless internet connection required
+2.4 GHZ (only), 802.11 b/g/n 20 MHz
+(antenna included)
+Supported security protocols:
+WPA/WPA2 Personal (only); TLS, SSL
+PILOT-MOD-LTEM
+Pilot Sled with factory-installed LTEM
+Module; monthly cellular plan required
+Monthly cellular plan required
+For CATM1 and NB-IoT 4G cell service
+connection (antenna included)
+
+--- PAGE 13 ---
+PILOT CONTROL NETWORK
+GOLF IRRIGATION | Built on Innovation®
+
+THE PILOT FIELD CONTROLLER IS ENGINEERED EXCLUSIVELY
+FOR GOLF COURSE IRRIGATION MANAGEMENT
+Water-Resistant Keypad
+Large backlit display features
+convenient function buttons for the
+most commonly used functions,
+with built-in diagnostics to easily
+identify system issues.
+Easy to Service
+The only tool required is a Phillips
+screwdriver, which is included with
+every controller.
+Modular 10-Station Expansion Boards
+Color-coded modular components
+include captured screws,
+which simplifies assembly and
+troubleshooting.
+Spacious Wiring Area
+No exposed circuitry or loose wires.
+All circuit boards are encapsulated in
+polyurethane to protect them from
+moisture, insects, and temperature
+extremes.
+Safe-Toggle Station Switches and
+Diagnostic LED Indicators
+Standard for all station outputs,
+these features provide quick
+troubleshooting and watering tools.
+Conveniently Located Dual-Voltage
+(120/230 VAC) Junction Box
+Features heavy-duty surge protection
+and even includes a spare fuse.
+PILOT-FC - SPECIFICATION BUILDER: ORDER 1 + 2 + 3
+
+Model
+
+Standard Features
+
+Communication Options
+Pilot-FC20 (20-station)
+S
+Standalone Field Controller with no central communications
+Pilot-FC30 (30-station)
+LAN
+LAN (Ethernet) connection
+Pilot-FC40 (40-station)
+WIFI
+Wi-Fi connection
+Pilot-FC50 (50-station)
+Plastic pedestal (gray)
+LTEM
+4G cell connection (monthly service plan required)
+Pilot-FC60 (60-station)
+120/230 VAC, 60/50 Hz
+dual-voltage transformer
+HWR
+Hardwire communications
+Pilot-FC70 (70-station)
+UHFA
+UHF radio communications (license required)
+Pilot-FC80 (80-station)
+Examples:
+Pilot-FC40-S = 40-station, standalone Field Controller with no central communications
+Pilot-FC70-HWR = 70-station Field Controller with wired communications
+
+--- PAGE 14 ---
+PILOT CONTROL NETWORK
+
+ hunterirrigation.com/golf
+Integrated Hub Systems use significantly less wire than conventional systems.
+This means lower costs, faster installation, and easier system diagnosis and
+repair if needed. They can be easily expanded - with minimal digging and
+disruption of turf - by adding more Pilot Two-Way Modules (TWMs) instead
+of running additional wires.
+Pilot Two-Way Modules are available with 1-, 2-, 4-, and 6-station outputs,
+making it possible to run each head on an entire green with a single device. In
+all, TWMs let you operate about 1,000 stations up to approximately 1.5 mi from
+a single hub.
+Pilot Two-Way Modules include built-in surge suppression, wirelessly
+programmable station addresses using the ICD-HP Programmer, and
+two-way communication with confirmation and status indication. Pilot Surge
+Suppressors are required when the system is installed with integrated TWMs.
+The PilotFCP Utility enables remote scheduling from a computer or tablet for
+basic course irrigation management. It can be directly connected to a
+Pilot Integrated Hub, eliminating the need for a Pilot Field Interface and
+communication module in smaller systems.
+Water-Resistant Keypad
+The backlit display and illuminated control panel
+mean you can easily access the hub, day or night
+Diagnostic LED Indicators
+For all functions on 250-station output modules
+250-Station Output Modules
+Enable your Integrated Hub System to expand
+with your course; start with 250 and grow to 999
+TWM Hub
+Pilot TWMs
+1- and 2-station:
+Height: 3⅝"
+Width: 1½"
+Depth: 1"
+Weight: 5 oz
+4- and 6-station:
+Height: 3⅝"
+Width: 1¾"
+Depth: 1½"
+Weight: 9 oz
+The distinct yellow design makes it much easier to find the modules in
+dark valve boxes or buried in the soil.
+All integrated TWM rotors
+include two DBRY-6 Splice
+Connectors for connection to
+the two-wire path. Integrated
+TWM systems require grounding
+with Pilot Surge Suppressors
+coupled to an appropriate
+grounding plate or rod. Hunter
+recommends a minimum of
+one Pilot Surge Suppressor for
+every 12 installed rotors or as per
+project specification.
+Pilot Surge Suppressor
+Save money without sacrificing in-field sprinkler control with highly
+flexible and reliable Pilot Integrated Hub Systems.
+PILOT INTEGRATED HUB SYSTEMS
+PILOT-DH - SPECIFICATION BUILDER: ORDER 1 + 2 + 3
+
+Model
+
+Standard Features
+
+Communication Options
+Pilot-DH250 (250-station)
+S
+Standalone TWM hub with no central communications
+Pilot-DH500 (500-station)
+Plastic pedestal (gray)
+LAN
+LAN (Ethernet) connection
+Pilot-DH750 (750-station)
+120/230 VAC, 60/50 Hz
+switching transformer
+WIFI
+Wi-Fi connection
+Pilot-DH999 (999-station)
+LTEM
+4G cell connection (monthly service plan required)
+HWR
+Wired communications
+UHFA
+UHF radio (license required)
+Examples:
+Pilot-DH250-S = 250-station, standalone TWM hub with no central communications
+Pilot-DH999-HWR = 999-station TWM hub with wired communications
+
+--- PAGE 15 ---
+PILOT CONTROL NETWORK
+GOLF IRRIGATION | Built on Innovation®
+
+Integrated TWM
+Hunter's exclusive integrated
+TWM module within TTS rotors
+minimizes valve box covers on
+playing surfaces. See page 24
+for more information.
+Extended Control
+Control system components up
+to about 8,000' away with a
+single pair of wires.
+TWM in Valve Box
+Sprinkler solenoids can
+be up to 240' from
+the TWM.
+Expansion Options
+More than 999 stations;
+you can use up to 999 TWM
+hubs for nearly 100,000
+TWM devices.
+Up to 230'
+Up to 230'
+Pilot Integrated Hub
+The hub provides independent station
+control of 999 TWMs with up to 120
+running simultaneously.
+Surge Protection
+Integrated TWM systems require
+approximately one Pilot Surge
+Suppressor for every 12 rotors.
+The actual number will vary by
+system design.
+*Minimum order quantity of 10 units for Pilot-400, 600, and SG.
+Wireless Programming
+The ICD-HP Programmer is used to test,
+troubleshoot, and program integrated
+TWMs. It allows you to wirelessly link
+directly to TWMs without removing
+the TTS cover. You can also use it to
+update the coding inside the TWM's
+microprocessor.
+See the ICD-HP Programmer on
+page 17.
+TWM - SPECIFICATION BUILDER: ORDER 1 + 2
+
+Model
+
+Standard Features
+Pilot-100
+1-station TWM
+Built-in surge suppressor
+Pilot-200
+2-station TWM
+Pilot-400
+4-station TWM
+Waterproof DBRY-6 Splice
+Connectors included
+Pilot-600
+6-station TWM
+Pilot-SG
+Inline surge suppression
+(for integrated TWM rotor systems)
+Example:
+Pilot-100 = 1-station TWM
+
+--- PAGE 16 ---
+POGO
+® HARDWARE
+Integrate the unmatched hardware and data analysis from POGO with the
+power and intuition of the Pilot Control Network to save time, maximize
+resources, and ensure peak playability.
+MANAGE YOUR WAY
+Subscribe to the all-inclusive POGO TurfPro Cloud or the sensor-based POGO Link
+service to gain better visibility of your golf course irrigation efficiency.
+* Achieve optimum irrigation efficiency with more informed scheduling
+adjustments using real-time soil moisture, salinity, and temperature data
+* Better understand turfgrass performance between irrigation cycles
+* Identify and address problem areas with color-coded graphics that highlight
+turf in need of immediate attention - often before symptoms appear
+➊
+➋
+POGO TurfPro Cloud - Data and
+Analytics with Advanced Visual Insights
+Proactively drive improved, consistent
+playability by knowing the exact
+conditions of your turf.
+POGO Link Service - Data Only
+Make more informed irrigation
+adjustments by monitoring key
+environmental data in real time.
+POGO Logger
+Rain Sensor
+POGO Link
+(Data Only)
+Hunter Pilot Control Network
+with POGO Integrations
+Pump Station Flow
+POGO
+Pro+ Probe
+POGO
+TurfPro Cloud
+(Data and Analytics)
+Hunter Pilot Control Network
+with POGO Integrations
+Visual Insights - Moisture
+POGO Weather Station
+POGO App
+Plus all features of
+POGO Link service below
+POGO HARDWARE
+Model
+Part Description
+POGO-PRO-PLUS
+POGO Pro+ Tool with Temperature Sensor. Active TurfPro Cloud subscription* required.
+POGO-PRO-PLUS-KIT
+POGO Pro+ Tool with Temperature Sensor, Case, Cart Mount, and Replacement Sensor. Active TurfPro Cloud subscription* required.
+POGO-LOGGER
+POGO Data Logger with cellular communication for use with other sensors. Active data plan subscription* required.
+POGO-RAIN-CAN
+POGO Rain Can - 6" Tipping Precipitation Gauge for use with POGO Logger
+POGO-SOIL-SENSOR
+POGO Soil Sensor - Buried Hydraprobe Root Zone Sensor for use with POGO Logger
+POGO-WEATHER
+POGO Weather Station with cellular communication. Mounting sold separately. Active TurfPro Cloud subscription* required.
+POGO-TRI-POD
+POGO Tripod Mount for Weather Station
+ *Go to pogoturfpro.com to set up a subscription.
+PILOT CONTROL NETWORK
+
+ hunterirrigation.com/golf
+
+--- PAGE 17 ---
+PILOT CONTROL NETWORK
+GOLF IRRIGATION | Built on Innovation®
+
+MAINTENANCE RADIO
+KEY BENEFITS
+* Hunter's innovative StraightTalk™ Technology enables wireless
+remote control at ranges up to 2 miles whether or not the
+central computer is turned on
+* Instant control of stations, blocks, and programs
+* Instant audio confirmation of commands
+* Easy commands that show in display before sending
+* Compact size, industrial construction
+* Suitable for two-way voice communication with crews and office
+* High signal output: 2 W, UHF (450 to 490 MHz)*
+* License required
+TRNR Radio
+Height: 4"
+Width: 2"
+Depth: 11/4"
+Weight: 7 oz
+KEY BENEFITS
+* Program or reprogram TWM stations, whether new or installed
+* Program any station numbers in any order, or skip stations for
+future expansion
+* Built-in multimeter for troubleshooting and getting diagnostics of
+TWMs or a two-wire path
+* Communicates with TWM through the rotor's lid: wireless
+electromagnetic induction saves waterproof connectors
+* USB powered for shop or office use; 4 AA batteries for field use
+* All test leads and cables included in a durable, foam-padded
+carrying case
+* Turn TWM stations on and view solenoid status, current in
+milliamps, and more
+* Waterproof programming cup
+* Backlit adjustable display
+* 6 operating languages
+ELECTRICAL SPECIFICATIONS
+* Power input: 4 AA batteries, or standard USB connector (included)
+* Communications: wireless induction, range 1"
+* Fused test leads for unpowered decoder functions
+APPROVALS
+* UL, cUL, FCC, CE, RCM
+ICD-HP Programmer
+Height: 81/4"
+Width: 37/8"
+Depth: 2"
+Packaged in an outdoor carrying case, this complete kit
+includes probes, an induction cup, cable, a USB power cable
+for bench use, and four AA batteries for fieldwork.
+Gain wireless, handheld programming and diagnostic capabilities for
+Pilot Two-Way Modules.
+Save time and money with seamlessly integrated remote radio control.
+ICD-HP PROGRAMMER
+
+--- PAGE 18 ---
+GOLF ROTORS
+
+TTS-800 SERIES: THE MOST ADVANCED ROTORS IN
+THE GOLF INDUSTRY
+Over the last four decades, Hunter Industries has built a longstanding
+reputation for innovation in the golf industry. Some of our
+revolutionary inventions include the first Windows-based central
+control system, the first Total-Top-Service (TTS) rotors, the first
+Decoder-in-Head (DIH) rotors with integrated Pilot Two-Way Modules,
+and the powerful and water-efficient G-85 Gear Drives.
+Our newest products in this groundbreaking lineup are the TTS-800
+Series Golf Rotors - the most innovative and technologically advanced
+rotors in the industry. Combining accuracy and power, they provide
+maximum uniformity and longevity in the field. They also reduce the
+challenges of reclaimed water use or poor water quality, thanks to their
+high-torque gear drives. The fast-access flange compartment is the
+golf sector's largest, and it can accommodate full-sized DBRY-6 Splice
+Connectors. Even routine maintenance is a breeze with Total-TopServiceability, which allows solenoid and pressure regulator servicing
+without mainline depressurization.
+Whether your golf rotor needs fall into our budget-conscious B Series,
+the advanced G-800 Series, or our top-of-the-line TTS-800 Series,
+Hunter Industries offers a full range of solutions that will exceed your
+expectations and ensure beautiful, playable courses for years to come.
+ FOR EVERY GOLF COURSE
+ROTOR SOLUTIONS
+
+--- PAGE 19 ---
+Look for this icon. All Hunter Golf rotors are 100% water-tested
+to ensure reliable operation once installed.
+GOLF ROTORS
+
+--- PAGE 20 ---
+
+ hunterirrigation.com/golf
+Playability and water efficiency go hand-in-hand when
+it comes to golf course management. This means great
+distribution uniformity and proper irrigation scheduling
+are crucial to ensuring world-class performance and
+beautiful results.
+Healthy, playable turf starts with top-level irrigation
+products - like Hunter's ultra-reliable TTS-800 Series
+Golf Rotors with their superior distribution uniformity.
+Couple this with the best support team in the business,
+and Hunter's golf solutions are second to none.
+At Hunter Golf, we pride ourselves on providing products
+that set the standard in efficiency. Each year, we work
+directly with golf course superintendents worldwide to
+conduct comprehensive irrigation system audits that
+maximize water savings, reduce operating costs, and
+enhance the golf experience for players and course
+managers alike.
+Choose Hunter Golf irrigation products for best-in-class
+performance and enhanced playability.
+UNIFORMITY YOU CAN COUNT ON
+
+--- PAGE 21 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+We've spent decades of research and millions of dollars to develop the best gear drives in the golf industry.
+When we introduced the G-85 Gear Drive, it quickly earned the respect of golf superintendents for its powerful
+performance and unmatched reliability. It also became known for its exceptional versatility, which boosted its
+popularity even more. That's because the adjustable arc drive with triple forward-facing nozzles can be adjusted
+not only to a non-reversing, full-circle rotation. It also can be configured at the factory as a G-84 Gear Drive in an
+opposing-nozzle, full-circle configuration.
+But we didn't stop there. Next, we added the direct-drive G-80, a hybrid version that blends the G-85's
+outstanding platform with the proven G-80 Gearbox to create the best full-circle drive for the golf sector. Today,
+this revolutionary gear drive technology powers our full range of TTS-800 Series, G-800 Series, and B Series Golf
+Rotors. No matter which rotor is best for your golf irrigation needs, you can rest assured knowing that the most
+powerful gear drives in the industry will deliver long-lasting performance in every application.
+BEST-IN-CLASS GEAR DRIVES
+THAT SET THE STANDARD
+FOR PLAYABILITY
+LEADING THE WAY WITH POWER, PERFORMANCE, AND VERSATILITY
+GREATER FLEXIBILITY WITH DUAL-TRAJECTORY NOZZLES
+To ensure precise distribution uniformity, we created a dedicated set of short-
+and mid-range nozzles to complement our gear drives. When combined with
+the primary nozzles that the G-80, G-84, and G-85 share, they deliver precise
+targeting for any application.
+Choose from a wide assortment of wind-fighting 22.5° standard trajectory
+nozzles or 15° low-angle trajectory nozzles. For maximum throw, uniform
+distribution, and reliable performance under any condition, Hunter gear drives
+offer everything you need.
+GT-880
+GT-884
+GT-885
+Standard Nozzles
+Low-Angle Nozzles
+TTS-800 Series Golf Rotors
+
+--- PAGE 22 ---
+GOLF ROTORS
+
+ hunterirrigation.com/golf
+TTS-800 SERIES GOLF ROTORS
+ADVANCED FEATURES
+With Total-Top-Service (TTS) Technology
+Access Everything
+Through the Top
+This no-dig solution is
+appreciated by golfers,
+management, and especially
+the superintendent
+Large and Flexible Yardage
+Marker Capabilities
+Oversized marker plates with
+standard black or red, white,
+blue, and purple options
+Largest Flange VIH
+Compartment in
+the Industry
+Spacious cavity with enough
+room for full-sized DBRY-6
+Splice Connectors
+Easy Access and
+Servicing of Solenoid
+and Pressure Regulators
+Color-coded components are
+removed and replaced without
+mainline depressurization
+Unitized Inlet Valve
+Design Includes
+Serviceable Components
+Contamination damage is
+quickly resolved with replaceable
+valve seat and seat seal
+Single-Point Fast Access
+to Flange Compartment
+Extra-thick compartment lid
+is retained with stainless steel
+¼-turn fastener
+Exclusive Inlet Valve
+Includes Self-Cleaning
+Capabilities
+Proprietary Filter Sentry®
+Mechanism wipes debris from
+the stainless steel screen with
+every activation
+Stage 2 Filtration
+Stage 1 Filtration
+Two-Stage Serviceable
+Filtration in Valve Circuitry
+Oversized stainless steel
+screens at inlet valve and
+pilot valve are easily cleaned
+or replaced
+
+--- PAGE 23 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+Heavy-Duty Flanged and
+Ribbed Body Design
+Impact-resistant and
+ultra-durable design
+includes extra-strength
+PVC Acme inlet
+Three Cable Entry Ports
+at Base of Flange
+Compartment
+Makes splice and cable
+connections fast, easy,
+and organized
+Low-Bounce Rubber
+Cover Kit
+Impact-absorbing design
+reduces ball ricochet around
+the greens
+No-Bounce Turf Cup Kit
+Recessed turf cup design
+is aesthetically clean and
+eliminates ball ricochet
+
+--- PAGE 24 ---
+GOLF ROTORS
+
+ hunterirrigation.com/golf
+Access Everything,
+Including Two-Way
+Modules, Through the Top
+This no-dig solution is
+appreciated by golfers,
+management, and especially
+the superintendent
+Largest Flange DIH
+Compartment in
+the Industry
+Spacious cavity with enough
+room for Pilot Two-Way
+Modules and full-sized DBRY-6
+Splice Connectors
+Programming Two-Way
+Modules Wirelessly
+From the Surface with
+No Disassembly
+Quick and easy to program
+and perform diagnostics before
+or after installation with
+ICD-HP Programmer
+Two-Way Modules
+Are Housed in the
+DIH Rotor's Spacious
+Flange Compartment
+Improves playability and
+eliminates unsightly enclosures
+around the course
+
+--- PAGE 25 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+TTS-800 SERIES GOLF ROTORS
+Individual Two-Way
+Module and Solenoid
+Components Within
+Flange Compartment
+Isolated/separated
+configuration minimizes
+yearly maintenance costs
+Seamless, No-Splice
+Connection Between
+Two-Way Module and
+Solenoid
+Maintains ongoing electrical
+continuity with no connectors
+required
+State-of-the-Art Surge
+Suppression
+Earth grounding is easily
+added with the Pilot
+Surge Suppressor
+Two-Station DIH Rotor
+Option
+Perfect cost-effective
+solution for back-to-back
+heads around greens
+DIH Rotors Include All
+the Unique Features and
+Benefits of TTS Rotors
+Makes splice and cable
+connections fast, easy,
+and clean
+Durability, Efficiency, and
+Reliability from the Makers
+of the Industry's First TTS
+and DIH Rotors
+Peace of mind from the
+world's leading producer
+of gear-driven rotors
+ADVANCED FEATURES
+With Integrated Two-Way Modules
+
+--- PAGE 26 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+TTS-800 SERIES
+KEY BENEFITS
+* Dedicated, true full-circle model distinguished by a black collar
+* Extra-large, fast access flange compartment to accommodate full-size
+DBRY-6 Splice Connectors and an integrated Pilot Two-Way Module
+* Solenoid and pressure regulator are serviceable without system
+depressurization
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure at
+each nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* Proprietary Filter Sentry Mechanism cleans the filter with every opening
+and closing cycle
+* All TTS-800 Series Golf Rotors advanced features listed on pages 22 to 25
+OPERATING SPECIFICATIONS
+* Radius: 49' to 97'
+* Flow: 14.2 to 58.5 GPM
+* Pressure range: 50 to 100 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 15 to 53
+ - 10 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and readily
+
+converts to normally open hydraulic operation with through-the-top connections
+* D
+- Decoder Valve-in-Head Technology with all “E” specifications below*
+* DD - Two-station Decoder Valve-in-Head Technology with all “E” specifications below*
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation, on
+
+off-auto selector, 190 mA (350 mA inrush) solenoid with captive plunger and internal
+
+downstream bleed
+* All DIH rotors include two DBRY-6 Splice Connectors for connection to the two-wire path.
+See page 15 for critical recommendations on grounding DIH rotors.
+GT-880 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+GT-880 = Full-circle
+C = Check-O-Matic Technology*
+15 to 53 = Installed G-880 nozzle
+P5 = 50 PSI (nozzles 15 to 18)
+D = Decoder Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+DD = Two-station decoder Valve-in-Head
+Technology
+P8 = 80 PSI (nozzles 25 to 53)
+E = Electric Valve-in-Head Technology
+*Converts to N.O. hydraulic Valve-in-Head
+Technology
+Example:
+GT-880-E-48-P8 = GT-880 full-circle electric Valve-in-Head Technology, installed 48 nozzle, 80 PSI regulation
+GT-880
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+These rotors have Total-Top-Serviceability, powerful high-torque gear drives,
+and the largest flange compartment in the industry to accommodate all Pilot
+Two-Way Module components.
+
+--- PAGE 27 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+GT-880 STANDARD NOZZLES GT-880 LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce the radius by 15%.
+Easy-Access Servicing
+An extra-thick compartment lid is retained with
+a 1/4-turn, stainless steel, single-point fastener.
+Spacious Flange Compartment
+The largest and deepest compartment in the
+industry offers plenty of room for full-sized
+DBRY-6 Splice Connectors.
+GT-880 NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+14.2
+0.57
+0.66
+Tan
+Gray
+
+15.7
+0.58
+0.67
+
+16.4
+0.58
+0.67
+
+17.0
+0.58
+0.67
+803611
+White
+315317
+
+18.2
+0.58
+0.67
+
+17.2
+0.53
+0.61
+Tan
+Gray
+
+18.8
+0.54
+0.62
+
+19.7
+0.54
+0.63
+
+20.0
+0.53
+0.62
+803611
+Orange
+315317
+
+21.2
+0.55
+0.63
+
+18.4
+0.55
+0.63
+Tan
+Gray
+
+20.3
+0.56
+0.65
+
+21.4
+0.55
+0.64
+
+21.6
+0.52
+0.60
+803611
+Tan
+315317
+
+22.7
+0.53
+0.62
+
+21.6
+0.52
+0.60
+Tan
+Lt. Blue
+
+23.0
+0.52
+0.61
+
+24.0
+0.53
+0.61
+
+24.9
+0.53
+0.62
+803611
+Green
+315311
+
+26.6
+0.55
+0.64
+
+28.6
+0.55
+0.63
+Tan
+Lt. Blue
+
+29.7
+0.54
+0.62
+
+31.7
+0.56
+0.64
+
+33.7
+0.58
+0.67
+803611
+Blue
+315311
+
+35.8
+0.58
+0.67
+
+30.9
+0.54
+0.63
+Tan
+Lt. Blue
+
+32.0
+0.55
+0.63
+
+34.2
+0.56
+0.64
+
+36.2
+0.56
+0.64
+803611
+Gray
+315311
+
+38.2
+0.56
+0.65
+
+35.1
+0.57
+0.66
+Tan
+Lt. Blue
+
+36.6
+0.56
+0.65
+
+38.9
+0.56
+0.64
+
+41.3
+0.56
+0.65
+803611
+Red
+315311
+
+43.6
+0.55
+0.64
+-
+-
+-
+-
+-
+Tan
+Blue
+
+41.3
+0.58
+0.67
+
+43.6
+0.58
+0.67
+
+46.3
+0.59
+0.68
+803611
+Dk. Brown
+315315
+
+48.8
+0.59
+0.68
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+46.9
+0.56
+0.64
+
+48.9
+0.56
+0.64
+
+50.5
+0.55
+0.63
+803610
+Dk. Green
+833500
+
+53.5
+0.56
+0.65
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+49.8
+0.58
+0.67
+
+52.2
+0.58
+0.67
+
+55.5
+0.59
+0.68
+803610
+Dk. Blue
+833500
+
+58.5
+0.60
+0.69
+ = Nozzle plug P/N 315300 installed in the front side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360˚
+operation. All triangular rates are equilateral.
+
+--- PAGE 28 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Adjustable model distinguished by a gray collar that comes factory set in
+a true full-circle configuration
+* Extra-large, fast access flange compartment to accommodate full-size
+DBRY-6 Splice Connectors and an integrated Pilot Two-Way Module
+* Solenoid and pressure regulator are serviceable without system
+depressurization
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure
+at each nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* Proprietary Filter Sentry Mechanism cleans the filter with every opening
+and closing cycle
+* All TTS-800 Series Golf Rotors advanced features listed on pages 22 to 25
+OPERATING SPECIFICATIONS
+* Radius: 49' to 97'
+* Flow: 14.2 to 58.5 GPM
+* Pressure range: 50 to 100 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 15 to 53
+ - 10 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and readily
+
+converts to normally open hydraulic operation with through-the-top connections
+* D
+- Decoder Valve-in-Head Technology with all “E” specifications below*
+* DD - Two-station Decoder Valve-in-Head Technology with all “E” specifications below*
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation, on-off-auto
+
+selector, 190 mA (350 mA inrush) solenoid with captive plunger and
+internal downstream bleed
+* All DIH rotors include two DBRY-6 Splice Connectors for connection to the two-wire path.
+See page 15 for critical recommendations on grounding DIH rotors.
+GT-884 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+GT-884 = Full-circle
+(convertible to forward-
+facing adjustable arc rotor)
+C = Check-O-Matic Technology*
+15 to 53 = Installed G-880 nozzle
+P5 = 50 PSI (nozzles 15 to 18)
+D = Decoder Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+DD = Two-station decoder Valve-in-Head
+Technology
+P8 = 80 PSI (nozzles 25 to 53)
+E = Electric Valve-in-Head Technology
+* Converts to N.O. hydraulic Valve-in-Head
+Technology
+Example:
+GT-884-E-48-P8 = GT-884 full-circle electric Valve-in-Head Technology, installed 48 nozzle, 80 PSI regulation
+GT-884
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+These rotors have Total-Top-Serviceability, powerful high-torque gear drives,
+and the largest flange compartment in the industry to accommodate all Pilot
+Two-Way Module components.
+TTS-800 SERIES
+
+--- PAGE 29 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+GT-884 STANDARD NOZZLES GT-884 LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce the radius by 15%.
+Room to Spare
+Adding a Pilot Two-Way Module does not reduce flange
+compartment space. The exclusive configuration
+provides extra room for full-sized DBRY-6 Splice
+Connectors and multiple cables.
+GT-884 NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+14.2
+0.57
+0.66
+Tan
+Gray
+
+15.7
+0.58
+0.67
+
+16.4
+0.58
+0.67
+
+17.0
+0.58
+0.67
+803611
+White
+315317
+
+18.2
+0.58
+0.67
+
+17.2
+0.53
+0.61
+Tan
+Gray
+
+18.8
+0.54
+0.62
+
+19.7
+0.54
+0.63
+
+20.0
+0.53
+0.62
+803611
+Orange
+315317
+
+21.2
+0.55
+0.63
+
+18.4
+0.55
+0.63
+Tan
+Gray
+
+20.3
+0.56
+0.65
+
+21.4
+0.55
+0.64
+
+21.6
+0.52
+0.60
+803611
+Tan
+315317
+
+22.7
+0.53
+0.62
+
+21.6
+0.52
+0.60
+Tan
+Lt. Blue
+
+23.0
+0.52
+0.61
+
+24.0
+0.53
+0.61
+
+24.9
+0.53
+0.62
+803611
+Green
+315311
+
+26.6
+0.55
+0.64
+
+28.6
+0.55
+0.63
+Tan
+Lt. Blue
+
+29.7
+0.54
+0.62
+
+31.7
+0.56
+0.64
+
+33.7
+0.58
+0.67
+803611
+Blue
+315311
+
+35.8
+0.58
+0.67
+
+30.9
+0.54
+0.63
+Tan
+Lt. Blue
+
+32.0
+0.55
+0.63
+
+34.2
+0.56
+0.64
+
+36.2
+0.56
+0.64
+803611
+Gray
+315311
+
+38.2
+0.56
+0.65
+
+35.1
+0.57
+0.66
+Tan
+Lt. Blue
+
+36.6
+0.56
+0.65
+
+38.9
+0.56
+0.64
+
+41.3
+0.56
+0.65
+803611
+Red
+315311
+
+43.6
+0.55
+0.64
+-
+-
+-
+-
+-
+Tan
+Blue
+
+41.3
+0.58
+0.67
+
+43.6
+0.58
+0.67
+
+46.3
+0.59
+0.68
+803611
+Dk. Brown
+315315
+
+48.8
+0.59
+0.68
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+46.9
+0.56
+0.64
+
+48.9
+0.56
+0.64
+
+50.5
+0.55
+0.63
+803610
+Dk. Green
+833500
+
+53.5
+0.56
+0.65
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+49.8
+0.58
+0.67
+
+52.2
+0.58
+0.67
+
+55.5
+0.59
+0.68
+803610
+Dk. Blue
+833500
+
+58.5
+0.60
+0.69
+ = Nozzle plug P/N 315300 installed in the front side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360˚
+operation. All triangular rates are equilateral.
+
+--- PAGE 30 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Adjustable model distinguished by a gray collar that comes factory set in
+a part-circle configuration (60° to 360°)
+* Extra-large, fast access flange compartment to accommodate full-size
+DBRY-6 Splice Connectors and an integrated Pilot Two-Way Module
+* Solenoid and pressure regulator are serviceable without system depressurization
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure at
+each nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* Proprietary Filter Sentry Mechanism cleans the filter with every
+opening and closing cycle
+* All TTS-800 Series Golf Rotors advanced features listed on pages 22 to 25
+OPERATING SPECIFICATIONS
+* Radius: 37' to 94'
+* Flow: 8.9 to 59.6 GPM
+* Pressure range: 50 to 100 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 10 to 53
+ - 12 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and readily
+
+converts to normally open hydraulic operation with through-the-top connections
+* D
+- Decoder Valve-in-Head Technology with all “E” specifications below*
+* DD - Two-station Decoder Valve-in-Head Technology with all “E” specifications below*
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation, on-off-
+
+auto selector, 190mA (350mA inrush) solenoid with captive plunger and
+
+internal downstream bleed
+* All DIH rotors include two DBRY-6 Splice Connectors for connection to the two-wire path.
+See page 15 for critical recommendations on grounding DIH rotors.
+GT-885 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+GT-885 = Full-/part-circle,
+60º to 360º arc range
+C = Check-O-Matic Technology*
+10 to 53 = Installed G-885 nozzle
+P5 = 50 PSI (nozzles 10 to 18)
+D = Decoder Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+DD = Two-station decoder Valve-in-Head
+Technology
+P8 = 80 PSI (nozzles 25 to 53)
+E = Electric Valve-in-Head Technology
+*Converts to N.O. hydraulic Valve-in-Head
+Technology
+Example:
+GT-885-E-48-P8 = GT-885 full-/part-circle electric Valve-in-Head Technology, installed 48 nozzle, 80 PSI regulation
+GT-885
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+These rotors have Total-Top-Serviceability, powerful high-torque gear drives, and the largest
+flange compartment in the industry to accommodate all Pilot Two-Way Module components.
+TTS-800 SERIES
+
+--- PAGE 31 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+GT-885 STANDARD NOZZLES GT-885 LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce the radius by 15%.
+Reduced Downtime
+There is no need to depressurize the mainline for
+solenoid and pressure regulator servicing.
+Total-Top-Service Solution
+From the originators of TTS Technology, Hunter's
+no-dig TTS-800 Series Golf Rotors provide total-topservicing of every serviceable component.
+GT-885 NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+Orange
+Dk. Green
+
+8.9
+0.63
+0.72
+
+9.8
+0.62
+0.72
+
+10.2
+0.58
+0.67
+803603
+315312
+-
+-
+-
+-
+-
+Lt. Green
+-
+-
+-
+-
+-
+Orange
+White
+
+11.4
+0.50
+0.57
+
+12.3
+0.51
+0.59
+
+12.9
+0.52
+0.60
+803603
+315314
+-
+-
+-
+-
+-
+Lt. Blue
+-
+-
+-
+-
+-
+Orange
+White
+
+12.9
+0.46
+0.53
+
+14.5
+0.52
+0.60
+
+14.9
+0.51
+0.59
+803603
+315314
+
+15.5
+0.53
+0.61
+White
+
+16.5
+0.54
+0.63
+Orange
+Lt. Green
+
+16.6
+0.49
+0.57
+
+17.8
+0.51
+0.59
+
+18.6
+0.51
+0.59
+803603
+315313
+
+19.4
+0.52
+0.60
+Orange
+
+20.5
+0.53
+0.61
+Orange
+Lt. Green
+
+17.9
+0.49
+0.57
+
+19.5
+0.50
+0.58
+
+19.8
+0.50
+0.57
+803603
+315313
+
+20.6
+0.50
+0.58
+Tan
+
+22.1
+0.52
+0.60
+Orange
+Lt. Green
+
+20.2
+0.46
+0.53
+
+22.1
+0.49
+0.56
+
+23.9
+0.51
+0.59
+803603
+315313
+
+24.2
+0.52
+0.60
+Green
+
+25.9
+0.52
+0.60
+Red
+Green
+
+28.3
+0.54
+0.62
+
+29.3
+0.54
+0.63
+
+31.5
+0.57
+0.66
+803602
+315310
+
+33.4
+0.59
+0.68
+Blue
+
+35.4
+0.61
+0.70
+Red
+Green
+
+30.6
+0.57
+0.66
+
+31.6
+0.57
+0.66
+
+33.9
+0.58
+0.67
+803602
+315310
+
+35.8
+0.58
+0.67
+Gray
+
+37.9
+0.58
+0.67
+Red
+Green
+
+34.9
+0.58
+0.67
+
+36.2
+0.57
+0.66
+
+39.1
+0.59
+0.68
+803602
+315310
+
+41.2
+0.59
+0.68
+Red
+
+43.5
+0.59
+0.69
+Red
+Green
+-
+-
+-
+-
+-
+
+41.2
+0.60
+0.70
+
+43.5
+0.61
+0.70
+803602
+315310
+
+46.2
+0.60
+0.69
+Dk. Brown
+
+48.7
+0.59
+0.68
+Dk. Red
+Dk. Green
+-
+-
+-
+-
+-
+
+46.3
+0.65
+0.75
+
+48.4
+0.64
+0.74
+803601
+315312
+
+51.7
+0.63
+0.73
+Dk. Green
+
+54.5
+0.63
+0.73
+Dk. Red
+Dk. Green
+-
+-
+-
+-
+-
+
+50.7
+0.64
+0.74
+
+53.1
+0.65
+0.75
+803601
+315312
+
+56.4
+0.64
+0.74
+Dk. Blue
+
+59.6
+0.65
+0.75
+ = Nozzle plug P/N 315300 installed in the back side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360˚
+operation. All triangular rates are equilateral.
+
+--- PAGE 32 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Adjustable, shorter-radius model (50° to 360°)
+* Extra-large, fast access flange compartment to accommodate full-size
+DBRY-6 Splice Connectors and an integrated Pilot Two-Way Module
+* Solenoid and pressure regulator are serviceable without system
+depressurization
+* Proprietary Filter Sentry Mechanism cleans the filter with every
+opening and closing cycle
+* All TTS-800 Series Golf Rotors advanced features listed on pages 22 to 25
+OPERATING SPECIFICATIONS
+* Radius: 18' to 50'
+* Flow: 1.9 to 12.8 GPM
+* Pressure range: 40 to 65 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 2 to 12
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and readily
+
+converts to normally open hydraulic operation with through-the-top
+
+connections
+* D
+- Decoder Valve-in-Head Technology with all “E” specifications below*
+* DD - Two-station Decoder Valve-in-Head Technology with all “E” specifications
+
+below*
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation,
+
+on-off-auto selector, 190 mA (350 mA inrush) solenoid with captive plunger
+
+and internal downstream bleed
+* All DIH rotors include two DBRY-6 Splice Connectors for connection to the twowire path. See page 15 for critical recommendations on grounding DIH rotors.
+GT-835 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+GT-835 = Full-/part-circle, 50°
+to 360°
+C = Check-O-Matic Technology
+Technology*
+6 = Installed G-835 nozzle
+(includes 8-nozzle rack)
+P5 = 50 PSI (nozzles 18 to 25)
+D = Decoder Valve-in-Head
+Technology
+E = Electric Valve-in-Head
+Technology
+*Converts to N.O. hydraulic
+Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+Example:
+GT-835-6-P5 = GT-835 full-/part-circle electric Valve-in-Head Technology, installed 6 nozzle, 50 PSI regulation
+GT-835
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+These rotors have Total-Top-Serviceability, shorter-radius, lower-flow internals, and the largest
+flange compartment in the industry to accommodate all Pilot Two-Way Module components.
+TTS-800 SERIES
+
+--- PAGE 33 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+GT-835 NOZZLES
+Optional Yardage Marker Colors
+Extra-large, snap-in marker plates are available in standard black as well as
+optional red, white, and blue to meet every golf course preference. Or choose
+the purple plate for identification when courses are using reclaimed water.
+Low-Bounce Rubber Cover Kit - P/N 987200SP
+Reduce the incoming bounce from balls hitting rotors that are
+surrounding the greens.
+No-Bounce Turf Cup Kit - P/N 987100SP
+Eliminate errant bounces from balls hitting rotors that surround
+greens with this subsurface rotor-mounting solution.
+GT-835 NOZZLE PERFORMANCE DATA*
+Nozzle
+Pressure
+PSI
+Radius
+ft
+Flow
+GPM
+Precip in/hr
+
+1.9
+0.56
+0.65
+
+2.1
+0.51
+0.58
+Yellow
+
+2.4
+0.48
+0.55
+
+2.6
+0.47
+0.55
+
+3.0
+0.55
+0.63
+
+3.2
+0.49
+0.57
+Yellow
+
+3.5
+0.46
+0.53
+
+3.6
+0.44
+0.51
+
+3.9
+0.60
+0.69
+
+4.1
+0.50
+0.58
+Yellow
+
+4.4
+0.47
+0.54
+
+4.6
+0.46
+0.53
+
+4.7
+0.54
+0.62
+
+5.0
+0.47
+0.54
+Yellow
+
+5.3
+0.47
+0.54
+
+5.4
+0.42
+0.49
+
+6.0
+0.56
+0.65
+
+6.3
+0.50
+0.57
+Yellow
+
+6.6
+0.46
+0.54
+
+6.8
+0.43
+0.50
+
+7.8
+0.58
+0.67
+
+8.0
+0.51
+0.58
+Yellow
+
+8.3
+0.45
+0.52
+
+8.5
+0.44
+0.51
+
+9.7
+0.61
+0.71
+
+10.1
+0.53
+0.61
+Yellow
+
+10.3
+0.49
+0.57
+
+10.5
+0.46
+0.53
+
+12.0
+0.60
+0.69
+
+12.2
+0.53
+0.61
+Yellow
+
+12.5
+0.52
+0.60
+
+12.8
+0.49
+0.57
+* Complies to ASAE standard. All precipitation rates calculated
+for 360˚ operation. All triangular rates are equilateral.
+
+--- PAGE 34 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Dedicated, true full-circle model distinguished by a black collar
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure at each
+nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* Proprietary Filter Sentry Mechanism cleans the filter with every opening
+and closing cycle
+OPERATING SPECIFICATIONS
+* Radius: 49' to 97'
+* Flow: 14.2 to 58.5 GPM
+* Pressure range: 50 to 100 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 15 to 53
+ - 10 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and
+
+readily converts to normally open hydraulic operation with through-the-
+
+top connections
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation,
+
+on-off-auto selector, 190 mA (350 mA inrush) solenoid with captive
+
+plunger and internal downstream bleed
+G-880C
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-880E
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-880 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+G-880 = Full-circle
+C = Check-O-Matic Technology*
+15 to 53 = Installed G-880 nozzle
+P5 = 50 PSI (nozzles 15 to 18)
+E = Electric Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+*Converts to N.O. hydraulic Valve-in-Head
+Technology
+P8 = 80 PSI (nozzles 25 to 53)
+Example:
+G-880-E-33-P8 = G-880 full-circle electric Valve-in-Head Technology, installed 33 nozzle, 80 PSI regulation
+These rotors feature convenient no-dig Total-Top-Serviceability and a
+powerful, high-torque gear drive.
+G-800 SERIES
+
+--- PAGE 35 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+TTS Means Convenience and Versatility
+With TTS Technology, every serviceable component
+of the rotor can be easily accessed anytime with no
+servicing mess.
+G-880 STANDARD NOZZLES G-880 LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce the radius by 15%.
+G-880 NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+14.2
+0.57
+0.66
+Tan
+Gray
+
+15.7
+0.58
+0.67
+
+16.4
+0.58
+0.67
+
+17.0
+0.58
+0.67
+803611
+White
+315317
+
+18.2
+0.58
+0.67
+
+17.2
+0.53
+0.61
+Tan
+Gray
+
+18.8
+0.54
+0.62
+
+19.7
+0.54
+0.63
+
+20.0
+0.53
+0.62
+803611
+Orange
+315317
+
+21.2
+0.55
+0.63
+
+18.4
+0.55
+0.63
+Tan
+Gray
+
+20.3
+0.56
+0.65
+
+21.4
+0.55
+0.64
+
+21.6
+0.52
+0.60
+803611
+Tan
+315317
+
+22.7
+0.53
+0.62
+
+21.6
+0.52
+0.60
+Tan
+Lt. Blue
+
+23.0
+0.52
+0.61
+
+24.0
+0.53
+0.61
+
+24.9
+0.53
+0.62
+803611
+Green
+315311
+
+26.6
+0.55
+0.64
+
+28.6
+0.55
+0.63
+Tan
+Lt. Blue
+
+29.7
+0.54
+0.62
+
+31.7
+0.56
+0.64
+
+33.7
+0.58
+0.67
+803611
+Blue
+315311
+
+35.8
+0.58
+0.67
+
+30.9
+0.54
+0.63
+Tan
+Lt. Blue
+
+32.0
+0.55
+0.63
+
+34.2
+0.56
+0.64
+
+36.2
+0.56
+0.64
+803611
+Gray
+315311
+
+38.2
+0.56
+0.65
+
+35.1
+0.57
+0.66
+Tan
+Lt. Blue
+
+36.6
+0.56
+0.65
+
+38.9
+0.56
+0.64
+
+41.3
+0.56
+0.65
+803611
+Red
+315311
+
+43.6
+0.55
+0.64
+-
+-
+-
+-
+-
+Tan
+Blue
+
+41.3
+0.58
+0.67
+
+43.6
+0.58
+0.67
+
+46.3
+0.59
+0.68
+803611
+Dk. Brown
+315315
+
+48.8
+0.59
+0.68
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+46.9
+0.56
+0.64
+
+48.9
+0.56
+0.64
+
+50.5
+0.55
+0.63
+803610
+Dk. Green
+833500
+
+53.5
+0.56
+0.65
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+49.8
+0.58
+0.67
+
+52.2
+0.58
+0.67
+
+55.5
+0.59
+0.68
+803610
+Dk. Blue
+833500
+
+58.5
+0.60
+0.69
+ = Nozzle plug P/N 315300 installed in the front side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360˚
+operation. All triangular rates are equilateral.
+
+--- PAGE 36 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Adjustable model distinguished by a gray collar that comes factory set in
+a true full-circle configuration
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure at each
+nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* Proprietary Filter Sentry Mechanism cleans the filter with every opening
+and closing cycle
+OPERATING SPECIFICATIONS
+* Radius: 49' to 97'
+* Flow: 14.2 to 58.5 GPM
+* Pressure range: 50 to 100 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 15 to 53
+ - 10 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and readily
+
+converts to normally open hydraulic operation with through-the-top
+
+connections
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation,
+
+on-off-auto selector, 190 mA (350 mA inrush) solenoid with captive plunger
+
+and internal downstream bleed
+G-884C
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-884E
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-884 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+G-884 = Full-circle
+(convertible to forward-
+facing adjustable arc rotor)
+C = Check-O-Matic Technology*
+15 to 53 = Installed G-880 nozzle
+P5 = 50 PSI (nozzles 15 to 18)
+E = Electric Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+*Converts to N.O. hydraulic Valve-in-Head
+Technology
+P8 = 80 PSI (nozzles 25 to 53)
+Example:
+G-884-E-33-P8 = G-884 full-circle electric Valve-in-Head Technology, installed 33 nozzle, 80 PSI regulation
+These rotors feature convenient no-dig Total-Top-Serviceability and a
+powerful, high-torque gear drive.
+G-800 SERIES
+
+--- PAGE 37 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+G-884 STANDARD NOZZLES G-884 LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce radius by 15%
+G-884 NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+14.2
+0.57
+0.66
+Tan
+Gray
+
+15.7
+0.58
+0.67
+
+16.4
+0.58
+0.67
+
+17.0
+0.58
+0.67
+803611
+White
+315317
+
+18.2
+0.58
+0.67
+
+17.2
+0.53
+0.61
+Tan
+Gray
+
+18.8
+0.54
+0.62
+
+19.7
+0.54
+0.63
+
+20.0
+0.53
+0.62
+803611
+Orange
+315317
+
+21.2
+0.55
+0.63
+
+18.4
+0.55
+0.63
+Tan
+Gray
+
+20.3
+0.56
+0.65
+
+21.4
+0.55
+0.64
+
+21.6
+0.52
+0.60
+803611
+Tan
+315317
+
+22.7
+0.53
+0.62
+
+21.6
+0.52
+0.60
+Tan
+Lt. Blue
+
+23.0
+0.52
+0.61
+
+24.0
+0.53
+0.61
+
+24.9
+0.53
+0.62
+803611
+Green
+315311
+
+26.6
+0.55
+0.64
+
+28.6
+0.55
+0.63
+Tan
+Lt. Blue
+
+29.7
+0.54
+0.62
+
+31.7
+0.56
+0.64
+
+33.7
+0.58
+0.67
+803611
+Blue
+315311
+
+35.8
+0.58
+0.67
+
+30.9
+0.54
+0.63
+Tan
+Lt. Blue
+
+32.0
+0.55
+0.63
+
+34.2
+0.56
+0.64
+
+36.2
+0.56
+0.64
+803611
+Gray
+315311
+
+38.2
+0.56
+0.65
+
+35.1
+0.57
+0.66
+Tan
+Lt. Blue
+
+36.6
+0.56
+0.65
+
+38.9
+0.56
+0.64
+
+41.3
+0.56
+0.65
+803611
+Red
+315311
+
+43.6
+0.55
+0.64
+-
+-
+-
+-
+-
+Tan
+Blue
+
+41.3
+0.58
+0.67
+
+43.6
+0.58
+0.67
+
+46.3
+0.59
+0.68
+803611
+Dk. Brown
+315315
+
+48.8
+0.59
+0.68
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+46.9
+0.56
+0.64
+
+48.9
+0.56
+0.64
+
+50.5
+0.55
+0.63
+803610
+Dk. Green
+833500
+
+53.5
+0.56
+0.65
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+49.8
+0.58
+0.67
+
+52.2
+0.58
+0.67
+
+55.5
+0.59
+0.68
+803610
+Dk. Blue
+833500
+
+58.5
+0.60
+0.69
+ = Nozzle plug P/N 315300 installed in the front side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360˚
+operation. All triangular rates are equilateral.
+QuickSet-360 with Ratcheting Riser
+Setting up your adjustable arc TTS rotor is fast and simple. The integrated
+ratcheting mechanism allows a simple twist of the riser to align the right-side
+reversing point. These rotors are also easily convertible to a true non-reversing
+full-circle with our exclusive QuickSet-360 feature.
+Arc adjustment
+and riser
+hold-up tool
+
+--- PAGE 38 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Adjustable model distinguished by a gray collar that comes factory set in
+a part-circle configuration (60° to 360°)
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure at
+each nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* Proprietary Filter Sentry Mechanism cleans the filter with every opening
+and closing cycle
+OPERATING SPECIFICATIONS
+* Radius: 37' to 94'
+* Flow: 8.9 to 59.6 GPM
+* Pressure range: 50 to 100 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 10 to 53
+ - 12 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and
+
+readily converts to normally open hydraulic operation with through-the-
+
+top connections
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation,
+
+on-off-auto selector, 190 mA (350mA inrush) solenoid with captive
+
+plunger and internal downstream bleed
+G-885C
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-885E
+Pop-up height: 3¾"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-885 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+G-885 = Full-/part-circle
+60º to 360º arc range
+C = Check-O-Matic Technology*
+10 to 53 = Installed G-885 nozzle
+P5 = 50 PSI (nozzles 10 to 18)
+E = Electric Valve-in-Head Technology
+P6 = 65 PSI (nozzles 18 to 25)
+*Converts to N.O. hydraulic Valve-in-Head
+Technology
+P8 = 80 PSI (nozzles 25 to 53)
+Example:
+G-885-E-33-P8 = G-885 full-/part-circle electric Valve-in-Head Technology, installed 33 nozzle, 80 PSI regulation
+These rotors feature convenient no-dig Total-Top-Serviceability and a
+powerful, high-torque gear drive.
+G-800 SERIES
+
+--- PAGE 39 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+Contour Back-Nozzle Capabilities
+Whether you want a little extra green behind your adjustable arc TTS rotors
+or a more modeled look to your fairway's hard edges, contour back-nozzles
+are here to make your vision a reality. Choose from four short-range or four
+mid-range nozzles to suit your needs.
+G-885 STANDARD NOZZLES G-885 LOW-ANGLE NOZZLES**
+GT-885/G-885 CONTOUR BACK-NOZZLES
+** Low-angle nozzles reduce the radius by 15%.
+G-885 NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+Orange
+Dk. Green
+
+8.9
+0.63
+0.72
+
+9.8
+0.62
+0.72
+
+10.2
+0.58
+0.67
+803603
+315312
+-
+-
+-
+-
+-
+Lt. Green
+-
+-
+-
+-
+-
+Orange
+White
+
+11.4
+0.50
+0.57
+
+12.3
+0.51
+0.59
+
+12.9
+0.52
+0.60
+803603
+315314
+-
+-
+-
+-
+-
+Lt. Blue
+-
+-
+-
+-
+-
+Orange
+White
+
+12.9
+0.46
+0.53
+
+14.5
+0.52
+0.60
+
+14.9
+0.51
+0.59
+803603
+315314
+
+15.5
+0.53
+0.61
+White
+
+16.5
+0.54
+0.63
+Orange
+Lt. Green
+
+16.6
+0.49
+0.57
+
+17.8
+0.51
+0.59
+
+18.6
+0.51
+0.59
+803603
+315313
+
+19.4
+0.52
+0.60
+Orange
+
+20.5
+0.53
+0.61
+Orange
+Lt. Green
+
+17.9
+0.49
+0.57
+
+19.5
+0.50
+0.58
+
+19.8
+0.50
+0.57
+803603
+315313
+
+20.6
+0.50
+0.58
+Tan
+
+22.1
+0.52
+0.60
+Orange
+Lt. Green
+
+20.2
+0.46
+0.53
+
+22.1
+0.49
+0.56
+
+23.9
+0.51
+0.59
+803603
+315313
+
+24.2
+0.52
+0.60
+Green
+
+25.9
+0.52
+0.60
+Red
+Green
+
+28.3
+0.54
+0.62
+
+29.3
+0.54
+0.63
+
+31.5
+0.57
+0.66
+803602
+315310
+
+33.4
+0.59
+0.68
+Blue
+
+35.4
+0.61
+0.70
+Red
+Green
+
+30.6
+0.57
+0.66
+
+31.6
+0.57
+0.66
+
+33.9
+0.58
+0.67
+803602
+315310
+
+35.8
+0.58
+0.67
+Gray
+
+37.9
+0.58
+0.67
+Red
+Green
+
+34.9
+0.58
+0.67
+
+36.2
+0.57
+0.66
+
+39.1
+0.59
+0.68
+803602
+315310
+
+41.2
+0.59
+0.68
+Red
+
+43.5
+0.59
+0.69
+Red
+Green
+-
+-
+-
+-
+-
+
+41.2
+0.60
+0.70
+
+43.5
+0.61
+0.70
+803602
+315310
+
+46.2
+0.60
+0.69
+Dk. Brown
+
+48.7
+0.59
+0.68
+Dk. Red
+Dk. Green
+-
+-
+-
+-
+-
+
+46.3
+0.65
+0.75
+
+48.4
+0.64
+0.74
+803601
+315312
+
+51.7
+0.63
+0.73
+Dk. Green
+
+54.5
+0.63
+0.73
+Dk. Red
+Dk. Green
+-
+-
+-
+-
+-
+
+50.7
+0.64
+0.74
+
+53.1
+0.65
+0.75
+803601
+315312
+
+56.4
+0.64
+0.74
+Dk. Blue
+
+59.6
+0.65
+0.75
+ = Nozzle plug P/N 315300 installed in the back side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360˚
+operation. All triangular rates are equilateral.
+CONTOUR BACK-NOZZLE PERFORMANCE DATA
+P/N
+Color
+Profile
+65 PSI
+80 PSI
+Radius
+GPM
+Radius
+GPM
+803604
+Peach
+
+3.4
+
+3.9
+803603
+Orange
+
+3.8
+
+4.2
+803602
+Red
+
+4.2
+
+4.5
+803601
+Dk. Red
+
+4.6
+
+4.9
+315314
+White
+
+2.8
+
+2.9
+315313
+Lt. Green
+
+4.3
+
+4.7
+315310
+Green
+
+5.2
+
+5.7
+315312
+Dk. Green
+
+7.9
+
+8.8
+
+--- PAGE 40 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+G-835E
+Pop-up height: 3"
+Overall height: 11¾"
+Flange diameter: 7¼"
+Female inlet: 1½" Acme
+G-835C
+Pop-up height: 3"
+Overall height: 11¾"
+Flange diameter: 7¾"
+Female inlet: 1½" Acme
+KEY BENEFITS
+* Adjustable, shorter-radius model (50° to 360°)
+* Proprietary Filter Sentry Mechanism cleans the filter with every opening
+and closing cycle
+OPERATING SPECIFICATIONS
+* Radius: 18' to 50'
+* Flow: 1.9 to 12.8 GPM
+* Pressure range: 40 to 65 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 2 to 12
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and
+
+readily converts to normally open hydraulic operation with through-the-
+
+top connections
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation,
+
+on-off-auto selector, 190 mA (350 mA inrush) solenoid with captive
+
+plunger and internal downstream bleed
+G-835 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation
+G-835 = Full-/part-circle, 50° to 360°
+C = Check-O-Matic
+Technology *
+6 = Installed G-835 nozzle
+(includes 8-nozzle rack)
+P5 = 50 PSI (nozzles 2 to 12)
+E = Electric Valve-in-Head Technology
+*Converts to N.O. hydraulic Valve-inHead Technology
+P6 = 65 PSI (nozzles 10 to 12)
+Example:
+G-835E-6-P6= G-835 full-/part-circle electric Valve-in-Head Technology, installed 6 nozzle, 50 PSI regulation
+These rotors feature convenient no-dig Total-Top-Serviceability and a
+shorter-radius, lower-flow internals.
+G-800 SERIES
+
+--- PAGE 41 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+QuickSet-360
+With Hunter's QuickCheck™ Arc Mechanism and patented
+QuickSet-360 non-reversing full-circle feature in a variable
+arc rotor, adjustments are fast, easy, and more flexible than
+ever before. Now available on all TTS-800 Series, G-800
+Series, and B Series adjustable arc rotors.
+G-835 NOZZLES
+in 1
+G-835 NOZZLE PERFORMANCE DATA*
+Nozzle
+Pressure
+PSI
+Radius
+ft
+Flow
+GPM
+Precip in/hr
+
+1.9
+0.56
+0.65
+
+2.1
+0.51
+0.58
+Yellow
+
+2.4
+0.48
+0.55
+
+2.6
+0.47
+0.55
+
+3.0
+0.55
+0.63
+
+3.2
+0.49
+0.57
+Yellow
+
+3.5
+0.46
+0.53
+
+3.6
+0.44
+0.51
+
+3.9
+0.60
+0.69
+
+4.1
+0.50
+0.58
+Yellow
+
+4.4
+0.47
+0.54
+
+4.6
+0.46
+0.53
+
+4.7
+0.54
+0.62
+
+5.0
+0.47
+0.54
+Yellow
+
+5.3
+0.47
+0.54
+
+5.4
+0.42
+0.49
+
+6.0
+0.56
+0.65
+
+6.3
+0.50
+0.57
+Yellow
+
+6.6
+0.46
+0.54
+
+6.8
+0.43
+0.50
+
+7.8
+0.58
+0.67
+
+8.0
+0.51
+0.58
+Yellow
+
+8.3
+0.45
+0.52
+
+8.5
+0.44
+0.51
+
+9.7
+0.61
+0.71
+
+10.1
+0.53
+0.61
+Yellow
+
+10.3
+0.49
+0.57
+
+10.5
+0.46
+0.53
+
+12.0
+0.60
+0.69
+
+12.2
+0.53
+0.61
+Yellow
+
+12.5
+0.52
+0.60
+
+12.8
+0.49
+0.57
+* Complies to ASAE standard. All precipitation rates calculated
+for 360˚ operation. All triangular rates are equilateral.
+
+--- PAGE 42 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+G-80-B
+Pop-up height: 3"
+Overall height: 9⅝"
+Flange diameter: 5⅜"
+Female inlet: 1¼" Acme
+G-80-B - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Options*
+G-80 = Full-circle
+B = Block rotor with check valve
+15 to 53 = Installed G-80 nozzle*
+S = SSU*
+*SSU = 18, 25, or 48
+*Standard stocking unit
+Example:
+G-80-B-25-S = G-80 full-circle block rotor, installed 25 nozzle, standard stocking unit model
+KEY BENEFITS
+* Dedicated, true full-circle model distinguished by a black collar
+* Exclusive PressurePort Nozzle Technology optimizes incoming pressure at
+each nozzle to increase consistency and maximize distribution uniformity
+* High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+OPERATING SPECIFICATIONS
+* G-80-B
+ - Radius: 49' to 97'
+ - Flow: 14.2 to 58.5 GPM
+ - Pressure range: 65 to 100 PSI
+* All B Series Rotors are pressure rated at 150 PSI
+* Check height up to 7' in elevation change
+* Nozzle range: 15 to 53
+ - 10 standard trajectory (22.5°) nozzles
+ - 9 low-angle trajectory (15°) nozzles
+These highly efficient block rotors have a powerful gear drive backed by the
+reliability synonymous with the Hunter name.
+B SERIES
+
+--- PAGE 43 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce the radius by 15%.
+G-80-B NOZZLES
+G-80-B NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+14.2
+0.57
+0.66
+Tan
+Gray
+
+15.7
+0.58
+0.67
+
+16.4
+0.58
+0.67
+
+17.0
+0.58
+0.67
+803611
+White
+315317
+
+18.2
+0.58
+0.67
+
+17.2
+0.53
+0.61
+Tan
+Gray
+
+18.8
+0.54
+0.62
+
+19.7
+0.54
+0.63
+
+20.0
+0.53
+0.62
+803611
+Orange
+315317
+
+21.2
+0.55
+0.63
+
+18.4
+0.55
+0.63
+Tan
+Gray
+
+20.3
+0.56
+0.65
+
+21.4
+0.55
+0.64
+
+21.6
+0.52
+0.60
+803611
+Tan
+315317
+
+22.7
+0.53
+0.62
+
+21.6
+0.52
+0.60
+Tan
+Lt. Blue
+
+23.0
+0.52
+0.61
+
+24.0
+0.53
+0.61
+
+24.9
+0.53
+0.62
+803611
+Green
+315311
+
+26.6
+0.55
+0.64
+
+28.6
+0.55
+0.63
+Tan
+Lt. Blue
+
+29.7
+0.54
+0.62
+
+31.7
+0.56
+0.64
+
+33.7
+0.58
+0.67
+803611
+Blue
+315311
+
+35.8
+0.58
+0.67
+
+30.9
+0.54
+0.63
+Tan
+Lt. Blue
+
+32.0
+0.55
+0.63
+
+34.2
+0.56
+0.64
+
+36.2
+0.56
+0.64
+803611
+Gray
+315311
+
+38.2
+0.56
+0.65
+
+35.1
+0.57
+0.66
+Tan
+Lt. Blue
+
+36.6
+0.56
+0.65
+
+38.9
+0.56
+0.64
+
+41.3
+0.56
+0.65
+803611
+Red
+315311
+
+43.6
+0.55
+0.64
+-
+-
+-
+-
+-
+Tan
+Blue
+
+41.3
+0.58
+0.67
+
+43.6
+0.58
+0.67
+
+46.3
+0.59
+0.68
+803611
+Dk. Brown
+315315
+
+48.8
+0.59
+0.68
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+46.9
+0.56
+0.64
+
+48.9
+0.56
+0.64
+
+50.5
+0.55
+0.63
+803610
+Dk. Green
+833500
+
+53.5
+0.56
+0.65
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+49.8
+0.58
+0.67
+
+52.2
+0.58
+0.67
+
+55.5
+0.59
+0.68
+803610
+Dk. Blue
+833500
+
+58.5
+0.60
+0.69
+ = Nozzle plug P/N 315300 installed in the front side of the nozzle housing.
+
+--- PAGE 44 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* G-84-B
+ - Adjustable model distinguished by a gray collar that comes factory set in
+a true full-circle configuration
+ - Exclusive PressurePort Nozzle Technology optimizes incoming pressure at
+each nozzle to increase consistency and maximize distribution uniformity
+ - High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+* G-85-B
+ - Adjustable model distinguished by a gray collar that comes factory set in a
+part-circle configuration (60° to 360°)
+ - Exclusive PressurePort Nozzle Technology optimizes incoming pressure at
+each nozzle to increase consistency and maximize distribution uniformity
+ - High-torque gear drive is the strongest in the industry to mitigate the
+challenges of debris infiltration
+OPERATING SPECIFICATIONS
+* G-84-B
+ - Radius: 49' to 97'
+ - Flow: 14.2 to 58.5 GPM
+ - Pressure range: 65 to 100 PSI
+ - Check height up to 7' in elevation change
+ - Nozzle range: 15 to 53
+ ◦10 standard trajectory (22.5°) nozzles
+ ◦9 low-angle trajectory (15°) nozzles
+* G-85-B
+ - Radius: 37' to 94'
+ - Flow: 8.9 to 59.6 GPM
+ - Pressure range: 50 to 100 PSI
+ - Check height up to 7' in elevation change
+ - Nozzle range: 10 to 53
+ ◦12 standard trajectory (22.5°) nozzles
+ ◦9 low-angle trajectory (15°) nozzles
+* All B Series Golf Rotors are pressure-rated at 10 bar; 1,000 kPa
+G-85-B
+Pop-up height: 3"
+Overall height: 9⅝"
+Flange diameter: 5⅜"
+Female inlet: 1¼" Acme
+G-84-B
+Pop-up height: 3"
+Overall height: 9⅝"
+Flange diameter: 5⅜"
+Female inlet: 1¼" Acme
+G-84-B & G-85-B - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Options*
+G-84 = Full-circle
+B = Block rotor with check valve
+15 to 53 = Installed G-84 nozzle*
+S = SSU*
+*SSU = 18, 25, or 48
+*Standard stocking unit
+G-85 = Full-/part-circle, 60° to 360°
+B = Block rotor with check valve
+10 to 53 = Installed G-85 nozzle**
+S = SSU*
+**SSU = 18, 25, or 48
+*Standard stocking unit
+Example:
+G-85-B-25-S = G-85 part-circle block rotor, installed 25 nozzle, standard stocking unit model
+These highly efficient block rotors have a powerful gear drive backed by the
+reliability synonymous with the Hunter name.
+B SERIES
+
+--- PAGE 45 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+LOW-ANGLE NOZZLES**
+** Low-angle nozzles reduce radius by 15%.
+G-85B NOZZLES
+G-84B NOZZLES
+G-84-B NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+14.2
+0.57
+0.66
+Tan
+Gray
+
+15.7
+0.58
+0.67
+
+16.4
+0.58
+0.67
+
+17.0
+0.58
+0.67
+803611
+White
+315317
+
+18.2
+0.58
+0.67
+
+17.2
+0.53
+0.61
+Tan
+Gray
+
+18.8
+0.54
+0.62
+
+19.7
+0.54
+0.63
+
+20.0
+0.53
+0.62
+803611
+Orange
+315317
+
+21.2
+0.55
+0.63
+
+18.4
+0.55
+0.63
+Tan
+Gray
+
+20.3
+0.56
+0.65
+
+21.4
+0.55
+0.64
+
+21.6
+0.52
+0.60
+803611
+Tan
+315317
+
+22.7
+0.53
+0.62
+
+21.6
+0.52
+0.60
+Tan
+Lt. Blue
+
+23.0
+0.52
+0.61
+
+24.0
+0.53
+0.61
+
+24.9
+0.53
+0.62
+803611
+Green
+315311
+
+26.6
+0.55
+0.64
+
+28.6
+0.55
+0.63
+Tan
+Lt. Blue
+
+29.7
+0.54
+0.62
+
+31.7
+0.56
+0.64
+
+33.7
+0.58
+0.67
+803611
+Blue
+315311
+
+35.8
+0.58
+0.67
+
+30.9
+0.54
+0.63
+Tan
+Lt. Blue
+
+32.0
+0.55
+0.63
+
+34.2
+0.56
+0.64
+
+36.2
+0.56
+0.64
+803611
+Gray
+315311
+
+38.2
+0.56
+0.65
+
+35.1
+0.57
+0.66
+Tan
+Lt. Blue
+
+36.6
+0.56
+0.65
+
+38.9
+0.56
+0.64
+
+41.3
+0.56
+0.65
+803611
+Red
+315311
+
+43.6
+0.55
+0.64
+-
+-
+-
+-
+-
+Tan
+Blue
+
+41.3
+0.58
+0.67
+
+43.6
+0.58
+0.67
+
+46.3
+0.59
+0.68
+803611
+Dk. Brown
+315315
+
+48.8
+0.59
+0.68
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+46.9
+0.56
+0.64
+
+48.9
+0.56
+0.64
+
+50.5
+0.55
+0.63
+803610
+Dk. Green
+833500
+
+53.5
+0.56
+0.65
+-
+-
+-
+-
+-
+Dk. Brown
+Dk. Blue
+
+49.8
+0.58
+0.67
+
+52.2
+0.58
+0.67
+
+55.5
+0.59
+0.68
+803610
+Dk. Blue
+833500
+
+58.5
+0.60
+0.69
+ = Nozzle plug P/N 315300 installed in the front side of the nozzle housing.
+G-85-B NOZZLE PERFORMANCE DATA*
+Nozzle Set
+Pressure
+PSI
+Radius
+ft
+Flow
+ GPM
+Precip in/hr
+
+Orange
+Dk. Green
+
+8.9
+0.63
+0.72
+
+9.8
+0.62
+0.72
+
+10.2
+0.58
+0.67
+803603
+315312
+-
+-
+-
+-
+-
+Lt. Green
+-
+-
+-
+-
+-
+Orange
+White
+
+11.4
+0.50
+0.57
+
+12.3
+0.51
+0.59
+
+12.9
+0.52
+0.60
+803603
+315314
+-
+-
+-
+-
+-
+Lt. Blue
+-
+-
+-
+-
+-
+Orange
+White
+
+12.9
+0.46
+0.53
+
+14.5
+0.52
+0.60
+
+14.9
+0.51
+0.59
+803603
+315314
+
+15.5
+0.53
+0.61
+White
+
+16.5
+0.54
+0.63
+Orange
+Lt. Green
+
+16.6
+0.49
+0.57
+
+17.8
+0.51
+0.59
+
+18.6
+0.51
+0.59
+803603
+315313
+
+19.4
+0.52
+0.60
+Orange
+
+20.5
+0.53
+0.61
+Orange
+Lt. Green
+
+17.9
+0.49
+0.57
+
+19.5
+0.50
+0.58
+
+19.8
+0.50
+0.57
+803603
+315313
+
+20.6
+0.50
+0.58
+Tan
+
+22.1
+0.52
+0.60
+Orange
+Lt. Green
+
+20.2
+0.46
+0.53
+
+22.1
+0.49
+0.56
+
+23.9
+0.51
+0.59
+803603
+315313
+
+24.2
+0.52
+0.60
+Green
+
+25.9
+0.52
+0.60
+Red
+Green
+
+28.3
+0.54
+0.62
+
+29.3
+0.54
+0.63
+
+31.5
+0.57
+0.66
+803602
+315310
+
+33.4
+0.59
+0.68
+Blue
+
+35.4
+0.61
+0.70
+Red
+Green
+
+30.6
+0.57
+0.66
+
+31.6
+0.57
+0.66
+
+33.9
+0.58
+0.67
+803602
+315310
+
+35.8
+0.58
+0.67
+Gray
+
+37.9
+0.58
+0.67
+Red
+Green
+
+34.9
+0.58
+0.67
+
+36.2
+0.57
+0.66
+
+39.1
+0.59
+0.68
+803602
+315310
+
+41.2
+0.59
+0.68
+Red
+
+43.5
+0.59
+0.69
+Red
+Green
+-
+-
+-
+-
+-
+
+41.2
+0.60
+0.70
+
+43.5
+0.61
+0.70
+803602
+315310
+
+46.2
+0.60
+0.69
+Dk. Brown
+
+48.7
+0.59
+0.68
+Dk. Red
+Dk. Green
+-
+-
+-
+-
+-
+
+46.3
+0.65
+0.75
+
+48.4
+0.64
+0.74
+803601
+315312
+
+51.7
+0.63
+0.73
+Dk. Green
+
+54.5
+0.63
+0.73
+Dk. Red
+Dk. Green
+-
+-
+-
+-
+-
+
+50.7
+0.64
+0.74
+
+53.1
+0.65
+0.75
+803601
+315312
+
+56.4
+0.64
+0.74
+Dk. Blue
+
+59.6
+0.65
+0.75
+ = Nozzle plug P/N 315300 installed in the back side of the nozzle housing.
+* Complies to ASAE standard. All precipitation rates calculated for 360°
+operation. All triangular rates are equilateral.
+
+--- PAGE 46 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* Adjustable, shorter-radius model (50° to 360°)
+OPERATING SPECIFICATIONS
+* G-35-B
+ - Radius: 18' to 50'
+ - Flow: 1.9 to 12.8 GPM
+ - Pressure range: 40 to 65 PSI
+* All B Series Rotors are pressure rated at 150 PSI
+* Check height up to 7' in elevation change
+* Nozzle range: 2 to 12
+G-35-B
+Pop-up height: 3"
+Overall height: 9"
+Flange diameter: 4¾"
+Female inlet: 1¼" Acme
+G-35-B - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Valve Options
+
+Nozzle
+
+Options*
+G-35 = Full-/part-circle 50º to 360º
+B = Block rotor with check valve
+6 = Installed G-35 nozzle*
+S = SSU*
+* Available in SSU model only
+ SSU = 6
+ (includes nozzle rack)
+* Standard stocking unit
+Example:
+G-35-B-6-S = G-35 full-/part-circle block rotor, installed 6 nozzle with nozzle rack, standard stocking unit model
+These cost-effective block rotors have shorter-radius, lower-flow nozzles
+for use in smaller areas.
+B SERIES
+
+--- PAGE 47 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation®
+
+G-35-B NOZZLES
+
+G-35-B ROTOR
+G-35-B NOZZLE PERFORMANCE DATA*
+Nozzle
+Pressure
+PSI
+Radius
+ft
+Flow
+GPM
+Precip in/hr
+
+1.9
+0.56
+0.65
+
+2.1
+0.51
+0.58
+Yellow
+
+2.4
+0.48
+0.55
+
+2.6
+0.47
+0.55
+
+3.0
+0.55
+0.63
+
+3.2
+0.49
+0.57
+Yellow
+
+3.5
+0.46
+0.53
+
+3.6
+0.44
+0.51
+
+3.9
+0.60
+0.69
+
+4.1
+0.50
+0.58
+Yellow
+
+4.4
+0.47
+0.54
+
+4.6
+0.46
+0.53
+
+4.7
+0.54
+0.62
+
+5.0
+0.47
+0.54
+Yellow
+
+5.3
+0.47
+0.54
+
+5.4
+0.42
+0.49
+
+6.0
+0.56
+0.65
+
+6.3
+0.50
+0.57
+Yellow
+
+6.6
+0.46
+0.54
+
+6.8
+0.43
+0.50
+
+7.8
+0.58
+0.67
+
+8.0
+0.51
+0.58
+Yellow
+
+8.3
+0.45
+0.52
+
+8.5
+0.44
+0.51
+
+9.7
+0.61
+0.71
+
+10.1
+0.53
+0.61
+Yellow
+
+10.3
+0.49
+0.57
+
+10.5
+0.46
+0.53
+
+12.0
+0.60
+0.69
+
+12.2
+0.53
+0.61
+Yellow
+
+12.5
+0.52
+0.60
+
+12.8
+0.49
+0.57
+* Complies to ASAE standard. All precipitation rates calculated for
+360˚ operation. All triangular rates are equilateral.
+
+--- PAGE 48 ---
+GOLF ROTORS
+
+hunterirrigation.com/golf
+KEY BENEFITS
+* G-990 is a dedicated, true full-circle model
+* G-995 is an adjustable part-circle model (40° to 360°)
+* Higher-flow, longer-radius rotor designed for single-row systems
+* Contour back-nozzle capability for special applications
+OPERATING SPECIFICATIONS
+* G-990
+ - Radius: 89' to 103'
+ - Flow: 54.2 to 83.3 GPM
+ - Pressure range: 80 to 120 PSI
+* G-995
+ - Radius: 81' to 97'
+ - Flow: 54.9 to 83.8 GPM
+ - Pressure range: 80 to 120 PSI
+* All TTS rotors are pressure rated at 150 PSI
+* Nozzle range: 53 to 73
+ - 3 standard trajectory (22.5°) nozzles
+ - 3 low-angle trajectory (15°) nozzles
+OPTIONS
+* C
+- Check-O-Matic Technology checks up to 25' in elevation change and
+
+readily converts to normally open hydraulic operation with through-the-
+
+top connections
+* E
+- Electric Valve-in-Head Technology with adjustable pressure regulation,
+
+on-off-auto selector, 190 mA (350mA inrush) solenoid with captive
+
+plunger and internal downstream bleed
+G-990C
+Pop-up height: 3"
+Overall height: 13¼"
+Flange diameter: 7½"
+Femal inlet: 1½" Acme
+G-995E
+Pop-up height: 3"
+Overall height: 13¼"
+Flange diameter: 7½"
+Female inlet: 1½" Acme
+G-990 & G-995 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4 + 5
+
+Model
+
+Valve Options
+
+Nozzle
+
+Regulation*
+
+Options
+G-990 = Full-circle
+C = Check-O-Matic Technology*
+53 to 73 = Installed G-990 nozzle*
+P8 = 80 PSI (nozzle 53)
+S = SSU*
+E = Electric Valve-in-Head Technology
+P1 = 100 PS (nozzles 53 to 73)
+P2 = 120 PSI (nozzle 73)
+G-995 = Adjustable arc,
+40° to 360°
+C = Check-O-Matic Technology*
+53 to 73 = Installed G-995 nozzle*
+P8 = 80 PSI (nozzle 53)
+S = SSU*
+E = Electric Valve-in-Head Technology
+P1 = 100 PSI (nozzles 53 to 73)
+P2 = 120 PSI (nozzle 73)
+*Converts to N.O. hydraulic Valve-in-Head
+Technology
+* SSU = 53
+* SSU = P8/53
+*Standard
+stocking unit
+Example:
+G-990-E-53-P8-S = G-990 full-circle electric Valve-in-Head Technology, installed 53 nozzle, 80 PSI; regulation, standard stocking unit model
+These rotors are simple to install and perfect for retrofits. Total-Top-Serviceability
+makes field maintenance quick and easy.
+G-900 SERIES
+
+--- PAGE 49 ---
+GOLF ROTORS
+GOLF IRRIGATION | Built on Innovation® 49
+Contour Back-Nozzle Capabilities
+Choose any nozzle from the I-40 nozzle rack or from the
+short- and mid-range G-900 nozzles.
+G-900 NOZZLES
+G-900 LOW-ANGLE
+NOZZLES**
+** Low-angle nozzles
+ reduce the radius by 15%.
+G-990 NOZZLE PERFORMANCE DATA*
+Nozzle
+Pressure
+PSI
+Radius
+ft
+Flow
+GPM
+Precip in/hr
+
+54.2
+0.66
+0.76
+
+56.7
+0.67
+0.78
+Dk. Blue
+
+59.2
+0.67
+0.78
+
+61.7
+0.69
+0.79
+
+64.2
+0.70
+0.81
+
+63.2
+0.72
+0.83
+
+65.9
+0.72
+0.83
+Black
+
+69.4
+0.72
+0.84
+
+72.0
+0.74
+0.85
+
+74.9
+0.75
+0.87
+
+72.1
+0.75
+0.87
+
+75.0
+0.75
+0.87
+Orange
+
+77.8
+0.76
+0.88
+
+80.5
+0.74
+0.86
+
+83.3
+0.76
+0.87
+* Complies to ASAE standard. All precipitation rates calculated
+for 360˚ operation. All triangular rates are equilateral.
+G-995 NOZZLE PERFORMANCE DATA*
+Nozzle
+Pressure
+PSI
+Radius
+ft
+ Flow
+ GPM
+Precip in/hr
+
+54.9
+0.81
+0.93
+
+57.2
+0.78
+0.90
+Dk. Blue
+
+59.5
+0.77
+0.89
+
+62.1
+0.79
+0.91
+
+64.4
+0.80
+0.92
+
+62.3
+0.81
+0.94
+
+65.5
+0.81
+0.94
+Black
+
+69.0
+0.82
+0.95
+
+71.9
+0.84
+0.97
+
+74.7
+0.85
+0.98
+
+72.7
+0.88
+1.02
+
+75.4
+0.88
+1.01
+Orange
+
+78.1
+0.87
+1.00
+
+80.9
+0.86
+1.00
+
+83.8
+0.86
+0.99
+
+--- PAGE 50 ---
+
+SWING JOINTS
+AND ACCESSORIES
+
+--- PAGE 51 ---
+SWING JOINTS
+
+LASCO is a trademark of LASCO Fittings Inc.
+ADVANCED FEATURES
+HSJ SWING JOINTS
+Upgrade Your Rotor Warranty
+Include Hunter HSJ Swing Joints with
+your golf rotor order and qualify for a
+5-year component exchange warranty.
+HSJ Swing Joints must be purchased
+from an authorized Hunter Golf
+Distributor to qualify.
+Proven Products, Proven Partners
+Over the last four decades, Hunter has become the leading
+producer of gear-driven rotors, known worldwide for its quality
+product and excellent customer support. Similarly, LASCO has
+spent the last 50 years developing a reputation as the industry's
+leading producer of PVC irrigation fittings and swing joints,
+providing outstanding customer support in the golf irrigation
+market. When Hunter sought a partner for its Hunter-branded
+swing joints, the choice was immediately clear.
+We are proud to offer Hunter HSJ Swing Joints by LASCO, a
+proven team with time-tested solutions for the golf irrigation
+market. HSJs are available in a multitude of inlet, outlet, size,
+and length configurations for every course and preference.
+LASCO is a trademark of LASCO Fittings Inc.
+
+--- PAGE 52 ---
+SWING JOINTS
+
+ hunterirrigation.com/golf
+ACME ADAPTER FITTINGS
+1¼" Models
+1¼" male Acme x 1" female NPT
+P/N 109325SP
+1¼" male Acme x 1¼" female NPT
+P/N 474800SP
+1¼" male Acme x 1½" female NPT
+P/N 104153SP
+
+1½" Models
+1½" male Acme x 1" female NPT
+P/N 475400SP
+1½" male Acme x 1¼" female NPT
+P/N 475200SP
+1½" male Acme x 1½" female NPT
+P/N 475000SP
+Acme x Acme Models
+1½" male Acme x 1" Acme female
+P/N 225300SP
+1½" male Acme x 1¼" Acme female
+P/N 225400SP
+1¼" male Acme x 1" Acme female
+P/N 225500SP
+B2B Tee Assembly
+1½" Acme threaded tee and 1½" adapter for connecting two swing
+joints to a single mainline connection in back-to-back
+installations around greens.
+P/N = HSJ-305-015-3 = NPT inlet
+P/N = HSJ-305-015-M = Acme inlet (shown)
+With swivel ells on both ends, HSJ Swing Joints easily adjust sprinklers to proper height and position in any configuration.
+Choose Hunter Acme Adapter Fittings for maximum system design flexibility.
+Swing Joints
+HSJ-0 = Model ¾"
+HSJ-1 = Model 1"
+HSJ-2 = Model 1¼"
+HSJ-3 = Model 1½"
+KEY BENEFITS
+* Strength, longevity, and contamination resistance
+ - Prefabricated PVC design with O-Ring Seals
+* Configurations to meet every installation requirement
+ - Available in all popular inlet and outlet configurations
+ - Choose from 8", 12", or 18" lay arm lengths
+ - Single top-out or triple top-out designs
+SWING JOINT - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4 + 5
+
+Model
+
+Inlet Type (from pipe fitting)
+
+Outlet Type (to sprinkler inlet)
+
+Outlet Style
+
+Lay Length
+HSJ-0 = ¾" commercial
+swing joint
+3 = Male NPT
+0 = Male Acme
+2 = Single top-out
+8 = 8" lay arm†
+12 = 12" lay arm
+18 = 18" lay arm‡
+HSJ-1 = 1" heavy-duty
+swing joint
+4 = Male Acme*
+2 = Male NPT
+4 = Triple top-out
+HSJ-2 = 1¼" heavy-duty
+swing joint
+7 = Spigot, 4" long*
+8 = Enlarging to 1½" male Acme*
+A = Enlarging/reducing to 1¼" male Acme**
+HSJ-3 = 1½" heavy-duty
+swing joint
+*M = Main Acme H-connection***
+ P = Main Acme V-connection***
+Example:
+HSJ-3-M-0-2-12 = HSJ 1½" heavy-duty swing joint, 1½" male Acme horizontal connection to mainline tee, 1½" male Acme single top outlet, 12" lay arm length
+* Not available in HSJ-0 or HSJ-3. Use “M” inlet for HSJ-3. ** Not available in HSJ-0. *** Connection reduces from 1½" Acme to swing joint size. † HSJ-0 only. ‡ Not available in HSJ-0.
+HSJ SWING JOINTS
+Swing Joint Inlet Adapter for HDPE Service Saddle
+1½" male Acme x 1½" 10 TPI
+female butress thread
+P/N G312015SP
+
+--- PAGE 53 ---
+ACCESSORIES
+GOLF IRRIGATION | Built on Innovation®
+
+ROTOR ACCESSORIES
+SPOTSHOT HOSE-END NOZZLES
+Models
+* ¾" hose thread inlet - P/N 160700SP
+* 1" hose thread inlet - P/N 160705SP
+Features
+* Variable nozzle stream choices:
+ - Jet-Stream Nozzle: Tightly focused stream for power washing
+ - Soak-Stream Nozzle: Medium stream for dust control areas
+ - Fan-Stream Nozzle: Broad light stream for turf hot spots
+Operating Specifications
+* Flow: 35 GPM at 80 PSI*
+* Not recommended for residential use with regulated,
+low-pressure, or low-flow conditions.
+SpotShot Hose-End Nozzles
+3/4" P/N 160700SP
+1" P/N 160705SP
+Customize golf rotors according to course needs with these useful accessories.
+Adjustable hose-end nozzles are the ideal solution for a variety of spot-watering and wash-down needs.
+Hose Swivel Adapters
+Rubber Cover Kit
+HOSE SWIVEL ADAPTERS
+Models
+* Hose Swivel Adapter for G-900 Series (fits ¾" and 1" hose)
+P/N G90HS100
+* Hose Swivel Adapter for G-800 Series (fits ¾" and 1" hose)
+P/N G800HS100
+RUBBER COVER KITS
+Models
+* TTS-800 Series Low-Bounce Rubber Cover Kit
+P/N 987200SP
+* TTS-800 Series Low-Bounce Rubber Cover Kit (Green)
+P/N 987201SP
+* TTS-800 Series No-Bounce Turf Cup Kit
+P/N 987100SP
+* G-990 Series Rubber Cover Kit (date codes 06/11 and prior only)
+P/N 473800
+* G-995 Series Rubber Cover Kit (also G990 date codes 07/11 and after)
+P/N 473900
+
+--- PAGE 54 ---
+ACCESSORIES
+
+ hunterirrigation.com/golf
+QUICK COUPLERS
+The sturdy red brass and stainless steel construction of Quick Couplers
+strengthens any project.
+KEY BENEFITS
+* 100% interchangeable with major brands
+* Red brass and stainless steel construction
+* Heavy-duty thermoplastic locking and non-locking covers
+* Optional winged stabilization and Acme key connection
+* Stainless steel lug on 1" and 1¼" keys
+* Spring-loaded covers with stainless steel springs for positive
+closing and protection of valve's sealing components
+* Warranty period: 5 years
+* See the SnapLokTM Combo Kits on page 56
+Reclaimed Water Option
+All locking models have an
+optional purple cover for sites
+using reclaimed water.
+QUICK COUPLER, KEY, AND HOSE SWIVEL CHARTS
+Model
+Inlet Threads
+Slots
+Body
+Color*
+Locking
+Key
+Swivels
+HQ-3-RC
+¾"
+
+1-piece
+Yellow
+No
+HK-33
+HS-0
+HQ-33-DRC
+¾"
+
+2-piece
+Yellow
+No
+HK-33
+HS-0
+HQ-33-DLRC
+¾"
+
+2-piece
+Yellow
+Yes
+HK-33
+HS-0
+HQ-44-RC
+1" NPT
+
+2-piece
+Yellow
+No
+HK-44
+HS-1 or HS-2
+HQ-44-LRC
+1" NPT
+
+2-piece
+Yellow
+Yes
+HK-44
+HS-1 or HS-2
+HQ-44-RC-AW
+1" NPT
+Acme
+2-piece wing**
+Yellow
+No
+HK-44A
+HS-1 or HS-2
+HQ-44-LRC-AW
+1" NPT
+Acme
+2-piece wing**
+Yellow
+Yes
+HK-44A
+HS-1 or HS-2
+HQ-5-RC
+1" NPT
+
+1-piece
+Yellow
+No
+HK-55
+HS-1 or HS-2
+HQ-5-LRC
+1" NPT
+
+1-piece
+Yellow
+Yes
+HK-55
+HS-1 or HS-2
+Notes:
+* All locking cover models are available with purple covers for reclaimed water applications.
+** Anti-rotation stabilization wings
+Quick Couplers
+Non-locking
+Locking
+Reclaimed
+HQ-5-RC
+HK-33
+HQ-3-RC
+HQ-33-DLRC-R
+HQ-44-LRC
+HK-44
+HQ-44-LRC-AW-R
+HK-44A
+HLK
+
+--- PAGE 55 ---
+ACCESSORIES
+GOLF IRRIGATION | Built on Innovation®
+
+QUICK COUPLER - SPECIFICATION BUILDER: ORDER 1 + 2 + 3
+
+Model
+
+Cover Options
+
+Additional Options
+HQ-3 = ¾" inlet, 1-piece body, 2 slots
+RC = Yellow rubber cover
+(blank) = No option
+HQ-5 = 1" inlet, 1-piece body, 1 slot
+LRC = Yellow locking rubber cover
+(Not available for HQ-3 body)
+AW = Acme key with anti-rotation wings
+(Only available for HQ-44 body)
+HQ-33-D = ¾" inlet, 2-piece body, 2 slots
+HQ-44 = 1" inlet, 2-piece body, 1 slot or
+ Acme key socket
+R = Purple locking cover (reclaimed water ID;
+only available for LRC models)
+Examples:
+HQ-3-RC = HQ-3 valve with rubber cover
+HQ-44-LRC = HQ-44 valve with locking rubber cover
+HQ-44-LRC-R = HQ-44 valve with locking rubber cover and reclaimed water ID
+HQ-44-LRC-AW-R = HQ-44 valve with locking rubber cover, Acme key socket, anti-rotation wings, and reclaimed water ID
+KEYS
+Model
+Compatible Valve
+Compatible Swivel
+HK-33 = ¾" valve, ¾" key inlet
+HQ-3, HQ-33
+HS-0
+HK-44 = 1" valve, 1" key inlet
+HQ-44
+HS-1, HS-2
+HK-44A = 1" valve, Acme key inlet
+HQ-44-AW
+HS-1, HS-2
+HK-55 = 1" valve, 1¼" key inlet
+HQ-5
+HS-1, HS-2
+HS HOSE SWIVELS
+Model
+Compatible Key
+HS-0 = ¾" inlet, ¾" hose outlet
+HK-33
+HS-1 = 1" inlet, ¾" hose outlet
+HK-44, HK-44A, HK-55
+HS-2 = 1" inlet, 1" hose outlet
+HK-44, HK-44A, HK-55
+HQ PRESSURE LOSS IN PSI
+Flow
+(GPM)
+HQ-3
+HQ-33
+HQ-44
+HQ-5
+
+0.8
+1.0
+
+1.8
+2.0
+
+4.1
+4.3
+2.2
+
+7.2
+7.6
+4.4
+1.0
+
+11.5
+3.0
+
+6.3
+
+9.2
+
+13.0
+
+19.8
+HS-0
+HK-33
+HK-44
+HK-44A
+HK-55
+HS-1
+HS-2
+
+--- PAGE 56 ---
+ACCESSORIES
+
+ hunterirrigation.com/golf
+FEATURES
+* Highly effective solution for quick coupler stabilization
+* SnapLok design includes:
+ - Heavy-duty PVC and brass outlet construction
+ - Anti-rotation coupler locking feature
+ - Accommodates both rebar and pipe stabilization
+* See the HSJ Swing Joints on page 52
+Quick Coupler with SnapLok
+Equipped HSJ-1 Swing Joint
+SNAPLOK
+TM COMBO KITS
+These kits are designed for applications that demand sturdy installation
+due to frequent Quick Coupler use.
+SNAPLOK COMBO KITS
+Kit Model
+Quick Coupler Model
+SnapLok Model
+HQ-SL-K-1-B = Locking Lid, BSP x 18" SnapLok
+HQ-44-LRC
+HSJ-1-6S-212
+HQ-SL-K-1-RB = Locking Reclaimed Lid, BSP x 18" SnapLok
+HQ-44-LRCR
+HSJ-1-6S-212
+* SnapLok is a trademark of LASCO Fittings Inc.
+MODELS
+* H-SADDLE-215 - 2" fitting with 1 ½" female Acme outlet
+* H-SADDLE-315 - 3" fitting with 1 ½" female Acme outlet
+* H-SADDLE-415 - 4" fitting with 1 ½" female Acme outlet
+FEATURES
+* Glue-free fittings for faster installs with fewer tools
+* Water-ready immediately
+* Easily adjustable for a more accurate installation position
+OPERATING SPECIFICATIONS
+* Use 1.5" hole saw (debur after cut)
+* Use ½" wrench (12 to 15 ft-lb of torque)
+PRODUCT SPECIFICATIONS
+* Max Operating Pressure: 330 PSI
+* Saddle Sizes: 2", 3", and 4"
+* Outlet: 1.5" female Acme
+NOTE: Contact your local distributor for product availability and ordering.
+HUNTER SADDLES
+Streamline golf rotor installations with glue-free sprinkler pipe fittings.
+
+--- PAGE 57 ---
+ACCESSORIES
+GOLF IRRIGATION | Built on Innovation®
+
+Valve Insertion/
+Removal Tool
+P/N 604000SP
+G-800 Series
+Valve Insertion/
+Removal Tool
+P/N 280500SP
+G-900/G-90 Series
+Snap Ring Removal Tool
+P/N 251000SP
+All Golf Models
+Valve and Snap Ring
+Insertion/Removal Pliers
+P/N 475600SP
+G-800 Series
+Nozzle Removal/
+Installation Tool
+P/N 803700SP
+G-85-B, G-885 Short- and
+Mid-range Nozzles
+Arc Adjustment/
+Riser Hold-up Tool
+P/N 382800SP
+G-85-B/G-885
+Hunter Wrench
+P/N 172000SP
+T-Handle Tool
+P/N 319100SP
+Pitot Gauge
+P/N 280100SP
+Hand Pump
+P/N 460302SP
+Riser Pressure Gauge
+P/N 991200SP
+G-80 (2019), G-85-B, and
+G-885 Risers
+TOOLS
+Golf Rotor Tool Kit
+P/N 475700SP
+
+--- PAGE 58 ---
+COMMERCIAL IRRIGATION
+
+--- PAGE 59 ---
+
+RESIDENTIAL AND COMMERCIAL IRRIGATION
+hunterirrigation.com
+PRODUCTS FOR THE
+GOLF COURSE AND BEYOND
+Everything we do at Hunter Industries is rooted in
+innovation. From small residential installations to
+fully automated smart cities, our teams continually
+develop solutions to help professionals deliver water
+as efficiently and sustainably as possible.
+Whether it's water-saving MP Rotator® Nozzles
+around a bunker or reliable I-20 Rotors on the
+surrounds or clubhouse grounds, Hunter's complete
+offering of commercial products has your course
+covered.
+Automatic Matched Precipitation
+MP Rotator Nozzles adjust the flow rate through the
+nozzle as the radius and arc are changed, resulting
+in the same matched precipitation rate regardless of
+the nozzle setting.
+Performance You Can Depend On
+From residential to commercial applications, high
+pressure to low pressure, and clean water to dirty
+water, Hunter valves keep systems running flawlessly
+day in and day out.
+Efficient, Reliable Irrigation
+Packed with upgraded features like FloStop®
+Technology, check valves, and top-performing
+nozzles, the I-20 Rotor ensures efficient, reliable
+irrigation in a range of applications.
+As we continue to explore new ways to innovate, you
+can expect us to deliver even more industry-leading
+products, services, and tools in the future to help
+your course thrive.
+
+--- PAGE 60 ---
+ROTORS
+
+ hunterirrigation.com/golf
+Radius: 17' to 46'
+Flow: 0.4 to 14.8 GPM
+PGP-04
+Overall height: 7½"
+Pop-up height: 4"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+PGP-06
+Overall height: 97/8"
+Pop-up height: 6"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+PGP-12
+Overall height: 17"
+Pop-up height: 12"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+PGP-00
+Overall height: 7½"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+KEY BENEFITS
+* Patented automatic arc return feature
+returns the turret back to the original
+arc pattern if vandalized; adjustable arc
+from 50° to 360°
+* Non-strippable drive mechanism is
+protected from damage if turned in the
+opposite direction of travel
+* Part- and full-circle in one model
+for flexibility across landscapes and
+reduced inventory
+* Headed and slotted setscrew allows
+radius adjustment with a Hunter
+Wrench or flat-blade screwdriver
+* Flat-top nozzles allow fast,
+easy insertion
+* QuickCheck Arc Mechanism for fast
+arc adjustment
+OPERATING SPECIFICATIONS
+* Nozzle choices: 34
+* Radius: 17' to 46'
+* Flow: 0.4 to 14.8 GPM
+* Recommended pressure range:
+25 to 70 PSI
+* Operating pressure range: 20 to 100 PSI
+* Precipitation rate: 0.4 in/hr
+approximately
+* Nozzle trajectory: standard = 25°,
+low-angle = 13°
+* Nozzle racks: Blue 1.5 to 8.0, Gray
+Low-Angle 2.0 to 4.5, Black 0.50 to 3.0,
+Green 6.0 to 13.0, MPR-25, MPR-30,
+MPR-35
+* Warranty period: 5 years
+FACTORY-INSTALLED OPTIONS
+* Drain Check Valve
+(up to 10' of elevation)
+* Reclaimed water ID
+* Blue 1.5 to 4.0 Nozzles
+USER-INSTALLED OPTIONS
+* Drain Check Valve (up to 3' of elevation) PGP 4" / 6" only (P/N 142300SP)
+* HSJ-0 prefabricated ¾" PVC Swing Joint
+PGP® ULTRA
+PGP Ultra Reclaimed
+Available as a factory-installed
+option on all models
+PGP Ultra
+Easy arc and radius adjustment
+PGP-ULTRA - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Standard Features
+
+Feature Options
+
+Nozzle Options
+PGP-00 = Shrub
+Adjustable arc, plastic riser,
+8 standard nozzles, and 4
+low-angle nozzles
+(blank) = No option
+Blue 1.5 to 8.0
+Gray low-angle
+Black short-radius
+Green high-flow
+MPR-25-Q, T, H, F
+MPR-30-Q, T, H, F
+MPR-35-Q, T, H, F
+1.5 to 4.0 = Only nozzles
+1.5 to 4.0 can be
+factory-installed
+PGP-04 = 4" pop-up
+CV = Drain Check Valve
+PGP-06 = 6" pop-up
+CV-R = Drain Check Valve
+and reclaimed water ID
+PGP-12 = 12" pop-up
+Examples:
+PGP-04 = 4" pop-up, adjustable arc
+PGP-04-2.5 = 4" pop-up, adjustable arc, and 2.5 nozzle
+PGP-12-CV-R-4.0 = 12" pop-up, adjustable arc, with drain check valve and reclaimed water ID, and 4.0 nozzle
+The PGP Ultra raises the bar for rotor technology with powerful features
+developed over three decades of research, customer feedback, and lab testing.
+
+--- PAGE 61 ---
+
+ROTORS
+GOLF IRRIGATION | Built on Innovation®
+KEY BENEFITS
+* Patented automatic arc return feature returns
+the turret back to the original arc pattern if
+vandalized; adjustable arc from 50° to 360°
+* Non-strippable drive mechanism is protected
+from damage if turned in the opposite
+direction of travel
+* Part- and full-circle in one model
+for flexibility across landscapes and
+reduced inventory
+* Headed and slotted setscrew allows
+radius adjustment with a Hunter Wrench
+or flat-blade screwdriver
+* FloStop Technology stops the flow of water
+from individual sprinklers to change the
+nozzle or perform repairs
+* Flat-top nozzles allow fast, easy insertion
+* QuickCheck Arc Mechanism for
+fast arc adjustment
+* Available stainless steel riser for
+extra durability
+* Drain Check Valve prevents low-head
+drainage (up to 10' of elevation)
+OPERATING SPECIFICATIONS
+* Nozzle choices: 34
+* Radius: 17' to 46'
+* Flow: 0.4 to 14.8 GPM
+* Recommended pressure range:
+25 to 70 PSI
+* Operating pressure range: 20 to 100 PSI
+* Precipitation rate: 0.4 in/hr approximately
+* Nozzle trajectory: standard = 25°,
+low-angle = 13°
+* Nozzle racks: Blue 1.5 to 8.0, Gray Low-Angle
+2.0 to 4.5, Black 0.50 to 3.0, Green 6.0 to
+13.0, MPR-25, MPR-30, MPR-35
+* Warranty period: 5 years
+FACTORY-INSTALLED OPTIONS
+* No drain Check Valve (NCV models)
+* Reclaimed water ID
+* Blue 1.5 to 4.0 Nozzles
+USER-INSTALLED OPTIONS
+* HSJ-0 prefabricated ¾" PVC Swing Joint
+I-20-06
+Overall height: 9⅞"
+Pop-up height: 6"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+I-20-12
+Overall height: 17"
+Pop-up height: 12"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+I-20-04
+Overall height: 7⅛"
+Pop-up height: 4"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+I-20-00
+Overall height: 7¾"
+Exposed diameter: 1¾"
+Inlet size: ¾"
+I-20
+I-20 (PLASTIC) - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Standard Features
+
+Feature Options
+
+Nozzle Options
+I-20-00 = Shrub
+Adjustable arc, plastic
+riser, check valve,
+8 standard nozzles, and
+4 low-angle nozzles
+(blank) = No option
+Blue 1.5 to 8.0
+Gray low-angle
+Black short-radius
+Green high-flow
+MPR-25-Q, T, H, F
+MPR-30-Q, T, H, F
+MPR-35-Q, T, H, F
+1.5 to 4.0 = Only
+nozzles 1.5 to 4.0 can
+be factory-installed
+I-20-04 = 4" pop-up
+NCV = Without Check Valve
+(only available on 4" model)
+I-20-06 = 6" pop-up
+I-20-12 = 12" pop-up
+R = Drain Check Valve and
+reclaimed water ID
+I-20 (STAINLESS STEEL) - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Standard Features
+
+Feature Options
+
+Nozzle Options
+I-20-04-SS = 4" pop-up
+Adjustable arc, stainless
+steel riser, check valve,
+8 standard nozzles, and
+4 low-angle nozzles
+(blank) = No option
+Blue 1.5 to 8.0
+Gray low-angle
+Black short-radius
+Green high-flow
+MPR-25-Q, T, H, F
+MPR-30-Q, T, H, F
+MPR-35-Q, T, H, F
+1.5 to 4.0 = Only
+nozzles 1.5 to 4.0 can
+be factory-installed
+I-20-06-SS = 6" pop-up
+NCV = Without Check Valve
+(only available on 4" model)
+R = Drain Check Valve and
+reclaimed water ID
+Example:
+I-20-12-R-4.0 = 12" pop-up, adjustable arc, with reclaimed water ID, and 4.0 nozzle
+The I-20 is loaded with upgraded features such as FloStop Technology,
+check valves, and efficient nozzles that make it the perfect choice in a
+range of applications.
+I-20 Reclaimed
+Available as a factory-installed
+option on all models
+Radius: 17' to 46'
+Flow: 0.4 to 14.8 GPM
+
+--- PAGE 62 ---
+ROTORS
+
+ hunterirrigation.com/golf
+KEY BENEFITS
+* Patented automatic arc return feature
+returns the turret back to the original arc
+pattern if vandalized; adjustable arc from
+50° to 360°
+* Non-strippable drive mechanism is
+protected from damage if turned in the
+opposite direction of travel
+* Part- and full-circle in one model for
+installation flexibility and reduced inventory
+* Color-coded nozzles make identification easy
+* QuickCheck Arc Mechanism for fast
+arc adjustment
+* Available stainless steel riser for extra
+durability
+* Drain Check Valve prevents low-head
+drainage (up to 10' of elevation)
+OPERATING SPECIFICATIONS
+* Nozzle choices: 11
+* Radius: 37' to 71'
+* Flow: 3.8 to 31.5 GPM
+* Recommended pressure range:
+40 to 100 PSI
+* Operating pressure range: 40 to 100 PSI
+* Precipitation rates: 0.4 in/hr
+approximately
+* Nozzle trajectory: standard = 25°
+* Warranty period: 5 years
+FACTORY-INSTALLED OPTIONS
+* Reclaimed water ID
+* High-speed rotations
+USER-INSTALLED OPTIONS
+* HSJ-1 prefabricated 1" PVC Swing Joint
+Radius: 37' to 71'
+Flow: 3.8 to 31.5 GPM
+I-25-06
+Overall height: 10¼"
+Pop-up height: 6"
+Exposed diameter: 1¾"
+Inlet size: 1"
+I-25-04
+Overall height: 7⅞"
+Pop-up height: 4"
+Exposed diameter: 1¾"
+Inlet size: 1"
+I-25
+I-25 Reclaimed
+Available as a factory-installed
+option on all models
+I-25 High-Speed
+Available as a factory-installed
+option on stainless steel models
+I-25 (PLASTIC) - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Standard Features
+
+Feature Options
+
+Nozzle Options
+I-25-04 = 4" pop-up
+Adjustable arc, plastic riser, check
+valve, and 5 nozzles
+(blank) = No option
+4 to 28 = Factory-installed nozzle number
+I-25-06 = 6" pop-up
+R = Reclaimed water ID
+I-25 (STAINLESS STEEL) - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+Standard Features
+
+Feature Options
+
+Nozzle Options
+I-25-04-SS = 4" pop-up
+Adjustable arc, stainless steel riser,
+check valve, and 5 nozzles
+(blank) = No option
+4 to 28 = Factory-installed nozzle number
+I-25-06-SS = 6" pop-up
+R = Reclaimed water ID
+HS = High-speed
+HS-R = High-speed and reclaimed water ID
+Examples:
+I-25-04 = 4" pop-up, adjustable arc
+I-25-04-SS-R-18 = 4" pop-up, adjustable arc, stainless steel riser, reclaimed water ID, and 18 nozzle
+I-25-06-SS = 6" pop-up, adjustable arc, stainless steel riser
+The reliable, durable, and versatile I-25 Rotor offers an expansive nozzle selection
+that makes it the perfect choice for large turf applications.
+
+--- PAGE 63 ---
+
+SPRAY BODIES
+GOLF IRRIGATION | Built on Innovation®
+MP ROTATOR® NOZZLE
+KEY BENEFITS
+* Low precipitation rate of approximately 0.4 in/hr - lowest in the industry
+* Automatic matched precipitation for simplified irrigation design and flexibility
+* Double-pop feature protects the nozzle from external debris
+* High distribution uniformity for a healthy landscape with maximum
+water efficiency
+ADDITIONAL FEATURES
+* Wind-resistant, multi-stream technology prevents misting
+* For vandal resistance, the arc is adjustable only when the
+MP Rotator Nozzle is running
+* Removable filter screen prevents nozzle from clogging
+* Color-coded for easy identification
+OPERATING SPECIFICATIONS
+* Radius reduction up to approximately 25% on all models
+* Recommended operating pressure: 40 PSI
+* Minimum radius setting achieved at 30 PSI
+* Warranty period: 3 years
+OPTIONS
+* Pair with Pro-Spray PRS40 Sprinkler Body for pressure regulation to 40 PSI
+for nominal radius settings
+* Pair with Pro-Spray PRS30 Sprinkler Body for pressure regulation to 30 PSI
+for minimum radius settings
+MP-1000: 8' to 15' radius
+MP-2000: 13' to 21' radius
+MP-3000: 22' to 30' radius
+MP-1000-90
+90° to 210°
+MP-1000-360
+360°
+MP-2000-90
+90° to 210°
+MP-2000-210
+210° to 270°
+MP-2000-360
+360°
+MP-1000-210
+210° to 270°
+MP-3000-90
+90° to 210°
+MP-3000-360
+360°
+MP-3000-210
+210° to 270°
+MP ROTATOR - SPECIFICATION BUILDER: ORDER 1 + 2
+
+Model
+
+Options
+MP-1000-90 = 8' to 15' radius, adjustable
+from 90º to 210º
+(blank) = No option
+MP-1000-210 = 8' to 15' radius, adjustable
+from 210º to 270º
+HT = Male-threaded version
+(Not available in 3500 and
+1000-210)
+MP-1000-360 = 8' to 15' radius, 360º
+MP-2000-90 = 13' to 21' radius, adjustable
+from 90º to 210º
+MP-2000-210 = 13' to 21' radius, adjustable
+from 210º to 270º
+MP-2000-360 = 13' to 21' radius, 360º
+MP-3000-90 = 22' to 30' radius, adjustable
+from 90º to 210º
+MP-3000-210 = 22' to 30' radius, adjustable
+from 210º to 270º
+MP-3000-360 = 22' to 30' radius, 360º
+MP-3500-90 = 31' to 35' radius, adjustable
+from 90° to 210°
+MP-LCS-515 = Left corner strip, 5' x 15'
+MP-RCS-515 = Right corner strip, 5' x 15'
+MP-SS-530 = Side strip, 5' x 30'
+MP-CORNER = 8' to 15' radius, adjustable
+from 45º to 105º
+The MP Rotator Nozzle is the most trusted high-efficiency solution on the
+market, offering up to 30% water savings over traditional spray nozzles.
+MP-3500-90
+90° to 210°
+MP-3500: 31' to 35' radius
+Radius: 8' to 35'
+0.4
+in/hr
+
+--- PAGE 64 ---
+MP ROTATOR
+
+ hunterirrigation.com/golf
+To optimize MP Rotator Nozzle performance, the Pro-Spray PRS40 Sprinkler
+Body is pressure-regulated to 40 PSI.
+PRO-SPRAY® PRS40
+PROS-00-PRS40
+Retracted height: 4½"
+Inlet size: ½"
+PROS-03-PRS40
+Retracted height: 5"
+Pop-up height: 3"
+Exposed diameter: 21/4"
+Inlet size: 1/2
+PROS-04-PRS40-CV
+Retracted height: 57⁄8"
+Pop-up height: 4"
+Exposed diameter: 2¼"
+Inlet size: ½"
+PROS-06-PRS40-CV
+Retracted height: 8¾"
+Pop-up height: 6"
+Exposed diameter: 2¼"
+Inlet size: ½"
+PROS-12-PRS40-CV
+Retracted height: 161⁄8"
+Pop-up height: 12"
+Exposed diameter: 2¼"
+Inlet size: ½"
+KEY BENEFITS
+* Industry's strongest spray sprinkler body for years of reliable performance
+* Pressure-regulated to 40 PSI for the MP Rotator Nozzle
+* Gray cap for easy field identification
+* Co-molded wiper seal made from chemical- and chlorine-resistant materials
+* Innovative seal design prevents cap-to-body leaks, even with a loose cap
+* FloGuard Technology option eliminates water waste in the event of a missing nozzle
+ADDITIONAL FEATURES
+* Directional flush plug design for cleaner installation
+* Interchangeable components for easier servicing, retrofits, and upgrades
+* Heavy-duty spring for consistent riser retraction
+* Check valve option eliminates low-head drainage
+OPERATING SPECIFICATIONS
+* Operational pressure range: 15 to 100 PSI
+* Warranty period: 5 years
+FACTORY-INSTALLED OPTIONS
+* Check valve available for 4", 6", and 12" models (up to 14' of elevation)
+* Reclaimed water identification
+* FloGuard Technology available for pop-up models
+USER-INSTALLED OPTIONS
+* Check valve: P/N 437400SP
+ -
+Up to 10' of elevation for 3" model
+ -
+Up to 14' of elevation for 4", 6", and 12" models
+* Reclaimed water ID cap: P/N 458562SP
+* Snap-on reclaimed cover: P/N PROS-RC-CAP-SP
+* Shutoff cap: P/N 213600SP
+* Shutoff nozzle: P/N 916400SP
+PRS40 Reclaimed
+Optional factory-installed
+purple reclaimed water caps
+FloGuard Technology
+Eliminate water waste in the
+event of a missing nozzle
+EPA WaterSense® Approved
+Recognized as a responsible water-saving tool
+by the U.S. Environmental Protection Agency
+PRO-SPRAY PRS40 - SPECIFICATION BUILDER: ORDER 1 + 2 + 3
+
+Model
+
+Feature Options
+
+Specialty Options
+PROS-00-PRS40 = 40 PSI regulated shrub adapter
+PROS-03-PRS40 = 40 PSI regulated 3" pop-up
+PROS-04-PRS40 = 40 PSI regulated 4" pop-up
+PROS-06-PRS40 = 40 PSI regulated 6" pop-up
+PROS-12-PRS40 = 40 PSI regulated 12" pop-up
+(blank) = No option
+CV = Factory-installed drain check valve
+(4", 6", and 12" models only)
+(blank) = No option
+R = Factory-installed reclaimed body cap
+F = FloGuard Technology (4", 6", and 12" models only)
+F-R = FloGuard Technology with reclaimed body cap
+(4", 6", and 12" models only)
+PRO-SPRAY PRS40 (SIDE INLET) MODELS
+Model
+PROS-06-SI-PRS40 = 40 PSI regulated 6" pop-up with side inlet
+PROS-12-SI-PRS40 = 40 PSI regulated 12" pop-up with side inlet
+Examples:
+PROS-06-SI-PRS40 = 6" pop-up with side inlet regulated at 40 PSI
+PROS-06-PRS40-CV = 6" pop-up regulated at 40 PSI, drain check valve
+PROS-12-PRS40-CV-F-R = 12" pop-up regulated at 40 PSI, drain check valve,
+and FloGuard Technology with reclaimed body cap
+
+--- PAGE 65 ---
+
+VALVES
+GOLF IRRIGATION | Built on Innovation®
+OPERATING SPECIFICATIONS
+* Regulation from 20 to 100 PSI
+* Static pressure: 150 PSI
+* Required dynamic pressure differential: 15 PSI
+* Works with AC and DC-Latching Solenoids
+* Works with any Hunter valve
+* Warranty period: 2 years
+ACCU SYNC® PRESSURE REGULATOR
+ACCUSYNC-ADJ
+PRESSURE REGULATOR
+Height with solenoid: 3¼"
+ADJUSTABLE
+Installation
+Accu Sync shown installed on ICV Valve
+SOLENOID ADAPTER
+ADAPTER
+ACCU SYNC VALVE
+RECOMMENDED FLOW RANGE
+Valve
+Flow
+GPM
+PGV-100/101
+15 to 40
+PGV-151
+20 to 120
+PGV-201
+40 to 150
+ICV-101
+15 to 40
+ICV-151
+20 to 150
+ICV-201
+40 to 200
+ICV-301
+150 to 300
+IBV-101
+15 to 40
+IBV-151
+20 to 150
+IBV-201
+40 to 200
+IBV-301
+150 to 300
+ACCU SYNC APPLICATIONS
+Adjustable 20-100 PSI
+For full customization, the adjustable Accu Sync can
+regulate pressure from 20 to 100 PSI
+These robust solutions provide a simple way to achieve unparalleled
+pressure regulation for optimal performance.
+ ACCU SYNC PRESSURE REGULATOR - SPECIFICATION BUILDER: ORDER 1 + 2
+
+Model
+
+Inlet/Outlet
+ACCU SYNC
+ADJ = Adjustable Pressure Regulator (20-100 PSI)
+Example:
+ICV-201G-B-AS-ADJ = 2" ICV globe valve with flow control, user-installed adjustable Accu Sync
+Pressure Regulator
+
+--- PAGE 66 ---
+VALVES
+
+ hunterirrigation.com/golf
+KEY BENEFITS
+* Optional Filter Sentry Mechanism scours the filter screen in dirty water
+conditions
+* External/internal manual bleed allows for quick and easy
+activation at the valve
+* Glass-filled nylon construction provides high pressure rating and reliability
+* Double-beaded diaphragm seal design ensures leak-free performance
+* Fabric-reinforced EPDM diaphragm and seat ensure greater
+performance in all water conditions
+* Captive bonnet screws eliminate the possibility of lost parts
+during disassembly
+* Triple-tool bonnet screws are compatible with standard or
+Phillips screwdrivers as well as a nut driver
+* Encapsulated solenoid with captive plunger used on every
+Hunter valve provides hassle-free service
+* Flow control maximizes efficiency and prolongs the life of the system
+USER-INSTALLED OPTIONS
+* Accu Sync Pressure Regulator at the valve
+* DC-Latching Solenoid for battery-operated controllers: P/N 458200
+* Filter Sentry Mechanism easily added to an installed valve*
+* Solenoid conduit cover: P/N 464322
+FACTORY-INSTALLED OPTIONS
+* LS: Valve without solenoid
+* DC: DC-Latching Solenoid for battery-operated controllers
+* FS: Filter Sentry
+* FS-R: Reclaimed option with Filter Sentry Mechanism, purple control knob,
+and purple, chlorine-resistant diaphragm (available only on 11/2" and 2" models)
+OPERATING SPECIFICATIONS
+* Flow:
+ - ICV-101G: 0.1 to 40 GPM
+ - ICV-151G: 0.1 to 150 GPM
+ - ICV-201G: 0.1 to 200 GPM
+ - ICV-301: 0.1 to 300 GPM
+* Recommended pressure range: 20 to 220 PSI
+* Temperature rating: 150°F
+* Warranty period: 5 years
+SOLENOID SPECIFICATIONS
+* 24 VAC solenoid
+ - 350 mA inrush, 190 mA holding, 60 Hz
+ - 370 mA inrush, 210 mA holding, 50 Hz
+* Accu Sync product information on page 65
+ICV
+ICV-101G VALVE
+Inlet diameter: 1"
+Height: 5½"
+Length: 4¾"
+Width: 4"
+ICV-151G VALVE
+Inlet diameter: 1½"
+Height: 7⅛"
+Length: 6⅞"
+Width: 5½"
+ICV-201G VALVE
+Inlet diameter: 2"
+Height: 7⅛"
+Length: 6⅞"
+Width: 5½"
+ICV-301 VALVE
+Inlet diameter: 3"
+Height: 10¾"
+Length: 9"
+Width: 7⅜"
+ICV-R VALVE
+Inlet diameter: 1", 1½", 2",
+and 3"
+Height: 7⅛"
+Length: 6⅞"
+Width: 5½"
+This dependable valve works seamlessly with highly demanding systems.
+Optional: Filter Sentry
+Mechanism
+Double-Beaded
+Diaphragm
+
+--- PAGE 67 ---
+
+VALVES
+GOLF IRRIGATION | Built on Innovation®
+ICV PRESSURE LOSS
+(AT OPTIMAL FLOWS) IN PSI
+Flow
+(GPM)
+1"
+Globe
+1½"
+Globe
+2"
+Globe
+3"
+Globe
+3"
+Angle
+0.1
+2.0
+0.5
+2.0
+
+2.0
+
+2.5
+
+3.0
+
+3.0
+
+3.0
+1.5
+
+9.0
+1.5
+
+20.0
+1.7
+0.8
+
+2.2
+1.2
+
+3.0
+1.7
+
+3.9
+2.4
+
+5.5
+3.2
+
+7.0
+4.2
+
+10.9
+6.5
+
+12.7
+7.9
+
+16.2
+9.8
+2.5
+1.9
+
+13.3
+3.0
+2.4
+
+17.7
+4.1
+3.3
+
+5.3
+4.3
+
+6.7
+5.5
+
+8.3
+6.9
+
+10.1
+8.5
+Double-Beaded
+Chlorine-Resistant
+Diaphragm
+Filter Sentry Mechanism
+Captive Bonnet Bolts
+ICV 1", 11/2", 2", & 3" - SPECIFICATION BUILDER: ORDER 1 + 2 + 3 + 4
+
+Model
+
+ Standard Features
+
+ Feature Options
+
+ User-Installed Options
+ICV-101G = 1"
+ICV-151G = 1½"
+ICV-201G = 2"
+ICV-301 = 3"
+Globe valve with flow control
+(blank) = No option
+AS-ADJ = Adjustable Accu Sync
+Pressure Regulator
+458200 = DC-Latching Solenoid for
+battery-operated controllers
+561205 = Reclaimed flow
+control handle (1", 11/2", 2" only)
+LIT-700 = Reclaimed ID tag
+FS = Filter Sentry Mechanism
+FS-R = Purple reclaimed Filter Sentry
+Mechanism and ID tag (except 3" model)
+Globe / Angle valve with flow control
+DC = DC-Latching Solenoid for
+battery-operated controllers
+LS = Less solenoid
+Example:
+ICV-201G-AS-ADJ = 2" ICV globe valve with flow control, user-installed adjustable Accu Sync Pressure Regulator
+
+--- PAGE 68 ---
+
+LANDSCAPE & ARCHITECTURAL LIGHTING
+EXPERIENCE ALL
+WALKS OF LIGHT
+fxl.com
+Landscape and Architectural Lighting
+FX Luminaire provides industry-leading landscape and
+architectural lighting solutions with a focus on the advancement
+of LED technology and digital lighting control with zoning,
+dimming, and color adjustment capabilities.
+Designer and Standard Series Fixtures
+FX Luminaire offers a range of classic and contemporary lighting
+fixtures in all configurations, from up lights and down lights to
+path lights and specialty lights.
+Our fixture classification system is based on material
+construction, performance, and price. This helps you quickly
+identify common fixtures and create lighting packages for any
+project or budget. All FX Luminaire fixtures are made with topquality materials and backed by the industry's best support team.
+Luxor® Controller
+With Luxor Technology, you can liven up your clubhouse, course
+pathways, or property entryways to complement any occasion
+with 30,000 vibrant color possibilities. Design one-of-a-kind
+holiday displays, create the perfect ambience for weddings, add
+company colors for corporate events, or simply adjust hues to
+match vegetation as the seasons change.
+With a Luxor Controller, you can also create up to 250 adjustable
+lighting groups that can be turned on independently and dimmed
+from 1% to 100%.
+The Luxor App provides ultimate
+flexibility and convenience when
+designing with Luxor Lighting Control
+Systems. With the app, you can
+adjust fixture intensities and colors,
+program up to 40 calendar-based
+themes, and fine-tune your color
+palette - from anywhere!
+
+--- PAGE 69 ---
+LANDSCAPE & ARCHITECTURAL LIGHTING
+
+--- PAGE 70 ---
+TECHNICAL
+INFORMATION
+
+--- PAGE 71 ---
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+HUNTER UNIVERSITY
+hunter.info/hunteruniversity
+Advance your career with our comprehensive online training programs for golf irrigation
+professionals. From fundamental product knowledge to advanced control systems to design
+techniques, there's a golf professional development program waiting for you!
+Golf Irrigation Training Programs
+Learn how to expertly manage your watering needs to ensure a healthy, playable course.
+Check out the golf-specific training programs below!
+Authorized Golf Specialist Program
+* Golf Irrigation Overview
+* TTS-800 Product Guide
+* Pilot FC and Pilot DH
+* Golf Rotor and Hardware Maintenance
+* Pilot Control Network
+Golf Expert Workshop
+On-site training led by HSN,
+covering product knowledge, system
+troubleshooting, and the history of Hunter
+Golf solutions. Contact your local Hunter
+Sales Representative to learn more.
+Find Your Path to Success
+1. Access free golf product training online
+at training.hunterirrigation.com.
+2. Choose the golf programs or courses
+that best fit your needs.
+On-Site Expert Workshops
+These interactive, instructor-led courses
+feature a hands-on approach to learning about
+irrigation. Classes are held at the Hunter
+Industries campus in San Marcos, California,
+and select locations worldwide. To learn more,
+contact training@hunter.global.
+
+--- PAGE 72 ---
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+PRECIPITATION RATES
+In this section, the “Sprinkler Spacing Method-Any Arc and Any Spacing” equation is used to calculate precipitation rates. The first
+set of equations with the ■ shows the precipitation rate for the sprinklers when they are laid out in a square pattern. The next set with
+the ▲ shows the precipitation rate for the sprinklers laid out in an equilateral triangular spacing pattern. This is the “Sprinkler Spacing
+Method-Equilateral Triangular Spacing” equation.
+WHAT IS “PRECIPITATION RATE”?
+If someone said they were caught in a rainstorm that dropped one inch of water in an hour, you would have some idea of how “hard” or
+“heavily” the rain came down. A rainstorm that covers an area with one inch of water in one hour has a “precipitation rate” of one inch
+per hour (1 in/hr or 25 mm/hr). Similarly, the precipitation rate is the “speed” at which a sprinkler or an irrigation system applies water.
+MATCHED PRECIPITATION RATES
+A zone or system in which all the heads have similar precipitation rates is said to have “matched precipitation rates.” Systems that have
+matched precipitation rates reduce wet and dry spots and minimize run times, which reduces water consumption and lowers costs.
+Knowing that sprinkler spacing, flow rates, and arcs of coverage affect precipitation rates, a general guideline is: as the spray arc doubles,
+so should the flow.
+
+90° Arc = 1 GPM
+
+(0.23 m3/hr; 3.8 l/min)
+
+180° Arc = 2 GPM
+
+(0.45 m3/hr; 7.6 l/min)
+
+360° Arc = 4 GPM
+
+(0.91 m3/hr; 15.1 l/min)
+The flow rate of half-circle heads must be two times the flow rate of the quarter-circle heads, and the full-circle heads must have
+two times the flow rate of the half-circle heads. In the illustration, the same amount of water is applied to each quarter circle area
+and precipitation is therefore matched.
+CALCULATING PRECIPITATION RATES
+Depending upon the construction of the irrigation system, the precipitation rate may be calculated by either a Sprinkler Spacing or a Total Area method.
+Sprinkler Spacing Method ()
+The precipitation rate should be calculated for each
+individual zone. If all sprinkler heads on the zone have
+the same spacing, flow rate, and arc of coverage, use
+one of the following formulas:
+Any Arc and Any Spacing ():
+P.R. (in/hr) =
+Flow Rate (GPM) for any Arc x 34,650
+Degrees of Arc x Head Spacing (ft) x Row Spacing (ft)
+P.R. (mm/hr) =
+Flow Rate (m3/hr) for any Arc x 360,000
+Degrees of Arc x Head Spacing (m) x Row Spacing (m)
+P.R. (mm/hr) =
+Flow Rate (l/min) for any Arc x 21,600
+Degrees of Arc x Head Spacing (m) x Row Spacing (m)
+Sprinkler Spacing Method ()
+The precipitation rate should be calculated for each
+individual zone. If all sprinkler heads on the zone have
+the same spacing, flow rate, and arc of coverage, use
+one of the following formulas:
+Equilateral Triangular Spacing ():
+P.R. (in/hr) =
+Flow Rate (GPM) for any Arc x 34,650
+Degrees of Arc x (Head Spacing)2 x 0.866
+P.R. (mm/hr) =
+Flow Rate (m3/hr) for any Arc x 360,000
+Degrees of Arc x (Head Spacing)2 x 0.866
+P.R. (mm/hr) =
+Flow Rate (l/min) for any Arc x 21,600
+Degrees of Arc x (Head Spacing)2 x 0.866
+Total Area Method
+The precipitation rate for a “system” is the average
+precipitation rate of all sprinklers in an area, regardless of the
+spacing, flow rate, or arc for each head. The Total Area Method
+calculates all the flows of all of the heads in any given area.
+P.R. (in/hr) =
+Flow (GPM) x 96.25
+Total Area (ft)
+P.R. (mm/hr) =
+Flow (m3/hr) x 1,000
+Total Area (m2)
+P.R. (mm/hr) =
+Flow (l/min) x 60
+Total Area (m2)
+
+--- PAGE 73 ---
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+CONVERSION FACTORS
+CONVERSION FACTORS
+To Convert
+From
+To
+Multiply By
+Area
+acres
+foot2
+43560
+acres
+meter2
+4046.8
+meter2
+foot2
+10.764
+foot2
+inch2
+
+inch2
+centimeter2
+6.452
+hectares
+meter2
+10000
+hectares
+acres
+2.471
+Power
+kilowatts
+horsepower
+1.341
+Flow
+foot3/minute
+meter3/second
+0.0004719
+foot3/second
+meter3/second
+0.02832
+yards3/minute
+meter3/second
+0.01274
+gallon/minute
+meter3/hour
+0.22716
+gallon/minute
+liter/minute
+3.7854
+gallon/minute
+liter/second
+0.06309
+meter3/hour
+liter/minute
+16.645
+meter3/hour
+liter/second
+0.2774
+liter/minute
+liter/second
+
+Length
+foot
+inch inch
+centimeter
+2.54
+foot
+meter
+0.30481
+kilometer
+miles
+0.6214
+miles
+foot miles
+meter
+1609.34
+millimeter
+inch
+0.03937
+Pressure
+PSI
+kilopascals
+6.89476
+PSI
+bar
+0.068948
+bar
+kilopascals
+
+PSI
+feet of head
+2.31
+Velocity
+feet/second
+meter/second
+0.3048
+Volume
+feet3
+gallon
+7.481
+feet3
+liter
+28.32
+meter3
+feet3
+35.31
+meter3
+yard3
+1.3087
+yard3
+feet3
+
+yard3
+gallon acres/feet
+foot3
+43,560
+gallon
+meter3
+0.003785
+gallon
+liter
+3.785
+imperial gallon
+gallon
+1.833
+
+--- PAGE 74 ---
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+SYMBOLS AND CONSTANTS
+Symbol
+Description
+U.S. Units
+SI Units
+a
+Cross-sectional area of pipe flow
+inches² (in²)
+millimeters² (mm²)
+C
+Hazen-Williams roughness coefficient
+none/unitless
+none/unitless
+Cu
+Christiansen's coefficient of uniformity
+percent (%)
+percent (%)
+d
+inside diameter of pipe
+inches (in)
+millimeters (mm)
+Dt
+diameter of throw of a sprinkler
+feet (ft)
+meters (m)
+DU
+distribution uniformity
+percent (%)
+percent (%)
+ETc
+crop evapotranspiration
+inches per day (in/day)
+millimeters per day (mm/day)
+ET0
+reference evapotranspiration
+inches per day (in/day)
+millimeters per day (mm/day)
+I
+electrical current
+amps (A), milliamps (mA)
+amps (A), milliamps (mA)
+ID
+inside diameter of pipe
+inches (in)
+millimeters (mm)
+hf
+energy loss due to friction
+feet of water (ft)
+meters of water (m)
+Kc
+crop coefficient
+percent (%)
+percent (%)
+ks
+constant used to compute sprinkler spacing
+none/unitless
+none/unitless
+L
+spacing between lateral lines
+feet (ft)
+meters (m)
+MAD
+management allowable depletion
+none/unitless
+none/unitless
+MC
+maximum coverage for single-row sprinklers
+feet (ft)
+meters (m)
+OD
+outside diameter of pipe
+inches (in)
+millimeters (mm)
+P
+pressure of water
+pounds per inch² (PSI)
+kilopascals (kPa), bars (bar)
+PR
+precipitation rate
+inches per day (in/day)
+millimeters per day (mm/day)
+Po
+sprinkler operating pressure
+pounds per inch² (PSI)
+kilopascals (kPa), bars (bar)
+Q
+flow of water in a pipe
+gallons per minute (GPM)
+cubic meters per hour(m³/hr), liters per second (lps)
+R
+electrical resistance
+ohms (Ω)
+ohms (Ω)
+Rt
+radius of throw
+feet (ft)
+meters (m)
+S
+sprinkler spacing
+feet (ft)
+meters (m)
+SC
+scheduling coefficient
+none/unitless
+none/unitless
+v
+average velocity of water in pipe
+feet per second (fps)
+meters per second (mps)
+Vo
+electrical voltage
+volts (V)
+volts (V)
+SYMBOLS AND CONSTANTS
+
+--- PAGE 75 ---
+PILOT FIELD CONTROLLER ELECTRICAL SPECIFICATIONS
+ELECTRICAL SPECIFICATIONS
+Supply Voltage
+Auto-sensing frequency (50 or 60 Hz)
+120 VAC nominal (100 to 132 VAC)1
+230 VAC nominal (200 to 260 VAC)1
+Station output: 24 VAC at 1.0 A
+CAPACITIES
+Station Capacity
+80 stations
+Up to 20 stations can run simultaneously2
+Station Solenoid Load
+Up to four 24 VAC Hunter golf solenoids per station output3
+1 To prevent damage, all Pilot Field Controllers are shipped with the supply voltage set to 230 VAC.
+2 One 24 VAC Hunter golf solenoid per station.
+3 Multiple solenoids connected to a single station will reduce total simultaneous stations.
+PILOT INTEGRATED HUB ELECTRICAL SPECIFICATIONS
+ELECTRICAL SPECIFICATIONS
+Supply Voltage
+Auto-sensing frequency (50 or 60 Hz)
+Auto-switching 120/230 VAC nominal (100 to 277 VAC at 50/60 Hz)1
+CAPACITIES
+Integrated Two-Way Module Capacity
+Up to 999 integrated Pilot Two-Way Modules per Pilot Integrated Hub
+Up to 120 24 VAC Hunter solenoids on at one time2
+Integrated Two-Way Module Solenoid Load
+Up to two 24 VAC Hunter solenoids per integrated Pilot Two-Way Module3
+1 The Pilot Integrated Hub automatically detects supply voltage and frequency.
+2 Depends on configuration. Pilot Integrated Hub will run up to 30 stations simultaneously per output module.
+3 Two solenoids per Pilot Two-Way Module does not reduce the maximum simultaneous station count.
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+--- PAGE 76 ---
+PILOT-FC CURRENT REQUIREMENT CHARTS
+
+PILOT-FC FIELD CONTROLLER CURRENT REQUIREMENTS: 230 VAC/50 Hz Supply Voltage,
+10 to 40 Stations, Various Loads and Communication Options
+PILOT-FC FIELD CONTROLLER CURRENT REQUIREMENTS: 230 VAC/50 Hz Supply Voltage,
+50 to 80 Stations, Various Loads and Communication Options
+Simultaneously Active Stations
+Simultaneously Active Stations
+Current Requirement (mA)
+Current Requirement (mA)
+Active Stations
+Active Stations
+2 Wired + 1 UHF
+2 Wired + 1 UHF
+2 Wired
+2 Wired
+1 Wired
+1 Wired
+1 UHF
+1 UHF
+1 Wired
+1 Wired
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+
+--- PAGE 77 ---
+WIRE USE CHARTS
+Active Stations Based on Wire Length and Number of Two-Way Modules Using ID1 (14 AWG) Wire
+ACTIVE STATIONS
+
+12,000
+11,000
+10,000
+9,000
+8,000
+7,000
+6,000
+5,000
+
+2,000
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+--- PAGE 78 ---
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+WIRE SIZING
+REQUIRED INFORMATION
+1) Actual one-way length of wire between the controllers and the power source or the controllers and valves
+2) Allowable voltage loss along the wire circuit
+3) Accumulative current flowing through the wire section being sized in amperes
+RESISTANCE IS CALCULATED USING THIS FORMULA:
+R = 1000 x AVL
+2L x I
+R = Maximum allowable resistance of wire in ohms per 1,000'
+AVL = Allowable voltage loss
+L = Wire length (one way)
+I = Inrush current
+AVL for controller power wire sizing is calculated by subtracting the minimum operating voltage required by the controller from the
+minimum available voltage at the power source.
+AVL for valve wire sizing is calculated by subtracting minimum solenoid operating voltage from controller output voltage.
+This number will vary depending on the manufacturer and in some cases with line pressure.
+VALVE WIRE SIZING EXAMPLE
+Given: The distance from the controller to the valve is 1,800'. The controller output is 24 VAC. The valve has a minimum operating voltage of
+20 VAC and an inrush current of 370 mA (0.37 A).
+R =
+1,000 x 4
+2 (1,800) x 0.37
+R = 4,000
+1,332
+R = 3.00 ohms/1,000 ft
+So, wire resistance cannot exceed 3.00 ohms per 1,000'. Now go to Table #1 and select the proper wire size. Since 18 gauge wire has more
+resistance than 3.00 ohms per 1,000', choose 14 gauge wire.
+Table 2 is a quick reference and is set up to provide maximum wire runs given the information at the bottom of the table.
+TABLE 1 - RESISTANCE OF COPPER WIRE
+Wire Size
+(AWG)
+Resistance at 68° F
+(ohms per 1,000')
+
+6.39
+
+4.02
+
+2.52
+
+1.59
+
+0.63
+
+0.4
+
+0.25
+TABLE 2 - VALVE WIRE SIZING
+Ground Wire
+Control Wire
+
+10530
+
+10530
+13330
+Notes:
+Maximum one-way distance in feet between controller and valve heavy-duty solenoid: 24 VAC, 350 mA
+inrush current, 190 mA holding current, 60 Hz; 370 mA inrush current, 210 mA holding current, 50 Hz.
+Table 2 is for a single active solenoid. With two solenoids operating simultaneously on the same wires,
+the wire distances should be halved.
+
+--- PAGE 79 ---
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+STANDARD ANNEALED COPPER AT 68°F
+American
+Wire Gauge
+Common Metric
+Equivalent (mm2)
+Diameter
+(mils)
+Diameter
+(mm)
+Cross-Sectional Area
+(mm2)
+Resistance
+(Per mft ohms)
+Resistance
+(per km ohms)
+
+289.3
+7.348
+42.4
+0.924
+0.407
+
+257.6
+6.543
+33.6
+0.156
+0.513
+
+229.4
+5.827
+26.7
+0.197
+0.647
+
+204.3
+5.189
+21.1
+0.249
+0.815
+
+181.9
+4.62
+16.8
+0.313
+1.028
+
+4.115
+13.3
+0.395
+1.297
+
+144.3
+3.665
+10.6
+0.498
+1.634
+
+128.5
+3.264
+8.36
+0.628
+2.061
+
+114.4
+2.906
+6.63
+0.793
+2.6
+
+101.9
+2.588
+5.26
+0.999
+3.277
+
+90.7
+2.3
+4.17
+1.26
+4.14
+
+80.8
+2.05
+3.31
+1.59
+5.21
+
+1.83
+2.63
+
+6.56
+
+2.5
+64.1
+1.63
+1.63
+2.52
+8.28
+
+57.1
+1.45
+1.65
+3.18
+10.4
+
+1.5
+50.8
+1.29
+1.31
+4.02
+13.2
+
+45.3
+1.15
+1.04
+5.05
+16.6
+
+0.75
+40.3
+1.02
+0.82
+6.39
+
+35.9
+0.912
+0.65
+8.05
+26.4
+
+0.5
+
+0.813
+0.52
+10.1
+33.2
+ADDITIONAL DATA
+ESTIMATING PIPE SIZE
+Nominal Pipe
+Size
+Approximate String Length in Inches
+Copper Pipe
+Galvanized (Sch. 40 Steel)
+PVC Pipe
+½"
+2"
+2⅝"
+2⅝"
+⅝"
+2⅜"
+¾"
+2¾"
+35⁄16"
+35⁄16"
+1"
+3½"
+4⅛"
+4⅛"
+1¼"
+45⁄16"
+53⁄16"
+53⁄16"
+1½"
+5⅛"
+6"
+6"
+2"
+6¾"
+77⁄16"
+77⁄16"
+Notes:
+To determine the nominal size of a pipe, wrap a string around the pipe and compare its length to the
+chart above.
+CLIMATE ETP TABLE
+Climate*
+Inches Daily
+Cool Humid
+0.10 to 0.15
+Cool Dry
+0.15 to 0.20
+Warm Humid
+0.15 to 0.20
+Warm Dry
+0.20 to 0.25
+Hot Humid
+0.20 to 0.30
+Hot Dry
+0.30 to 0.45
+Notes:
+* Cool = under 70˚F as an average
+midsummer high
+* Warm = between 70˚ and 90˚F as
+midsummer highs
+* Hot = over 90˚F
+* Humid = over 50% as average
+midsummer relative humidity
+(dry=under 50%)
+
+--- PAGE 80 ---
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+FRICTION LOSS CHARTS: SCHEDULE 40 PVC
+ ASTM 1785 C=150 * PSI loss per 100 ft of pipe
+Nominal Size
+Pipe ID
+1"
+1.029
+11/4"
+1.360
+11/2"
+1.590
+2"
+2.047
+21/2"
+2.445
+3"
+3.042
+4"
+3.998
+6"
+6.031
+Flow
+(GPM)
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+
+0.39
+0.04
+0.22
+0.01
+0.16
+0.00
+0.10
+0.00
+0.07
+0.00
+0.04
+0.00
+0.03
+0.00
+0.01
+0.00
+
+0.77
+0.13
+0.44
+0.03
+0.32
+0.02
+0.19
+0.00
+0.14
+0.00
+0.09
+0.00
+0.05
+0.00
+0.02
+0.00
+
+1.16
+0.28
+0.66
+0.07
+0.48
+0.03
+0.29
+0.01
+0.20
+0.00
+0.13
+0.00
+0.08
+0.00
+0.03
+0.00
+
+1.54
+0.48
+0.88
+0.12
+0.65
+0.06
+0.39
+0.02
+0.27
+0.01
+0.18
+0.00
+0.10
+0.00
+0.04
+0.00
+
+1.93
+0.73
+1.10
+0.19
+0.81
+0.09
+0.49
+0.03
+0.34
+0.01
+0.22
+0.00
+0.13
+0.00
+0.06
+0.00
+
+2.31
+1.02
+1.32
+0.26
+0.97
+0.12
+0.58
+0.04
+0.41
+0.02
+0.26
+0.01
+0.15
+0.00
+0.07
+0.00
+
+2.70
+1.36
+1.54
+0.35
+1.13
+0.16
+0.68
+0.05
+0.48
+0.02
+0.31
+0.01
+0.18
+0.00
+0.08
+0.00
+
+3.08
+1.74
+1.77
+0.45
+1.29
+0.21
+0.78
+0.06
+0.55
+0.03
+0.35
+0.01
+0.20
+0.00
+0.09
+0.00
+
+3.47
+2.17
+1.99
+0.56
+1.45
+0.26
+0.88
+0.08
+0.61
+0.03
+0.40
+0.01
+0.23
+0.00
+0.10
+0.00
+
+3.85
+2.63
+2.21
+0.68
+1.61
+0.32
+0.97
+0.09
+0.68
+0.04
+0.44
+0.01
+0.26
+0.00
+0.11
+0.00
+
+4.63
+3.69
+2.65
+0.95
+1.94
+0.44
+1.17
+0.13
+0.82
+0.05
+0.53
+0.02
+0.31
+0.01
+0.13
+0.00
+
+5.40
+4.91
+3.09
+1.26
+2.26
+0.59
+1.36
+0.17
+0.96
+0.07
+0.62
+0.03
+0.36
+0.01
+0.16
+0.00
+
+6.17
+6.29
+3.53
+1.62
+2.58
+0.76
+1.56
+0.22
+1.09
+0.09
+0.71
+0.03
+0.41
+0.01
+0.18
+0.00
+
+6.94
+7.82
+3.97
+2.01
+2.91
+0.94
+1.75
+0.28
+1.23
+0.12
+0.79
+0.04
+0.46
+0.01
+0.20
+0.00
+
+7.71
+9.51
+4.41
+2.45
+3.23
+1.14
+1.95
+0.33
+1.37
+0.14
+0.88
+0.05
+0.51
+0.01
+0.22
+0.00
+
+8.48
+11.35
+4.85
+2.92
+3.55
+1.37
+2.14
+0.40
+1.50
+0.17
+0.97
+0.06
+0.56
+0.02
+0.25
+0.00
+
+9.25
+13.33
+5.30
+3.43
+3.87
+1.60
+2.34
+0.47
+1.64
+0.20
+1.06
+0.07
+0.61
+0.02
+0.27
+0.00
+
+5.74
+3.98
+4.20
+1.86
+2.53
+0.54
+1.78
+0.23
+1.15
+0.08
+0.66
+0.02
+0.29
+0.00
+
+6.18
+4.57
+4.52
+2.13
+2.73
+0.62
+1.91
+0.26
+1.23
+0.09
+0.71
+0.02
+0.31
+0.00
+
+6.62
+5.19
+4.84
+2.43
+2.92
+0.71
+2.05
+0.30
+1.32
+0.10
+0.77
+0.03
+0.34
+0.00
+
+7.72
+6.90
+5.65
+3.23
+3.41
+0.94
+2.39
+0.40
+1.54
+0.14
+0.89
+0.04
+0.39
+0.00
+
+8.83
+8.84
+6.46
+4.13
+3.90
+1.21
+2.73
+0.51
+1.76
+0.18
+1.02
+0.05
+0.45
+0.01
+
+9.93
+10.99
+7.26
+5.14
+4.38
+1.50
+3.07
+0.63
+1.98
+0.22
+1.15
+0.06
+0.50
+0.01
+
+8.07
+6.25
+4.87
+1.83
+3.41
+0.77
+2.21
+0.27
+1.28
+0.07
+0.56
+0.01
+
+8.88
+7.45
+5.36
+2.18
+3.75
+0.92
+2.43
+0.32
+1.40
+0.08
+0.62
+0.01
+
+9.69
+8.76
+5.84
+2.56
+4.10
+1.08
+2.65
+0.37
+1.53
+0.10
+0.67
+0.01
+
+6.33
+2.97
+4.44
+1.25
+2.87
+0.43
+1.66
+0.11
+0.73
+0.02
+
+6.82
+3.41
+4.78
+1.44
+3.09
+0.50
+1.79
+0.13
+0.79
+0.02
+
+7.31
+3.87
+5.12
+1.63
+3.31
+0.56
+1.92
+0.15
+0.84
+0.02
+
+7.79
+4.36
+5.46
+1.84
+3.53
+0.63
+2.04
+0.17
+0.90
+0.02
+
+8.28
+4.88
+5.80
+2.06
+3.75
+0.71
+2.17
+0.19
+0.95
+0.03
+
+8.77
+5.43
+6.14
+2.29
+3.97
+0.79
+2.30
+0.21
+1.01
+0.03
+
+9.25
+6.00
+6.49
+2.53
+4.19
+0.87
+2.43
+0.23
+1.07
+0.03
+
+9.74
+6.60
+6.83
+2.78
+4.41
+0.96
+2.55
+0.25
+1.12
+0.03
+
+7.51
+3.32
+4.85
+1.15
+2.81
+0.30
+1.23
+0.04
+
+8.19
+3.90
+5.29
+1.35
+3.06
+0.36
+1.35
+0.05
+
+8.88
+4.52
+5.73
+1.56
+3.32
+0.41
+1.46
+0.06
+
+9.56
+5.18
+6.17
+1.79
+3.57
+0.47
+1.57
+0.06
+
+6.62
+2.03
+3.83
+0.54
+1.68
+0.07
+
+7.06
+2.29
+4.09
+0.61
+1.80
+0.08
+
+7.50
+2.56
+4.34
+0.68
+1.91
+0.09
+
+7.94
+2.85
+4.60
+0.75
+2.02
+0.10
+
+8.38
+3.15
+4.85
+0.83
+2.13
+0.11
+
+8.82
+3.47
+5.11
+0.92
+2.24
+0.12
+
+9.92
+4.31
+5.75
+1.14
+2.52
+0.15
+
+6.38
+1.39
+2.81
+0.19
+
+7.02
+1.65
+3.09
+0.22
+
+7.66
+1.94
+3.37
+0.26
+
+8.30
+2.25
+3.65
+0.30
+
+8.94
+2.58
+3.93
+0.35
+
+9.58
+2.94
+4.21
+0.40
+
+4.49
+0.45
+
+4.77
+0.50
+
+5.05
+0.56
+
+5.33
+0.62
+
+5.61
+0.68
+
+5.89
+0.74
+
+6.17
+0.81
+
+6.45
+0.88
+
+6.73
+0.95
+
+7.01
+1.02
+
+7.29
+1.10
+
+7.57
+1.18
+
+7.85
+1.26
+
+8.14
+1.35
+
+--- PAGE 81 ---
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+FRICTION LOSS CHARTS: CLASS 160 SDR 26 PVC IPS 160 PSI
+ ANSI/ASAE S376.2 ASTM D2241 C=150 * PSI loss per 100 ft of pipe
+Nominal Size
+Pipe OD
+Min. Wall
+Pipe ID
+11/2"
+1.950
+0.073
+1.734
+2"
+2.375
+0.091
+2.173
+21/2"
+2.875
+0.110
+2.635
+3"
+3.500
+0.135
+3.210
+4"
+4.500
+0.173
+4.134
+6"
+6.625
+0.255
+6.084
+8"
+8.625
+0.332
+7.921
+10"
+10.750
+0.413
+11.710
+12"
+12.750
+0.490
+11.710
+Flow
+(GPM)
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+
+0.14
+0.00
+
+0.27
+0.01
+0.17
+0.00
+
+0.41
+0.02
+0.26
+0.01
+
+0.54
+0.04
+0.35
+0.01
+0.24
+0.00
+
+0.68
+0.06
+0.43
+0.02
+0.29
+0.01
+
+1.36
+0.21
+0.86
+0.07
+0.59
+0.03
+0.40
+0.01
+
+2.04
+0.44
+1.30
+0.15
+0.88
+0.06
+0.59
+0.02
+0.36
+0.01
+
+2.71
+0.75
+1.73
+0.25
+1.18
+0.10
+0.79
+0.04
+0.48
+0.01
+
+3.39
+1.13
+2.16
+0.38
+1.47
+0.15
+0.99
+0.06
+0.60
+0.02
+
+4.07
+1.59
+2.59
+0.53
+1.76
+0.21
+1.19
+0.08
+0.72
+0.02
+
+4.75
+2.12
+3.03
+0.71
+2.06
+0.28
+1.39
+0.11
+0.84
+0.03
+0.39
+0.00
+0.23
+0.00
+0.15
+0.00
+0.10
+0.00
+
+5.43
+2.71
+3.46
+0.90
+2.35
+0.35
+1.58
+0.14
+0.96
+0.04
+0.44
+0.01
+0.26
+0.00
+0.17
+0.00
+0.12
+0.00
+
+6.11
+3.37
+3.89
+1.12
+2.65
+0.44
+1.78
+0.17
+1.07
+0.05
+0.50
+0.01
+0.29
+0.00
+0.19
+0.00
+0.13
+0.00
+
+6.79
+4.10
+4.32
+1.37
+2.94
+0.53
+1.98
+0.20
+1.19
+0.06
+0.55
+0.01
+0.33
+0.00
+0.21
+0.00
+0.15
+0.00
+
+7.47
+4.89
+4.75
+1.63
+3.23
+0.64
+2.18
+0.24
+1.31
+0.07
+0.61
+0.01
+0.36
+0.00
+0.23
+0.00
+0.16
+0.00
+
+8.14
+5.74
+5.19
+1.92
+3.53
+0.75
+2.38
+0.29
+1.43
+0.08
+0.66
+0.01
+0.39
+0.00
+0.25
+0.00
+0.18
+0.00
+
+9.50
+7.64
+6.05
+2.55
+4.11
+1.00
+2.77
+0.38
+1.67
+0.11
+0.77
+0.02
+0.46
+0.00
+0.29
+0.00
+0.21
+0.00
+
+6.91
+3.26
+4.70
+1.28
+3.17
+0.49
+1.91
+0.14
+0.88
+0.02
+0.52
+0.01
+0.33
+0.00
+0.24
+0.00
+
+7.78
+4.06
+5.29
+1.59
+3.56
+0.61
+2.15
+0.18
+0.99
+0.03
+0.59
+0.01
+0.38
+0.00
+0.27
+0.00
+
+8.64
+4.93
+5.88
+1.93
+3.96
+0.74
+2.39
+0.22
+1.10
+0.03
+0.65
+0.01
+0.42
+0.00
+0.30
+0.00
+
+8.82
+4.09
+5.94
+1.57
+3.58
+0.46
+1.65
+0.07
+0.98
+0.02
+0.63
+0.01
+0.45
+0.00
+
+7.92
+2.67
+4.78
+0.78
+2.21
+0.12
+1.30
+0.03
+0.84
+0.01
+0.60
+0.00
+
+9.90
+4.03
+5.97
+1.18
+2.76
+0.18
+1.63
+0.05
+1.05
+0.02
+0.74
+0.01
+
+7.16
+1.65
+3.31
+0.25
+1.95
+0.07
+1.26
+0.02
+0.89
+0.01
+
+8.36
+2.20
+3.86
+0.34
+2.28
+0.09
+1.47
+0.03
+1.04
+0.01
+
+9.55
+2.81
+4.41
+0.43
+2.60
+0.12
+1.67
+0.04
+1.19
+0.02
+
+4.96
+0.53
+2.93
+0.15
+1.88
+0.05
+1.34
+0.02
+
+5.51
+0.65
+3.25
+0.18
+2.09
+0.06
+1.49
+0.03
+
+6.06
+0.77
+3.58
+0.21
+2.30
+0.07
+1.64
+0.03
+
+6.62
+0.91
+3.90
+0.25
+2.51
+0.09
+1.79
+0.04
+
+7.72
+1.21
+4.55
+0.34
+2.93
+0.11
+2.08
+0.05
+
+8.82
+1.55
+5.20
+0.43
+3.35
+0.15
+2.38
+0.06
+
+9.92
+1.93
+5.85
+0.53
+3.77
+0.18
+2.68
+0.08
+1,000
+6.50
+0.65
+4.19
+0.22
+2.98
+0.10
+1,100
+7.16
+0.77
+4.60
+0.26
+3.27
+0.12
+1,200
+7.81
+0.91
+5.02
+0.31
+3.57
+0.14
+1,300
+8.46
+1.05
+5.44
+0.36
+3.87
+0.16
+1,400
+9.11
+1.21
+5.86
+0.41
+4.17
+0.18
+1,500
+9.76
+1.37
+6.28
+0.47
+4.46
+0.21
+1,600
+6.70
+0.53
+4.76
+0.23
+1,700
+7.12
+0.59
+5.06
+0.26
+1,800
+7.54
+0.66
+5.36
+0.29
+1,900
+7.95
+0.73
+5.66
+0.32
+2,000
+8.37
+0.80
+5.95
+0.35
+2,100
+8.79
+0.88
+6.25
+0.38
+2,200
+9.21
+0.96
+6.55
+0.42
+2,300
+9.63
+1.04
+6.85
+0.45
+2,400
+7.14
+0.49
+2,500
+7.44
+0.53
+2,600
+7.74
+0.57
+2,700
+8.04
+0.61
+2,800
+8.33
+0.65
+2,900
+8.63
+0.70
+3,000
+8.93
+0.74
+3,250
+9.67
+0.86
+
+--- PAGE 82 ---
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+FRICTION LOSS CHARTS: CLASS 200 SDR 21 PVC IPS
+ANSI/ASAE S376.2 ASTM D2241 C=150 * PSI loss per 100 ft of pipe
+Nominal Size
+Pipe OD
+Min. Wall
+Pipe ID
+11/2"
+1.950
+0.090
+1.700
+2"
+2.375
+0.113
+2.129
+21/2"
+2.875
+0.137
+2.581
+3"
+3.500
+0.167
+3.146
+4"
+4.500
+0.214
+4.046
+6"
+6.625
+0.316
+5.955
+8"
+8.625
+0.410
+7.755
+10"
+10.750
+0.511
+9.666
+12"
+12.750
+0.606
+11.464
+Flow
+(GPM)
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+
+0.14
+0.00
+0.09
+0.00
+
+0.28
+0.01
+0.18
+0.00
+
+0.42
+0.02
+0.27
+0.01
+
+0.56
+0.04
+0.36
+0.01
+0.25
+0.01
+
+0.71
+0.06
+0.45
+0.02
+0.31
+0.01
+
+1.41
+0.23
+0.90
+0.08
+0.61
+0.03
+0.41
+0.01
+
+2.12
+0.49
+1.35
+0.16
+0.92
+0.06
+0.62
+0.02
+
+2.82
+0.83
+1.80
+0.28
+1.23
+0.11
+0.82
+0.04
+0.50
+0.01
+
+3.53
+1.25
+2.25
+0.42
+1.53
+0.16
+1.03
+0.06
+0.62
+0.02
+
+4.24
+1.75
+2.70
+0.59
+1.84
+0.23
+1.24
+0.09
+0.75
+0.03
+
+4.94
+2.33
+3.15
+0.78
+2.14
+0.31
+1.44
+0.12
+0.87
+0.03
+0.40
+0.01
+0.24
+0.00
+0.15
+0.00
+0.11
+0.00
+
+5.65
+2.98
+3.60
+1.00
+2.45
+0.39
+1.65
+0.15
+1.00
+0.04
+0.46
+0.01
+0.27
+0.00
+0.17
+0.00
+0.12
+0.00
+
+6.35
+3.71
+4.05
+1.24
+2.76
+0.49
+1.86
+0.19
+1.12
+0.05
+0.52
+0.01
+0.31
+0.00
+0.20
+0.00
+0.14
+0.00
+
+7.06
+4.51
+4.50
+1.51
+3.06
+0.59
+2.06
+0.23
+1.25
+0.07
+0.58
+0.01
+0.34
+0.00
+0.22
+0.00
+0.16
+0.00
+
+7.77
+5.38
+4.95
+1.80
+3.37
+0.71
+2.27
+0.27
+1.37
+0.08
+0.63
+0.01
+0.37
+0.00
+0.24
+0.00
+0.17
+0.00
+
+8.47
+6.32
+5.40
+2.12
+3.68
+0.83
+2.47
+0.32
+1.50
+0.09
+0.69
+0.01
+0.41
+0.00
+0.26
+0.00
+0.19
+0.00
+
+9.89
+8.41
+6.30
+2.81
+4.29
+1.10
+2.89
+0.42
+1.75
+0.12
+0.81
+0.02
+0.48
+0.01
+0.31
+0.00
+0.22
+0.00
+
+7.20
+3.60
+4.90
+1.41
+3.30
+0.54
+1.99
+0.16
+0.92
+0.02
+0.54
+0.01
+0.35
+0.00
+0.25
+0.00
+
+8.10
+4.48
+5.51
+1.76
+3.71
+0.67
+2.24
+0.20
+1.04
+0.03
+0.61
+0.01
+0.39
+0.00
+0.28
+0.00
+
+9.00
+5.45
+6.13
+2.14
+4.12
+0.82
+2.49
+0.24
+1.15
+0.04
+0.68
+0.01
+0.44
+0.00
+0.31
+0.00
+
+9.19
+4.53
+6.19
+1.73
+3.74
+0.51
+1.73
+0.08
+1.02
+0.02
+0.66
+0.01
+0.47
+0.00
+
+8.25
+2.94
+4.99
+0.87
+2.30
+0.13
+1.36
+0.04
+0.87
+0.01
+0.62
+0.01
+
+6.23
+1.31
+2.88
+0.20
+1.70
+0.06
+1.09
+0.02
+0.78
+0.01
+
+7.48
+1.83
+3.45
+0.28
+2.04
+0.08
+1.31
+0.03
+0.93
+0.01
+
+8.73
+2.44
+4.03
+0.37
+2.38
+0.10
+1.53
+0.04
+1.09
+0.02
+
+9.97
+3.12
+4.60
+0.48
+2.71
+0.13
+1.75
+0.05
+1.24
+0.02
+
+5.18
+0.59
+3.05
+0.16
+1.97
+0.06
+1.40
+0.02
+
+5.75
+0.72
+3.39
+0.20
+2.18
+0.07
+1.55
+0.03
+
+6.33
+0.86
+3.73
+0.24
+2.40
+0.08
+1.71
+0.04
+
+6.91
+1.01
+4.07
+0.28
+2.62
+0.10
+1.86
+0.04
+
+8.06
+1.34
+4.75
+0.37
+3.06
+0.13
+2.17
+0.06
+
+9.21
+1.72
+5.43
+0.48
+3.49
+0.16
+2.48
+0.07
+
+6.11
+0.59
+3.93
+0.20
+2.79
+0.09
+1,000
+6.79
+0.72
+4.37
+0.25
+3.11
+0.11
+1,100
+7.46
+0.86
+4.81
+0.29
+3.42
+0.13
+1,200
+8.14
+1.01
+5.24
+0.35
+3.73
+0.15
+1,300
+8.82
+1.17
+5.68
+0.40
+4.04
+0.17
+1,400
+9.50
+1.34
+6.12
+0.46
+4.35
+0.20
+1,500
+6.55
+0.52
+4.66
+0.23
+1,600
+6.99
+0.59
+4.97
+0.26
+1,700
+7.43
+0.66
+5.28
+0.29
+1,800
+7.86
+0.73
+5.59
+0.32
+1,900
+8.30
+0.81
+5.90
+0.35
+2,000
+8.74
+0.89
+6.21
+0.39
+2,100
+9.17
+0.97
+6.52
+0.42
+2,200
+9.61
+1.06
+6.83
+0.46
+2,300
+7.14
+0.50
+2,400
+7.45
+0.54
+2,500
+7.76
+0.59
+2,600
+8.07
+0.63
+2,700
+8.38
+0.68
+2,800
+8.70
+0.72
+2,900
+9.01
+0.77
+3,000
+9.32
+0.82
+3,250
+
+--- PAGE 83 ---
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+FRICTION LOSS CHARTS: HDPE DR 13.5 128 PSI
+ ANSI/ASAE S376.2 PE3408 ASTM D2239 C=150 * PSI loss per 100 ft of pipe
+Nominal Size
+Pipe OD
+Min. Wall
+Pipe ID
+3"
+3.500
+0.275
+2.950
+4"
+4.500
+0.353
+3.794
+6"
+6.625
+0.521
+5.583
+8"
+8.625
+0.678
+7.269
+10"
+10.750
+0.844
+9.062
+12"
+12.750
+1.001
+10.748
+14"
+14.000
+1.099
+11.802
+16"
+16.000
+1.256
+13.488
+18"
+18.000
+1.413
+15.174
+Flow
+(GPM)
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+
+2.34
+0.31
+1.42
+0.09
+0.65
+0.01
+
+2.81
+0.43
+1.70
+0.13
+0.79
+0.02
+
+3.28
+0.58
+1.98
+0.17
+0.92
+0.03
+
+3.75
+0.74
+2.27
+0.22
+1.05
+0.03
+
+4.22
+0.92
+2.55
+0.27
+1.18
+0.04
+
+4.69
+1.11
+2.84
+0.33
+1.31
+0.05
+0.77
+0.01
+
+5.63
+1.56
+3.40
+0.46
+1.57
+0.07
+0.93
+0.02
+
+6.57
+2.08
+3.97
+0.61
+1.83
+0.09
+1.08
+0.03
+
+7.50
+2.66
+4.54
+0.78
+2.09
+0.12
+1.24
+0.03
+
+8.44
+3.31
+5.10
+0.97
+2.36
+0.15
+1.39
+0.04
+
+9.38
+4.02
+5.67
+1.18
+2.62
+0.18
+1.54
+0.05
+0.99
+0.02
+0.71
+0.01
+
+6.24
+1.41
+2.88
+0.22
+1.70
+0.06
+1.09
+0.02
+0.78
+0.01
+
+6.80
+1.66
+3.14
+0.25
+1.85
+0.07
+1.19
+0.02
+0.85
+0.01
+
+7.37
+1.92
+3.40
+0.29
+2.01
+0.08
+1.29
+0.03
+0.92
+0.01
+
+7.94
+2.21
+3.67
+0.34
+2.16
+0.09
+1.39
+0.03
+0.99
+0.01
+
+8.51
+2.51
+3.93
+0.38
+2.32
+0.11
+1.49
+0.04
+1.06
+0.02
+
+9.07
+2.82
+4.19
+0.43
+2.47
+0.12
+1.59
+0.04
+1.13
+0.02
+0.94
+0.01
+
+9.64
+3.16
+4.45
+0.48
+2.63
+0.13
+1.69
+0.05
+1.20
+0.02
+1.00
+0.01
+
+4.71
+0.54
+2.78
+0.15
+1.79
+0.05
+1.27
+0.02
+1.05
+0.01
+
+4.98
+0.59
+2.94
+0.16
+1.89
+0.06
+1.34
+0.02
+1.11
+0.02
+
+5.24
+0.65
+3.09
+0.18
+1.99
+0.06
+1.41
+0.03
+1.17
+0.02
+
+5.89
+0.81
+3.48
+0.22
+2.24
+0.08
+1.59
+0.03
+1.32
+0.02
+1.01
+0.01
+
+6.55
+0.99
+3.86
+0.27
+2.48
+0.09
+1.77
+0.04
+1.47
+0.03
+1.12
+0.01
+
+7.20
+1.18
+4.25
+0.33
+2.73
+0.11
+1.94
+0.05
+1.61
+0.03
+1.23
+0.02
+
+7.86
+1.38
+4.63
+0.38
+2.98
+0.13
+2.12
+0.06
+1.76
+0.04
+1.35
+0.02
+
+8.51
+1.60
+5.02
+0.44
+3.23
+0.15
+2.30
+0.07
+1.90
+0.04
+1.46
+0.02
+
+9.17
+1.84
+5.41
+0.51
+3.48
+0.17
+2.47
+0.08
+2.05
+0.05
+1.57
+0.03
+1.24
+0.01
+
+9.82
+2.09
+5.79
+0.58
+3.73
+0.20
+2.65
+0.09
+2.20
+0.05
+1.68
+0.03
+1.33
+0.02
+
+6.18
+0.65
+3.98
+0.22
+2.83
+0.10
+2.34
+0.06
+1.79
+0.03
+1.42
+0.02
+
+6.57
+0.73
+4.22
+0.25
+3.00
+0.11
+2.49
+0.07
+1.91
+0.04
+1.51
+0.02
+
+6.95
+0.81
+4.47
+0.28
+3.18
+0.12
+2.64
+0.08
+2.02
+0.04
+1.60
+0.02
+
+7.34
+0.90
+4.72
+0.31
+3.36
+0.13
+2.78
+0.08
+2.13
+0.04
+1.68
+0.02
+1,000
+7.72
+0.99
+4.97
+0.34
+3.53
+0.15
+2.93
+0.09
+2.24
+0.05
+1.77
+0.03
+1,050
+8.11
+1.08
+5.22
+0.37
+3.71
+0.16
+3.08
+0.10
+2.36
+0.05
+1.86
+0.03
+1,100
+8.50
+1.18
+5.47
+0.40
+3.89
+0.18
+3.22
+0.11
+2.47
+0.06
+1.95
+0.03
+1,150
+8.88
+1.28
+5.72
+0.44
+4.06
+0.19
+3.37
+0.12
+2.58
+0.06
+2.04
+0.04
+1,200
+9.27
+1.38
+5.96
+0.47
+4.24
+0.21
+3.52
+0.13
+2.69
+0.07
+2.13
+0.04
+1,250
+9.66
+1.49
+6.21
+0.51
+4.42
+0.22
+3.66
+0.14
+2.80
+0.07
+2.22
+0.04
+1,300
+6.46
+0.55
+4.59
+0.24
+3.81
+0.15
+2.92
+0.08
+2.30
+0.04
+1,350
+6.71
+0.59
+4.77
+0.26
+3.96
+0.16
+3.03
+0.08
+2.39
+0.05
+1,400
+6.96
+0.63
+4.95
+0.27
+4.10
+0.17
+3.14
+0.09
+2.48
+0.05
+1,450
+7.21
+0.67
+5.12
+0.29
+4.25
+0.19
+3.25
+0.10
+2.57
+0.05
+1,500
+7.45
+0.71
+5.30
+0.31
+4.40
+0.20
+3.37
+0.10
+2.66
+0.06
+1,550
+7.70
+0.76
+5.48
+0.33
+4.54
+0.21
+3.48
+0.11
+2.75
+0.06
+1,600
+7.95
+0.80
+5.65
+0.35
+4.69
+0.22
+3.59
+0.12
+2.84
+0.07
+1,650
+8.20
+0.85
+5.83
+0.37
+4.83
+0.24
+3.70
+0.12
+2.92
+0.07
+1,700
+8.45
+0.90
+6.01
+0.39
+4.98
+0.25
+3.81
+0.13
+3.01
+0.07
+1,750
+8.70
+0.95
+6.18
+0.41
+5.13
+0.26
+3.93
+0.14
+3.10
+0.08
+1,800
+8.95
+1.00
+6.36
+0.44
+5.27
+0.28
+4.04
+0.14
+3.19
+0.08
+1,850
+9.19
+1.05
+6.54
+0.46
+5.42
+0.29
+4.15
+0.15
+3.28
+0.09
+1,900
+9.44
+1.11
+6.71
+0.48
+5.57
+0.31
+4.26
+0.16
+3.37
+0.09
+1,950
+9.69
+1.16
+6.89
+0.51
+5.71
+0.32
+4.37
+0.17
+3.46
+0.09
+2,000
+9.94
+1.22
+7.07
+0.53
+5.86
+0.34
+4.49
+0.18
+3.55
+0.10
+2,100
+7.42
+0.58
+6.15
+0.37
+4.71
+0.19
+3.72
+0.11
+2,200
+7.77
+0.63
+6.45
+0.40
+4.94
+0.21
+3.90
+0.12
+2,300
+8.13
+0.69
+6.74
+0.44
+5.16
+0.23
+4.08
+0.13
+2,400
+8.48
+0.74
+7.03
+0.47
+5.38
+0.25
+4.25
+0.14
+2,500
+8.83
+0.80
+7.33
+0.51
+5.61
+0.27
+4.43
+0.15
+2,600
+9.19
+0.86
+7.62
+0.55
+5.83
+0.29
+4.61
+0.16
+2,700
+9.54
+0.92
+7.91
+0.59
+6.06
+0.31
+4.79
+0.17
+2,800
+9.89
+0.99
+8.20
+0.63
+6.28
+0.33
+4.96
+0.18
+2,900
+8.50
+0.67
+6.51
+0.35
+5.14
+0.20
+3,000
+8.79
+0.71
+6.73
+0.37
+5.32
+0.21
+3,500
+7.85
+0.50
+6.20
+0.28
+4,000
+8.97
+0.63
+7.09
+0.36
+4,500
+7.98
+0.44
+5,000
+8.86
+0.54
+
+--- PAGE 84 ---
+TECHNICAL INFORMATION
+
+ hunterirrigation.com/golf
+FRICTION LOSS CHARTS: HDPE DR 11 160 PSI
+ ANSI/ASAE S376.2 PE3408 ASTM D2239 C=150 * PSI loss per 100 ft of pipe
+Nominal Size
+Pipe OD
+Min. Wall
+Pipe ID
+3"
+3.500
+0.318
+2.826
+4"
+4.500
+0.409
+3.632
+6"
+6.625
+0.602
+5.349
+8"
+8.625
+0.784
+6.963
+10"
+10.750
+0.977
+8.678
+12"
+12.750
+1.159
+10.292
+14"
+14.000
+1.273
+11.300
+16"
+16.000
+1.455
+12.914
+18"
+18.000
+1.636
+14.532
+Flow
+(GPM)
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+
+2.56
+0.38
+1.55
+0.11
+0.71
+0.02
+
+3.07
+0.53
+1.86
+0.16
+0.86
+0.02
+
+3.58
+0.71
+2.17
+0.21
+1.00
+0.03
+
+4.09
+0.91
+2.48
+0.27
+1.14
+0.04
+
+4.60
+1.13
+2.78
+0.33
+1.28
+0.05
+
+5.11
+1.37
+3.09
+0.41
+1.43
+0.06
+0.84
+0.02
+
+6.13
+1.93
+3.71
+0.57
+1.71
+0.09
+1.01
+0.02
+
+7.16
+2.56
+4.33
+0.76
+2.00
+0.11
+1.18
+0.03
+
+8.18
+3.28
+4.95
+0.97
+2.28
+0.15
+1.35
+0.04
+
+9.20
+4.08
+5.57
+1.20
+2.57
+0.18
+1.52
+0.05
+
+6.19
+1.46
+2.85
+0.22
+1.68
+0.06
+1.08
+0.02
+0.77
+0.01
+
+6.81
+1.75
+3.14
+0.27
+1.85
+0.07
+1.19
+0.03
+0.85
+0.01
+
+7.43
+2.05
+3.42
+0.31
+2.02
+0.09
+1.30
+0.03
+0.92
+0.01
+
+8.04
+2.38
+3.71
+0.36
+2.19
+0.10
+1.41
+0.03
+1.00
+0.01
+
+8.66
+2.73
+3.99
+0.41
+2.36
+0.11
+1.52
+0.04
+1.08
+0.02
+
+9.28
+3.10
+4.28
+0.47
+2.53
+0.13
+1.63
+0.04
+1.16
+0.02
+
+9.90
+3.49
+4.56
+0.53
+2.69
+0.15
+1.73
+0.05
+1.23
+0.02
+1.02
+0.01
+
+4.85
+0.59
+2.86
+0.16
+1.84
+0.06
+1.31
+0.02
+1.09
+0.02
+
+5.14
+0.66
+3.03
+0.18
+1.95
+0.06
+1.39
+0.03
+1.15
+0.02
+
+5.42
+0.73
+3.20
+0.20
+2.06
+0.07
+1.46
+0.03
+1.21
+0.02
+
+5.71
+0.80
+3.37
+0.22
+2.17
+0.08
+1.54
+0.03
+1.28
+0.02
+
+6.42
+1.00
+3.79
+0.28
+2.44
+0.09
+1.73
+0.04
+1.44
+0.03
+
+7.13
+1.21
+4.21
+0.34
+2.71
+0.12
+1.93
+0.05
+1.60
+0.03
+1.22
+0.02
+
+7.85
+1.45
+4.63
+0.40
+2.98
+0.14
+2.12
+0.06
+1.76
+0.04
+1.35
+0.02
+
+8.56
+1.70
+5.05
+0.47
+3.25
+0.16
+2.31
+0.07
+1.92
+0.04
+1.47
+0.02
+
+9.27
+1.97
+5.47
+0.55
+3.52
+0.19
+2.50
+0.08
+2.08
+0.05
+1.59
+0.03
+
+9.99
+2.26
+5.89
+0.63
+3.79
+0.21
+2.70
+0.09
+2.24
+0.06
+1.71
+0.03
+1.35
+0.02
+
+6.31
+0.71
+4.06
+0.24
+2.89
+0.11
+2.40
+0.07
+1.84
+0.04
+1.45
+0.02
+
+6.73
+0.80
+4.34
+0.28
+3.08
+0.12
+2.56
+0.08
+1.96
+0.04
+1.55
+0.02
+
+7.16
+0.90
+4.61
+0.31
+3.28
+0.13
+2.72
+0.09
+2.08
+0.04
+1.64
+0.03
+
+7.58
+1.00
+4.88
+0.34
+3.47
+0.15
+2.88
+0.09
+2.20
+0.05
+1.74
+0.03
+
+8.00
+1.10
+5.15
+0.38
+3.66
+0.16
+3.04
+0.10
+2.32
+0.05
+1.84
+0.03
+1,000
+8.42
+1.21
+5.42
+0.42
+3.85
+0.18
+3.20
+0.12
+2.45
+0.06
+1.93
+0.03
+1,050
+8.84
+1.33
+5.69
+0.46
+4.05
+0.20
+3.36
+0.13
+2.57
+0.07
+2.03
+0.04
+1,100
+9.26
+1.45
+5.96
+0.50
+4.24
+0.22
+3.52
+0.14
+2.69
+0.07
+2.13
+0.04
+1,150
+9.68
+1.57
+6.23
+0.54
+4.43
+0.24
+3.68
+0.15
+2.81
+0.08
+2.22
+0.04
+1,200
+6.50
+0.58
+4.62
+0.25
+3.84
+0.16
+2.94
+0.08
+2.32
+0.05
+1,250
+6.77
+0.63
+4.82
+0.27
+4.00
+0.17
+3.06
+0.09
+2.42
+0.05
+1,300
+7.05
+0.68
+5.01
+0.29
+4.16
+0.19
+3.18
+0.10
+2.51
+0.06
+1,350
+7.32
+0.73
+5.20
+0.32
+4.31
+0.20
+3.30
+0.10
+2.61
+0.06
+1,400
+7.59
+0.78
+5.39
+0.34
+4.47
+0.21
+3.43
+0.11
+2.71
+0.06
+1,450
+7.86
+0.83
+5.59
+0.36
+4.63
+0.23
+3.55
+0.12
+2.80
+0.07
+1,500
+8.13
+0.88
+5.78
+0.38
+4.79
+0.24
+3.67
+0.13
+2.90
+0.07
+1,550
+8.40
+0.94
+5.97
+0.41
+4.95
+0.26
+3.79
+0.14
+3.00
+0.08
+1,600
+8.67
+0.99
+6.16
+0.43
+5.11
+0.28
+3.92
+0.14
+3.09
+0.08
+1,650
+8.94
+1.05
+6.36
+0.46
+5.27
+0.29
+4.04
+0.15
+3.19
+0.09
+1,700
+9.21
+1.11
+6.55
+0.48
+5.43
+0.31
+4.16
+0.16
+3.29
+0.09
+1,750
+9.48
+1.17
+6.74
+0.51
+5.59
+0.32
+4.28
+0.17
+3.38
+0.10
+1,800
+9.76
+1.24
+6.94
+0.54
+5.75
+0.34
+4.41
+0.18
+3.48
+0.10
+1,850
+7.13
+0.57
+5.91
+0.36
+4.53
+0.19
+3.58
+0.11
+1,900
+7.32
+0.60
+6.07
+0.38
+4.65
+0.20
+3.67
+0.11
+1,950
+7.51
+0.63
+6.23
+0.40
+4.77
+0.21
+3.77
+0.12
+2,000
+7.71
+0.66
+6.39
+0.42
+4.89
+0.22
+3.87
+0.12
+2,100
+8.09
+0.72
+6.71
+0.46
+5.14
+0.24
+4.06
+0.13
+2,200
+8.48
+0.78
+7.03
+0.50
+5.38
+0.26
+4.25
+0.15
+2,300
+8.86
+0.85
+7.35
+0.54
+5.63
+0.28
+4.45
+0.16
+2,400
+9.25
+0.92
+7.67
+0.58
+5.87
+0.30
+4.64
+0.17
+2,500
+9.63
+0.99
+7.99
+0.63
+6.12
+0.33
+4.83
+0.18
+2,600
+8.31
+0.68
+6.36
+0.35
+5.02
+0.20
+2,700
+8.63
+0.72
+6.61
+0.38
+5.22
+0.21
+2,800
+8.95
+0.78
+6.85
+0.40
+5.41
+0.23
+2,900
+9.27
+0.83
+7.10
+0.43
+5.60
+0.24
+3,000
+9.59
+0.88
+7.34
+0.46
+5.80
+0.26
+3,500
+8.57
+0.61
+6.76
+0.34
+4,000
+9.79
+0.78
+7.73
+0.44
+4,500
+8.70
+0.55
+5,000
+9.66
+0.67
+
+--- PAGE 85 ---
+TECHNICAL INFORMATION
+GOLF IRRIGATION | Built on Innovation®
+
+FRICTION LOSS CHARTS: HDPE DR 9 200 PSI
+ ANSI/ASAE S376.2 PE3408 ASTM D2239 C=150 * PSI loss per 100 ft of pipe
+Nominal Size
+Pipe OD
+Min. Wall
+Pipe ID
+3"
+3.500
+0.389
+2.674
+4"
+4.500
+0.500
+3.440
+6"
+6.625
+0.736
+5.065
+8"
+8.625
+0.958
+6.593
+10"
+10.750
+1.194
+8.218
+12"
+12.750
+1.417
+9.746
+14"
+14.000
+1.556
+10.700
+16"
+16.000
+1.778
+12.230
+18"
+18.000
+2.000
+13.760
+Flow
+(GPM)
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+Velocity
+FPS
+PSI
+Loss
+
+2.85
+0.50
+1.72
+0.15
+0.80
+0.02
+
+3.42
+0.70
+2.07
+0.20
+0.95
+0.03
+
+4.00
+0.93
+2.41
+0.27
+1.11
+0.04
+
+4.57
+1.19
+2.76
+0.35
+1.27
+0.05
+
+5.14
+1.48
+3.10
+0.43
+1.43
+0.07
+
+5.71
+1.80
+3.45
+0.53
+1.59
+0.08
+0.94
+0.02
+
+6.85
+2.52
+4.14
+0.74
+1.91
+0.11
+1.13
+0.03
+
+7.99
+3.35
+4.83
+0.98
+2.23
+0.15
+1.31
+0.04
+
+9.13
+4.29
+5.52
+1.26
+2.55
+0.19
+1.50
+0.05
+0.97
+0.02
+
+6.21
+1.57
+2.86
+0.24
+1.69
+0.07
+1.09
+0.02
+
+6.90
+1.91
+3.18
+0.29
+1.88
+0.08
+1.21
+0.03
+
+7.59
+2.27
+3.50
+0.35
+2.07
+0.10
+1.33
+0.03
+
+8.28
+2.67
+3.82
+0.41
+2.25
+0.11
+1.45
+0.04
+1.03
+0.02
+
+8.97
+3.10
+4.14
+0.47
+2.44
+0.13
+1.57
+0.04
+1.12
+0.02
+
+9.66
+3.55
+4.45
+0.54
+2.63
+0.15
+1.69
+0.05
+1.20
+0.02
+
+4.77
+0.61
+2.82
+0.17
+1.81
+0.06
+1.29
+0.03
+1.07
+0.02
+
+5.09
+0.69
+3.00
+0.19
+1.93
+0.07
+1.37
+0.03
+1.14
+0.02
+
+5.41
+0.77
+3.19
+0.21
+2.05
+0.07
+1.46
+0.03
+1.21
+0.02
+
+5.73
+0.86
+3.38
+0.24
+2.18
+0.08
+1.55
+0.04
+1.28
+0.02
+
+6.05
+0.95
+3.57
+0.26
+2.30
+0.09
+1.63
+0.04
+1.35
+0.03
+
+6.36
+1.05
+3.76
+0.29
+2.42
+0.10
+1.72
+0.04
+1.43
+0.03
+
+7.16
+1.30
+4.23
+0.36
+2.72
+0.12
+1.93
+0.05
+1.60
+0.03
+1.23
+0.02
+
+7.95
+1.58
+4.69
+0.44
+3.02
+0.15
+2.15
+0.07
+1.78
+0.04
+1.36
+0.02
+
+8.75
+1.89
+5.16
+0.52
+3.32
+0.18
+2.36
+0.08
+1.96
+0.05
+1.50
+0.03
+
+9.55
+2.22
+5.63
+0.62
+3.63
+0.21
+2.58
+0.09
+2.14
+0.06
+1.64
+0.03
+1.29
+0.02
+
+6.10
+0.71
+3.93
+0.24
+2.79
+0.11
+2.32
+0.07
+1.77
+0.04
+1.40
+0.02
+
+6.57
+0.82
+4.23
+0.28
+3.01
+0.12
+2.50
+0.08
+1.91
+0.04
+1.51
+0.02
+
+7.04
+0.93
+4.53
+0.32
+3.22
+0.14
+2.67
+0.09
+2.05
+0.05
+1.62
+0.03
+
+7.51
+1.05
+4.83
+0.36
+3.44
+0.16
+2.85
+0.10
+2.18
+0.05
+1.72
+0.03
+
+7.98
+1.17
+5.14
+0.40
+3.65
+0.18
+3.03
+0.11
+2.32
+0.06
+1.83
+0.03
+
+8.45
+1.30
+5.44
+0.45
+3.87
+0.19
+3.21
+0.12
+2.46
+0.06
+1.94
+0.04
+
+8.92
+1.44
+5.74
+0.49
+4.08
+0.22
+3.39
+0.14
+2.59
+0.07
+2.05
+0.04
+1,000
+9.39
+1.58
+6.04
+0.54
+4.30
+0.24
+3.56
+0.15
+2.73
+0.08
+2.16
+0.04
+1,050
+9.86
+1.73
+6.35
+0.59
+4.51
+0.26
+3.74
+0.16
+2.87
+0.09
+2.26
+0.05
+1,100
+6.65
+0.65
+4.73
+0.28
+3.92
+0.18
+3.00
+0.09
+2.37
+0.05
+1,150
+6.95
+0.70
+4.94
+0.31
+4.10
+0.19
+3.14
+0.10
+2.48
+0.06
+1,200
+7.25
+0.76
+5.16
+0.33
+4.28
+0.21
+3.27
+0.11
+2.59
+0.06
+1,250
+7.55
+0.82
+5.37
+0.36
+4.46
+0.23
+3.41
+0.12
+2.69
+0.07
+1,300
+7.86
+0.88
+5.59
+0.38
+4.63
+0.24
+3.55
+0.13
+2.80
+0.07
+1,350
+8.16
+0.95
+5.80
+0.41
+4.81
+0.26
+3.68
+0.14
+2.91
+0.08
+1,400
+8.46
+1.01
+6.02
+0.44
+4.99
+0.28
+3.82
+0.15
+3.02
+0.08
+1,450
+8.76
+1.08
+6.23
+0.47
+5.17
+0.30
+3.96
+0.16
+3.13
+0.09
+1,500
+9.06
+1.15
+6.45
+0.50
+5.35
+0.32
+4.09
+0.17
+3.23
+0.09
+1,550
+9.37
+1.22
+6.66
+0.53
+5.53
+0.34
+4.23
+0.18
+3.34
+0.10
+1,600
+9.67
+1.30
+6.87
+0.56
+5.70
+0.36
+4.37
+0.19
+3.45
+0.11
+1,650
+9.97
+1.37
+7.09
+0.60
+5.88
+0.38
+4.50
+0.20
+3.56
+0.11
+1,700
+7.30
+0.63
+6.06
+0.40
+4.64
+0.21
+3.66
+0.12
+1,750
+7.52
+0.67
+6.24
+0.42
+4.78
+0.22
+3.77
+0.12
+1,800
+7.73
+0.70
+6.42
+0.45
+4.91
+0.23
+3.88
+0.13
+1,850
+7.95
+0.74
+6.59
+0.47
+5.05
+0.24
+3.99
+0.14
+1,900
+8.16
+0.78
+6.77
+0.49
+5.18
+0.26
+4.10
+0.14
+1,950
+8.38
+0.81
+6.95
+0.52
+5.32
+0.27
+4.20
+0.15
+2,000
+8.59
+0.85
+7.13
+0.54
+5.46
+0.28
+4.31
+0.16
+2,100
+9.02
+0.93
+7.49
+0.59
+5.73
+0.31
+4.53
+0.17
+2,200
+9.45
+1.02
+7.84
+0.65
+6.00
+0.34
+4.74
+0.19
+2,300
+9.88
+1.11
+8.20
+0.70
+6.28
+0.37
+4.96
+0.21
+2,400
+8.56
+0.76
+6.55
+0.40
+5.17
+0.22
+2,500
+8.91
+0.82
+6.82
+0.43
+5.39
+0.24
+2,600
+9.27
+0.88
+7.09
+0.46
+5.60
+0.26
+2,700
+9.62
+0.95
+7.37
+0.49
+5.82
+0.28
+2,800
+9.98
+1.01
+7.64
+0.53
+6.04
+0.30
+2,900
+7.91
+0.56
+6.25
+0.32
+3,000
+8.19
+0.60
+6.47
+0.34
+3,500
+9.55
+0.80
+7.54
+0.45
+4,000
+8.62
+0.58
+4,500
+9.70
+0.72
+5,000
+10.78
+0.87
+
+--- PAGE 86 ---
+
+ hunterirrigation.com/golf
+Hunter Residential and Commercial Irrigation Products
+Hunter Industries Incorporated (“Hunter”) warrants the following products to be free of defects in materials or workmanship under normal
+ use in landscape irrigation applications for the specified period of time outlined below from the original date of manufacture:
+ONE
+YEAR
+ROTORS
+SRM
+MICRO
+Micro Sprays, PLD Fittings, Rigid Risers,
+Air Relief Valves, RZB
+TWO
+YEARS
+ROTORS
+PGP-ADJ, PGJ, HCV
+CONTROLLERS
+ACC (Legacy), BTT, Eco-Logic, HC, HCC, HPC,
+I-Core/DUAL (Legacy), NODE, NODE-BT, Pro-C,
+Pro-HC, PSR, ROAM, X2, X-Core, XC Hybrid, WAND
+SPRAYS
+PS Ultra, SJ, FlexSG, HSBE
+SENSORS
+HC Flow Meter (wired and wireless)
+NOZZLES
+Spray Nozzles, PCN, PCB, AFB, MSBN
+MICRO
+ACZ, PCZ, RZWS, Point Source Emitters, Tubing,
+Multi-Port Emitters, IH Risers, MLD, Eco-Indicator,
+Multi-Purpose Box, Senninger Regulators,
+PLD-LOC Fittings
+VALVES
+PGV
+TOOLS
+SpotShot
+CENTRAL
+A2CWIFI, A2CLAN, A2CCELLE, WIFIKIT, LANKIT, CELLKIT
+THREE
+YEARS
+CONTROLLERS
+ROAM LR, EZ Decoder System, EZ-DT
+MP ROTATOR
+All
+FIVE
+YEARS
+ROTORS
+PGP Ultra, I-20, I-25, I-40, I-80, and I-90
+CONTROLLERS
+ACC2, MCC, ICC2, ICD Decoders, ICD-HP
+SPRAYS
+Pro-Spray, Pro-Spray PRS30,
+and Pro-Spray PRS40
+MICRO
+ICZ, PLD, HDL, HDL-COP**, Eco-Mat, Eco-Wrap
+VALVES
+HQ, ICV, IBV
+Hunter Golf and ST System Irrigation Products*
+Hunter will unconditionally repair, replace, or repurchase, at its sole discretion, any defective component* assemblies contained within the Golf
+and ST products listed below by category, returned freight prepaid, from the date of manufacture within a period of:
+ONE
+YEAR
+GOLF
+CONTROLLERS
+Pilot Command Center Software, Pilot-FC, Pilot-FI, Pilot Hub
+THREE
+YEARS
+GOLF ROTORS
+TTS-800 Series, G-800 Series, G-900 Series, B Series
+GOLF TWO-WAY MODULES
+Pilot 100, Pilot 200, Pilot 400, Pilot 600
+FIVE
+YEARS
+GOLF ROTORS
+The golf rotor component warranty is extended to 5 years with a one-for-one purchase of an
+HSJ Swing Joint from an authorized Hunter Golf distributor.
+SWING JOINTS
+HSJ-0, HSJ-1, HSJ-2, HSJ-3
+COMPUTER, PRINTERS &
+ACCESSORIES, MAINTENANCE
+RADIO & BATTERY
+Equipment manufacturer's warranty (no Hunter warranty)
+STATEMENT OF WARRANTY
+
+--- PAGE 87 ---
+GOLF IRRIGATION | Built on Innovation®
+
+ *  Warranty covers repair, replacement, or repurchase of individual defective component assemblies contained within the product. Returns of complete
+finished goods are not allowed under warranty without prior approval from the Hunter Product Manager.
+If used for agricultural applications, Hunter limits the warranty for valves, sprays, MP Rotator Nozzles, and rotor products to a period of one (1) year
+from the original date of manufacture. This agriculture limitation supersedes all other warranties expressed or implied.
+ ** Plus 2 additional years for environmental stress cracking. No warranty against root intrusion on HDL-COP. While the use of copper does not
+completely remove the chance of root intrusion, it has been shown to assist in its prevention when coupled with proper irrigation scheduling.
+*** Eco-Indicator - 6" ECO-ID: 2-year warranty; 12" ECO-ID-12: 5-year warranty
+ **** Hunter's cellular module warranty does not apply to the availability or compatibility of cellular data service, in any particular area. Availability of
+compatible data services should be determined prior to installation.
+®
+If a defect in a Hunter product is discovered during the applicable warranty period, Hunter will repair or replace, at its option, the product or
+the defective part. This warranty does not extend to repairs, adjustments, or replacement of a Hunter product or part that results from misuse,
+negligence, alteration, modification, tampering, or improper installation and/or maintenance of the product. This warranty extends only to
+the original installer of the Hunter product. If a defect arises in a Hunter product during the warranty period, contact your local Hunter
+Authorized Distributor.
+Hunter's warranty applies only to products installed as specified and used as intended for irrigation purposes. Hunter's warranty shall
+be limited to defects in materials and workmanship during the warranty period, and shall not extend to situations in which the product
+was subjected to improper design, installation, operation, maintenance, application, abuse, improper electrical current, grounding,
+service other than by Hunter authorized agents, operating conditions other than that for which it was designed, or in systems using water
+containing corrosive chemicals, electrolytes, sand, dirt, silt, rust, or agents that otherwise attack and degrade plastics. Hunter's warranty
+does not cover component failures caused by lightning strikes, electrical power surges, or unconditioned power supplies. If products are
+repurchased, the price to Distributor for such products in effect at the time of return will apply.
+Hunter's obligation to repair, replace, or repurchase its products or product components as set forth above is the sole and exclusive
+warranty extended by Hunter. There are no other warranties, expressed or implied, including warranties of merchantability and warranties
+of fitness for a particular purpose. Hunter will not be liable to a distributor or to any other party in strict liability, tort, contract, or any other
+manner for any damages caused or claimed to be caused as a result of any design of or defect in Hunter's products, or for any special,
+incidental, or consequential damages of any nature.
+Where applicable, Hunter's statement of warranty complies with local directives.
+If you have any questions concerning the warranty or its application, please email support@hunterindustries.com.
+ASAE CERTIFICATION STATEMENT
+Hunter Industries Incorporated certifies that pressure, flow rate, and radius data for these products were determined and listed in accordance
+with ASAE Standard S398.1, Procedure for Sprinkler Testing and Performance Reporting, and are representative of performance of production
+sprinklers at the time of publication. Actual product performance may differ from the published specifications due to normal manufacturing
+variations and sample selection. All other specifications are solely the recommendation of Hunter Industries Incorporated.
+Statement of Warranty, Continued
+
+--- PAGE 88 ---
+Website hunterirrigation.com/golf |  Customer Support +1-800-383-4747 |  Technical Service +1-800-733-2823 |  Hunter Support Network +1-833-476-4653
+Helping our customers succeed is what drives us. While our passion
+for innovation and engineering is built into everything we do, it is our
+commitment to exceptional support that we hope will keep you in
+the Hunter family of customers for years to come.
+Gregory R. Hunter, CEO of Hunter Industries
+Denise Mullikin, President, Landscape Division
+GI-001  US  A  4/26
+© 2026 Hunter Industries Inc. Hunter, FX Luminaire, all related logos, and all other marks are trademarks
+of Hunter Industries Inc., registered in the U.S. and certain other countries.
+ Please recycle.
+USA HEADQUARTERS
+1940 Diamond Street
+San Marcos, CA 92078 USA
+T: +1-760-744-5240
+MEXICO
+ISO 9001:2015 Certified
+Calle Nordika #8615
+Colonia la Joya
+Parque Industrial Nordika
+Tijuana, B.C., Mexico CP 22640
+T: +011-52-664-903-1382
+EUROPE
+Avenida Diagonal 523, 5o-2a
+Edificio Atalaya
+08029 Barcelona, Spain
+T: +34-9-34-94-88-81
+AUSTRALIA
+50 Lynch Street
+Hawthorn, VIC 3122, Australia
+TEL: +1-800-438-486
+ [+1-800-GETHUNTER]
+(in Australia)
+T: +61-3-9562-9918 (outside Australia)
+
+MIDDLE EAST
+4448 Abdullah Ibn Saud Ibn
+Abdulaziz Branch
+Al Shohda District
+13241, Riyadh, Saudi Arabia
+T: +966-920016284
+
+CHINA
+A1304, Huibin Plaza
+No. 8, Beichen Dong Street
+Beijing 100101, China
+T/F: +86-10-84975146

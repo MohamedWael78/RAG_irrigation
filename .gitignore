@@ -1,0 +1,45 @@
+# ==========================================
+# 1. Environment & Sensitive Data (المفاتيح والبيئات)
+# ==========================================
+.env
+*.env
+backend/.env
+frontend/.env.local
+venv/
+env/
+ENV/
+
+# ==========================================
+# 2. Project Caches & Generated Databases (قواعد البيانات والكاش)
+# ==========================================
+chroma_db/
+backend/chroma_db/
+.flashrank_cache/
+backend/.flashrank_cache/
+.streamlit/
+.agents/
+.claude/
+__pycache__/
+*.pyc
+
+# ==========================================
+# 3. Frontend / Next.js Files (ملفات الواجهة الثقيلة)
+# ==========================================
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# ==========================================
+# 4. Data & Evaluation Output (بيانات الاختبار الكبيرة)
+# ==========================================
+evaluation_results.csv
+*.rar
+*.zip
+
+# ==========================================
+# 5. OS & IDE Metadata (ملفات النظام والمنصات)
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

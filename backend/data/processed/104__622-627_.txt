@@ -1,0 +1,646 @@
+--- PAGE 1 ---
+
+Plant Archives Vol. 19, Supplement 1, 2019 pp. 622-627
+e-ISSN:2581-6063 (online), ISSN:0972-5210
+
+CROP WATER REQUIREMENTS OVER THE NILE VALLEY AND DESERT
+FRINGES AS A BASE OF THE OPTIMUM LAND USE
+M. Ismail1 and R.R. Ali2
+
+1Remote sensing and GIS Unit, Soils, Water, and Environment Research Institute,
+
+Agricultural Research Center, Egypt
+
+E-mail: ismail62@gmail.com
+2Soils and Water Use Department, National Research Centre, Egypt
+E-mail: bediertop@yahoo.com
+
+Abstract
+
+The scarceness of water resources in dry regions imposes considerable attention in both land use and crop water requirements.
+The main objective of this study is to calculate the water requirements over the Nile Valley and desert fringes considering the
+Agro-ecological Zones as a base for setting up the optimum land use. To fulfil this objective the thematic maps of land use, soils
+and reference crop evapotranspiration (ETo) were used for mapping the Agro-ecological zones of the area. The CROPWAT 8.0
+software has been used to determine the water requirements of the main crops in the investigated area. Consequently, the spatial
+analyst function of the Arc-map 9.2 software was used to extract the crop water requirements of each Agro-ecological Zone.
+Results indicated that the estimated ETo in the Lower Egypt differs from 3.14 to 4.78 (mm) while it ranges between 6.38 and
+7.12 (mm) in Upper Egypt. The average of crop water requirements in the Lower Egypt ranges between 2.39 and 3.51 mm /day.
+In Upper Egypt the average of crop water requirements was increased to be 5.87 mm/day. These changes are mostly related to the
+climatic condition and cropping pattern of each zone.
+Keywords: crop water requirements, land use, Agro-ecological Zones, GIS, Nile Valley, Egypt
+Introduction
+Increasing water use efficiency is a major
+challenge that many countries trying to achieve. The
+rapid growth of the world population exerts a direct
+pressure on agriculture production, which will involve
+consumption of a huge volume of water (Stephen,
+2008). It is anticipated that for the world to meet the
+growing demand of water in 2025, about 17% of the
+water being used for more irrigation will be required
+(Molden et al., 2000). In arid and semi-arid regions,
+surface and ground water resources are naturally
+limited, and the challenge to produce more food under
+increasing water scarcity is real (Bouman, 2007). Crop
+water management requires accurate estimations of
+proper water consumption using detailed methods
+relating applied water, crop production, and irrigation
+efficiency (Bausch, 1995). Traditional methods of water
+management are based on the crop coefficient (Kc)
+approach that requires the determination of reference
+evapotranspiration
+(ETo)
+and
+Kc.
+Potential
+evapotranspiration is then determined as a product of
+the ETo and Kc (Allen, 2000). Values of ETo differ
+widely according to the Agro-ecological Zones (FAO
+1981) and the changes of crop water requirements is
+expected. In Egypt the Nile River is the main source for
+irrigation, with an annual allocated flow of 55.5 km3/
+year. The total actual renewable surface water resources
+estimated at 56 km3/ year. Internal renewable
+groundwater resources are estimated at 1.3 km3/ year.
+The total actual renewable water resources of the
+country are estimated to be 57.3 km3/ year (FAO, 2000).
+The agricultural area in Egypt is composed of two parts:
+Nile Delta and Valley, which is the main contributor to
+food production, trading activities and national
+economy. Through the last four decades vast areas at the
+desert fringes of the Nile Valley and Delta were
+reclaimed using mostly Nile water (El-Bagouri, 2008);
+this imposes considerable attention in irrigation water
+management. In the view of the above-mentioned
+limitations, new techniques for estimating actual
+evaporation and transpiration are developed using
+spatial and temporal information needed for crop water
+management. These techniques have been categorized
+under hydrological models, remote sensing and fieldbased methods (Kite and Droogers, 2000). In this
+context GIS technology is very useful for automated
+logical integration of bio-climate, terrain and soil
+resource inventory information (Patel et al., 2000). This
+work aims to estimate the crop water requirements
+under the different Agro-ecological Zones in Egypt for
+setting the suitable land use in each zone by using GIS
+techniques.
+Materials and Methods
+The Investigated Area
+The area under investigation incorporates the Nile
+Delta, Valley and their relevant desert fringes (Figure
+1). It is extended between longitudes 29° 30 َ& 32° 30َ E
+
+--- PAGE 2 ---
+
+and latitudes 22° 00َ& 31° 30َN. The area includes both
+old cultivations in the Nile Delta and Valley and newly
+reclaimed areas in the desert fringes. It is considered as
+an arid region where, the mean annual rainfall,
+evaporation and temperature are 41.4 mm, 114.3 mm
+and
+21ºC,
+respectively (Egyptian
+Meteorological
+Authority, 1996). The Pleistocene deposits which are
+composed of Nile silt in the Nile valley region and sand
+and gravel of assorted sizes in the desert fringes
+(CONOCO, 1989).
+Thematic Maps
+Land use : A total of 8 Lands at ETM+ acquired in
+2010 have been used to extract the land use of the Nile
+Delta and Valley and their relevant desert fringes. The
+images were enhanced by using ENVI 4.7 software; to
+recover the SLC-off data, improve the contrast and
+enhancing the edges. The SLC-off data is exchanged
+with calculated values, then the image was stretched
+using linear 2%, smoothly filtered, and their histograms
+were matched according to Lilles and and Kiefer (2007).
+The atmospheric correction was done to reduce the
+noise
+effect.
+Images
+were
+radiometrically
+and
+geometrically corrected to accurate the irregular sensor
+response over the image and to correct the geometric
+distortion due to Earth's rotation (ITT, 2009). Land use/
+cover classes are typically mapped from digital remotely
+sensed data through the process of a supervised digital
+image classification. The maximum likelihood classifier
+quantitatively
+evaluates
+both
+the
+variance
+and
+covariance of the category spectral response patterns
+when classifying an unknown pixel so that it is
+considered to be one of the most accurate classifiers, as
+it is based on statistical parameters. Supervised
+classification was done using ENVI 4.7 software
+depending on the ground checkpoints and the digital
+topographic maps of the study area. Then accuracy
+assessment was carried out using 150 points from field
+data and existing land cover maps.
+
+Fig. 1 : Location of the investigated area on Egypt map
+Soils : Soils map of Egypt produced by the Academy of
+Scientific Research and Technology (ASRT, 1982) was
+used in this study. The original nomenclature of soil
+order, suborders and great groups have been updated
+using the latest American Soil Taxonomy (USDA,
+2010). The study area was covered by 31 map sheets of
+scale 1:100000. The maps was geometrically corrected
+and converted into digital format, and then the soil units
+were linked with the attribute table of the land use map
+using Arc-GIS9.2 software.
+Reference Crop Evapotranspiration (ETo) : The
+reference crop evapotranspiration (ETo) have been
+estimated over the investigated area from the data of 31
+climatological station distributed in the study area using
+M. Ismail and R.R. Ali
+
+--- PAGE 3 ---
+
+the CROPWAT 8.0 software. The resulted values of
+ETo were exported to the Arc-GIS 9.2 software, then
+the geostatistical analysis technique was used to produce
+the ETo map.
+Agro-ecological Zones : Arc- GIS 9.2 software was
+used to map the Agro-Ecological Zones and produce an
+attribute table described each zone over the investigated
+area. The thematic layers of land use, soils and ETo
+have been used.
+Extracting the Optimum Land Use
+Spatial analyst function in Arc-GIS 9.2 software
+was used to extract the optimum land use for each AgroEcological Zone on bases of crop water requirements,
+soils and climatic data.
+Results and Discussion
+Current Land Use
+Figure (2) represents the main land use /cover of
+the investigated area. The data show that the area is
+dominated by 12 main land use type. Cultivation is the
+major type of land use as it covers 75.1% of the area
+(i.e. 272993.9 km2). The main cultivations are Maize,
+Cotton, Clover, Wheat, Feba bean, Rice, Sugar cane,
+Citrus, Vegetables, Soya, olive, mango, banana and
+apple. The main land uses of the rest are areas in the
+early stages of reclamation, bare soils, fish ponds,
+wetlands, sabkhas, inland water, airport, harbour,
+industrial zones, urban areas, parks, and water bodies.
+These types of land use represent 24.9 % of the
+investigated area (i.e. 90303.6 km2). It is clear that the
+Maize, Cotton, Clover, Wheat, Feba bean, Rice, Citrus,
+Vegetables and Soya are the main cultivations in the
+Nile Delta (Lower Egypt). The main crops in the Middle
+Egypt include Maize, Cotton, Clover, Wheat, Feba
+bean, and Sugar cane while sugar cane is the main land
+use type in Upper Egypt.
+Soils
+The data extracted from the digital format of the
+soil map of Egypt indicated that the Vertic Torrifluvents
+is the major sub great group in the alluvial Nile Delta,
+covering 12940.3 km2. Patches of sub-great groups
+Typic Torrifluvents are included in the alluvial soils.
+The
+sub-great
+group
+Typic
+Quartizpsamments
+dominates the eastern and western desert fringes,
+covering an area of 4082 km2 in addition to an area of
+375.2 km2 interfered with the Typic Torriorthents subgreat
+group.
+The
+Typic
+Torripsamments/Typic
+Torriorthents sub-great groups association exists in an
+area of 399.1 km2. The sub-great groups Typic
+Torrifluvents,
+Typic
+Torriorthents
+and
+Typic
+Torripsamments exhibit significant coverage in delta
+borders, as their areas are 2514.9, 2390.9 km2 and
+1385.0 km2. The sub-great groups of Typic Aquisalids,
+Typic Haplosalids and Aquic Torrifluvents occur in the
+northern Delta region influenced by the northern Delta
+lakes. They cover areas of 1928.8, 166.9 and 437.9km2
+of the total Nile Delta area respectively. Minor areas of
+Typic
+Haplocalcids,
+Typic
+Haplogypsids,
+Typic
+Petrogypsids and Typic Calcigypsids are distributed in
+the eastern and western Delta regions covering areas of
+1012.6, 10007.5, 145.9 and 4.1 km2 respectively.
+Limited Hill and Rockland areas exist in the southern
+Delta region, covering areas of 1223.2 and 1426.9 km2
+respectively. The Typic Torriorthents is the major sub
+great group in the Nile Valley region, covering an area
+of 14303.7 km2. The origin of such soil is mostly related
+to the colluvial deposits in wadi mouths and plains.
+They are distributed in areas located in both western and
+eastern desert fringes, characterized by a gently sloping
+landscape. The sub-great group of Vertic Torrifluvents
+is dominating the Nile flood plain. These soils exhibit
+8313.6 km2 of the mapped area. The Typic Torrifluvents
+sub-great group also exists in the Nile flood plain
+associated with the Vertic Torrifluvents covering an
+area of 2026.4 km2. The sub-great group Typic
+Quartizpsamments exists in the desert fringes and the
+interference zone between the desert area and flood
+plain covering an area of 1279.3 km2. The given data
+show a minor existence of the sub-great groups Typic
+Haplocalcids, Typic Petrogypsids, Typic Haplogypsids,
+Typic Torripsamments and Typic Haplosalids.
+Reference Crop Evapotranspiration (ETo)
+The values of ETo over the study area have been
+divided from the climatic data of 31 stations distributed
+in the area. The obtained ETo means of the 31 values of
+ETo was separated and ranked in ascending order using
+least significant difference test (LSD0.05). The spatial
+analyst function was used to create a raster layer of ETo
+over the area (Figure 3). The results indicate that the
+estimated ETo differ from 3.14 to 7.12 (mm). It is found
+that the values of ETo in the Lower Egypt changes from
+3.14 to 4.78 (mm) where the small values are associated
+with the coastal zone. In the Middle Egypt the values of
+ETo rages between 5.39 and 5.87 (mm), while in the
+Upper Egypt it located in the range 6.38 - 7.12 (mm).
+Agro-ecological Zones
+According to the above-mentioned data the area
+was divided into 7 agro-ecological zones, the
+classification of these zones implies that water
+requirement is similar within each zone while it widely
+differed between zones. The main land uses, and soil
+types have been extracted and used with the crop Kc
+and ETo values for estimating the crop water
+requirements in each zone. Table 1 represents the soils
+and land uses of each agro-ecological zone in the study
+area.
+Crop water requirements over the Nile valley and desert fringes as a base of the optimum land use
+
+--- PAGE 4 ---
+
+Fig. 2 : The main land uses of the investigated area
+
+Fig. 3 : Thematic layer of the estimated daily ETo (mm) over the investigated area
+
+Table 1 : Soils and main land uses in the different Agro-ecological Zones
+Zone
+ETo
+(mm)
+Dominant Soils
+Cultivated Crops
+
+3.14
+VT; TT
+Rice, Cotton, Maize, Wheat, Clover, Sugar Beat,Vegetables
+
+4.03
+VT; TT; TQ
+Maize, Cotton, Wheat, Clover, Faba bean, Vegetables.
+
+4.78
+VT; TT; TQ, TTo
+Maize, Cotton, Wheat, Clover, Faba bean, Vegetables.
+
+5.39
+VT; TT; TQ; TC
+Maize, Cotton, Wheat, Clover, Faba bean, Fruits, Vegetables.
+
+5.87
+VT; TT; TQ, TTo
+Maize, Cotton, Wheat, Clover, Faba bean, Fruits, Sugar cane, Vegetables
+
+6.38
+VT; TT; TQ, TTo
+Maize, Cotton, Wheat, Clover, Faba bean, Fruits, Sugar cane, Vegetables
+
+7.12
+VT; TT; TQ; TTo
+Maize, Cotton, Wheat, Clover, Faba bean, Fruits, Sugar cane, Vegetables
+Note: VT= Vertic Torrivluvents; TT= Typic Torrifluvents; TQ= Typic Quortzisanments; TC= Typic Calciorthids;
+TTo= Typic Torriorthens
+M. Ismail and R.R. Ali
+
+--- PAGE 5 ---
+
+Crop Water Requirements
+Table (2) represents the averages of ETo, crop Kc
+and crop water requirements of the main land uses in the
+different
+Agro-ecological
+Zones.
+Regardless
+the
+growing season it is noticed that the averages of daily
+crop water requirements differ widely from zone to
+another. The lowest values are corresponding to the
+Lower Egypt, where it ranges between 2.39 and 3.51
+mm /day. Averages of crop water requirements in Upper
+Egypt region were increased to be 5.87 mm/day. These
+changes are mostly related to the climatic condition and
+cropping pattern of each zone.
+The crop water requirements of the single crops in
+the different zones were estimated as illustrated in Table
+3. These crops include Maize, Cotton, Rice, Clover,
+Wheat, Faba bean, Soybean, Sugar cane, Vegetables,
+Citrus, Olive, Banana, Mango and Apple that represent
+the main crops in the study area. It has been noticed that
+the daily water requirements for crops have been
+doubled in zone 7 compared with zone 1.
+The estimated water requirements of the Lower
+Egypt (Zones 1, 2 &3) for the main crops are differ
+from 1.88 mm/day for Wheat to 4.54 mm/day for Rice.
+In the Middle Egypt (Zones 4 & 5) the estimated
+requirements were changed from 3.23 mm /day for
+Wheat to 5.19 mm/ day in case of Cotton cultivation.
+For the Upper Egypt the estimated requirements are
+high as it differs from 3.83 mm/ day for Wheat
+cultivation to 6.3 mm/ day in cotton cultivation. The
+optimum land use in the area that minimizes the water
+requirement could be selected on bases of agroecological zones and crop water requirements.
+Under the climatic condition of the study area the
+daily water requirement for Vegetables, Soybean and
+Faba bean are relatively high, so it is recommended to
+concentrate these crops in the Lower Egypt. In Upper
+Egypt sugar cane and maize are basic crops but the
+replacement of clover instead the vegetables and
+soybeans will decrease the evapotranspiration and
+accordingly the water requirements will be decreased
+from about 2.5 to 2 mm/day.
+
+Table 2 : Averages of ETo, crop Kc and crop water requirements in the different Agro-ecological Zones
+Zone
+ETo
+average (mm)
+Kc
+average (mm)
+Crop water requirements
+average (mm/ day)
+
+3.14
+0.76
+2.39
+
+4.03
+0.755
+3.04
+
+4.78
+0.735
+3.51
+
+5.39
+0.735
+3.96
+
+5.87
+0.76
+4.46
+
+6.38
+0.74
+4.72
+
+7.12
+0.825
+5.87
+Note: the crop Kc average was was derived from the cropping pattern in each zone
+
+Table 3 : The crop water requirements (mm/ day) of the single crops in the different zones
+Agro-ecological Zones
+Crops
+
+Maize
+2.59
+3.32
+3.94
+4.45
+4.84
+5.26
+5.87
+Cotton
+2.78
+3.57
+4.23
+4.77
+5.19
+5.65
+6.30
+Rice
+2.98
+3.83
+4.54
+--
+--
+--
+--
+Clover
+2.04
+2.62
+3.11
+3.50
+3.82
+4.15
+4.63
+Wheat
+1.88
+2.42
+2.87
+3.23
+3.52
+3.83
+4.27
+Faba bean
+2.59
+3.32
+3.94
+4.45
+4.84
+5.26
+5.87
+Soya
+2.62
+3.37
+3.99
+4.50
+4.90
+5.33
+5.95
+Sugar cane
+--
+--
+--
+3.77
+4.11
+4.47
+4.98
+Vegetables
+2.51
+3.22
+3.82
+4.31
+4.70
+5.10
+5.70
+Citrus
+2.12
+2.72
+3.23
+3.64
+3.96
+4.31
+4.81
+Olive
+2.12
+2.72
+3.23
+3.64
+3.96
+4.31
+4.81
+Banana
+2.51
+3.22
+3.82
+4.31
+4.70
+5.10
+5.70
+Mango
+2.46
+3.16
+3.75
+4.23
+4.61
+5.01
+5.59
+Apple
+2.43
+3.12
+3.70
+4.18
+4.55
+4.94
+5.52
+
+Crop water requirements over the Nile valley and desert fringes as a base of the optimum land use
+
+--- PAGE 6 ---
+
+Conclusion
+This study confirms the importance of thematic
+layers of soils, climate and agro-ecological zones when
+calculating the crop water requirements. The spatial
+analyses of these layers reduce the errors especially in
+places of missing data. By using GIS, the area under
+investigation was divided into seven agro-ecological
+zones. Zones 1, 2 and 3 represent Lower Egypt, zones 4
+and 5 represents the Middle Egypt and zones 6 and 7
+covers the Upper Egypt. The main crops in these zones
+are Maize, Cotton, Rice, Clover, Wheat, Faba bean,
+Soybean, Sugar cane, Vegetables, Citrus, Olive,
+Banana, Mango and Apple that represent the main crops
+in the study area. The results indicate that the daily
+water requirements for crops have been doubled in zone
+7 compared with zone 1. The optimum land use in the
+area that minimizes the water requirement could be
+selected on bases of agro-ecological zones and crop
+water requirements.
+References
+Allen, R.G. (2000). Using the FAO-56 dual crop
+coefficient method over an irrigated region as a
+part an evapotranspiration intercomparison study.
+Journal of Hydrology 229 (1-2): 27-41.
+ASRT, (1982). Soil Map of Egypt. Final report,
+Academy of Scientific Research and Technology
+(ASRT) Cairo, Egypt.
+Bausch, W.C. (1995). Remote sensing of crop
+coefficients for improving the irrigation scheduling
+of corn. Agric. Water Management, 27: 55-68.
+Bouman, B.A.M. (2007). A conceptual framework for
+the improvement of crop water productivity at
+different spatial scales. Agricultural Systems,
+93(1-3): 43-60.
+CONOCO,
+(1989).
+Startigraphic
+Lexicon
+and
+explanatory notes to the geological amp of Egypt
+1:
+500,000,
+eds.
+Maurice
+Hermina,
+Eberhardklitzsch and Franz K. List, pp. 263, Cairo:
+CONOCO Inc., ISBN 3-927541-09-5.
+Egyptian Meteorological Authority, (1996). Climatic
+Atlas of Egypt. Published, Arab Republic of
+Egypt, Ministry of Transport.
+El-Bagouri, I.H.M. (2008). Management of productive
+lands of Egypt: A presentation in IGBP Regional
+Workshop - MENA. 20-21 November 2008,
+Cairo, Egypt.
+FAO (1981). Agro-ecological Zones. World Soil
+Resources Report 48, FAO, Rome.
+FAO. (2000). Water and agriculture in the Nile Basin.
+Nile
+Basin
+Initiative
+Report
+to
+ICCON.
+Background Paper prepared by FAO. Report
+prepared by Appelgren, B., Klohn. W. and Alam,
+U. Rome.
+ITT, (2009). ITT corporation ENVI 4.7 software. 1133
+Westchester Avenue, White Plains, NY 10604,
+USA.
+Kite, G. and Droogers, P. (2000). Comparing
+evapotranspiration
+estimates
+from
+satellites,
+hydrological models and field data. Journal of
+Hydrology, 229(1-2): 1-2.
+Lillesand, T.M. and Kiefer, R.W. (2007). Remote
+sensing and image interpretation, 5th ed. Paper
+back September 2007, John Wiley, New York,
+820.
+Molden, D.; Rijsberman, F.; Matsuno, Y. and
+Amerashinghe,
+U.
+(2000).
+Increasing
+water
+productivity:
+A
+requirement
+for
+food
+and
+environmental security. Dialogue on Water for
+Food and Environmental Security, Colombo, Sri
+Lanka: International Water Management Institute.
+Patel, N.R.; Mandal, U.K. and Pande, L.M. (2000).
+Agro-ecological zoning system. A Remote Sensing
+and GIS Perspective. Journal of Agrometeorology,
+2(1): 1-13.
+Stephen, M.K. (2008). Exploring application of remote
+sensing in estimating crop evapotranspiration:
+comparison of S-SEBI algorithm and adapted FAO
+56 model using landsat TM 5 and MODIS. M.Sc.
+international institute for Geo-information science
+and earth observation, ITC, Enschede, the
+Netherlands.
+USDA, (2010). "Keys to Soil Taxonomy" United State
+Department of Agriculture, Natural Resources
+Conservation Service (NRCS) eleventh edition.
+
+M. Ismail and R.R. Ali

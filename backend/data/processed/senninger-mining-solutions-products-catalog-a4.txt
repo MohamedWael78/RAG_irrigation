@@ -1,0 +1,3946 @@
+--- PAGE 1 ---
+hunterirrigation.com/agriculture
+Mining Solutions
+Eﬃ cient irrigation for leach recovery of gold, silver and copper
+that conserves energy and helps reduce carbon footprint.
+
+--- PAGE 2 ---
+
+WHAT'S
+INSIDE
+WOBBLER® SPRINKLERS
+■ mini-Wobbler™
+
+■ Xcel-Wobbler™
+
+■ Wobbler®
+
+■ Installation Options
+
+ADVANTAGES OF WOBBLER® TECHNOLOGY
+■ Uniformity
+
+■ Oriﬁce
+
+■ Cost Savings
+
+■ Side Slope Leaching
+
+AUTOMATION SOLUTIONS
+ Node-BT Controller, Electric Valves
+
+■ Electric Vales and Other Solutions
+
+IMPACT SPRINKLERS
+■ Impact Sprinkler: Part Circle
+
+■ Dust Suppression
+
+■ Impact Sprinkler: 80 Series
+
+SPRAYS
+■ Super Spray® for Evaporation
+
+PRESSURE REGULATION
+■ Pressure Regulation Overview
+
+■ PRMP - Mining Prospector
+
+■ PRL - Low Fow
+
+■ PMR-MF - Medium Flow
+
+■ PR-HF - High Flow
+
+■ PRU - Ultra Flow
+
+■ PRLV - Limit Valve
+
+■ PRU-LV - Ultra Limit Valve
+
+COMPONENTS
+■ Riser Adapter
+
+■ Quick-Connect Coupling
+
+SOFTWARE
+■ WinSIPP™ Mining
+
+■ IrriMaker/IrriExpress
+
+RESOURCES
+■ Nozzles
+
+■ Warranty
+
+NEW
+NEW
+NEW
+
+--- PAGE 3 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Since 1966, Senninger® has been recognized worldwide for its Low Pressure - High Performance™
+irrigation solutions. Building on our agricultural expertise, we introduced our fi rst line of Custom
+Mining Sprinklers (CMS) in 1970, combining durable materials, effi cient designs, and precision
+pressure control to meet the demanding conditions of copper, silver, and gold mining operations.
+Today, as Hunter® Agricultural Irrigation, we continue to expand our reach and capabilities,
+off ering reliable products and world-class support wherever your operation is located.
+What This Means for You:
+*
+Continued delivery of high-quality Senninger® products
+*
+Expanded facilities and global presence to serve your needs
+*
+Dedicated technical expertise and customer service you can count on
+*
+Ongoing investment in production, automation, and innovation
+*
+Long-term commitment to the mining markets we proudly serve
+We are grateful for your continued partnership and trust. Your support drives our passion to
+engineer industry-leading products, deliver educational programs, and provide exceptional
+service, today and for decades to come.
+PROVEN IRRIGATION TECHNOLOGY FOR
+DEMANDING MINING
+OPERATIONS
+
+--- PAGE 4 ---
+
+mini-Wobbler™
+FEATURES
+* Outstanding uniformity
+* High application effi ciency at low operating
+* Various droplet sizes available based on selected nozzle
+size and pressure
+* A wide range of fl ows to deliver the optimal application rate
+* Only one moving part helps ensure product longevity
+* Inlet size: 1/2" NPT male
+MINI-WOBBLER XCEL-WOBBLER WOBBLER
+Design a Leaching System with
+the mini-Wobbler™
+For proper fi eld designing, use our irrigation
+design tool WinSIPP™ Mining. More
+information about this soft ware is on page 42.
+In this example, a mini-Wobbler CMS can
+deliver near 90% Coeffi cient Uniformity when
+used with at 20 x 20 ft (6 x 6 m) spacing, with
+20 psi (1.38 bar) of pressure, and a #5 nozzle.
+Flow: 0.42 to 2.18 gpm (95 to 495 L/hr)
+Pressure: 15 to 25 psi (1.03 to 1.72 bar)
+Installation
+Options
+Riser Stake:
+14" or 26" height
+Tubing:
+0.345" ID
+mini-Wobbler
+Riser Adapter
+Quick Connect
+RSAD345
+Super Barb
+FTA15B2T
+Winged Hose
+Barb Bushing
+FTHS2T
+RISER STAKE
+Pre Engineered
+Saddle or
+Fitting
+mini-Wobbler
+HDPE Riser
+HDPE RISER
+See installation options on page 10
+
+--- PAGE 5 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+MINI-WOBBLER CMS PERFORMANCE DATA
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+1.03
+1.38 1.72
+#4 Nozzle - Blue (1/16")
+#4 Nozzle - Blue (1.59 mm)
+Flow (gpm)
+0.42
+0.50 0.56
+Flow (L/hr)
+
+Diameter at 1.5 f ht (f)
+26.5
+28.0 28.0
+Diameter at 0.46 m ht (m)
+8.1
+8.5
+8.5
+#5 Nozzle - Brown (5/64")
+#5 Nozzle - Brown (1.98 mm)
+Flow (gpm)
+0.64
+0.75 0.84
+Flow (L/hr)
+
+Diameter at 1.5 f ht (f)
+31.0
+33.5
+35.0
+Diameter at 0.46 m ht (m)
+9.4
+10.2
+10.7
+#6 Nozzle - Orange (3/32")
+#6 Nozzle - Orange (2.38 mm)
+Flow (gpm)
+0.95
+1.10
+1.25
+Flow (L/hr)
+
+Diameter at 1.5 f ht (f)
+33.0
+36.0 37.0
+Diameter at 0.46 m ht (m)
+10.1
+11.0
+11.3
+#7 Nozzle - Dark Green (7/64")
+#7 Nozzle - Dark Green (2.78 mm)
+Flow (gpm)
+1.30
+1.51
+1.69
+Flow (L/hr)
+
+Diameter at 1.5 f ht (f)
+35.0
+37.5
+38.5
+Diameter at 0.46 m ht (m)
+10.7
+11.4
+11.7
+#8 Nozzle - Purple (1/8")
+#8 Nozzle - Purple (3.18 mm)
+Flow (gpm)
+1.67
+1.95
+2.18
+Flow (L/hr)
+
+Diameter at 1.5 f ht (f)
+35.5
+38.5 38.0
+Diameter at 0.46 m ht (m)
+10.8
+11.7
+11.9
+Sprinkler performance may vary with actual ﬁeld conditions. Other nozzle sizes are available. Stream heights
+range from 1.5 to 3.0 f (0.46 to 0.91 m) above nozzle based on pressure and nozzle size.
+mini-Wobbler™
+MINI-WOBBLER XCEL-WOBBLER WOBBLER
+
+--- PAGE 6 ---
+
+Installation
+Options
+Xcel-Wobbler™
+ High & Mid Angle
+HIGH ANGLE
+MID ANGLE
+MINI-WOBBLER XCEL-WOBBLER WOBBLER
+FEATURES
+* Outstanding uniformity
+* High application eﬃ ciency at low operating pressure
+* Various droplet sizes available based on selected
+nozzle size and pressure
+* A wide range of ﬂ ows to deliver the optimal
+application rate
+* Only one moving part helps ensure product longevity
+* Inlet size: 1/2" or 3/4" NPT male
+Design a Leaching System with
+the Xcel-Wobbler™
+For proper ﬁ eld designing, use our irrigation
+design tool WinSIPP™ Mining. More information
+about this sof ware is on page 42.
+In this example, an Xcel-Wobbler High Angle CMS
+can deliver 90% Coeﬃ cient Uniformity when used
+with at 20 x 20 f (6 x 6 m) with 20 psi (1.38 bar)
+of pressure, and a #9 nozzle.
+Flow: 0.78 to 6.23 gpm (117 to 1415 L/hr)
+Pressure: 10 to 20 psi (0.69 to 1.38 bar)
+See installation options on page #10
+Pre Engineered
+Saddle or
+Fitting
+Xcel-Wobbler
+HDPE Riser
+PVC RISER WITH PRESSURE REGULATOR
+Xcel-Wobbler
+Riser Adapter
+RSAD345
+Tubing:
+0.345" ID
+TU15ST
+PRMP Regulator
+Super Barb
+FTA15B2M
+Nipple FTN32
+Nipple
+Pre Engineered
+Saddle or
+Fitting
+HDPE RISER
+
+--- PAGE 7 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+XCEL-WOBBLER CMS PERFORMANCE DATA
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+0.69
+1.03
+1.38
+#6 Nozzle - Gold (3/32")
+#6 Nozzle - Gold (2.38 mm)
+Flow (gpm)
+0.78
+0.95
+1.10
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+36.5
+41.0
+45.0
+HA Diameter at 0.46 m ht (m)
+11.1
+12.5
+13.7
+MA Diameter at 1.5 ft ht (ft)
+32.0
+35.0
+38.5
+MA Diameter at 0.46 m ht (m)
+9.8
+10.7
+11.7
+#7 Nozzle - Lime (7/64")
+#7 Nozzle - Lime (2.78 mm)
+Flow (gpm)
+1.06
+1.30
+1.50
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+40.0
+46.5
+47.0
+HA Diameter at 0.46 m ht (m)
+12.2
+14.2
+14.3
+MA Diameter at 1.5 ft ht (ft)
+33.0
+36.5
+40.5
+MA Diameter at 0.46 m ht (m)
+10.1
+11.1
+12.4
+#8 Nozzle - Lavender (1/8")
+#8 Nozzle - Lavender (3.18 mm)
+Flow (gpm)
+1.40
+1.71
+1.98
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+42.0
+46.5
+47.0
+HA Diameter at 0.46 m ht (m)
+12.8
+14.2
+14.3
+MA Diameter at 1.5 ft ht (ft)
+34.0
+38.5
+41.0
+MA Diameter at 0.46 m ht (m)
+10.4
+11.7
+12.5
+#9 Nozzle - Grey (9/64")
+#9 Nozzle - Grey (3.57 mm)
+Flow (gpm)
+1.80
+2.20
+2.54
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+44.0
+47.0
+50.5
+HA Diameter at 0.46 m ht (m)
+13.4
+14.3
+15.4
+MA Diameter at 1.5 ft ht (ft)
+34.5
+40.5
+42.0
+MA Diameter at 0.46 m ht (m)
+10.5
+12.4
+12.8
+#10 Nozzle - Turquoise (5/32")
+#10 Nozzle - Turquoise (3.97 mm)
+Flow (gpm)
+2.22
+2.72
+3.14
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+44.5
+49.0
+50.5
+HA Diameter at 0.46 m ht (m)
+13.6
+14.9
+15.4
+MA Diameter at 1.5 ft ht (ft)
+36.0
+41.0
+42.5
+MA Diameter at 0.46 m ht (m)
+11.0
+12.5
+13.0
+#11 Nozzle - Yellow (11/64")
+#11 Nozzle - Yellow (4.37 mm)
+Flow (gpm)
+2.69
+3.30
+3.81
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+44.5
+50.5
+51.5
+HA Diameter at 0.46 m ht (m)
+13.6
+15.4
+15.7
+MA Diameter at 1.5 ft ht (ft)
+36.0
+41.5
+43.0
+MA Diameter at 0.46 m ht (m)
+11.0
+12.7
+13.1
+#12 Nozzle - Red (3/16")
+#12 Nozzle - Red (4.76 mm)
+Flow (gpm)
+3.23
+3.96
+4.57
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+46.0
+50.5
+52.0
+HA Diameter at 0.46 m ht (m)
+14.0
+15.4
+15.9
+MA Diameter at 1.5 ft ht (ft)
+36.5
+41.5
+44.5
+MA Diameter at 0.46 m ht (m)
+11.1
+12.7
+13.6
+#13 Nozzle - White (13/64")
+#13 Nozzle - White (5.16 mm)
+Flow (gpm)
+3.80
+4.65
+5.38
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+46.5
+51.0
+52.5
+HA Diameter at 0.46 m ht (m)
+14.2
+15.6
+16.0
+MA Diameter at 1.5 ft ht (ft)
+36.5
+41.5
+44.5
+MA Diameter at 0.46 m ht (m)
+11.1
+12.7
+13.6
+#14 Nozzle - Blue (7/32")
+#14 Nozzle - Blue (5.56 mm)
+Flow (gpm)
+4.40
+5.39
+6.23
+Flow (L/hr)
+
+HA Diameter at 1.5 ft ht (ft)
+47.0
+51.0
+53.0
+HA Diameter at 0.46 m ht (m)
+14.3
+15.6
+16.2
+MA Diameter at 1.5 ft ht (ft)
+37.0
+42.5
+45.0
+MA Diameter at 0.46 m ht (m)
+11.3
+13.0
+13.7
+HA = high-angle, MA = mid-angle. Sprinkler performance may vary with actual ﬁeld conditions. Stream heights range
+from 2.5 to 5.5 f (0.8 to 1.7 m) above nozzle based on pressure and nozzle size.
+High & Mid Angle Xcel-Wobbler™
+MINI-WOBBLER XCEL-WOBBLER
+WOBBLER
+
+--- PAGE 8 ---
+
+Wobbler®
+ Standard and Low Angle
+MINI-WOBBLER
+XCEL-WOBBLER
+ WOBBLER
+STANDARD
+ANGLE
+LOW
+ANGLE
+FEATURES
+* Outstanding uniformity
+* High application eﬃ ciency at low operating
+pressure
+* Various droplet sizes available based on selected
+nozzle size and pressure
+* A wide range of ﬂ ows to deliver the optimal
+application rate
+* Only one moving part helps ensure product
+longevity
+* Inlet size: 1/2" or 3/4" NPT male
+Design a Leaching System with the Wobbler
+For proper ﬁ eld designing, use our irrigation design
+tool WinSIPP™ Mining. More information about
+this sof ware is on page 42.
+In this example, a Wobbler CMS can deliver a 90%
+Coeﬃ cient Uniformity when used with at 22 x 22 f
+(7 x 7 m) triangular spacing, with 20 psi (1.38 bar)
+of pressure, and a #9 nozzle.
+Flow: 0.78 to 6.23 gpm (117 to 1415 L/hr)
+Pressure: 10 to 20 psi (0.69 to 1.38 bar)
+PRESSURE REGULATOR
+Installation
+Options
+
+Pressure
+Regulator
+Wobbler
+Pre-Engineered
+Saddle or
+Fitting
+Lateral
+Line
+SADDLE
+Pre-Engineered
+Saddle or
+Fitting
+Lateral
+Line
+Wobbler
+See mounting options on page #10
+
+--- PAGE 9 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Standard and Low Angle Wobbler®
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+0.69
+1.03
+1.38
+#6 Nozzle - Gold (3/32")
+#6 Nozzle - Gold (2.38 mm)
+Flow (gpm)
+0.78
+0.95
+1.10
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+34.0
+39.0
+41.5
+SA Diameter at 0.46 m ht (m)
+10.4
+11.9
+12.7
+LA Diameter at 1.5 ft ht (ft)
+29.0
+34.5
+38.0
+LA Diameter at 0.46 m ht (m)
+ 8.8
+10.5
+11.6
+#7 Nozzle - Lime (7/64")
+#7 Nozzle - Lime (2.78 mm)
+Flow (gpm)
+1.06
+1.30
+1.50
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+36.5
+41.5
+43.5
+SA Diameter at 0.46 m ht (m)
+11.1
+12.7
+13.3
+LA Diameter at 1.5 ft ht (ft)
+31.5
+37.0
+40.0
+LA Diameter at 0.46 m ht (m)
+9.6
+11.3
+12.2
+#8 Nozzle - Lavender (1/8")
+#8 Nozzle - Lavender (3.18 mm)
+Flow (gpm)
+1.40
+1.71
+1.98
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+38.5
+43.5
+45.0
+SA Diameter at 0.46 m ht (m)
+11.7
+13.3
+13.7
+LA Diameter at 1.5 ft ht (ft)
+34.0
+39.0
+41.5
+LA Diameter at 0.46 m ht (m)
+10.4
+11.9
+12.7
+#9 Nozzle - Grey (9/64")
+#9 Nozzle - Grey (3.57 mm)
+Flow (gpm)
+1.80
+2.20
+2.54
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+40.5
+45.5
+46.5
+SA Diameter at 0.46 m ht (m)
+12.4
+13.9
+14.2
+LA Diameter at 1.5 ft ht (ft)
+35.5
+40.5
+42.5
+LA Diameter at 0.46 m ht (m)
+10.8
+12.4
+13.0
+#10 Nozzle - Turquoise (5/32")
+#10 Nozzle - Turquoise (3.97 mm)
+Flow (gpm)
+2.22
+2.72
+3.14
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+42.0
+47.0
+48.0
+SA Diameter at 0.46 m ht (m)
+12.8
+14.3
+14.6
+LA Diameter at 1.5 ft ht (ft)
+36.0
+41.0
+43.0
+LA Diameter at 0.46 m ht (m)
+11.0
+12.5
+13.1
+#11 Nozzle - Yellow (11/64")
+#11 Nozzle - Yellow (4.37 mm)
+Flow (gpm)
+2.69
+3.30
+3.81
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+43.0
+48.0
+49.0
+SA Diameter at 0.46 m ht (m)
+13.1
+14.6
+14.9
+LA Diameter at 1.5 ft ht (ft)
+36.5
+42.0
+43.5
+LA Diameter at 0.46 m ht (m)
+11.1
+12.8
+13.3
+#12 Nozzle - Red (3/16")
+#12 Nozzle - Red (4.76 mm)
+Flow (gpm)
+3.23
+3.96
+4.57
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+44.0
+49.0
+50.0
+SA Diameter at 0.46 m ht (m)
+13.4
+14.9
+15.3
+LA Diameter at 1.5 ft ht (ft)
+37.0
+42.5
+44.0
+LA Diameter at 0.46 m ht (m)
+11.3
+13.0
+13.4
+#13 Nozzle - White (13/64")
+#13 Nozzle - White (5.16 mm)
+Flow (gpm)
+3.80
+4.65
+5.38
+Flow (L/hr)
+
+1056 1222
+SA Diameter at 1.5 ft ht (ft)
+44.5
+49.5
+50.5
+SA Diameter at 0.46 m ht (m)
+13.6
+15.1
+15.4
+LA Diameter at 1.5 ft ht (ft)
+37.5
+43.0
+44.5
+LA Diameter at 0.46 m ht (m)
+11.4
+13.1
+13.6
+#14 Nozzle - Blue (7/32")
+#14 Nozzle - Blue (5.56 mm)
+Flow (gpm)
+4.40
+5.39
+6.23
+Flow (L/hr)
+
+SA Diameter at 1.5 ft ht (ft)
+45.0
+50.0
+51.0
+SA Diameter at 0.46 m ht (m)
+13.7
+15.3
+15.6
+LA Diameter at 1.5 ft ht (ft)
+38.0
+43.5
+45.0
+LA Diameter at 0.46 m ht (m)
+11.6
+13.3
+13.7
+SA = standard-angle, LA = mid-angle. Sprinkler performance may vary with actual ﬁeld conditions.
+Stream heights range from 2.5 to 5.5 f (0.8 to 1.7 m) above nozzle based on pressure and nozzle size.
+MINI-WOBBLER XCEL-WOBBLER WOBBLER
+WOBBLER CMS PERFORMANCE DATA
+
+--- PAGE 10 ---
+
+①
+PRESSURE REGULATOR
+The mini-Wobbler, Xcel-Wobbler or Wobbler can be
+mounted directly to a pressure regulator. A nipple is
+required to connect the regulator to the saddle. Use
+a carbon or stainless-steel nipple for gold and silver
+leaching and a stainless-steel nipple for copper leaching.
+HDPE RISER
+The mini-Wobbler or Xcel-Wobbler can be mounted
+on a HDPE riser that connects to a saddle.
+Pre Engineered
+Saddle or
+Fitting
+Xcel-Wobbler
+HDPE Riser
+PVC RISER
+The mini-Wobbler or Xcel-Wobbler can be
+mounted on a PVC riser or the Senninger Riser
+Stake using the Senninger Riser Adapter.
+See page 40 for details.
+Tubing:
+0.345" ID
+TU15ST
+Super Barb
+FTA15B2T
+Xcel-Wobbler
+Riser Adapter
+RSAD345
+Winged Hose
+Barb Bushing
+FTHS2T
+PVC RISER WITH PRESSURE
+REGULATOR
+The mini-Wobbler or Xcel-Wobbler can be
+mounted on a PVC riser or the Senninger Riser
+Stake and used with a pressure regulator.
+SADDLE
+The mini-Wobbler™, Xcel-Wobbler™ or Wobbler® can
+be mounted directly to a saddle or pre-engineered
+plastic female ﬁ tting.
+Pre Engineered
+Saddle or
+Fitting
+Xcel-Wobbler
+Pre Engineered
+Saddle or
+Fitting
+Xcel-Wobbler
+Regulator
+Nipple
+Xcel-Wobbler
+Riser Adapter
+RSAD345
+Tubing:
+0.345" ID
+TU15ST
+PRMP Regulator
+Super Barb
+FTA15B2M
+Nipple FTN32
+Nipple
+Pre Engineered
+Saddle or
+Fitting
+②
+④
+⑤
+③
+INSTALLATION OPTIONS OUTSTANDING UNIFORMITY ORIFICE ADVANTAGES COST SAVINGS SIDE SLOPE LEACHING
+Installation Options
+
+--- PAGE 11 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Senninger® Wobbler® Technology utilizes a unique oﬀ -
+center rotary action that provides extremely uniform solution
+distribution, which is essential to maximizing metals recovery.
+Wobbler® Technology sprinklers are the most eﬀ ective method for total solution
+contact due to the consistent droplet size that covers a full 360 degrees area
+instantaneously, so the solution reaches the ore surface with a gentle and even
+distribution.
+This product line has been engineered and designed to provide optimal
+performance at low pressures, as low as 10 psi (0.69 bar), which not only
+minimizes evaporative losses but also saves energy and allows greater areas to
+be leached in less time. This can save money and increase productivity.
+Carbon Footprint
+It is possible to reduce the carbon footprint in the mining
+industry by implementing technologies that not only perform
+more eﬃ ciently but also are more durable in the ﬁ eld.
+Consequently, they signiﬁ cantly decrease waste and pollution.
+They have provided the highest water and energy eﬃ ciency
+while increasing productivity in the mining leaching process for
+decades.
+Other technologies, like drip systems in mining, entail a high
+environmental cost due to the continual replacement of drip
+lines due to their high deterioration rate.
+INSTALLATION OPTIONS OUTSTANDING UNIFORMITY ORIFICE ADVANTAGES COST SAVINGS SIDE SLOPE LEACHING
+OutstandingUniformity
+Drip systems depend on the source point application of the solution, which promotes channeling. With a
+minimal lateral movement of the applied solution, drip systems have a challenge achieving the desired
+application rate.
+Drip Lateral Lines
+Emitters are placed every
+1.97 f (0.6 m) within the
+line
+Channeling
+Unleached area
+Sprinkler Lateral
+30 f (9 m) for full pad
+coverage
+Leached area
+LOW PRESSURE
+ HIGH
+PERFORMANCE™
+
+--- PAGE 12 ---
+
+WOBBLER®TECHNOLOGY
+The Wobbler Technology sprinklers can be spaced
+20 x 23 ft (6 x 7 m) between sprinklers and lateral lines
+to deliver an optimal application rate. Material and
+installation costs are lower in both the short and long
+term. Plus, sprinklers are much easier to service.
+DRIP
+Drip irrigation systems require spacing of about 2 ft or
+(0.61 m) between drip lines for the emitters to reach
+the optimal application rate. Installation costs and
+maintenance costs can be higher to correct clogged drip
+lines.
+Drip (Material take-off )
+Emitter spacing 2 ft (0.61 m)
+Lateral spacing 2 ft (0.61 m)
+mini-Wobbler spacing
+20 ft (6 m)
+Lateral spacing
+23 ft (7 m)
+Sprinkler
+(Wobbler® Technology Sprinklers)
+2 ft (0.61
+2 ft (0.61
+m) apart
+m) apart
+20 ft (6 m)
+23 ft (7 m)
+BILL OF MATERIAL
+Sprinkler
+Drip
+16 mm PE lateral /
+(20 mm) PE lateral
+4,700 linear ft
+(1,433 linear m)
+54,000 linear ft
+(16,459 linear m)
+Fittings
+
+Emitters
+
+27.000
+ENERGY REQUIRED
+Sprinkler
+Drip
+Pumps
+
+Pipes
+
+Fittings
+
+Emitter Operating Pressure
+
+Filtration
+
+TOTAL
+
+Based on Irri-Maker® design for pad 328 x 328 ft (100 x 100 m)
+ADDITIONAL ADVANTAGES
+* Increases coverage effi ciency
+* Versatility of being moved and used repeatedly
+* Visual confi rmation of uniformity.
+* Adjustable fl ow and application rates.
+* Adapts to pad rinsing for reclamation.
+* Can replace obsolete drip systems easily.
+ORIFICE ADVANTAGE
+Senninger® Wobbler® Technology sprinklers
+like the mini-Wobbler™ employ nozzle
+sizes that are larger than drip systems. This
+minimizes clogging issues without the need for
+excessive fi ne fi ltration, which can signifi cantly
+increase operational costs for pad leaching.
+TYPICAL DRIP
+ORIFICE SIZE
+0.052"
+(1.32 mm)
+MINI-WOBBLER
+NOZZLE ORIFICES
+#6 Nozzle Orifi ce
+3⁄32" (2.38 mm)
+#7 Nozzle Orifi ce
+7⁄64" (2.78 mm)
+#8 Nozzle Orifi ce
+ 1⁄8" (3.17 mm)
+INSTALLATION OPTIONS OUTSTANDING UNIFORMITY ORIFICE ADVANTAGES COST SAVINGS SIDE SLOPE LEACHING
+Orifi ce Advantages
+Cost Savings Advantages
+
+--- PAGE 13 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+ADVANTAGES
+* Reduce the carbon footprint by effi ciently irrigating
+the trees in inert areas. Ultimately, this helps to provide
+oxygen to our planet.
+* Provides effi cient irrigation application in
+hard-to-reach areas.
+* Increases coverage effi ciency.
+* Provides the versatility of being moved and used
+repeatedly.
+* Aff ords visual confi rmation of uniformity.
+* Allows adjustable fl ow and application rates.
+* Can replace obsolete drip system
+WOBBLER TECHNOLOGY TRANSFORMING
+ECOSYSTEMS
+In the land recovery stages following mine
+closures, Wobbler Technology can provide effi cient
+irrigation for those areas to help speed up the
+reforestation process.
+Because Wobbler® Technology applies
+mining leach solutions with high
+uniformity, it can be adapted for use in
+hard-to-reach areas. Mineral extraction
+from side slopes is vital in mining.
+Wobbler sprinklers can help capture
+these resources effi ciently with chemical
+solutions using low energy consumption.
+DESIGN A SIDE SLOPE LEACHING
+SYSTEM WITH WOBBLER® TECHNOLOGY
+Be sure to use the Irri-Maker™ Soft ware to
+design the most precise irrigation system
+on the side slope. It gives you the option to
+select a sprinkler type, pressures, valves, and
+pipe diameters based on fl ow velocities. More
+information about this soft ware, on page 42.
+INSTALLATION OPTIONS OUTSTANDING UNIFORMITY ORIFICE ADVANTAGES COST SAVINGS SIDE SLOPE LEACHING
+Side Slope Leaching
+
+--- PAGE 14 ---
+
+NODE-BT ELECTRIC VALVES OTHER SOLUTIONS
+The battery-operated NODE-BT controller
+from Hunter® Industries is enabled with
+powerful wireless Bluetooth® technology
+that can be easily managed from a
+smartphone. It's a reliable choice for areas
+where AC power is unavailable.
+BENEFITS
+* Enabled with Bluetooth® technology with easy wireless
+confi guration of schedules via Smartphone app.
+* Unlimited device control and mapping via the same app.
+* Models available for 1, 2, or 4 stations.
+Senninger® Wobbler® Technology sprinklers
+are also used for solar panels maintenance. The
+high uniformity of this product line helps keep
+them free of particles. As a result, the panels can
+absorb the greatest amount of solar energy the
+whole year round.
+Node-BT Controllers
+Other Solutions
+BENEFITS
+* Optional Filter Sentry® scours the fi lter screen in dirty water
+conditions
+* Glass-fi lled nylon construction provides high pressure rating
+and reliability
+* Double-beaded diaphragm seal design ensures leak-free
+performance
+* Fabric-reinforced EPDM diaphragm and seat ensure greater
+performance in all water conditions
+* Captive bonnet screws eliminate the possibility of lost parts
+during disassembly
+Valves from Hunter Industries work
+seamlessly with high demand systems.
+Electric Valves
+
+--- PAGE 15 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+
+--- PAGE 16 ---
+
+PART-CIRCLE DUST SUPPRESSION 80 SERIES
+Part-Circle
+Flow: 2.42 to 16.1 gpm (550 to 3657 L/hr)
+Pressure: 30 to 55 psi (2.07 to 3.79 bar)
+FEATURES
+* Distributes water in a 20º to 365° adjustable pattern,
+no tools required
+* Covered reversing mechanism
+* 23º and 23º trajectory models for maximum radius
+ of throw
+* Inlet size: 3⁄4" and 1" NPT male (3⁄4" NPT female and
+ 1" NPT female also available)
+3123 PART-CIRCLE EFFLUENT PERFORMANCE DATA
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+2.07
+2.42
+2.76
+3.11
+3.45
+3.79
+#8 Nozzle - Lav. (1/8")
+#8 Nozzle - Lav. (3.18 mm)
+Flow (gpm)
+2.42 2.62 2.79 2.97
+3.12
+3.28
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+11.6
+11.9
+12.2
+12.5
+12.8
+12.8
+#9 Nozzle - Grey (9/64")
+#9 Nozzle - Grey (3.57 mm)
+Flow (gpm)
+3.08 3.33 3.56 3.78 3.98 4.16
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+12.2
+12.5
+12.8
+13.1
+13.1
+13.4
+#10 Nozzle - Turq. (5/32")
+#10 Nozzle - Turq. (3.97 mm)
+Flow (gpm)
+3.82
+4.13
+4.41 4.68 4.93
+5.17
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+12.5
+13.1
+13.4
+13.7
+13.7
+14.0
+Senninger® Part-Circle impact
+sprinklers allow adjustments to match
+the desired area of coverage. They are
+mainly used in dust suppression.
+4123 PART-CIRCLE EFFLUENT PERFORMANCE DATA
+SPRINKLER BASE
+PRESSURE-US
+psi
+SPRINKLER BASE
+PRESSURE-METRIC
+bar
+
+2.07
+2.42
+2.76
+3.11
+3.45
+3.79
+#10 Nozzle - Turquoise (5/32")
+#10 Nozzle - Turquoise (3.97 mm)
+Flow (gpm)
+3.82
+4.13
+4.41 4.68 4.93
+5.17
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+12.8
+13.1
+13.4
+13.7
+13.7
+14.0
+#11 Nozzle - Yellow (11/64")
+#11 Nozzle - Yellow (4.37 mm)
+Flow (gpm)
+4.63 5.00 5.34 5.67 5.98 6.27
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+13.3
+13.7
+14.0
+14.3
+14.5
+14.6
+#12 Nozzle - Red (3/16")
+#12 Nozzle - Red (4.76 mm)
+Flow (gpm)
+5.52 5.97 6.37 6.76
+7.13
+7.48
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+13.6
+14.0
+14.5
+14.9
+15.2
+15.4
+#13 Nozzle - White (13/64")
+#13 Nozzle - White (5.16 mm)
+Flow (gpm)
+6.50 7.02 7.49 7.95 8.38 8.80
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+13.7
+14.2
+14.6
+15.1
+15.4
+15.5
+Sprinkler performance may vary with actual ﬁ eld conditions. Radius shown is for standard straight bore nozzles and stream straightening vanes.
+Stream heights range from 6.0 to 10.0 f (1.8 to 3.1 m) above nozzle based on pressure nozzle size.
+
+--- PAGE 17 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+ PART-CIRCLE DUST SUPPRESSION 80 SERIES
+Part-Circle
+5123 PART-CIRCLE EFFLUENT PERFORMANCE DATA
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+2.07
+2.42
+2.76
+3.11
+3.45
+3.79
+#13 Nozzle - White (13/64")
+#13 Nozzle - White (5.16 mm)
+Flow (gpm)
+6.50 7.02 7.49 7.95 8.38 8.80 Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+13.7
+14.3
+14.6
+15.2
+15.5
+15.5
+#14 Nozzle - Blue (7/32")
+#14 Nozzle - Blue (5.56 mm)
+Flow (gpm)
+7.49 8.09 8.63 9.17 9.66
+10.1
+Flow (L/hr)
+
+1960 2083 2194 2294
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+14.0
+14.3
+14.9
+15.2
+15.5
+15.8
+#15 Nozzle - Dark Brown (15/64")
+#15 Nozzle - Dark Brown (5.95 mm)
+Flow (gpm)
+8.51
+9.19
+9.81
+10.4
+11.0
+11.5
+Flow (L/hr)
+1933 2087 2228 2362 2498 2612
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+14.0
+14.6
+15.2
+15.5
+15.8
+16.2
+#16 Nozzle - Orange (1/4")
+#16 Nozzle - Orange (6.35 mm)
+Flow (gpm)
+9.63 10.4
+11.1
+11.8
+12.4
+13.0
+Flow (L/hr)
+
+2521 2680 2816
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+14.3
+15.2
+15.5
+16.2
+16.5
+16.8
+#17 Nozzle - Dark Green (17/64")
+#17 Nozzle - Dark Green (6.75 mm)
+Flow (gpm)
+10.7
+11.6
+12.3
+13.1
+13.8
+14.5
+Flow (L/hr)
+2430 2635 2794 2975
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+14.3
+15.2
+15.8
+16.5
+16.8
+17.1
+#18 Nozzle - Purple (9/32")
+#18 Nozzle - Purple (7.14 mm)
+Flow (gpm)
+11.9
+12.9
+13.7
+14.6
+15.4
+16.1
+Flow (L/hr)
+2703 2903
+
+3498 3657
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+14.3
+15.2
+16.2
+16.8
+17.1
+17.4
+Sprinkler performance may vary with actual ﬁ eld conditions. Radius shown is for standard straight bore nozzles and stream straightening vanes.
+Stream heights range from 6.0 to 10.0 f (1.8 to 3.1 m) above nozzle based on pressure nozzle size.
+7125 PART-CIRCLE EFFLUENT PERFORMANCE DATA
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+2.76
+3.45
+4.14
+4.83
+#14 Nozzle (7/32")
+#14 Nozzle (5.56 mm)
+Flow (gpm)
+9.20
+10.1
+10.9
+11.8
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+17.4
+17.7
+18.3
+19.2
+#16 Nozzle (1/4")
+#16 Nozzle (6.35 mm)
+Flow (gpm)
+11.1
+12.3
+13.5
+14.8
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+18.0
+18.6
+19.8
+20.1
+#18 Nozzle (9/32")
+#18 Nozzle (7.14 mm)
+Flow (gpm)
+13.3
+15.2
+16.6
+18.0
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+18.6
+19.2
+20.4
+20.7
+#20 Nozzle (5/16")
+#20 Nozzle (7.94 mm)
+Flow (gpm)
+16.4
+18.1
+19.8
+21.9
+Flow (L/hr)
+
+Radius
+
+Radius at 0.46 m ht (m)
+19.5
+21.0
+22.3
+23.5
+#22 Nozzle (11/32")
+#22 Nozzle (8.73 mm)
+Flow (gpm)
+19.0
+21.3
+23.0
+25.4
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+20.4
+21.9
+22.9
+29.4
+#24 Nozzle (3/8")
+#24 Nozzle (9.53 mm)
+Flow (gpm)
+23.0
+24.4
+27.9
+31.0
+Flow (L/hr)
+
+Radius at 1.5 ft ht (ft)
+
+Radius at 0.46 m ht (m)
+20.7
+22.3
+23.5
+24.7
+Sprinkler performance may vary with actual field conditions. Radii shown are for standard straight bore nozzles
+and stream straightening vanes. Stream heights range from 8.5 to 15.5 ft (2.6 to 4.7 m) above nozzle based on
+pressure and nozzle size.
+FEATURES
+* Distributes water in a 20° to
+350° adjustable pattern, no
+
+tools needed
+* Can be converted to full-circle
+ operation
+* Covered reversing mechanism
+* 25° nozzle trajectory for
+
+ maximum radius of throw
+* Connection: 1" male NPT
+* Flow range: 9.20 to 31.0 gpm
+ (2090 to 7041 L/hr)
+* Operating pressures:
+
+ 40 to 70 psi (2.76 to 4.83 bar)
+NEW
+
+--- PAGE 18 ---
+
+R
+OA
+D
+LAYOUT EXAMPLE
+Sprinkler
+Indicated by
+Model
+3123 Part-Circle: nozzle #9 (9/64")
+Note
+Pressure regulator recommended
+at 40 psi (2.76 bar)
+Radius
+42 f (12.8 m)
+Flow
+3.56 gpm (809 L/hr)
+40 f .
+(12.19 m)
+Portable pipe
+50 f
+(15.24 m)
+Spacing
+42 f (12.8 m)
+Radius of
+throw
+Sprinklers are of en used for dust suppression by applying water that penetrates
+the ground to 1.5 and 2 f (0.5 and 0.61 m). This can reduce the number of
+particles generated by as much as 95%. Additionally, the water droplets
+intercept dust particles mid-air pulling them down to the ground.
+Sprinklers
+Roadways
+Senninger® Part-Circle sprinklers are used along
+roadways to minimize dust and improve visibility
+for trucks and equipment. Minimizing dust helps
+reduce the need to wash equipment windshields
+as of en.
+Mine Perimeter
+Sprinkler systems can be used to help create a
+barrier along the mine perimeter to help reduce
+dust migration.
+PART-CIRCLE DUST SUPPRESSION 80 SERIES
+Dust Suppression
+
+--- PAGE 19 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Advantages of sprinklers over other dust suppression technologies
+* Reduce water use by up to 90% over traditional dust control methods.
+* Use less energy and require less maintenance than traditional methodologies.
+* Reduce the carbon footprint associated with costly mobile watering systems.
+* Improve efficiency when connected to controllers to automate scheduled run times.
+* Reduce traffic dust on mining roads and help improve overall daily operating conditions.
+* Help reduce scheduled truck and equipment maintenance.
+
+--- PAGE 20 ---
+
+80 Series
+Flow: 25.2 to 88.7 gpm (5724 to 20146 L/hr)
+Pressure: 40 to 70 psi (2.76 to 4.83 bar)
+FEATURES
+* Splash arm spring and bearing enclosed for better
+resistance to corrosion and environmental extremes
+* Constructed of engineering-grade thermoplastics and
+specially selected stainless- steel components for excellent
+corrosion resistance
+* Heavy-duty design to withstand rugged mining conditions
+* Single-nozzle design provides greater resistance to clogging
+* Double-nozzle design also available for greater uniformity
+* Inlet sizes: 1 ¼" NPT male or female, 1 ½" NPT male,
+1 ¼" BSPT male
+Impact sprinklers that are mounted onto
+a riser should be stabilized to counteract
+the sprinkler's thrust. When using risers in
+gold and silver mining, use carbon steel or
+stainless-steel pipe. When using risers in acid
+copper leaching, use stainless-steel pipe.
+Pre Engineered
+Saddle or
+Fitting
+Lateral
+Line
+Impact
+Adapter
+Coupling
+ Stabilizing
+Tripod
+Riser
+Installation Option
+PART-CIRCLE
+DUST SUPPRESSION 80 SERIES
+
+--- PAGE 21 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+80 Series
+8025 CMS IMPACT SPRINKLER PERFORMANCE DATA
+1 ¼" & 1 ½" NPT
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-US
+bar
+
+2.76
+3.45
+4.14
+4.83
+#24 Nozzle - (3/8")
+#24 Nozzle - (9.53 mm)
+Flow (gpm)
+25.2 28.2 30.9 33.3
+Flow (L/hr)
+
+Diameter at 1.5 ft ht (ft) 134
+
+Diameter at 0.46 m ht (m)
+
+#26 Nozzle - (13/32")
+#26 Nozzle - (10.32 mm)
+Flow (gpm)
+29.3 32.7 35.9 38.7
+Flow (L/hr)
+
+Diameter at 1.5 ft ht (ft) 142
+
+Diameter at 0.46 m ht (m)
+
+#28 Nozzle - (7/16")
+#28 Nozzle - (11.11 mm)
+Flow (gpm)
+33.9 38.0 41.6 44.9
+Flow (L/hr)
+
+10198
+Diameter at 1.5 ft ht (ft) 148
+
+Diameter at 0.46 m ht (m)
+
+#30 Nozzle - (15/32")
+#30 Nozzle - (11.91 mm)
+Flow (gpm)
+38.6 43.1 47.2 51.0
+Flow (L/hr)
+
+10720
+11583
+Diameter at 1.5 ft ht (ft) 153
+
+Diameter at 0.46 m ht (m)
+
+#32 Nozzle - (1/2")
+#32 Nozzle - (12.7 mm)
+Flow (gpm)
+43.9 49.0 53.7 58.0
+Flow (L/hr)
+
+11129
+12197
+13173
+Diameter at 1.5 ft ht (ft) 156
+
+Diameter at 0.46 m ht (m)
+
+#34 Nozzle - (17/32")
+#34 Nozzle - (13.49 mm)
+Flow (gpm)
+49.5 55.4 60.7 65.5
+Flow (L/hr)
+11243
+12583 13786
+14877
+Diameter at 1.5 ft ht (ft) 159
+
+Diameter at 0.46 m ht (m)
+
+#36 Nozzle - (9/16")
+#36 Nozzle - (14.29 mm)
+Flow (gpm)
+55.5 62.1 68.0 73.5
+Flow (L/hr)
+12605 14104
+15444
+16694
+Diameter at 1.5 ft ht (ft) 161
+
+Diameter at 0.46 m ht (m)
+
+#38 Nozzle - (19/32")
+#38 Nozzle - (15.08 mm)
+Flow (gpm)
+59.9 66.9 73.3 79.2
+Flow (L/hr)
+13605
+15195
+16648
+17988
+Diameter at 1.5 ft ht (ft) 163
+
+Diameter at 0.46 m ht (m)
+
+#40 Nozzle - (5/8")
+#40 Nozzle - (15.88 mm)
+Flow (gpm)
+67.1 75.0 82.1 88.7
+Flow (L/hr)
+15240 17034 18647
+20146
+Diameter at 1.5 ft ht (ft) 165
+
+Diameter at 0.46 m ht (m)
+
+Sprinkler performance may vary with actual ﬁeld conditions. Diameters shown are for standard straight
+bore nozzles and stream-straightening vanes (black). Stream heights range from 12.5 to 28.0 f (3.8 to 8.5
+m) above nozzle based on pressure and nozzle size.
+PART-CIRCLE DUST SUPPRESSION 80 SERIES
+
+--- PAGE 22 ---
+
+Super Spray®
+FEATURES
+* No moving parts for longer life
+* Built for strength and durability using high-impact
+engineering-grade thermoplastics
+* Interchangeable defl ector pads to customize spray
+angle and droplet size
+* Easy clean nozzle, color coded by size
+* Inlet size: 3/4" NPT male
+SUPER SPRAY SUPER SPRAY FOR EVAPORATION
+Flow: 2.75 to 8.79 gpm (625 to 1996 L/hr)
+Pressure: 15 to 30 psi (1.04 to 2.07 bar)
+Easy Clean Nozzle Design
+Just pinch and pull to remove the nozzle
+then place and click to re-install. No need to
+disassemble or remove the sprinkler. Nozzle
+sizes are easily identifi able with color-coding
+and embossing on the ears, including half sizes
+(orifi ce diameters in 1⁄128 inch increments).
+Evaporation results will vary depending on wind, temperature,
+humidity and other factors. These variables must be considered
+when calculating evaporative performance.
+Evaporation pad
+5.75 to 13.5 ft
+(1.75 to 4.11 m)
+Convex smooth pad
+1.0 to 2.5 ft
+(0.30 to 0.76 m)
+Flat smooth pad
+0.0 to 0.5 ft
+(0.0 to 0.15 m)
+STREAM HEIGHT ABOVE SPRAY PAD
+14 ft (4.27 m)
+12 ft (3.66 m)
+10 ft (3.05 m)
+8 ft (2.44 m)
+6 ft (1.83 m)
+4 ft (1.22 m)
+2 ft (0.61 m)
+0 ft (0.00 m)
+Defl ector Pads
+* Evaporation (black)
+* Flat Smooth (black)
+
+--- PAGE 23 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+SUPER SPRAY SUPER SPRAY FOR EVAPORATION
+SUPER SPRAY PERFORMANCE DATA
+SPRINKLER INLET
+PRESSURE-US
+psi
+SPRINKLER INLET
+PRESSURE-METRIC
+bar
+
+1.04 1.38 1.73 2.07
+#10 Nozzle - Turquoise (5/32")
+#10 Nozzle - Turquoise (3.97 mm)
+Flow (gpm)
+2.75
+3.17
+3.55
+3.88
+Flow (L/hr)
+625 720 806 881
+Evaporation Pad - Diameter at 1.5 f ht (f)
+22.0 24.0 25.0 25.0
+Evaporation Pad- Diameter at 0.46 m ht (m)
+6.7
+ 7.3
+ 7.6
+ 7.6
+Convex-Smooth Pad - Diameter at 1.5 f ht (f)
+24.5
+28.5
+31.5
+31.5
+Convex-Smooth Pad - Diameter at 0.46 m ht (m) 7.5
+ 8.7
+ 9.6
+ 9.6
+Flat-Smooth Pad - Diameter at 1.5 f ht (f)
+22.0 24.0 26.0 27.0
+Flat-Smooth Pad - Diameter at 0.46 m ht (m)
+6.7
+ 7.3
+ 7.9
+ 8.2
+#11 Nozzle - Yellow (11/64")
+#11 Nozzle - Yellow (4.37 mm)
+Flow (gpm)
+3.33
+3.84 4.30
+4.71
+Flow (L/hr)
+756 872 977 1070
+Evaporation Pad - Diameter at 1.5 f ht (f)
+23.5
+25.5
+26.0 25.5
+Evaporation Pad- Diameter at 0.46 m ht (m)
+7.2
+ 7.8
+ 7.9
+ 7.8
+Convex-Smooth Pad - Diameter at 1.5 f ht (f)
+26.5
+30.5
+33.5
+33.5
+Convex-Smooth Pad - Diameter at 0.46 m ht (m) 8.1
+ 9.3
+10.2 10.2
+Flat-Smooth Pad - Diameter at 1.5 f ht (f)
+22.5
+24.5
+26.5
+27.5
+Flat-Smooth Pad - Diameter at 0.46 m ht (m)
+6.9
+ 7.5
+ 8.1
+ 8.4
+#12 Nozzle - Red (3/16")
+#12 Nozzle - Red (4.76 mm)
+Flow (gpm)
+3.97
+4.58
+5.12
+5.61
+Flow (L/hr)
+902 1040 1163 1274
+Evaporation Pad - Diameter at 1.5 f ht (f)
+25.0
+27.0
+27.0 26.0
+Evaporation Pad- Diameter at 0.46 m ht (m)
+7.6
+ 8.2
+ 8.2
+ 7.9
+Convex-Smooth Pad - Diameter at 1.5 f ht (f) 28.0 32.0 35.0 35.0
+Convex-Smooth Pad - Diameter at 0.46 m ht (m) 8.5
+ 9.8
+10.7 10.7
+Flat-Smooth Pad - Diameter at 1.5 f ht (f)
+23.0 25.0
+27.0 28.0
+Flat-Smooth Pad - Diameter at 0.46 m ht (m)
+7.0
+ 7.6
+ 8.2
+ 8.5
+#13 Nozzle - White (13/64")
+#13 Nozzle - White (5.16 mm)
+Flow (gpm)
+4.66
+5.38 6.02 6.59
+Flow (L/hr)
+1058 1222 1367 1497
+Evaporation Pad - Diameter at 1.5 f ht (f)
+26.5
+28.5 28.0 26.5
+Evaporation Pad- Diameter at 0.46 m ht (m)
+8.1
+ 8.7
+ 8.5
+ 8.1
+Convex-Smooth Pad - Diameter at 1.5 f ht (f)
+29.5
+33.5
+36.0 36.0
+Convex-Smooth Pad - Diameter at 0.46 m ht (m) 9.0
+10.2
+11.0
+11.0
+Flat-Smooth Pad - Diameter at 1.5 f ht (f)
+23.5
+25.5
+27.5
+28.5
+Flat-Smooth Pad - Diameter at 0.46 m ht (m)
+7.2
+ 7.8
+ 8.3
+ 8.7
+#14 Nozzle - Blue (7/32")
+#14 Nozzle - Blue (5.56 mm)
+Flow (gpm)
+5.41
+6.25 6.99
+7.65
+Flow (L/hr)
+1229 1420 1588 1738
+Evaporation Pad - Diameter at 1.5 f ht (f)
+28.0 29.5
+28.5
+27.0
+Evaporation Pad- Diameter at 0.46 m ht (m)
+8.5
+ 9.0
+ 8.7
+ 8.2
+Convex-Smooth Pad - Diameter at 1.5 f ht (f)
+31.0
+35.0
+37.0
+37.0
+Convex-Smooth Pad - Diameter at 0.46 m ht (m) 9.5
+10.7
+11.3
+11.3
+Flat-Smooth Pad - Diameter at 1.5 f ht (f)
+23.5
+26.0 28.0 29.0
+Flat-Smooth Pad - Diameter at 0.46 m ht (m)
+7.2
+ 7.9
+ 8.5
+ 8.8
+#15 Nozzle - Dark Brown (15/64")
+#15 Nozzle - Dark Brown (5.95 mm)
+Flow (gpm)
+6.22
+7.18
+8.03 8.79
+Flow (L/hr)
+1413 1631 1824 1996
+Evaporation Pad - Diameter at 1.5 f ht (f)
+29.0 30.0 29.0
+27.5
+Evaporation Pad- Diameter at 0.46 m ht (m)
+ 8.8
+ 9.2
+ 8.8
+ 8.4
+Convex-Smooth Pad - Diameter at 1.5 f ht (f)
+32.0 36.0 38.0 38.0
+Convex-Smooth Pad - Diameter at 0.46 m ht (m) 9.8
+11.0
+11.6
+11.6
+Flat-Smooth Pad - Diameter at 1.5 f ht (f)
+24.0 26.5
+28.5
+29.5
+Flat-Smooth Pad - Diameter at 0.46 m ht (m)
+ 7.3
+ 8.1
+ 8.7
+ 9.0
+Sprinkler performance may vary with actual ﬁeld conditions. Other nozzle sizes are available. Consult factory for speciﬁc performance data.
+Super Spray®
+To help decrease the water in the tailings and storage
+dams, especially in regions or seasons of high rainfall,
+sprinklers can help evaporate solutions.
+The Senninger® Super Spray sprinkler uses less
+energy and requires less maintenance than traditional
+methodologies. These sprinklers can be connected to
+controllers to schedule run times that best suit mining
+operations.
+Super Spray® for Evaporation
+
+--- PAGE 24 ---
+
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Pressure regulators help ensure proper sprinkler performance by controlling
+excessive and varying inlet pressure to constant outlet pressure. This helps
+maintain the sprinkler's pattern and application uniformity to maintain the
+overall eﬃ ciency of the application system.
+FEATURES
+* Constructed out of high-impact thermoplastics
+with a stainless-steel compression spring
+* Pressure tested to ensure quality and
+performance
+* Very low hysteresis and friction loss
+* Several models available based on pressures,
+ﬂ ow range, and connection options
+Every irrigation system experiences
+pressure ﬂ uctuations resulting
+in unwanted ﬂ ow deviations and
+over and under-leaching. These
+ﬂ uctuations occur with elevation
+changes within the irrigated area,
+pressure loss through pipes and
+ﬁ ttings, ﬂ uctuations when zones
+cycle on or oﬀ , system demand
+change on large projects with
+multiple water sources, and
+activation of large water guns.
+Pressure Regulation Overview
+PR-HF
+PRU
+PRLV
+PRU-LV
+10 - 32 gpm
+(2271 - 7268 L/hr)
+20 - 100 gpm
+(4542 - 22713 L/hr)
+up to 18 gpm
+(up to 4088 L/hr)
+up to 100 gpm
+(up to 22713 L/hr)
+10 - 50 psi
+(0.69 - 3.45 bar)
+10 - 60 psi
+(0.69 - 4.14 bar)
+30 - 60 psi
+(2.07 - 4.14 bar)
+10 - 60 psi
+(0.69 - 4.14 bar)
+130 psi
+(8.96 bar)
+140 psi
+(9.65 bar)
+125 psi
+(8.62 bar)
+125 psi
+(8.62 bar)
+1 ¼" F NPT,
+1 ¼" F BSPT
+2" F NPT,
+2" F BSPT
+¾" F NPT,
+1" F NPT
+2" F NPT,
+2" F BSPT
+1" F NPT, 1" F BSPT,
+1 ¼" F NPT,
+1 ¼" F BSPT
+2" F NPT,
+2" F BSPT
+¾" F NPT,
+ 1" F NPT
+2" F NPT,
+2" F BSPT
+PRMP
+PRL
+PMR-MF
+Flow Range
+0.5 - 7 gpm
+(114 - 1590 L/hr)
+0.5 - 8 gpm
+(114 - 1817 L/hr)
+2 - 20 gpm
+(454 - 4542 L/hr)
+Preset Operating
+Pressure
+10 - 40 psi
+(0.69 - 2.76 bar)
+6 - 40 psi
+(0.41 - 2.76 bar)
+6 - 60 psi
+(0.41 - 4.14 bar)
+Maximum Inlet
+Pressure
+120 psi
+(8.27 bar)
+120 psi
+(8.27 bar)
+140 psi
+(9.65 bar)
+Inlet Sizes
+¾" F hose,
+¾" F NPT,
+tape barb,
+500 barb, 600 barb
+¾" F hose,
+¾" F NPT,
+tape barb,
+500 barb, 600 barb
+¾" F NPT, 1" F NPT,
+1" F BSPT
+Outlet Sizes
+¾" M hose,
+¾" M NPT,
+tape barb,
+500 barb, 600 barb
+¾" M hose,
+¾" M NPT,
+tape barb,
+500 barb, 600 barb
+¾" F NPT, 1" F NPT,
+1" F BSPT
+
+--- PAGE 25 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+HOW DO PRESSURE REGULATORS WORK?
+Water travels through the inlet of the regulator
+across a ﬁ xed seat into the critical ﬂ ow area. Water
+then enters a hollow cylinder or throttling stem
+attached to a diaphragm. Increasing inlet pressure
+causes the valve to close. Decreasing inlet pressure
+allows the valve to open. The regulated outlet
+pressure is determined by the spring's compressive
+strength.
+FLOW
+Static pressure regulators, like our Pressure Regulating Limit Valve
+(PRLV and PRXF-LV) must always be installed upstream from all shut-oﬀ
+valves and ﬁ lters in the proper direction. Each model has a directional
+arrow on the side that shows the direction of the ﬂ ow. This arrow should
+point downstream, toward the sprinklers and emitters.
+Static Pressure Regulators
+Dynamic Pressure Regulators
+Dynamic pressure regulators must always be installed downstream from
+all shut-oﬀ valves and ﬁ lters in the proper direction. Each model has a
+directional arrow on the side that shows the direction of the ﬂ ow. This
+arrow should point downstream, toward the sprinklers and emitters.
+ PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+OverviewPressure Regulation
+* Unions available from Senninger Irrigation
+FLOW
+FLOW
+Filter
+Union*
+Shut-Oﬀ Valve
+Union*
+REGULATOR
+30 PSI AT 1/2-18
+Flow
+Flow
+* Unions available from Hunter® Agricultural Irrigation
+* Union
+* Union
+Shut-Off Valve
+Filter
+REGULATOR
+* Unions available from Hunter Agricultural Irrigation
+FLOW
+FLOW
+Filter
+Union*
+Union*
+PRLV
+Shut-Oﬀ Valve
+30 PSI AT 1/2-18
+PRLV
+MAX INLET
+125 PSI
+Flow
+Flow
+* Unions available from Hunter® Agricultural Irrigation
+* Union
+* Union
+Shut-Off Valve
+Filter
+PRLV
+
+--- PAGE 26 ---
+
+PRMP Pressure Regulator Mining Prospector
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+FEATURES
+* Maintains a constant preset outlet pressure while
+handling varying inlet pressures
+* Inlet sizes: 3/4" NPT female, 3/4" Hose female,
+ tape lock barb (5/8"), 500 lock barb (16 mm),
+
+ 600 lock barb (18 mm)
+* Outlet sizes: 3/4" NPT male, 3/4" Hose male,
+
+ tape lock barb (5/8"), 500 lock barb (16 mm),
+
+ 600 lock barb (18 mm)e
+* Tamper-proof housing
+* Very low hysteresis and friction losses
+* Pressure-tested for accuracy
+* No external metal parts for excellent
+* Corrosion resistance
+Spec sheets are available online at hunterirrigation.com/agriculture
+The pressure regulator shall maintain the predetermined pressure
+provided that the inlet pressure is at least 5 psi (0.34 bar) above
+the expected outlet pressure, but not exceeding the maximum inlet
+pressure as shown in this chart.
+Pressure regulators should always be installed downstream of all
+shut-oﬀ valves.
+Flow: 0.5 to 7.0 gpm (114 to 1590 L/hr)
+Pressure: 10 to 40 psi (0.69 to 2.76 bar)
+PRMP
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PRMP 10
+10 psi (0.69 bar)
+90 psi (6.20 bar)
+0.5- 7
+114 - 1590
+PRMP 15
+15 psi (1.03 bar)
+95 psi (6.55 bar)
+0.5 - 7
+114 - 1590
+PRMP 20
+20 psi (1.38 bar)
+100 psi (6.89 bar)
+0.5 - 7
+114 - 1590
+PRMP 25
+25 psi (1.72 bar)
+105 psi (7.24 bar)
+0.5 - 7
+114 - 1590
+PRMP 30
+30 psi (2.07 bar)
+110 psi (7.58 bar)
+0.5 - 7
+114 - 1590
+PRMP 35
+35 psi (2.41 bar)
+115 psi (7.93 bar)
+0.5 - 7
+114 - 1590
+PRMP 40
+40 psi (2.76 bar)
+120 psi (8.27 bar)
+0.5 - 7
+114 - 1590
+PRMP B TAPE 10
+10 psi (0.69 bar)
+25 psi (1.72 bar)
+0.5 - 7
+114 - 1590
+PRMP B TAPE 15
+15 psi (1.03 bar)
+25 psi (1.72 bar)
+0.5 - 7
+114 - 1590
+PRMP B 500 10
+10 psi (0.69 bar)
+50 psi (3.45 bar)
+0.5 - 7
+114 - 1590
+PRMP B 500 15
+15 psi (1.03 bar)
+50 psi (3.45 bar)
+0.5 - 7
+114 - 1590
+PRMP B 500 20
+20 psi (1.38 bar)
+50 psi (3.45 bar)
+0.5 - 7
+114 - 1590
+PRMP B 600 10
+10 psi (0.69 bar)
+50 psi (3.45 bar)
+0.5 - 7
+114 - 1590
+PRMP B 600 15
+15 psi (1.03 bar)
+50 psi (3.45 bar)
+0.5 - 7
+114 - 1590
+PRMP B 60020
+20 psi (1.38 bar)
+50 psi (3.45 bar)
+0.5 - 7
+114 - 1590
+Supply line
+(side view)
+Prospector pressure regulator
+Drip or sprinkler line
+NEW
+NEW
+NEW
+
+--- PAGE 27 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Pressure Regulator Mining Prospector PRMP
+40 psi
+(2.76 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+^ OUTLET
+INLET >
+70 psi
+(4.83 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+40 psi
+(2.76 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+10 psi
+(0.69 bar)
+110 psi
+(7.58 bar)
+100 psi
+(6.90 bar)
+90 psi
+(6.21 bar)
+80 psi
+(5.52 bar)
+120 psi
+(8.27 bar)
+PRMP
+10 psi
+(0.69 bar)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+0.5 gpm (114 L/hr)
+7 gpm (1590 L/hr)
+40 psi (2.76 bar)
+35 psi (2.41 bar)
+25 psi (1.72 bar)
+MAX 95 psi (6.55 bar)
+MAX 100 psi (6.90 bar)
+MAX 105 psi (7.24 bar)
+MAX 110 psi (7.58 bar)
+MAX 115 psi (7.93 bar)
+MAX 120 psi (8.27 bar)
+MAX 90 psi (6.20 bar)
+30 psi (2.07 bar)
+20 psi (1.38 bar)
+10 psi (0.69 bar)
+15 psi (1.03 bar)
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator performance
+curve illustrates how the PRMP will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (0.5 gpm or 114 L/hr), the regulator will
+maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar). In contrast, at the highest flow (7 gpm or 1590 L/hr), the actual outlet pressure
+will be slightly lower than 30 psi (2.07 bar)*.
+
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+PRMP Performance Curve
+
+--- PAGE 28 ---
+
+PRL Pressure Regulator Low Flow
+FEATURES
+* Maintains a constant preset outlet pressure
+while handling varying inlet pressures
+* Inlet sizes: 3/4" NPT female,
+3/4" hose female
+* Outlet sizes: 3/4" NPT female
+* Tamper-proof housing
+* Very low hysteresis and friction losses
+* Pressure-tested for accuracy
+* No external metal parts for excellent corrosion
+resistance
+Flow: 0.5 to 8 gpm (114 to 1817 L/hr)
+Pressure: 6 to 40 psi (0.41 to 2.76 bar)
+PRL-CMS
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PRL 6 CMS 6 psi (0.41 bar)
+80 psi (5.51 bar)
+0.5 - 5
+114 - 1136
+PRL 10 CMS
+10 psi (0.69 bar)
+90 psi (6.20 bar)
+0.5 - 8
+114 - 1817
+PRL 12 CMS
+12 psi (0.83 bar)
+90 psi (6.20 bar)
+0.5 - 8
+114 - 1817
+PRL 15 CMS
+15 psi (1.03 bar)
+95 psi (6.55 bar)
+0.5 - 8
+114 - 1817
+PRL 20 CMS
+20 psi (1.38 bar) 100 psi (6.89 bar) 0.5 - 8
+114 - 1817
+PRL 25 CMS
+25 psi (1.72 bar)
+105 psi (7.24 bar)
+0.5 - 8
+114 - 1817
+PRL 30 CMS 30 psi (2.07 bar)
+110 psi (7.58 bar)
+0.5 - 8
+114 - 1817
+PRL 35 CMS
+35 psi (2.41 bar)
+115 psi (7.93 bar)
+0.5 - 8
+114 - 1817
+PRL 40 CMS 40 psi (2.76 bar) 120 psi (8.27 bar) 0.5 - 8
+114 - 1817
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Spec sheets are available online at hunterirrigation.com/agriculture
+The pressure regulator shall maintain the predetermined pressure
+provided that the inlet pressure is at least 5 psi (0.34 bar) above
+the expected outlet pressure, but not exceeding the maximum inlet
+pressure as shown in this chart.
+Pressure regulators should always be installed downstream of all
+shut-oﬀ valves.
+
+--- PAGE 29 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Pressure Regulator Low Flow PRL
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator performance
+curve illustrates how the PRL will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (0.5 gpm or 114 L/hr), the regulator will
+maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar). In contrast, at the highest flow (8 gpm or 1817 L/hr), the actual outlet pressure
+will be slightly lower than 30 psi (2.07 bar)*.
+
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+PRL Performance Curve
+40 psi
+(2,76 bar)
+30 psi
+(2,07 bar)
+20 psi
+(1,38 bar)
+^ SALIDA
+ENTRADA >
+1144 L/hr
+1817 L/hr
+1144 L/hr
+1817 L/hr
+1144 L/hr
+1817 L/hr
+114 L/hr
+1136 L/hr
+1144 L/hr
+1817 L/hr
+1144 L/hr
+1817 L/hr
+1144 L/hr
+1817 L/hr
+1144 L/hr
+1817 L/hr
+70 psi
+(4,83 bar)
+50 psi
+(3,45 bar)
+60 psi
+(4,14 bar)
+40 psi
+(2,76 bar)
+30 psi
+(2,07 bar)
+20 psi
+(1,38 bar)
+10 psi
+(0,69 bar)
+110 psi
+(7,58 bar)
+100 psi
+(6,90 bar)
+90 psi
+(6,21 bar)
+80 psi
+(5,52 bar)
+130 psi
+(8,96 bar)
+120 psi
+(8,27 bar)
+PRL
+40 psi (2,76 bar)
+35 psi (2,41 bar)
+25 psi (1,72 bar)
+MÁX 150 psi (10,34 bar)
+MÁX 150 psi (10,34 bar)
+MÁX 150 psi (10,34 bar)
+MÁX 150 psi (10,34 bar)
+MÁX 150 psi (10,34 bar)
+MÁX 150 psi (10,34 bar)
+MÁX 120 psi (8,27 bar)
+MÁX 100 psi (6,90 bar)
+30 psi (2,07 bar)
+20 psi (1,38 bar)
+10 psi (0,69 bar)
+15 psi (1,03 bar)
+6 psi (0,41 bar)
+10 psi
+(0,69 bar)
+
+--- PAGE 30 ---
+
+PMR-MF Pressure-Master Regulator™ Medium Flow
+FEATURES
+* Maintains a constant preset outlet pressure
+while handling varying inlet pressures
+* Inlet sizes: 3/4" NPT female, 1" NPT female
+* Outlet sizes: 3/4 " NPT female, 1" NPT
+female
+* Very low hysteresis and friction losses
+* Pressure-tested for accuracy
+Flow: 2 to 20 gpm (454 to 4542 L/hr)
+Pressure: 6 to 60 psi (0.41 to 4.14 bar)
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+PMR-MF-CMS
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PMR 6 MF CMS
+6 psi (0.41 bar)
+80 psi (5.51 bar)
+4 - 16
+909 - 3634
+PMR 10 MF CMS
+10 psi (0.69 bar)
+90 psi (6.20 bar)
+4 - 16
+909 - 3634
+PMR 12 MF CMS
+12 psi (0.83 bar)
+90 psi (6.20 bar)
+2 - 20
+454 - 4542
+PMR 15 MF CMS
+15 psi (1.03 bar)
+95 psi (6.55 bar)
+2 - 20
+454 - 4542
+PMR 20 MF CMS
+20 psi (1.38 bar)
+100 psi (6.89 bar)
+2 - 20
+454 - 4542
+PMR 25 MF CMS
+25 psi (1.72 bar)
+105 psi (7.24 bar)
+2 - 20
+454 - 4542
+PMR 30 MF CMS
+30 psi (2.07 bar)
+110 psi (7.58 bar)
+2 - 20
+454 - 4542
+PMR 35 MF CMS
+35 psi (2.41 bar)
+115 psi (7.93 bar)
+2 - 20
+454 - 4542
+PMR 40 MF CMS
+40 psi (2.76 bar)
+120 psi (8.27 bar)
+2 - 20
+454 - 4542
+PMR 50 MF CMS
+50 psi (3.45 bar)
+130 psi (8.96 bar)
+2 - 20
+454 - 4542
+PMR 60 MF CMS
+60 psi (4.14 bar)
+140 psi (9.65 bar)
+2 - 20
+454 - 4542
+Spec sheets are available online at hunterirrigation.com/agriculture
+The pressure regulator shall maintain the predetermined pressure provided that
+the inlet pressure is at least 5 psi (0.34 bar) above the expected outlet pressure,
+but not exceeding the maximum inlet pressure as shown in this chart.
+Pressure regulators should always be installed downstream of all shut-oﬀ
+valves.
+
+--- PAGE 31 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Pressure-Master Regulator™ Medium Flow PMR-MF
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator performance
+curve illustrates how the PMR-MF will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (2 gpm or 454 L/hr), the regulator will
+maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar).
+In contrast, at the highest flow (20 gpm or 4542 L/hr), the actual outlet pressure will be slightly lower than 30 psi (2.07 bar)*.
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+PMR-MF Performance Curve
+40 psi
+(2.76 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+^ OUTLET
+INLET >
+70 psi
+(4.83 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+40 psi
+(2.76 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+10 psi
+(0.69 bar)
+110 psi
+(7.58 bar)
+100 psi
+(6.90 bar)
+90 psi
+(6.21 bar)
+80 psi
+(5.52 bar)
+120 psi
+(8.27 bar)
+130 psi
+(8.96 bar)
+140 psi
+(9.65 bar)
+PMR-MF
+10 psi
+(0.69 bar)
+50 psi (3.45 bar)
+40 psi (2.76 bar)
+35 psi (2.41 bar)
+25 psi (1.72 bar)
+MAX 95 psi (6.55 bar)
+MAX 100 psi (6.89 bar)
+MAX 105 psi (7.24 bar)
+MAX 110 psi (7.58 bar)
+MAX 115 psi (7.93 bar)
+MAX 120 psi (8.27 bar)
+MAX 130 psi (8.96 bar)
+MAX 90 psi (6.20 bar)
+MAX 80 psi (5.51 bar)
+30 psi (2.07 bar)
+20 psi (1.38 bar)
+10 psi (0.69 bar)
+15 psi (1.03 bar)
+6 psi (0.41 bar)
+60 psi (4.14 bar)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+4 gpm (909 L/hr)
+16 gpm (3634 L/hr)
+4 gpm (909 L/hr)
+16 gpm (3634 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+2 gpm (454 L/hr)
+20 gpm (4542 L/hr)
+MAX 140 psi (9.65 bar)
+
+--- PAGE 32 ---
+
+PR-HF Pressure Regulator High Flow
+FEATURES
+* Maintains a constant preset outlet pressure while
+handling varying inlet pressures
+* Large ﬂ ow path resists plugging
+* Inlet sizes: 1 ¼" NPT female, 1 ¼" F BSPT female
+* Outlet sizes: 1" NPT female, 1" BSPT female, ,
+1 ¼" NPT female, 1 ¼" BSPT female
+* Very low hysteresis and friction losses
+* Pressure-tested for accuracy
+Flow: 10 to 32 gpm (2271 to 7268 L/hr)
+Pressure: 10 to 50 psi (0.69 to 3.45 bar)
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+PR-HF
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PR 10 HF
+10 psi (0.69 bar)
+90 psi (6.20 bar)
+10 - 32
+2271 - 7268
+PR 15 HF
+15 psi (1.03 bar)
+95 psi (6.55 bar)
+10 - 32
+2271 - 7268
+PR 20 HF
+20 psi (1.38 bar)
+100 psi (6.89 bar)
+10 - 32
+2271 - 7268
+PR 25 HF
+25 psi (1.72 bar)
+105 psi (7.24 bar)
+10 - 32
+2271 - 7268
+PR 30 HF
+30 psi (2.07 bar)
+110 psi (7.58 bar)
+10 - 32
+2271 - 7268
+PR 40 HF
+40 psi (2.76 bar)
+120 psi (8.27 bar)
+10 - 32
+2271 - 7268
+PR 50 HF
+50 psi (3.45 bar)
+130 psi (8.96 bar)
+10 - 32
+2271 - 7268
+Spec sheets are available online at hunterirrigation.com/agriculture
+The pressure regulator shall maintain the predetermined pressure provided
+that the inlet pressure is at least 5 psi (0.34 bar) above the expected outlet
+pressure, but not exceeding the maximum inlet pressure as shown in this chart.
+Pressure regulators should always be installed downstream of all shut-oﬀ
+valves.
+
+--- PAGE 33 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+ Pressure Regulator High Flow PR-HF
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+40 psi
+(2.76 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+^ OUTLET
+INLET >
+70 psi
+(4.83 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+40 psi
+(2.76 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+10 psi
+(0.69 bar)
+110 psi
+(7.58 bar)
+100 psi
+(6.90 bar)
+90 psi
+(6.21 bar)
+80 psi
+(5.52 bar)
+120 psi
+(8.27 bar)
+130 psi
+(8.96 bar)
+PRHF
+10 psi
+(0.69 bar)
+30 psi (2.07 bar)
+40 psi (2.76 bar)
+50 psi (3.45 bar)
+20 psi (1.38 bar)
+15 psi (1.03 bar)
+10 psi (0.69 bar)
+25 psi (1.72 bar)
+MAX 110 psi (7.58 bar)
+MAX 120 psi (8.27 bar)
+MAX 130 psi (8.96 bar)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+MAX 105 psi (7.24 bar)
+MAX 100 psi (6.89 bar)
+MAX 95 psi (6.55 bar)
+MAX 90 psi (6.20 bar)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+10 gpm (2271 L/hr)
+32 gpm (7268 L/hr)
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator performance
+curve illustrates how the PR-HF will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (10 gpm or 2271 L/hr), the regulator will
+maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar). In contrast, at the highest flow (32 gpm or 7268 L/hr), the actual outlet pressure will
+be slightly lower than 30 psi (2.07 bar)*.
+
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+PR-HF Performance Curve
+
+--- PAGE 34 ---
+
+FEATURES
+* Maintains a constant preset outlet pressure
+while handling varying inlet pressures
+* Large ﬂ ow path resists plugging
+* Inlet sizes: 2" NPT female, 2" BSPT female.
+* Outlet sizes: 2" NPT female, 2" BSPT female
+* Tamper-proof housing
+* Very low hysteresis and friction losses
+* Pressure-tested for accuracy
+* No external metal parts for excellent
+
+ corrosion resistance
+PRU Pressure Regulator Ultra Flow
+Flow: 20 to 100 gpm (4542 to 22713 L/hr)
+Pressure: 10 to 60 psi (0.69 to 4.14 bar)
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+PRU
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PRU 10
+10 psi (0.69 bar)
+90 psi (6.20 bar)
+20 - 100
+ 4542 - 22713
+PRU 15
+15 psi (1.03 bar)
+95 psi (6.55 bar)
+20 - 100
+ 4542 - 22713
+PRU 20
+20 psi (1.38 bar)
+100 psi (6.89 bar)
+20 - 100
+ 4542 - 22713
+PRU 25
+25 psi (1.72 bar)
+105 psi (7.24 bar)
+20 - 100
+ 4542 - 22713
+PRU 30
+30 psi (2.07 bar)
+110 psi (7.58 bar)
+20 - 100
+4542 - 22713
+PRU 40
+40 psi (2.76 bar)
+120 psi (8.27 bar)
+20 - 100
+ 4542 - 22713
+PRU 50
+50 psi (3.45 bar)
+130 psi (8.96 bar)
+20 - 100
+ 4542 - 22713
+PRU 60
+60 psi (4.14 bar)
+140 psi (9.65 bar)
+20 - 100
+ 4542 - 22713
+Spec sheets are available online at hunterirrigation.com/agriculture
+The pressure regulator shall maintain the predetermined pressure
+provided that the inlet pressure is at least 5 psi (0.34 bar) above
+the expected outlet pressure, but not exceeding the maximum inlet
+pressure as shown in this chart.
+Pressure regulators should always be installed downstream of all shutoﬀ valves.
+
+--- PAGE 35 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Pressure Regulator Ultra Flow PRU
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator performance
+curve illustrates how the PRU will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (20 gpm or 4543 L/hr), the regulator will
+maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar). In contrast, at the highest flow (100 gpm or 22713 L/hr), the actual outlet pressure
+will be slightly lower than 30 psi (2.07 bar)*.
+
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+PRU Performance Curve
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+40 psi
+(2.76 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+^ OUTLET
+INLET >
+70 psi
+(4.83 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+40 psi
+(2.76 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+10 psi
+(0.69 bar)
+110 psi
+(7.58 bar)
+100 psi
+(6.90 bar)
+90 psi
+(6.21 bar)
+80 psi
+(5.52 bar)
+120 psi
+(8.27 bar)
+130 psi
+(8.96 bar)
+140 psi
+(9.65 bar)
+PRU
+10 psi
+(0.69 bar)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+100 gpm (22713 L/hr)
+100 gpm (22713 L/hr)
+20 gpm (4543 L/hr)
+60 psi (4.14 bar)
+30 psi (2.07 bar)
+40 psi (2.76 bar)
+50 psi (3.45 bar)
+20 psi (1.38 bar)
+15 psi (1.03 bar)
+10 psi (0.69 bar)
+25 psi (1.72 bar)
+Max 110 psi (7.58 bar)
+Max 120 psi (8.27 bar)
+Max 130 psi (8.96 bar)
+Max 105 psi (7.24 bar)
+Max 100 psi (6.89 bar)
+Max 95 psi (6.55 bar)
+Max 90 psi (6.20 bar)
+Max 140 psi (9.65 bar)
+
+--- PAGE 36 ---
+
+PRLV Pressure Regulator Limit Valve
+FEATURES
+* Maintains a constant preset outlet pressure while
+handling varying inlet pressures
+* Limits downstream pressure to no more than 15 psi
+(1.03 bar) above regulated pressure rating during
+static (no ﬂ ow) conditions
+* Inlet sizes: 3/4" NPT female, 1" NPT female
+* Outlet sizes: 3/4 " NPT female, 1" NPT
+female
+* 100% pressure tested, to ensure quality and
+performance
+* Very low hysteresis and friction losses
+Flow: Up to 18 gpm (4088 L/hr)
+Pressure: 10 to 60 psi (0.69 to 4.14 bar)
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Pressure Regulating Limit Valves
+are designed to be used in place
+of standard pressure regulators to
+limit static (no ﬂ ow) water pressure
+when a shut-oﬀ valve is used
+downstream from the regulation
+point. This limits downstream
+pressure and protects downstream
+components.
+PRLV
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PRLV 10
+10 psi (0.69 bar) 125 psi (8.62 bar)
+up to 18
+up to 4088
+PRLV 15
+15 psi (1.03 bar)
+125 psi (8.62 bar) up to 18 up to 4088
+PRLV 20
+20 psi (1.38 bar) 125 psi (8.62 bar)
+up to 18
+up to 4088
+PRLV 30
+30 psi (2.07 bar) 125 psi (8.62 bar)
+up to 18
+up to 4088
+PRLV 40
+40 psi (2.76 bar) 125 psi (8.62 bar)
+up to 18
+up to 4088
+PRLV 50
+50 psi (3.45 bar) 125 psi (8.62 bar)
+up to 18
+up to 4088
+PRLV 60
+60 psi (4.14 bar) 125 psi (8.62 bar)
+up to 18
+up to 4088
+
+--- PAGE 37 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Pressure Regulator Limit Valve PRLV
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator
+performance curve illustrates how the PRLV will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (0.5 gpm or 114 L/hr), the
+regulator will maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar). In contrast, at the highest flow (18 gpm or 4088 L/
+hr), the actual outlet pressure will be slightly lower than 30 psi (2.07 bar)*.
+
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+PRLV Performance Curve
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+40 psi
+(2.76 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+^ OUTLET
+INLET >
+70 psi
+(4.83 bar)
+50 psi
+(3.45 bar)
+60 psi
+(4.14 bar)
+40 psi
+(2.76 bar)
+30 psi
+(2.07 bar)
+20 psi
+(1.38 bar)
+10 psi
+(0.69 bar)
+110 psi
+(7.58 bar)
+100 psi
+(6.90 bar)
+90 psi
+(6.21 bar)
+80 psi
+(5.52 bar)
+120 psi
+(8.27 bar)
+130 psi
+(8.96 bar)
+PRLV
+10 psi
+(0.69 bar)
+60 psi (4.14 bar)
+MAX 125 psi (8.62 bar)
+30 psi (2.07 bar)
+40 psi (2.76 bar)
+50 psi (3.45 bar)
+MAX 125 psi (8.62 bar)
+MAX 125 psi (8.62 bar)
+MAX 125 psi (8.62 bar)
+0.5 gpm (114 L/hr)
+18 gpm (4088 L/hr)
+0.5 gpm (114 L/hr)
+18 gpm (4088 L/hr)
+0.5 gpm (114 L/hr)
+18 gpm (4088 L/hr)
+0.5 gpm (114 L/hr)
+18 gpm (4088 L/hr)
+
+--- PAGE 38 ---
+
+PRU-LV Pressure Regulator Limit Valve
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Flow: Up to 100 gpm (4542 to 22713 L/hr)
+Pressure: 10 to 60 psi (0.69 to 4.14 bar)
+FEATURES
+* Maintains a constant preset outlet pressure while
+handling varying inlet pressures
+* Limits downstream pressure to no more than 15 psi
+(1.03 bar) above regulated pressure rating during
+static (no ﬂ ow) conditions
+* Inlet sizes: 2" NPT female, 2" BSPT female
+* Outlet sizes: 2" NPT female, 2" BSPT female
+* 100% pressure tested for accuracy
+* Very low hysteresis and friction losses
+Spec sheets are available online at hunterirrigation.com/agriculture
+The PRU-LV limits downstream pressure to no more than 15 psi (1.03 bar)
+above regulated pressure during static (no flow) conditions..
+Recommended for outdoor use only. Not NSF certified.
+PRU -LV
+MODELS
+Preset
+Outlet
+Pressure
+Maximum
+Inlet
+Pressure
+Flow Range
+gpm
+L/hr
+PRU LV 10
+10 psi (0.69 bar)
+125 psi (8.62 bar)
+up to 100
+ up to 22713
+PRU LV 15
+15 psi (1.03 bar)
+125 psi (8.62 bar)
+up to 100
+ up to 22713
+PRU LV 20
+20 psi (1.38 bar)
+125 psi (8.62 bar)
+up to 100
+ up to 22713
+PRU LV 25
+25 psi (1.72 bar)
+125 psi (8.62 bar)
+up to 100
+ up to 22713
+PRU LV 30
+30 psi (2.07 bar)
+125 psi (8.62 bar)
+up to 100
+up to 22713
+PRU LV 40
+40 psi (2.76 bar)
+125 psi (8.62 bar)
+up to 100
+ up to 22713
+PRU LV 50
+50 psi (3.45 bar)
+125 psi (8.62 bar)
+up to 100
+up to 22713
+PRU LV 60
+60 psi (4.14 bar)
+125 psi (8.62 bar))
+up to 100
+ up to 22713
+
+--- PAGE 39 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Pressure Regulating Ultra Limit Valve PRU-LV
+PRESSURE REGULATION PRMP PRL PMR-MF PR-HF PRU PRLV PRU-LV
+Every pressure regulator is designed to operate at a minimum and maximum inlet pressure and a predetermined flow range. This regulator performance
+curve illustrates how the PRU-LV will perform within the range of inlet pressures and flows.
+The Y-axis shows outlet pressure, and the X-axis shows inlet pressure.
+In this chart, the band for the 30 psi (2.07 bar) model shows the performance at various flows. At the lowest flow (20 gpm or 4542 L/hr), the regulator will
+maintain an actual outlet pressure slightly higher than 30 psi (2.07 bar). In contrast, at the highest flow (100 gpm or 22713 L/hr), the actual outlet pressure
+will be slightly lower than 30 psi (2.07 bar)*.
+*Source: Rogers, Shaw, Pragada, & Alam, 2010.
+40 PSI
+(2.76 BAR)
+50 PSI
+(3.45 BAR)
+60 PSI
+(4.14 BAR)
+30 PSI
+(2.07 BAR)
+20 PSI
+(1.38 BAR)
+^ OUTLET
+INLET >
+70 PSI
+(4.83 BAR)
+50 PSI
+(3.45 BAR)
+60 PSI
+(4.14 BAR)
+40 PSI
+(2.76 BAR)
+30 PSI
+(2.07 BAR)
+20 PSI
+(1.38 BAR)
+10 PSI
+(0.69 BAR)
+110 PSI
+(7.58 BAR)
+100 PSI
+(6.90 BAR)
+90 PSI
+(6.21 BAR)
+80 PSI
+(5.52 BAR)
+120 PSI
+(8.27 BAR)
+PRU-LV
+10 PSI
+(0.69 BAR)
+60 PSI (4.14 BAR)
+30 PSI (2.07 BAR)
+40 PSI (2.76 BAR)
+50 PSI (3.45 BAR)
+25 PSI (1.72 BAR)
+MAX 125 PSI (8.62 BAR)
+MAX 125 PSI (8.62 BAR)
+MAX 125 PSI (8.62 BAR)
+MAX 125 PSI (8.62 BAR)
+20 GPM (4542 L/HR)
+MAX 125 PSI (8.62 BAR)
+20 PSI (1.38 BAR)
+15 PSI (1.03 BAR)
+10 PSI (0.69 BAR)
+MAX 125 PSI (8.62 BAR)
+MAX 125 PSI (8.62 BAR)
+MAX 125 PSI (8.62 BAR)
+100 GPM (22713 L/HR)
+PRU-LV Performance Curve
+
+--- PAGE 40 ---
+
+Riser Adapter
+RISER ADAPTER QUICK-CONNECT COUPLING
+The Senninger® Riser Adapter Assemblies make setting up irrigation systems
+easy. They allow specifi c sprinkler placement as recommended for optimum
+distribution with tubing connecting each to the closest lateral. They also allow the
+fl exibility of relocating a sprinkler without disrupting its connection to the lateral.
+LOWER FLOWS (Use with 0.270" I.D. tubing)
+Fitting:
+FTA1B1B
+0.270" Super Barb
+x Hose Barb
+Insert Adapter
+Riser
+Adapter:
+RAD270
+½" F NPT x
+0.270"
+Tubing:
+TU1ST3
+0.270"
+(three feet)
+Riser Adapter Assembly
+RSASM23C3
+Fitting:
+FTA1B2T
+0.270" Super barb
+x #2 taper
+Riser Adapter Assembly
+Quick-Connect
+RSASM2TC3QCA2T
+Riser Adapter
+Quick-Connect:
+RSAD2T
+½" F NPT x 0.270"
+Tubing:
+TU1ST3
+0.270" (three feet)
+Bushing:
+FTHS2T
+Winged Hose Barb
+#2 Taper
+HIGHER FLOWS (Use with 0.345" I.D. tubing)
+Fitting:
+FTA15B15B
+0.345" Super Barb
+x Hose Barb
+Insert Adapter
+Riser
+Adapter:
+RSAD345
+½" F NPT x
+0.345"
+Tubing:
+TU15ST
+0.345"
+(three feet)
+Riser Adapter Assembly
+RSASM24C3
+Riser Adapter Assembly
+Quick-Connect
+RSASM24C3QCA2T
+Riser Adapter
+Quick-Connect:
+RSAD345
+½" F NPT x 0.345"
+Tubing:
+TU15ST
+0.345" (three feet)
+Fitting:
+FTA15B2T
+0.345" Super barb
+x #2 taper
+Bushing:
+FTHS2T
+Winged Hose Barb
+#2 Taper
+Also available with 3T Taper
+connection - RSASM24C3QCA3T
+FTHS2T - Fitting Winged Hose Barb
+Bushing for #2 Taper
+FTHS3T - Fitting Winged Hose Barb
+Bushing for #3 Taper
+FT4HSC2T - Fitting Barb Bushing
+Clamp for 1" Hose and #2 Taper
+FT1M2T - Fitting Winged ¼" M NPT
+Threaded Bushing for #2 Taper
+FTPLUG2T - Fitting Plug with
+#2 Taper (red)
+FTPLUG3T - Fitting Plug with
+#3 Taper (maroon)
+RISER STAKES
+RSST26 - Riser Stake 26" with
+connection for Tubing or Riser
+Adapter
+RSST14 - Riser Stake 14" with
+connection for Tubing or
+Riser Adapter
+TUBING PUNCH TOOLS
+TUPTAP4I - Tubing Punch Tool for
+use with FTA1B1B (green handle)
+TUPTAP5I - Tubing Punch Tool
+for use with FTA15B15B, FTHS2T,
+FTHS3T, FT1M2T, and FT4HSC2T
+(red handle)
+FITTINGS & BUSHINGS
+All four assemblies are available with other precut tubing lengths.
+Contact factory.
+The assemblies can be mounted on
+½" PVC risers or the Senninger 26" or
+14" Riser Stakes.
+
+--- PAGE 41 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Installation Options
+Quick-Connect Coupling
+ RISER ADAPTER QUICK-CONNECT COUPLING
+FEATURES:
+* Lightweight for easy portability
+* Virtually leak-proof connection
+* Four Models: 1-inch, 1 ¼-inch, 32 mm and 40 mm
+* Constructed out of UV resistant thermoplastics
+The Quick-Connect Coupling provides
+installation versatility. It can be used
+along the lateral to make it easy to
+disassemble in manageable sections.
+It can also be installed on the riser to
+allow easy removal of the sprinkler.
+DESIGN CRITERIA
+Pipe Diameter
+Maximum Pressure
+Part Number
+1 inch
+100 psi (7.0 bar)
+QCPLASM4
+1-1⁄4 inch
+100 psi (7.0 bar)
+QCPLASM5
+32 mm
+100 psi (7.0 bar)
+QCPLASM32MM
+40 mm
+100 psi (7.0 bar)
+QCPLASM40MM
+ATTACHING THE QUICK-CONNECT COUPLING
+Apply glue to the outside of the pipe before inserting
+upper or lower housings. Once glue is dry, connect
+housings together by inserting the button on the
+lower housing into the tabbed area of the upper
+housing. Twist to lock.
+32 mm
+40 mm
+1-1⁄4 inch
+1 inch
+TWO PIECE HOUSING THAT LOCKS TIGHTLY
+ON LATERALS:
+BELOW THE SPRINKLER HEAD:
+3" x 1" or
+2" x 1" adapter
+Xcel-Wobbler
+PVC 3"
+or 2"
+PVC 1"
+PVC T
+Quick-Connect
+Coupling
+Adapter
+PVC 1"
+PRL (CMS)
+PVC 1"
+Xcel-Wobbler
+Riser Adapter
+Quick-Connect
+Coupling
+Riser Adapter
+Assembly
+Riser Stake
+
+--- PAGE 42 ---
+
+WINSIPP IRRIMAKER
+WinSIPP™ Custom Mining Software
+The Senninger® WinSIPP™ soft ware provides a visual
+comparison to help analyze various mining leaching
+installations. It compares diff erent sprinklers, spacings,
+heights, operating pressures, and nozzle sizes to calculate
+the application rate and uniformity.
+This installation has a CU of 90% and a DU of 84%. The SC is about 1.3, and the Average
+Application Rate is 0.002 gpm (0.43 L/hr).
+The densogram shows the overlap of multiple sprinklers. In this example,
+a mini-Wobbler™ sprinkler with a #5 nozzle operating at 20 psi (1.38 bar)
+and installed on an 18" (46 cm) riser, at 20 x 20 ft (6 x 6 m) spacing.
+Scan the QR code for
+more information
+about WinSIPP.
+
+--- PAGE 43 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+ WINSIPP IRRIMAKER
+Custom Mining Software WinSIPP™
+FEATURES
+* Aids in the selection of the best
+sprinklers for each installation
+* Tests the application uniformity of
+sprinkler layouts before the system is
+installed
+* Compares diff erent sprinklers,
+models, operating pressure, nozzle
+size/fl ow, riser height, spacing,
+layout, and area
+* Illustrates the uniformity of
+overlapping sprinklers and the
+individual sprinkler profi le for each
+scenario
+* Calculates the application rate and
+scheduling coeffi cient for each set of
+parameters
+The sprinkler profi les show the amount
+of water delivered at various intervals
+and the sprinkler's radius of throw.
+In this example, the radius of the
+Xcel-Wobbler™ is shown at three
+diff erent nozzle sizes (#9, 10, and 14),
+with the sprinkler installed on an 18-inch
+(46 cm) riser and operating at 20 psi
+(1.38 bar). The fl ow and radius of throw
+change based on nozzle size.
+WinSIPP™ Mining Soft ware allows designing a leaching pad
+from the selected sprinkler, obtaining as a result pressures
+in the sprinklers and valves, as well as the selection of pipe
+diameters based on fl ow velocities.
+
+--- PAGE 44 ---
+
+IrriMaker lets you design comprehensive irrigation projects ranging
+from large- to small-scale. It lets you evaluate installation alternatives
+in advance, survey any terrain, produce a contour plan, draw the details,
+produce a bill of materials, and send drawing results back to AutoCAD
+and Google Map
+IrriMaker
+WINSIPP IRRIMAKER
+Irri-Maker has built-in CAD
+module that allows adding
+specifi c details to the contour
+plan like roads, fences,
+boundaries, and rivers,
+including text and bitmap
+images.
+This soft ware also operates
+within the larger Model
+Maker™ environment, which
+means, any of the other Model
+Maker modules can be added.
+Scan the QR code for
+more information
+about IrriMaker.
+
+--- PAGE 45 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+IrriMaker
+WINSIPP IRRIMAKER
+FEATURES
+* All in one soft ware package: combines surveyed
+data, CAD, Digital Terrain Modeling (DTM) and
+irrigation calculation functions
+* Generates contour plans and 3D images illustrating
+the irrigation design in relation to slopes and
+elevations
+* Calculate hydraulics, pressures, fl ows and quantities
+* Full graphical control over each element of the
+design, including block areas, sprinklers, and pipes
+* Saves time on repeatable routines
+* Allows importation of information from many other
+programs
+ADVANTAGES
+GET MORE INSIGHTS FROM YOUR DESIGN
+Get precise measurements, a complete bill of materials,
+and peace of mind with every design project.
+DATA ENTRY
+Enter data with manual surveys, or import your data
+from GPS collection easily
+MODELING
+Quickly create a surface model that you have complete
+control over.
+DRAFTING
+Produce fast and eff ective layouts, calculate hydraulics,
+size pipes and more with our CAD solution.
+
+--- PAGE 46 ---
+
+Nozzles
+NOZZLES WARRANTY
+Nozzle #
+Nozzle color
+Nozzle Size
+US
+Nozzle Size
+Metric
+#4 Light Blue
+1/16"
+1.59 mm
+#4.5 Light Blue
+9/128"
+1.78 mm
+#5 Beige
+5/64"
+1.98 mm
+#5.5 Beige
+11/128"
+2.16 mm
+#6 Gold
+3/32"
+2.38 mm
+#6.5 Gold
+13/128"
+2.59 mm
+#7 Lime
+7/64"
+2.78 mm
+#7.5 Lime
+15/128"
+2.97 mm
+#8 Lavender
+1/8"
+3.18 mm
+#8.5 Lavender
+17/128"
+3.38 mm
+#9 Grey
+9/64"
+3.57 mm
+#9.5 Grey
+19/128"
+3.76 mm
+#10 Turquoise
+5/32"
+3.97 mm
+#10.5 Turquoise
+21/128"
+4.17 mm
+#11 Yellow
+11/64"
+4.37 mm
+#11.5 Yellow
+23/128"
+4.57 mm
+#12 Red
+3/16"
+4.76 mm
+#12.5 Red
+25/128"
+4.95 mm
+#13 White
+13/64"
+5.16 mm
+#13.5 White
+27/128"
+5.36 mm
+#14 Blue
+7/32"
+5.56 mm
+#14.5 Blue
+29/128"
+5.77 mm
+#15 Dark Brown
+15/64"
+5.95 mm
+#15.5 Dark Brown
+31/128"
+6.15 mm
+#16 Orange
+1/4"
+6.35 mm
+#16.5 Orange
+33/128"
+6.55 mm
+#17 Dark Green
+17/64"
+6.75 mm
+#17.5 Dark Green
+35/128"
+6.93 mm
+#18 Purple
+9/32"
+7.14 mm
+#18.5 Purple
+37/128"
+7.34 mm
+#19 Black
+19/64"
+7.54 mm
+#19.5 Black
+39/128"
+7.75 mm
+#20 Dark Turquoise
+5/16"
+7.94 mm
+#20.5 Dark Turquoise
+41/128"
+8.13 mm
+#21 Mustard
+21/64"
+8.33 mm
+#21.5 Mustard
+43/128"
+8.53 mm
+#22 Maroon
+11/32"
+8.73 mm
+#22.5 Maroon
+45/128"
+8.94 mm
+#23 Cream
+23/64"
+9.13 mm
+#23.5 Cream
+47/128"
+9.32 mm
+#24 Dark Blue
+3/8"
+9.53 mm
+#24.5 Dark Blue
+49/128"
+9.73 mm
+#25 Copper
+25/64"
+9.92 mm
+#25.5 Copper
+51/128"
+10.11 mm
+#26 Bronze
+13/32"
+10.32 mm
+Senninger® nozzles are available
+in a variety of nozzle sizes to
+customize sprinklers for peak
+performance.
+FEATURES
+* Color-coded for easy size identiﬁcation
+* Excellent durability
+
+--- PAGE 47 ---
+
+Visit hunterirrigation.com/agriculture
+Manufacturers of Senninger® Products
+Product Warranty
+ NOZZLES WARRANTY
+WARRANTY & DISCLAIMER
+This warranty supersedes all other warranties
+expressed or implied.
+No person has the authority to incur or assume
+for Hunter® Agriculture Incorporated (“Hunter
+Agriculture”) any other liability as to Hunter
+Agriculture Incorporated.
+This warranty does not extend to any product or
+part that has been repaired, altered, or modified in
+any way outside the Hunter Agriculture factory, nor
+shall it apply to any product that has been subject to
+misuse, negligence, accident, or improper operation
+contrary to the Hunter Agriculture published
+instructions.
+Under no circumstances will Hunter Agriculture be
+held responsible or liable for any consequential,
+incidental, or punitive damages resulting from the
+use of Senninger® products or from any product
+defects, failures, or malfunctions.
+This warranty applies only to the original purchaser
+of the Senninger product and does not extend to any
+product or part manufactured by others.
+MATERIALS AND WORKMANSHIP
+Senninger products manufactured by Hunter
+Agriculture Incorporated for use in agriculture, turf,
+or nursery applications are warranted to be free of
+defects in materials or workmanship under normal
+use for a period of two (2) years from the date of
+manufacture.
+Hunter Agriculture warrants the Senninger i-Wob®2
+to be free of defects in materials or workmanship
+under normal use for a period of three (3) years from
+the date of manufacture.
+Hunter Agriculture warrants the following products
+to be free of defects in materials or workmanship
+under normal use for a period of one (1) year from
+the date of manufacture: End Spray, limit valve
+regulators, and CMS mining models.
+Hunter Agriculture warrants nozzles to retain their
+original orifice size under normal use for a period of
+five (5) years from the date of manufacture.
+PERFORMANCE
+Senninger products manufactured by Hunter
+Agriculture Incorporated for use in agriculture,
+turf, or nursery applications are warranted to
+maintain their original performance for a period
+of two (2) years from the date of manufacture if
+installed and operated in accordance with Hunter
+Agriculture's published specifications and used as
+intended for irrigation purposes.
+Hunter Agriculture warrants the Senninger
+i-Wob2 to maintain its original performance under
+normal use for a period of three (3) years from the
+date of manufacture.
+Hunter Agriculture warrants the following
+products to maintain their original performance
+under normal use for a period of one (1) year from
+the date of manufacture: End Spray, PRLV and
+limit valve regulators, and mining models.
+REPAIR OR REPLACEMENT
+If a Senninger product is suspected of failure
+during the applicable warranty period, Hunter
+Agriculture Incorporated will repair or replace the
+product or the defective part at its option. Contact
+Hunter Agriculture customer service in Clermont,
+Florida, USA, for specific instructions on how to
+proceed with a warranty claim. If, after inspection
+of the product and documentation, the failure is
+deemed a warranty issue, a replacement or credit
+will be authorized.
+Hunter Agriculture is not obligated to pay for
+repairs or replacements made by anyone else.
+No labor allowances will be made for the removal
+or replacement of warranted parts or for travel
+to and from the product to make said repairs or
+replacements without prior written authorization
+from Hunter Agriculture.
+SUITABILITY
+There are no other warranties, expressed or
+implied, including warranties of merchantability
+and fitness for a particular purpose. It is the sole
+responsibility of the purchaser to consider and
+analyze the product and its design to determine
+whether it is suitable for specific applications.
+
+--- PAGE 48 ---
+At Hunter® Agricultural Irrigation, our commitment is to continue
+developing world-class Senninger® irrigation products and
+providing local support and technical expertise. This results in the
+most efficient and reliable irrigation solutions available today.
+Steve Abernethy, President of Hunter Agricultural Irrigation
+© 2025 Hunter Industries Inc., Hunter, the Hunter logo, Senninger, and other marks are trademarks
+of Hunter Industries Inc., registered in the U.S. and certain other countries. Please recycle.
+Website hunterirrigation.com/agriculture  I  Customer Support +1-407-877-5655
+Domestic Customer Service us-cs@hunter.global I  International Customer Service intl-cs@hunter.global
+FLORIDA HEADQUARTERS
+1963 Healy Way
+Clermont, FL 34711 USA
+Tel: +1-407-877-5655
+NEBRASKA WAREHOUSE
+1713 Holland Drive
+Grand Island, NE 68803 USA
+Tel: +1-308-381-8558
+TEXAS WAREHOUSE
+5810 50th Street
+Lubbock, TX 79424 USA
+Tel: +1 -806-793-3010
+BRAZIL
+Praça Emilio Marconato
+1000 Galpão G-44
+Núcleo Residencial Doutor João Aldo Nassif
+Jaguariúna - SP CEP 13916-074
+Tel: +55-19-3802-1917
+
+MS803
+25 MSC-EN 12

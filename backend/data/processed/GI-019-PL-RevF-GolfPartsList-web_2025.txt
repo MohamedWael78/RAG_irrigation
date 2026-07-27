@@ -1,0 +1,2598 @@
+--- PAGE 1 ---
+hunterindustries.com/golf
+EFFECTIVE JANUARY 2, 2024
+Supersedes all previous price lists. Prices and specifications are subject to change without notice.
+Golf Replacement Parts List
+GOLF IRRIGATION | Built on Innovation®
+
+--- PAGE 2 ---
+
+TABLE OF CONTENTS
+TABLE OF CONTENTS
+TTS-800 AND G-800 SERIES GOLF ROTORS........ 3
+GT-800E/GT-800D/GT-800DD/GT-800C
+Body Assembly..................................................................... 3
+G-800E/G-800D/G-800DD Body Assembly:
+Valve-in-Head (VIH)............................................................. 5
+G-800C Body Assembly: Check-O-Matic Technology.........6
+G-885 Riser Assembly: Adjustable Arc Configuration......... 7
+G-884 Riser Assembly: Adjustable Arc Configuration.........9
+G-880 Riser Assembly: Full-Circle Configuration................11
+G-880 Riser Assembly: Full-Circle Configuration
+(Obsolete Model).................................................................13
+G-835 Riser Assembly: Adjustable Arc Configuration........14
+G-875 Riser Assembly: Adjustable Arc Configuration........15
+G-870 Riser Assembly: Full-Circle Configuration ...............16
+B SERIES GOLF ROTORS. ................................... 17
+G-80B/G-84B/G-85B Body Assembly: Block ...................17
+G-85B Riser Assembly: Adjustable Arc Configuration........18
+G-84B Riser Assembly: Adjustable Arc Configuration.......20
+G-80B Riser Assembly: Full-Circle Configuration..............22
+G-80B Riser Assembly: Full-Circle Configuration
+(Obsolete Model)................................................................24
+G-35B/G-70B/G-75B Body Assembly: Block ...................25
+G-35B Riser Assembly: Full-Circle Configuration...............26
+G-75B Riser Assembly: Adjustable Arc Configuration....... 27
+G-70B Riser Assembly: Full-Circle Configuration...............28
+G-900 SERIES GOLF ROTORS............................ 29
+G-900E/G-900D/G-900DD Body Assembly:
+Valve-in-Head.....................................................................29
+G-900C Body Assembly: Check-O-Matic Technology ......30
+G-995 Riser Assembly: Adjustable Arc Configuration........31
+G-990 Riser Assembly: Full-Circle Configuration..............32
+MISCELLANEOUS...............................................33
+Tools and Accessories: Golf Rotors .................................. 33
+G-900 Series Rubber Cover Kits........................................34
+Hose Swivel Adapters.........................................................34
+CONTROLLERS. .................................................35
+Pilot-FC Field Controller Parts............................................ 35
+Pilot-DH Integrated Hub Parts...........................................36
+Communication Parts For Pilot-FC, -DH, and -FI............... 37
+Conventional Controller Components
+(Obsolete Models)..............................................................39
+Decoder Controller Components (Obsolete Models)..........41
+ICD-HP Components..........................................................43
+WARRANTY...................................................... 44
+
+--- PAGE 3 ---
+GT-800E/GT-800D/GT-800DD/GT-800C BODY ASSEMBLY
+ITEM DESCRIPTION
+MODEL
+
+Lid assembly, switch, qty. 1
+954400SP
+Lid assembly, Check-O-Matic (COM) Technology, qty. 1
+954401SP
+Yardage marker, black, qty. 10
+915700SP
+Yardage marker, red, qty. 10
+915701SP
+Yardage marker, blue, qty. 10
+915702SP
+Yardage marker, white, qty. 10
+915703SP
+Yardage marker, purple, qty. 10
+915704SP
+
+Selector switch, gray, qty. 10
+914600SP
+Selector switch, yellow, qty. 10
+914601SP
+Selector switch, DIH GRND, qty. 10
+914602SP
+
+Selector switch bracket assembly (red), qty. 1
+10009300SP
+Screw, 11/4" (30 mm), qty. 5
+334001SP
+
+Selector switch assembly, 50 PSI (3.4 bar; 340 kPa), qty. 1
+929100SP
+Selector switch assembly, 65 PSI (4.9 bar; 490 kPa), qty. 1
+929101SP
+Selector switch assembly, 80 PSI (5.5 bar; 550 kPa), qty. 1
+929102SP
+Selector switch assembly, COM, qty. 1
+10009000SP
+Pressure regulator, 50 PSI (3.4 bar; 340 kPa), qty. 1
+934500SP
+Pressure regulator, 65 PSI (4.9 bar; 490 kPa), qty. 1
+934501SP
+Pressure regulator, 80 PSI (5.5 bar; 550 kPa), qty. 1
+934502SP
+Selector switch base filter, qty. 1
+386605SP
+Manifold assembly, TTS, qty. 1
+929300SP
+
+Two-way module, 100, TTS, qty. 1
+353601SP
+Two-way module, 200, TTS, qty. 1
+686501SP
+Solenoid AC, qty. 1
+606800
+Solenoid DC, qty. 1
+458200
+
+Solenoid base assembly, qty. 1
+929600SP
+
+Snap ring, lower, G-800, qty. 10
+526800SP
+
+Inlet valve, electric, (white screen) G-800, qty. 1
+929700SP
+Inlet valve (black screen), COM, qty. 1
+929701SP
+Rock Screen Kit (white), electric, qty. 1
+10010300SP
+Rock Screen Kit (black), COM, qty. 1
+10010301SP
+Valve filter screen, qty. 1
+387400SP
+Velocity Control Disk Kit, qty. 1
+10009400SP
+
+Pilot valve bracket assembly (blue), qty. 1
+10009200SP
+Screw, 11/4" (30 mm), qty. 5
+334001SP
+
+Body assembly, GT-800, qty. 1
+10009100SP
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 4 ---
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 5 ---
+
+G-800E/G-800D/G-800DD BODY ASSEMBLY:
+VALVE-IN-HEAD (VIH)
+ITEM
+DESCRIPTION
+MODEL
+
+Snap ring, lower G-800 (white), qty. 10
+526800SP
+
+Inlet valve, electric, G-800 (white screen), qty. 1
+929700SP
+
+O-ring - inlet valve to body seal
+426300
+
+Screw - flange lid retainer, qty. 10
+351800SP
+
+Lid - flange compartment - electric recessed yardage
+marker area
+449420
+ Lid - flange compartment - electric
+449410
+          Raised yardage marker area
+
+Selector cap and Detent Ring Kit (gray), qty. 5
+461536SP
+ Selector cap - Decoder-in-Head (DIH) (yellow)
+454200
+ Selector cap - DIH (green)
+454201
+
+Solenoid Kit - AC, qty. 1 (Includes items 6, 7, 8, and 9)
+461537SP
+
+O-ring - solenoid thread seal
+262600
+
+Seal - solenoid plunger seal
+364400
+
+Pilot Valve Kit (tan), qty. 1
+461540SP
+
+Pressure Regulator Kit - variable, qty. 1
+(50 to 120 PSI; 3.4 to 8.3 bar; 340 to 830 kPa)
+674800SP
+
+Control Tubing Kit - includes 24" (61 cm) of
+⅛" tubing, connector, and retainers (2)
+461539
+NS
+Tube retainer - ⅛" tubing
+476000
+NS
+Connector - ⅛" x ⅛" tubing
+494400
+
+Body assembly, electric VIH - includes tubing to pilot
+valve and tubing to regulator plus items 4, 5, 16, 17, and 18
+(does not include pilot valve or pressure regulator)
+463736SP
+
+Cap, protective - solenoid wires
+643900
+
+Cap, protective - lower compartment
+474400
+
+Restraint - solenoid wires
+669300
+
+Brace - DIH decoder support (yellow)
+526700
+
+DIH-100 1-station decoder/solenoid assembly
+353600
+
+DIH-200 2-station decoder/solenoid assembly
+686500
+NS = Not shown
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+18 19
+
+--- PAGE 6 ---
+NOTE: COM/
+HYD G-800
+VALVES HAVE
+A BLACK
+FILTER
+SCREEN
+
+G-800C BODY ASSEMBLY: CHECK-O-MATIC TECHNOLOGY
+ITEM
+DESCRIPTION
+MODEL
+
+Snap ring, lower G-800 (white), qty. 10
+526800SP
+
+Assembly, inlet valve, Check-O-Matic (COM) Technology
+(black screen), qty. 1
+929701SP
+
+O-ring - inlet valve to body seal
+426300
+
+Screw - flange lid retainer, qty. 10
+351800SP
+
+Lid - flange compartment, COM
+449405
+Recessed yardage marker area
+Lid - flange compartment, COM
+449415
+Raised yardage marker area
+
+Vent cap - valve air bleed
+456600
+
+Tube retainer - ¼" tubing
+052610
+
+Connector - ¼" x ⅛" tubing
+402100
+
+Tube retainer - ⅛" tubing
+476000
+
+Control Tubing Kit - includes 24" (61 cm) of ⅛" tubing,
+connector, and retainers (2)
+461539
+
+Body assembly, COM, and normally open hydraulic -
+includes items 4-13
+463734
+
+Cap, protective - solenoid wires
+643900
+
+Cap, protective - lower compartment
+474400
+
+Note: G-800-C
+Valves have a
+black filter screen
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 7 ---
+G-885 RISER ASSEMBLY:
+ADJUSTABLE ARC CONFIGURATION
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple
+450105
+
+Screw - logo cap retainer
+189755
+
+Rubber logo cap assembly, black
+255300
+
+Yoke - secondary nozzle housing
+254500
+
+O-ring - yoke seal (2 used)
+252104
+
+Screw - primary nozzle retainer
+180900
+
+Seal block assembly with O-ring
+517100
+
+O-ring - seal block
+549400
+
+Spring - riser retraction
+553700
+
+Face seal
+256500
+
+Ratchet ring/spring seat
+255000
+
+Riser assembly - SRU; includes items 1-16
+plus desired nozzle set (replace XX in model
+number with any primary nozzle 10 through
+53)
+G885INT-XX
+
+Stator base (for stator 14)
+256600
+
+Stator adjustment plate (nozzles 23-53)
+266500
+
+Stator variable, qty. 5 (nozzles 10-20)
+271000SP
+
+Screen - riser inlet
+539200
+
+Primary nozzles - packs of 10
+10 - Light green with plug, qty. 10
+272108SP
+13 - Light blue, qty. 10
+272109SP
+15 - White, qty. 10
+272110SP
+18 - Orange, qty. 10
+272111SP
+20 - Tan, qty. 10
+272112SP
+23 - Green, qty. 10
+272101SP
+25 - Blue, qty. 10
+272102SP
+33 - Gray, qty. 10
+272103SP
+38 - Red, qty. 10
+272104SP
+43 - Dark brown, qty. 10
+272105SP
+48 - Dark green, qty. 10
+272106SP
+53 - Dark blue, qty. 10
+272107SP
+Image on the following page; compatible with TTS-800 and
+G-800 Series body assemblies
+ITEM DESCRIPTION
+MODEL
+Low-angle primary nozzles - packs of 10
+18 - Orange/gray, qty. 10
+301711SP
+20 - Tan/gray, qty. 10
+301712SP
+23 - Green/gray, qty. 10
+301701SP
+25 - Blue/gray, qty. 10
+301702SP
+33 - Gray/gray, qty. 10
+301703SP
+38 - Red/gray, qty. 10
+301704SP
+43 - Dark brown/gray, qty. 10
+301705SP
+48 - Dark green/gray, qty. 10
+301706SP
+53 - Dark blue/gray, qty. 10
+301707SP
+
+Short-range nozzles - packs of 10
+Peach - shortest range, qty. 10
+803604SP
+Orange - nozzles 10-23, qty. 10
+803603SP
+Red - nozzles 25-43, qty. 10
+803602SP
+Dark red - nozzles 48-53, qty. 10
+803601SP
+
+Mid-range nozzles - packs of 10
+ White - nozzles 13-15, qty. 10
+315314SP
+Light green - nozzles 18-23, qty. 10
+315313SP
+ Green - nozzles 25-43, qty. 10
+315310SP
+Dark green - nozzles 10, 48,
+and 53, qty. 10
+315312SP
+
+Plug - nozzle, black, qty. 10
+315300SP
+NS
+Nozzle pack - 10-20
+(includes short- and mid-range)
+460023SP
+NS
+Nozzle pack - 23-33
+(includes short- and mid-range)
+460024SP
+NS
+Nozzle pack - 38-53
+(includes short- and mid-range)
+460025SP
+
+Yoke assembly; includes items
+4, 5, 18, 19, and 20
+For primary nozzle 10
+863501
+For primary nozzles 13-15
+863504
+For primary nozzles 18-23
+863503
+For primary nozzles 25-43
+863502
+For primary nozzles 48-53
+863500
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 8 ---
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 9 ---
+G-884 RISER ASSEMBLY:
+ADJUSTABLE ARC CONFIGURATION
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple
+450105
+
+Screw - logo cap retainer
+189755
+
+Rubber logo cap assembly, black
+255303SP
+
+Yoke - secondary nozzle housing
+254500
+
+O-ring - yoke seal (2 used)
+252104
+
+Screw - primary nozzle retainer
+180900
+
+Seal block assembly with O-ring
+517100
+
+O-ring - seal block
+549400
+
+Spring - riser retraction
+553700
+
+Face seal
+256500
+
+Ratchet ring/spring seat
+255000
+
+Riser assembly - SRU; includes items 1 -
+16 plus desired nozzle set (replace XX in
+model number with any primary nozzle
+15 through 53)
+G884INT-XX
+
+Stator base (for stator 14)
+256600
+
+Stator adjustment plate (nozzles 23-53)
+266500
+
+Stator variable, qty. 5 (nozzles 10-20)
+271000SP
+
+Screen - riser inlet
+539200
+
+Primary nozzles - packs of 10
+15 - White, qty. 10
+272110SP
+18 - Orange, qty. 10
+272111SP
+20 - Tan, qty. 10
+272112SP
+23 - Green, qty. 10
+272101SP
+25 - Blue, qty. 10
+272102SP
+33 - Gray, qty. 10
+272103SP
+38 - Red, qty. 10
+272104SP
+43 - Dark brown, qty. 10
+272105SP
+48 - Dark green, qty. 10
+272106SP
+53 - Dark blue, qty. 10
+272107SP
+Image on the following page; compatible with TTS-800 and
+G-800 Series body assemblies
+ITEM DESCRIPTION
+MODEL
+Low-angle primary nozzles - packs of 10
+18 - Orange/gray, qty. 10
+301711SP
+20 - Tan/gray, qty. 10
+301712SP
+23 - Green/gray, qty. 10
+301701SP
+25 - Blue/gray, qty. 10
+301702SP
+33 - Gray/gray, qty. 10
+301703SP
+38 - Red/gray, qty. 10
+301704SP
+43 - Dark brown/gray, qty. 10
+301705SP
+48 - Dark green/gray, qty. 10
+301706SP
+53 - Dark blue/gray, qty. 10
+301707SP
+
+Short-range nozzles - packs of 10
+Tan - nozzles 15-43, qty. 10
+803611SP
+Dark brown - nozzles 48-53,
+qty. 10
+803610SP
+
+Mid-range nozzles - packs of 10
+Gray - nozzles 15-20, qty. 10
+315317SP
+Light blue - nozzles 23-38, qty. 10
+315311SP
+Blue - nozzle 43, qty. 10
+315315SP
+Dark blue - nozzles 48-53, qty. 10
+833500SP
+
+Plug - nozzle, black, qty. 10
+315300SP
+NS
+Nozzle pack - 15-20
+(includes short- and mid-range)
+460054SP
+NS
+Nozzle pack - 23-38
+(includes short- and mid-range)
+460055SP
+NS
+Nozzle pack - 43-53
+(includes short- and mid-range)
+460056SP
+
+Yoke assembly; includes items 4, 5, 18, 19,
+and 20
+For primary nozzles 15-20
+863505
+For primary nozzles 23-38
+863506
+For primary nozzle 43
+863507
+For primary nozzles 48-53
+863508
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 10 ---
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 11 ---
+G-880 RISER ASSEMBLY:
+FULL-CIRCLE CONFIGURATION
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple
+450105
+
+Screw - logo cap retainer
+189755
+
+Rubber logo cap assembly, black
+255301SP
+
+Yoke - secondary nozzle housing
+254500
+
+O-ring - yoke seal (2 used)
+252104
+
+Screw - primary nozzle retainer
+180900
+
+Seal block assembly with O-ring
+517100
+
+O-ring - seal block
+549400
+
+Spring - riser retraction
+553700
+
+Face seal
+256500
+
+Ratchet ring/spring seat
+255000
+
+Riser assembly - SRU; includes items 1-16
+plus desired nozzle set (replace XX in
+model number with any primary nozzle 15
+through 53)
+G880INT-XX
+
+Stator base (for stator 14)
+256600
+
+Stator adjustment plate (nozzles 23-53)
+266500
+
+Stator variable; qty. 5 (nozzles 10-20)
+271000SP
+
+Screen - riser inlet
+539200
+
+Primary nozzles - packs of 10
+15 - White, qty. 10
+272110SP
+18 - Orange, qty. 10
+272111SP
+20 - Tan, qty. 10
+272112SP
+23 - Green, qty. 10
+272101SP
+25 - Blue, qty. 10
+272102SP
+33 - Gray, qty. 10
+272103SP
+38 - Red, qty. 10
+272104SP
+43 - Dark brown, qty. 10
+272105SP
+48 - Dark green, qty. 10
+272106SP
+53 - Dark blue, qty. 10
+272107SP
+Image on the following page; compatible with TTS-800 and
+G-800 Series body assemblies
+ITEM DESCRIPTION
+MODEL
+Low-angle primary nozzles - packs of 10
+18 - Orange/gray, qty. 10
+301711SP
+20 - Tan/gray, qty. 10
+301712SP
+23 - Green/gray, qty. 10
+301701SP
+25 - Blue/gray, qty. 10
+301702SP
+33 - Gray/gray, qty. 10
+301703SP
+38 - Red/gray, qty. 10
+301704SP
+43 - Dark brown/gray, qty. 10
+301705SP
+48 - Dark green/gray, qty. 10
+301706SP
+53 - Dark blue/gray, qty. 10
+301707SP
+
+Short-range nozzles - packs of 10
+Tan - nozzles 15-43, qty. 10
+803611SP
+Dark brown - nozzles 48-53, qty. 10
+803610SP
+
+Mid-range nozzles - packs of 10
+Gray - nozzles 15-20, qty. 10
+315317SP
+Light blue - nozzles 23-38, qty. 10
+315311SP
+Blue - nozzle 43, qty. 10
+315315SP
+Dark blue - nozzles 48-53, qty. 10
+833500SP
+
+Plug - nozzle, black, qty. 10
+315300SP
+NS
+Nozzle pack - 15-20
+(includes short- and mid-range)
+460054SP
+NS
+Nozzle pack - 23-38
+(includes short- and mid-range)
+460055SP
+NS
+Nozzle pack - 43-53
+(includes short- and mid-range)
+460056SP
+
+Yoke assembly; includes items 4, 5, 18,
+19, and 20
+For primary nozzles 15-20
+863505
+For primary nozzles 23-38
+863506
+For primary nozzle 43
+863507
+For primary nozzles 48-53
+863508
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 12 ---
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 13 ---
+G-880 RISER ASSEMBLY: FULL-CIRCLE
+CONFIGURATION (Obsolete Model)
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple;
+applications: reclaimed water sites
+450105
+
+Screw - shroud retainer
+376400
+
+Rubber logo cap (black)
+453800
+
+O-ring - seal
+549400
+
+Face seal - white
+552400
+
+Plate - stator adjustment
+266500
+
+Screen - riser inlet - date codes 0213 and prior
+052868
+
+Nozzle pack - primary nozzles
+one each 25-53
+460002
+Obsolete model; replaced with updated G-80 in January 2019
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 14 ---
+G-835 RISER ASSEMBLY:
+ADJUSTABLE ARC CONFIGURATION
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+610100
+Snap ring assembly - upper, purple;
+applications: reclaimed water sites
+610105
+
+Rubber logo cap, black
+553800
+
+Screw - nozzle retainer
+053143
+
+Support - riser seal upper
+450400
+
+Seal - riser
+450500
+
+Support - riser seal lower
+052383
+
+Spring - riser retraction
+348700
+
+Bumper - riser
+405700
+
+Riser assembly - includes
+items 1-11
+400600
+
+Screen - riser inlet
+450600
+
+Nozzle rack
+554000
+Compatible with TTS-800 and G-800 Series body assemblies
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 15 ---
+G-875 RISER ASSEMBLY: ADJUSTABLE ARC
+CONFIGURATION (Obsolete Model)
+ITEM
+DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+610100
+Snap ring assembly - upper, purple;
+applications: reclaimed water sites
+610105
+
+Rubber logo cap, black
+402720
+
+Screw - nozzle retainer
+053143
+
+Support - riser seal upper
+450400
+
+Seal - riser
+450500
+
+Support - riser seal lower
+052383
+
+Spring - riser retraction
+348700
+
+Bumper - riser
+405700
+
+Riser assembly; includes items 1-12
+474571SP
+
+Plate - stator adjustment
+439600
+
+Screen - riser inlet
+450600
+
+Nozzle pack
+461532
+
+Nozzle assembly - bag of 25
+ 8 - Light brown
+463404SP
+10 - Light green
+463405SP
+13 - Light blue
+463406SP
+15 - Gray
+463407SP
+18 - Red
+463408SP
+20 - Dark brown
+463409SP
+23 - Dark green
+463410SP
+25 - Dark blue
+463411SP
+28 - Black
+463412SP
+Obsolete model; replaced with G-885 in 2013
+
+| Learn more. Visit hunterindustries.com/golf
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 16 ---
+G-870 RISER ASSEMBLY: FULL-CIRCLE
+CONFIGURATION (Obsolete Model)
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+610100
+Snap ring assembly - upper, purple;
+applications: reclaimed water sites
+610105
+
+Rubber logo cap, black
+402710
+
+Screw - nozzle retainer (2 required)
+053143
+
+Support - riser seal upper
+450400
+
+Seal - riser
+450500
+
+Support - riser seal lower
+052383
+
+Spring - riser retraction
+348700
+
+Bumper - riser
+405700
+
+Riser assembly; includes items 1-12
+474507SP
+
+Plate - stator adjustment
+439600
+
+Screen - riser inlet
+450600
+
+Nozzle pack
+463210
+
+Nozzle rack - bag of 25
+15 - Gray
+463213
+18 - Red
+463214
+20 - Dark brown
+463215
+23 - Dark green
+463216
+25 - Dark blue
+463217
+28 - Black
+463218
+Obsolete model; replaced with G-880
+
+TTS-800 AND G-800 SERIES GOLF ROTORS
+
+--- PAGE 17 ---
+G-80B/G-84B/G-85B BODY ASSEMBLY: BLOCK
+ITEM DESCRIPTION
+MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple;
+applications: reclaimed water sites
+450105
+
+Flange cap
+322400
+
+Body - block with 1¼" (30 mm)
+Acme inlet
+781300
+| Learn more. Visit hunterindustries.com/golf
+B SERIES GOLF ROTORS
+
+--- PAGE 18 ---
+G-85B RISER ASSEMBLY:
+ADJUSTABLE ARC CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple
+450105
+
+Screw - logo cap retainer
+189755
+
+Rubber logo cap assembly, black
+255300
+
+Yoke - secondary nozzle housing
+254500
+
+O-ring - yoke seal (2 used)
+252104
+
+Screw - primary nozzle retainer
+180900
+
+Seal block assembly with O-ring
+517100
+
+O-ring - seal block
+549400
+
+Spring - riser retraction
+553700
+
+Face seal
+256500
+
+Ratchet Ring - Spring Seat
+255000
+
+Riser assembly - SRU; includes items 1-13,
+17, and 18; 18 nozzle installed; includes
+10-20 nozzle pack
+460017
+Riser assembly - SRU; includes items 1-16,
+18; 25 nozzle installed; includes 23-33
+nozzle pack
+460018
+Riser assembly - SRU; includes items 1-16,
+18; 48 nozzle installed; includes 38-53
+nozzle pack
+460021
+
+Stator base (for stator 14)
+256600
+
+Stator adjustment plate (nozzles 23-53)
+266500
+
+Stator variable; qty. 5 (nozzles 10-20)
+271000
+
+Screen (check valve) - riser inlet
+271900
+
+Primary nozzles - packs of 10
+10 - Light green with plug, qty. 10
+272108SP
+13 - Light blue, qty. 10
+272109SP
+15 - White, qty. 10
+272110SP
+18 - Orange, qty. 10
+272111SP
+20 - Tan, qty. 10
+272112SP
+23 - Green, qty. 10
+272101SP
+25 - Blue, qty. 10
+272102SP
+33 - Gray, qty. 10
+272103SP
+38 - Red, qty. 10
+272104SP
+43 - Dark brown, qty. 10
+272105SP
+48 - Dark green, qty. 10
+272106SP
+53 - Dark blue, qty. 10
+272107SP
+Image on the following page
+ITEM DESCRIPTION
+ MODEL
+Low-angle primary nozzles - packs of 10
+18 - Orange/gray, qty. 10
+301711SP
+20 - Tan/gray, qty. 10
+301712SP
+23 - Green/gray, qty. 10
+301701SP
+25 - Blue/gray, qty. 10
+301702SP
+33 - Gray/gray, qty. 10
+301703SP
+38 - Red/gray, qty. 10
+301704SP
+43 - Dark brown/gray, qty. 10
+301705SP
+48 - Dark green/gray, qty. 10
+301706SP
+53 - Dark blue/gray, qty. 10
+301707SP
+
+Short-range nozzles - packs of 10
+Peach - shortest range, qty. 10
+803604SP
+Orange - nozzles 10-23, qty. 10
+803603SP
+Red - nozzles 25-43, qty. 10
+803602SP
+Dark red - nozzles 48-53, qty. 10
+803601SP
+
+Mid-range nozzles - packs of 10
+White - nozzles 13-15, qty. 10
+315314SP
+Light green - nozzles 18-23, qty. 10
+315313SP
+Green - nozzles 25-43, qty. 10
+315310SP
+Dark green - nozzles 10, 48, and 53,
+qty. 10
+315312SP
+
+Plug - nozzle, black, qty. 10
+315300SP
+NS
+Nozzle pack - 10-20
+(includes short- and mid-range)
+460023SP
+NS
+Nozzle pack - 23-33
+(includes short- and mid-range)
+460024SP
+NS
+Nozzle pack - 38-53
+(includes short- and mid-range)
+460025SP
+
+Yoke assembly; includes items 4, 5, 18,
+19, and 20
+For primary nozzle 10
+863501
+For primary nozzles 13-15
+863504
+For primary nozzles 18-23
+863503
+For primary nozzles 25-43
+863502
+For primary nozzles 48-53
+863500
+B SERIES GOLF ROTORS
+
+--- PAGE 19 ---
+| Learn more. Visit hunterindustries.com/golf
+B SERIES GOLF ROTORS
+
+--- PAGE 20 ---
+G-84B RISER ASSEMBLY:
+ADJUSTABLE ARC CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple
+450105
+
+Screw - logo cap retainer
+189755
+
+Rubber logo cap assembly, black
+255303SP
+
+Yoke - secondary nozzle housing
+254500
+
+O-ring - yoke seal (2 used)
+252104
+
+Screw - primary nozzle retainer
+180900
+
+Seal block assembly with O-ring
+517100
+
+O-ring - seal block
+549400
+
+Spring - riser retraction
+553700
+
+Face seal
+256500
+
+Ratchet ring/spring seat
+255000
+
+Riser assembly - SRU; includes items 1-13,
+17, and 18; 18 nozzle installed; includes
+10-20 nozzle pack
+460048
+Riser assembly - SRU; includes items 1-16,
+18; 25 nozzle installed; includes 23-33
+nozzle pack
+460049
+Riser assembly - SRU; includes items 1-16,
+18; 48 nozzle installed; includes 38-53
+nozzle pack
+460050
+
+Stator base (for stator 14)
+256600
+
+Stator adjustment plate
+(nozzles 23-53)
+266500
+
+Stator variable; qty. 5
+ (nozzles 10-20)
+271000
+
+Screen/check valve - riser inlet
+271900
+
+Primary nozzles - packs of 10
+15 - White, qty. 10
+272110SP
+18 - Orange, qty. 10
+272111SP
+20 - Tan, qty. 10
+272112SP
+23 - Green, qty. 10
+272101SP
+25 - Blue, qty. 10
+272102SP
+33 - Gray, qty. 10
+272103SP
+38 - Red, qty. 10
+272104SP
+43 - Dark brown, qty. 10
+272105SP
+48 - Dark green, qty. 10
+272106SP
+53 - Dark blue, qty. 10
+272107SP
+Image on the following page
+ITEM DESCRIPTION
+MODEL
+Low-angle primary nozzles - packs of 10
+18 - Orange/gray, qty. 10
+301711SP
+20 - Tan/gray, qty. 10
+301712SP
+23 - Green/gray, qty. 10
+301701SP
+25 - Blue/gray, qty. 10
+301702SP
+33 - Gray/gray, qty. 10
+301703SP
+38 - Red/gray, qty. 10
+301704SP
+43 - Dark brown/gray, qty. 10
+301705SP
+48 - Dark green/gray, qty. 10
+301706SP
+53 - Dark blue/gray, qty. 10
+301707SP
+
+Short-range nozzles - packs of 10
+Tan - nozzles 15-43, qty. 10
+803611SP
+Dark brown - nozzles 48-53, qty. 10
+803610SP
+
+Mid-range nozzles - packs of 10
+Gray - nozzles 15-20, qty. 10
+315317SP
+Light blue - nozzles 23-38, qty. 10
+315311SP
+Blue - nozzle 43, qty. 10
+315315SP
+Dark blue - nozzles 48-53, qty. 10
+833500SP
+
+Plug - nozzle, black, qty. 10
+315300SP
+NS
+Nozzle pack - 15-20
+(includes short- and mid-range)
+460054SP
+NS
+Nozzle pack - 23-33
+(includes short- and mid-range)
+460055SP
+NS
+Nozzle pack - 38-53
+(includes short- and mid-range)
+460056SP
+
+Yoke assembly; includes items 4, 5, 18, 19,
+and 20
+For primary nozzles 15-20
+863505
+For primary nozzles 23-38
+863506
+For primary nozzle 43
+863507
+For primary nozzles 48-53
+863508
+B SERIES GOLF ROTORS
+
+--- PAGE 21 ---
+| Learn more. Visit hunterindustries.com/golf
+B SERIES GOLF ROTORS
+
+--- PAGE 22 ---
+G-80B RISER ASSEMBLY:
+FULL-CIRCLE CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring assembly - upper, black
+450100
+Snap ring assembly - upper, purple
+450105
+
+Screw - logo cap retainer
+189755
+
+Rubber logo cap assembly, black
+255301SP
+
+Yoke - secondary nozzle housing
+254500
+
+O-ring - yoke seal (2 used)
+252104
+
+Screw - primary nozzle retainer
+180900
+
+Seal block assembly with O-ring
+517100
+
+O-ring - seal block
+549400
+
+Spring - riser retraction
+553700
+
+Face seal
+256500
+
+Ratchet ring/spring seat
+255000
+
+Riser assembly - SRU; includes items 1-16, 18;
+25 nozzle installed; includes 15-20 nozzle pack
+994800SP
+Riser assembly - SRU; includes items 1-16, 18;
+25 nozzle installed; includes 23-33 nozzle pack
+994900SP
+Riser assembly - SRU; includes items 1-16, 18;
+48 nozzle installed; includes 38-53 nozzle pack
+995100SP
+
+Stator base (for stator 14)
+256600
+
+Stator adjustment plate (nozzles 23-53)
+266500
+
+Stator variable; qty. 5 (nozzles 10-20)
+271000SP
+
+Screen/check valve - riser inlet
+271900
+
+Primary nozzles - packs of 10
+15 - White, qty. 10
+272110SP
+18 - Orange, qty. 10
+272111SP
+20 - Tan, qty. 10
+272112SP
+23 - Green, qty. 10
+272101SP
+25 - Blue, qty. 10
+272102SP
+33 - Gray, qty. 10
+272103SP
+38 - Red, qty. 10
+272104SP
+43 - Dark brown, qty. 10
+272105SP
+48 - Dark green, qty. 10
+272106SP
+53 - Dark blue, qty. 10
+272107SP
+Image on the following page
+ITEM DESCRIPTION
+ MODEL
+Low-angle primary nozzles - packs of 10
+18 - Orange/gray, qty. 10
+301711SP
+20 - Tan/gray, qty. 10
+301712SP
+23 - Green/gray, qty. 10
+301701SP
+25 - Blue/gray, qty. 10
+301702SP
+33 - Gray/gray, qty. 10
+301703SP
+38 - Red/gray, qty. 10
+301704SP
+43 - Dark brown/gray, qty. 10
+301705SP
+48 - Dark green/gray, qty. 10
+301706SP
+53 - Dark blue/gray, qty. 10
+301707SP
+
+Short-range nozzles - packs of 10
+Tan - nozzles 15-43, qty. 10
+803611SP
+Dark brown - nozzles 48-53, qty. 10
+803610SP
+
+Mid-range nozzles - packs of 10
+Gray - nozzles 15-20, qty. 10
+315317SP
+Light blue - nozzles 23-38, qty. 10
+315311SP
+Blue - nozzle 43, qty. 10
+315315SP
+Dark blue - nozzles 48-53, qty. 10
+833500SP
+
+Plug - nozzle, black, qty. 10
+315300SP
+NS
+Nozzle pack - 15-20
+(includes short- and mid-range)
+460054SP
+NS
+Nozzle pack - 23-33
+(includes short- and mid-range)
+460055SP
+NS
+Nozzle pack - 38-53
+(includes short- and mid-range)
+460056SP
+
+Yoke assembly; includes items 4, 5, 18, 19, and 20
+For primary nozzles 15-20
+863505
+For primary nozzles 23-38
+863506
+For primary nozzle 43
+863507
+For primary nozzles 48-53
+863508
+B SERIES GOLF ROTORS
+
+--- PAGE 23 ---
+| Learn more. Visit hunterindustries.com/golf
+B SERIES GOLF ROTORS
+
+--- PAGE 24 ---
+G-80B RISER ASSEMBLY: FULL-CIRCLE
+CONFIGURATION (Obsolete Model)
+ITEM DESCRIPTION
+ MODEL
+
+Screw - shroud retainer
+376400
+
+Rubber logo cap, black
+453800
+
+O-ring - seal
+549400
+
+Face seal, white
+552400
+
+Plate - stator adjustment
+266500
+
+Screen - with check valve
+271900
+
+Nozzle pack - primary nozzles,
+one each 25-53
+460002
+Obsolete model; replaced with updated G-80 in January 2019
+B SERIES GOLF ROTORS
+
+--- PAGE 25 ---
+| Learn more. Visit hunterindustries.com/golf
+B SERIES GOLF ROTORS
+
+G-35B/G-70B/G-75B BODY ASSEMBLY: BLOCK
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring assembly - upper, black
+403400SP
+Snap ring assembly - upper, purple;
+applications: reclaimed water sites
+470600
+
+Body - block with 1¼" (30 mm)
+Acme inlet
+401800
+
+--- PAGE 26 ---
+G-35B RISER ASSEMBLY:
+FULL-CIRCLE CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Rubber logo cap, black
+553800
+
+Screw - nozzle retainer
+053143
+
+Support - riser seal upper
+349100
+
+Seal - riser
+348900
+
+Support - riser seal lower
+052383
+
+Spring - riser retraction
+348700
+
+Bumper - riser
+405700
+
+Riser assembly; includes items
+1 - 11 plus 403400 snap ring
+400500
+
+Screen - with check seal, black
+422200
+
+Check seal
+424800
+
+Nozzle rack
+554000
+B SERIES GOLF ROTORS
+
+--- PAGE 27 ---
+G-75B RISER ASSEMBLY:
+ADJUSTABLE ARC CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Rubber logo cap, black
+402720
+
+Screw - nozzle retainer
+053143
+
+Support - riser seal upper
+349100
+
+Seal - riser
+348900
+
+Support - riser seal lower
+052383
+
+Spring - riser retraction
+348700
+
+Bumper - riser
+405700
+
+Riser assembly; includes items
+1-12 plus 403400 snap ring
+474211SP
+
+Plate - stator adjustment
+439600
+
+Screen - with check seal, black
+422200
+
+Check seal
+424800
+
+Nozzle pack
+461532
+
+Nozzle assembly - bag of 25
+ 8 - Light brown
+463404SP
+10 - Light green
+463405SP
+13 - Light blue
+463406SP
+15 - Gray
+463407SP
+18 - Red
+463408SP
+20 - Dark brown
+463409SP
+23 - Dark green
+463410SP
+25 - Dark blue
+463411SP
+28 - Black
+463412SP
+| Learn more. Visit hunterindustries.com/golf
+B SERIES GOLF ROTORS
+
+3 4
+
+--- PAGE 28 ---
+G-70B RISER ASSEMBLY:
+FULL-CIRCLE CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Rubber logo cap, black
+402710
+
+Screw - nozzle retainer
+053143
+
+Support - riser seal upper
+349100
+
+Seal - riser
+348900
+
+Support - riser seal lower
+052383
+
+Spring - riser retraction
+348700
+
+Bumper - riser
+405700
+
+Riser assembly; includes items
+1-12 plus 403400 snap ring
+474210SP
+
+Plate - stator adjustment
+439600
+
+Screen - with check seal, black
+422200
+
+Check seal
+424800
+
+Nozzle pack
+463210
+
+Nozzle assembly - bag of 25
+15 - Gray
+463213
+18 - Red
+463214
+20 - Dark brown
+463215
+23 - Dark green
+463216
+25 - Dark blue
+463217
+28 - Black
+463218
+B SERIES GOLF ROTORS
+
+3 4
+
+--- PAGE 29 ---
+G-900E/G-900D/G-900DD BODY ASSEMBLY:
+VALVE-IN-HEAD
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring - lower, white
+052830
+
+Inlet valve assembly - electric VIH (white screen),
+qty. 1
+643200SP
+
+Screen and valve seat, white
+643400
+
+O-ring - inlet valve to body seal
+643500
+
+Screw - flange lid retainer, qty. 10
+351800SP
+
+Lid - flange compartment - electric recessed
+yardage marker area
+493600
+Lid - flange compartment - electric raised yardage
+marker area
+493610
+
+Selector cap and Detent Ring Kit, gray, qty. 5
+461536SP
+Selector cap - DIH, yellow
+454200
+Selector cap - DIH, green
+454201
+
+Solenoid Kit - AC, qty. 1
+(includes items 6, 7, 8, 9, and 10)
+461537SP
+
+O-ring - solenoid thread seal
+262600
+
+Seal - solenoid plunger seal
+364400
+
+Pilot Valve Kit, tan, qty. 1
+461540SP
+
+Pressure Regulator Kit - variable (50 to 120 PSI;
+3.5 to 8.3 bar; 345 to 827 kPa), qty. 1
+674800SP
+
+Control Tubing Kit - includes 24"
+(61 cm) of ⅛" tubing, connector, and retainers (2)
+461539
+NS
+Tube retainer - ⅛" tubing
+476000
+NS
+Connector - ⅛" x ⅛" tubing
+494400
+
+Body assembly, electric VIH; includes tubing to
+pilot valve and tubing to regulator plus items 14,
+15, and 16 (does not include pilot valve or pressure
+regulator)
+674600
+
+Cap, protective - solenoid wires
+643900
+
+Cap, protective - lower compartment
+474400
+
+Restraint - solenoid wires
+669300
+
+Brace - DIH decoder support, yellow
+526700
+
+DIH-100 1-station decoder/solenoid assembly
+353600
+DIH-200 2-station decoder/solenoid assembly
+686500
+NS = Not shown
+| Learn more. Visit hunterindustries.com/golf
+G-900 SERIES GOLF ROTORS
+
+Note: Electric valves
+have a white screen
+
+--- PAGE 30 ---
+G-900C BODY ASSEMBLY:
+CHECK-O-MATIC TECHNOLOGY
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring - lower, white
+052830
+
+Inlet valve assembly - COM and normally open
+hydraulic (black screen), qty. 1
+672500SP
+
+Screen and valve seat, black
+643405
+
+O-ring - inlet valve to body seal
+643500
+
+Screw - flange lid retainer, qty. 10
+351800SP
+
+Lid - flange compartment - COM; recessed
+yardage marker area
+493605
+Lid - flange compartment - COM; raised yardage
+marker area
+493615
+
+Vent cap - valve air bleed
+456600
+
+Tube retainer - ¼" tubing
+052610
+
+Connector - ¼" x ⅛" tubing
+402100
+
+Tube retainer - ⅛" tubing
+476000
+
+Control Tubing Kit; includes 24" (61 cm) of
+⅛" tubing, connector, and retainers (2)
+461539
+
+Body assembly, COM, and normally open hydraulic
+- includes items 6-13
+674700
+
+Cap, protective - solenoid wire hole
+643900
+
+Cap, protective - lower compartment
+474400
+G-900 SERIES GOLF ROTORS
+
+Note: COM/hydraulic
+valves have a black screen
+
+--- PAGE 31 ---
+G-995 RISER ASSEMBLY: ADJUSTABLE ARC
+CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Screw - logo cap retainer, qty. 10
+351800SP
+
+Rubber logo cap, black
+664100
+Rubber logo cap, purple;
+applications: reclaimed water sites
+664105
+
+Snap ring assembly, black
+430700
+
+Screw - nozzle retainer (5 required)
+333900
+
+Seal block*
+171700*
+
+O-ring - seal*
+171600*
+
+Spring - riser retraction*
+171900*
+
+Face seal, black*
+406000*
+
+Bumper, gray*
+171800*
+
+Riser assembly; includes items 3-13, 15, 16
+463004SP
+
+Plate - stator adjustment
+052833
+
+Screen - riser inlet
+052868
+
+Nozzle pack - primary nozzles 25-73, qty. 1 each
+461204SP
+
+Primary nozzles - bag of 25
+25 - Light blue
+460011
+33 - Gray
+464363
+38 - Red
+464364
+43 - Dark brown
+464365
+48 - Dark green
+464366
+53 - Dark blue
+464367
+63 - Black
+464368
+73 - Orange
+460012
+Low-angle nozzles - bag of 25
+25 - Light blue/black
+791500
+33 - Gray/black
+791600
+38 - Red/black
+791800
+43 - Dark brown/black
+791900
+48 - Dark green/black
+792000
+53 - Dark blue/black
+792100
+63 - Black/black
+792200
+73 - Orange/black
+792300
+
+Nozzle - short-range (5/11 and prior) left side, black
+439100
+Nozzle - short-range (6/11 and after) left side, red
+191800
+
+Nozzle - mid-range (5/11 and prior) right side, green
+439000
+Nozzle - mid-range (6/11 and after) right side, green
+195701
+
+Plug - nozzle (6/11 and after) left side, black
+195803
+
+Plug - nozzle (6/11 and after) right side, black
+195703
+* Items 5, 6, 7, 8, and 9 must all be replaced when changing any riser seal part on
+risers date coded 1208 (December 2008) and prior
+| Learn more. Visit hunterindustries.com/golf
+G-900 SERIES GOLF ROTORS
+
+--- PAGE 32 ---
+G-990 RISER ASSEMBLY: FULL-CIRCLE
+CONFIGURATION
+ITEM DESCRIPTION
+ MODEL
+
+Screw - logo cap retainer, qty. 10
+351800SP
+
+Rubber logo cap, black
+664000
+Rubber logo cap, purple;
+applications: reclaimed water sites
+664005
+
+Snap ring assembly, black
+430700
+
+Screw - nozzle retainer (5 required)
+333900
+
+Seal block*
+171700*
+
+O-ring - seal*
+171600*
+
+Spring - riser retraction*
+171900*
+
+Face seal, black*
+406000*
+
+Bumper, gray*
+171800*
+
+Riser assembly; includes items 3-13, 15, 16
+463002SP
+
+Plate - stator adjustment
+052833
+
+Screen - riser inlet
+052868
+
+Nozzle pack - primary nozzles 25-73, qty. 1 each
+461204SP
+
+Primary nozzles - bag of 25
+25 - Light blue
+460011
+33 - Gray
+464363
+38 - Red
+464364
+43 - Dark brown
+464365
+48 - Dark green
+464366
+53 - Dark blue
+464367
+63 - Black
+464368
+73 - Orange
+460012
+Low-angle nozzles - bag of 25
+25 - Light blue/black
+791500
+33 - Gray/black
+791600
+38 - Red/black
+791800
+43 - Dark brown/black
+791900
+48 - Dark green/black
+792000
+53 - Dark blue/black
+792100
+63 - Black/black
+792200
+73 - Orange/black
+792300
+
+Nozzle - short-range (5/11 and prior) left side, black
+439100
+Nozzle - short-range (6/11 and after) left side, red
+191800
+
+Nozzle - mid-range (5/11 and prior) right side, blue
+455400
+Nozzle - mid-range (6/11 and after) right side, blue
+195704
+
+Plug - nozzle (6/11 and after) left side, black
+195803
+
+Plug - nozzle (6/11 and after) right side, black
+195703
+* Items 5, 6, 7, 8, and 9 must all be replaced when changing any riser seal part
+on risers date coded 1208 (December 2008) and prior
+G-900 SERIES GOLF ROTORS
+
+--- PAGE 33 ---
+TOOLS AND ACCESSORIES: GOLF ROTORS
+ITEM DESCRIPTION
+ MODEL
+
+Snap ring Removal Tool, qty. 1
+251000SP
+
+Valve Insertion/Removal Tool for G-90 and
+G-900 Series
+280500SP
+
+Valve Insertion/Removal Tool for
+G-800 Series
+604000SP
+
+Valve and snap ring pliers for G-800 Series
+475600SP
+
+T-Handle Tool; VIH selector, nozzle insertion,
+riser lift-up, and arc adjustment
+319100SP
+
+Hunter Wrench, qty. 100
+172000SP
+
+Rotor Pitot Gauge and tube assembly
+280100SP
+
+Hand pump for water extraction
+460302SP
+
+Golf Rotor Tool Kit; includes items 1, 4, 5, 6, 7,
+8, 9, 10, and 13 plus toolbox and screwdriver
+475700SP
+
+Hose adapter and swivel for G-90 Series “C,”
+“H,” and “E”
+G90HS100
+Hose adapter and swivel for G-800 Series “C,”
+“H,” and “E”
+G800HS100
+
+Arc adjustment/riser hold-up for G-85B and
+G-885
+382800SP
+
+Nozzle Removal/Installation Tool for G-85B
+and G-885 short-/mid-range nozzles
+803700SP
+| Learn more. Visit hunterindustries.com/golf
+
+TOOLS AND ACCESSORIES
+
+--- PAGE 34 ---
+G-900 SERIES RUBBER COVER KITS
+ITEM DESCRIPTION
+ MODEL
+
+Screw - cap retainer - all
+351800SP
+
+Logo cap - G-90 and G-990 - date codes 06/11
+and prior only
+103100
+Logo cap - G-95 and G-995 - also G-990 date
+codes 07/11 and after
+103300
+
+Ring - flange cover - G-990 and G-995
+102400
+
+Rubber Cover Kit, G-990; includes items 1, 2,
+and 3 - date codes 06/11 and prior only
+473800
+Rubber Cover Kit, G-995; includes items 1, 2,
+and 3 - also G-990 date codes 07/11 and after
+473900SP
+HOSE SWIVEL ADAPTERS
+ITEM DESCRIPTION
+ MODEL
+
+O-ring for G90HS100
+549500
+O-ring for G800HS100
+549400
+
+TOOL AND ACCESSORIES
+
+--- PAGE 35 ---
+PILOT-FC FIELD CONTROLLER PARTS
+ITEM DESCRIPTION
+ MODEL
+
+Lid Kit with hinge and lock
+PILOTLIDKIT
+
+Lid lock and keys
+558000
+
+Door with screens and envelope
+PILOTDOORKT
+
+FC facepack
+PILOTFPFC
+
+FP or backplane cable harness (black/white)
+527300
+
+Screwdriver
+801300
+
+Transformer assembly (main)
+356100
+
+DC power supply assembly (FC)
+512700
+
+Power module assembly (FC)
+PILOTPWR
+
+Junction box including switch
+427700
+
+Terminal block assembly
+412000
+
+Backplane Kit including 527300 cable
+PILOTFCBP
+
+Front Plane Kit/midplane assembly
+411600
+
+Template with bolts
+581700
+
+10-station output module
+PILOTFC010
+
+| Learn more. Visit hunterindustries.com/golf
+CONTROLLERS
+
+--- PAGE 36 ---
+PILOT-DH INTEGRATED HUB PARTS
+ITEM DESCRIPTION
+ MODEL
+
+Lid Kit with hinge and lock
+PILOTLIDKIT
+
+Lid lock and keys
+558000
+
+Door with screens and envelope
+PILOTDOORKT
+
+DH facepack
+PILOTFPDH
+
+FP or backplane cable harness (black/white)
+527300
+
+Screwdriver
+801300
+
+DC power supply assembly (DH)
+512701
+
+Junction box including switch (DH)
+427701
+
+Backplane Kit DH including two Y-cables
+795900
+
+Backplane Y-cable harness (black/white/yellow)
+815300
+
+Pilot-DH Module power supply
+805500
+
+Pilot-DH Module only
+PILOTDH250
+
+Pilot-DH 250-Station Expansion Kit
+(module and power supply)
+PILOTDH250EXP
+
+Front Plane Kit DH (no harness) midplane assembly, screws
+411601
+
+Pedestal mounting template with bolts
+581700
+
+CONTROLLERS
+
+--- PAGE 37 ---
+COMMUNICATION PARTS FOR PILOT-FC, -DH, AND -FI
+ITEM DESCRIPTION
+ MODEL
+
+Hardwire COM module
+PILOTHWR
+
+Radio COM module
+PILOTMODUHF
+
+Radio COM module (A version)
+PILOTMODUHFA
+
+Radio antenna cable extension
+516090
+
+Strain relief bushing
+504461
+NS
+Lid antenna for pedestal, UHF
+IMMSANT2
+NS
+Antenna for wall or pole mount, UHF
+IMMSANT3
+NS
+Directional antenna for pole mount, UHF
+IMMSANTYAGI3
+NS
+High-gain omnidirectional mast antenna
+RA5M
+NS = Not shown; image on the following page
+| Learn more. Visit hunterindustries.com/golf
+CONTROLLERS
+
+--- PAGE 38 ---
+
+FI
+CONTROLLERS
+
+--- PAGE 39 ---
+CONVENTIONAL CONTROLLER COMPONENTS (Obsolete Models)
+ITEM
+DESCRIPTION
+ MODEL
+
+VSX Keypad Facepack Kit
+VFCKTFP
+
+Genesis Keypad Facepack Kit
+GFCKTFP
+
+Triac board
+TB10
+
+10-station lightning protection/output board
+LPB10
+
+PSB1 power cable assembly
+516140
+
+Communications board wire harness
+516141
+
+Adapter cable - communications board
+516237
+COMMUNICATION MODULES
+ITEM
+DESCRIPTION
+ MODEL
+
+Hardwire replacement communications board
+GFCKTCBHW
+
+Radio replacement communications board
+(New RADIO2KT only)
+GFCKTCBR2
+NS
+Remote stealth antenna mount (includes antenna)
+RASREM
+
+Radio module, synthesized
+RADIO2KT
+TRANSFORMER OPTIONS
+ITEM
+DESCRIPTION
+ MODEL
+
+Transformer Kit, 110 VAC (GFC Series only)
+GFCKTTFR1
+
+Transformer Kit, 220 VAC (GFC Series only)
+GFCKTTFR1SV
+
+Transformer Kit, 110 VAC (plastic controllers)
+FCPKTTFR2
+
+Transformer Kit, 220 VAC (plastic controllers)
+FCPKTTFR2SV
+NS = Not shown; image on the following page
+Obsolete models; replaced with Pilot in 2013
+Production discontinued in 2023
+| Learn more. Visit hunterindustries.com/golf
+CONTROLLERS
+
+--- PAGE 40 ---
+FIELD
+CENTRAL
+516114
+TRIAC BOARD
+Plastic Series
+Transformer Assembly
+GFC-Only
+Transformer Assembly
+GFC Backplane and
+Kit Locations
+GFC Backplane and
+Kit Locations
+
+CONTROLLERS
+
+--- PAGE 41 ---
+DECODER CONTROLLER COMPONENTS (Obsolete Models)
+ITEM
+DESCRIPTION
+ MODEL
+
+VSX Keypad Facepack Kit
+VFCKTFP
+
+Genesis Keypad Facepack Kit
+GFCKTFP
+
+Decoder Power Supply Board Kit
+VKTPSB2
+
+Decoder lightning/output board
+VLPTKT
+
+Decoder CPU board
+VCPUKT
+
+Decoder transmitter board
+VTRNSKT
+
+RJ45 cable
+516238
+
+Power supply board wire harness
+516140
+
+Adapter cable - communications board
+516237
+
+Transmitter cable
+516143
+
+Communications board wire harness
+516141
+COMMUNICATION MODULES
+ITEM
+DESCRIPTION
+ MODEL
+
+Hardwire replacement communications board
+GFCKTCBHW
+
+Radio replacement communications board
+(New RADIO2KT only)
+GFCKTCBR2
+NS
+Remote stealth antenna mount (includes antenna)
+RASREM
+
+Radio module, synthesized
+RADIO2KT
+TRANSFORMER OPTIONS
+ITEM
+DESCRIPTION
+ MODEL
+
+Decoder Transformer Kit, 110 VAC (plastic controllers)
+FCPVKTTFR2
+NS = Not shown; image on the following page
+Obsolete models; replaced with Pilot in 2013
+Production discontinued in 2023
+| Learn more. Visit hunterindustries.com/golf
+CONTROLLERS
+
+--- PAGE 42 ---
+CENTRAL
+FIELD
+
+CONTROLLERS
+
+--- PAGE 43 ---
+ICD-HP COMPONENTS
+ITEM
+DESCRIPTION
+MODEL
+
+Programming cup
+177600
+
+Programming cable 6' (2 m) with connectors
+180504
+
+Red and blue 6' (2 m) leads
+180508
+
+Carrying case
+205800
+
+| Learn more. Visit hunterindustries.com/golf
+
+CONTROLLERS
+
+--- PAGE 44 ---
+Hunter Golf Irrigation Component* Warranty Products
+Hunter will unconditionally repair, replace, or repurchase, at its sole discretion, any defective component* assemblies contained within the Golf
+products listed below by category, returned freight prepaid, from the date of manufacture within a period of:
+ONE
+YEAR
+GOLF
+CONTROLLERS
+Pilot Command Center Software, Pilot-FC, Pilot-FI, Pilot Hub
+THREE
+YEARS
+GOLF ROTORS
+TTS-800 Series, G-800 Series, G-900 Series, B Series
+GOLF DECODERS
+Pilot 100, Pilot 200, Pilot 400, Pilot 600
+FIVE
+YEARS
+GOLF ROTORS
+The golf rotor component warranty is extended to five (5) years with a one-for-one purchase of an HSJ Swing
+Joint from an authorized Hunter Golf distributor.
+SWING JOINTS
+HSJ-0, HSJ-1, HSJ-2, HSJ-3
+COMPUTER,
+PRINTERS AND
+ACCESSORIES,
+MAINTENANCE
+RADIO AND
+BATTERY
+Equipment manufacturer's warranty (no Hunter warranty)
+*  Warranty covers repair, replacement, or repurchase of individual defective component assemblies contained within the product. Returns of
+complete finished goods are not allowed under warranty without prior approval from the Hunter Product Manager.
+If used for agricultural applications, Hunter limits the warranty for its spray, rotator, and rotor products to a period of one (1) year from the
+original date of manufacture. This agriculture limitation supersedes all other warranties expressed or implied.
+
+If a defect in a Hunter product is discovered during the applicable warranty period, Hunter will repair or replace, at its option, the product or
+the defective part. This warranty does not extend to repairs, adjustments, or replacement of a Hunter product or part that results from misuse,
+negligence, alteration, modification, tampering, or improper installation and/or maintenance of the product. This warranty extends only to
+the original installer of the Hunter product. If a defect arises in a Hunter product during the warranty period, contact your local Hunter
+Authorized Distributor.
+Hunter's warranty applies only to products installed as specified and used as intended for irrigation purposes. Hunter's warranty shall be
+limited to defects in materials and workmanship during the warranty period, and shall not extend to situations in which the product was
+subjected to improper design, installation, operation, maintenance, application, abuse, improper electrical current, grounding, service other
+than by Hunter authorized agents, operating conditions other than that for which it was designed, or in systems using water containing
+corrosive chemicals, electrolytes, sand, dirt, silt, rust, or agents that otherwise attack and degrade plastics. Hunter's warranty does not cover
+component failures caused by lightning strikes, electrical power surges, or unconditioned power supplies. If products are repurchased, the
+price to Distributor for such products in effect at the time of return will apply.
+Hunter's obligation to repair, replace, or repurchase its products or product components as set forth above is the sole and exclusive warranty
+extended by Hunter. There are no other warranties, expressed or implied, including warranties of merchantability and warranties of fitness
+for a particular purpose. Hunter will not be liable to a distributor or to any other party in strict liability, tort, contract, or any other manner
+for any damages caused or claimed to be caused as a result of any design of or defect in Hunter's products, or for any special, incidental, or
+consequential damages of any nature.
+Where applicable, Hunter's statement of warranty complies with local directives.
+If you have questions concerning the warranty or its application, email support@hunterindustries.com.
+ASAE CERTIFICATION STATEMENT
+Hunter Industries Incorporated certifies that pressure, flow rate, and radius data for these products were determined and listed in accordance with ASAE
+Standard S398.1, Procedure for Sprinkler Testing and Performance Reporting, and are representative of performance of production sprinklers at the time
+of publication. Actual product performance may differ from the published specifications due to normal manufacturing variations and sample selection. All
+other specifications are solely the recommendation of Hunter Industries Incorporated.
+
+WARRANTY
+
+--- PAGE 45 ---
+| Learn more. Visit hunterindustries.com/golf
+
+NOTES
+
+--- PAGE 46 ---
+
+NOTES
+
+--- PAGE 47 ---
+| Learn more. Visit hunterindustries.com/golf
+
+NOTES
+
+--- PAGE 48 ---
+© 2024 Hunter Industries Inc. Hunter, the Hunter logo, and other marks are trademarks of Hunter Industries Inc.,
+registered in the U.S. and certain other countries.
+ Please recycle.
+
+GI-019 F 9/24
+Hunter Industries has been on the forefront of golf course irrigation
+technology for more than three decades. We build performance, reliability,
+and serviceability into every product. From industry-leading rotors
+renowned for their durability and distribution uniformity to our robust
+Pilot® Control Network, we take pride in providing golf professionals with
+the tools and support they need to conceptualize, create, and manage
+world-class golf courses. Learn more at hunterindustries.com/golf.
+Gregory R. Hunter, CEO of Hunter Industries
+Denise Mullikin, President, Landscape Irrigation and Outdoor Lighting
+USA HEADQUARTERS
+1940 Diamond Street
+San Marcos, CA 92078 USA
+TEL: +1-760-744-5240
+MEXICO
+ISO 9001:2015 Certified
+Calle Nordika #8615
+Colonia la Joya
+Parque Industrial Nordika
+Tijuana, B.C., Mexico CP 22640
+TEL: +011-52-664-903-1382
+EUROPE
+Avenida Diagonal 523, 5o-2a
+Edificio Atalaya
+08029 Barcelona, Spain
+TEL: +34-9-34-94-88-81
+AUSTRALIA
+50 Lynch Street
+Hawthorn, VIC 3122, Australia
+TEL: +61-3-9562-9918 (outside Australia)
+TEL: +1-800-438-486
+
+MIDDLE EAST
+P.O. Box 2370
+Amman, 11941, Jordan
+TEL: +962-6-5152882
+FAX: +962-6-5152992
+CHINA
+B1618, Huibin Plaza
+No. 8, Beichen Dong Street
+Beijing 100101, China
+TEL/FAX: +86-10-84975146
+Website hunterindustries.com  |  Customer Support +1-800-383-4747

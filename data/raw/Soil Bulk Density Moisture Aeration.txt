@@ -1,0 +1,678 @@
+--- PAGE 1 ---
+Page 1 
+Guides for Educators (May 2019) 
+Bulk density is an indicator of soil compaction. It affects infiltration, rooting depth, 
+available water capacity, soil porosity and aeration, availability of nutrients for plant use, 
+and activity of soil micro-organisms, all of which influence key soil processes and 
+productivity. Bulk density is the oven-dry weight of soil per unit of volume at field 
+moisture capacity or at another specified moisture content. It typically is expressed as 
+grams per cubic centimeter (g/cm3). Total volume of the surface layer consists of about 
+50 percent solids, of which about 45 percent is soil particles and 5 percent or less is 
+organic matter, and about 50 percent pore space, which is filled with air or water (fig. 1). 
+Available water capacity is the amount of soil moisture available to plants. It varies with 
+texture (fig. 2) and is reduced when the soil is compacted. Bulk density can be managed 
+by using practices that minimize compaction, improve soil aggregation, and increase 
+soil organic matter content. 
+ 
+ 
+Figure 1.—Four major components of 
+soil volume (Michigan Field Crop 
+Ecology, 1998, E-2646, page 13). 
+ 
+Figure 2.—Relationship between available water and 
+texture (Ohio Agronomy Guide, 14th ed., Bull. 472-05). 
+Inherent Factors Affecting Bulk Density and Available Water Capacity 
+Some inherent factors affect bulk density, such 
+as soil texture. Bulk density is also dependent 
+on the soil organic matter content and density 
+and arrangement of soil minerals (sand, silt, 
+and clay). Generally, rocks have a density of 
+2.65 g/cm3. Ideally, silt loam has 50 percent 
+pore space and a bulk density of 1.33 g/cm3. 
+Loose, well-aggregated, porous soils and soils 
+high in content of organic matter generally 
+have lower bulk density. Sandy soils have 
+relatively high bulk density because they have 
+less total pore space than silty or clayey soils 
+(not applicable to red clayey soils and volcanic 
+ash soils). Bulk density typically increases as 
+soil depth increases. The subsurface layers are 
+more compacted and have less pore space 
+because they have less organic matter, less 
+aggregation, and less root penetration than the 
+surface layer.
+
+--- PAGE 2 ---
+Page 2 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+Available water capacity (fig. 2) is affected by 
+soil texture, presence and abundance of rock 
+fragments, soil depth, and restrictive layers. It 
+is also affected by management practices that 
+alter soil organic matter content, structure, and 
+porosity.
+Bulk Density Management
+Bulk density can be altered by using 
+management practices that affect soil cover, 
+organic matter content, structure, compaction, 
+and porosity. Excessive tillage destroys soil 
+organic matter and weakens the natural 
+stability of soil aggregates, making them 
+susceptible to erosion by water and wind. 
+When pore spaces are filled with eroded soil 
+particles, porosity is reduced and bulk density 
+is increased. Tillage and equipment use result 
+in compacted soil layers, such as a plowpan, 
+that have higher bulk density (figs. 3 and 4). 
+Tilling prior to planting temporarily decreases 
+the bulk density of the surface layer, but it 
+increases the bulk density of the layer directly 
+below the plow layer. Making multiple trips 
+across a field with farm equipment, periods of 
+rainfall, trampling by animals, and other 
+disturbances also compact the soil. To 
+minimize soil compaction, decrease soil 
+disturbance and increase soil organic matter 
+content. 
+Organic matter content and compaction also 
+affect the total water capacity and available 
+water capacity of soil. Organic matter 
+increases the ability of a soil to hold water, 
+both directly and indirectly. Compaction 
+increases bulk density and decreases total 
+pore space, reducing available water capacity. 
+To increase organic matter content and 
+minimize compaction, improving bulk 
+density and porosity: 
+ Use a continuous no-till cropping system, 
+grow cover crops, apply solid manure or
+compost, and use diverse rotations that 
+include high-residue crops and perennial 
+legumes or grass. 
+ Minimize soil disturbance and avoid operating 
+equipment when the soil is wet. 
+ Use equipment only on designated roads or 
+between rows. 
+ Limit the number of times equipment is used 
+on a field. 
+ Subsoil to disrupt existing compacted layers. 
+ Use multi-crop systems that include plants 
+with different rooting depths to help break up 
+compacted soil layers. 
+ 
+Figure 3.—Compaction caused by 
+wheeled equipment. 
+Compacted area between rows 
+restricts roots, worms, aeration, 
+and availability of nutrients.
+
+--- PAGE 3 ---
+Page 3 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+ 
+Figure 4.—Compacted plow layer 
+inhibits root penetration and 
+water movement through the 
+soil profile (adapted from The 
+Nature and Properties of Soils, 
+10th edition). 
+Water-filled pore space and porosity: 
+If 60 percent or more of the pore space is filled 
+with water, important soil processes are 
+impacted. Soil respiration and nitrogen cycling 
+(ammonification and nitrification) increase as 
+soil moisture increases (fig. 5). In dry soils, the 
+rate of these processes decreases because of 
+a lack of moisture. Poor aeration interferes with 
+the ability of soil organisms to respire and cycle 
+nitrogen. 
+If more than 80 percent of the pore space is 
+filled with water, soil respiration declines to a 
+minimum level and denitrification occurs. This 
+results in loss of nitrogen as gases, emission of 
+potent greenhouse gases, decreased yields, 
+and an increased need for N fertilizer, which 
+increases cost. 
+ 
+Figure 5.—Relationship of water-filled pore space to soil 
+microbial activity (Linn and Doran, 1984). 
+Soil Bulk Density Issues and Their Relationship to Soil Function
+High bulk density is an indicator of soil 
+compaction and low soil porosity. It impacts 
+available water capacity, root growth (table 1), 
+and movement of air and water through the 
+soil. Compaction reduces crop yields and 
+restricts the growth of plant cover that helps to 
+protect the soil from erosion. By restricting the 
+infiltration of water into the soil, compaction 
+can lead to increased runoff and erosion in 
+sloping areas or to saturated soils in more level 
+areas. 
+For laboratory analyses to determine organic 
+matter and nutrient content, adjust the volume 
+of the soil sample according to its bulk density. 
+For example, a 30-percent error in organic 
+matter and nutrient content would result if a soil 
+with a bulk density of 1.3 and one with a bulk 
+density of 1.0 were analyzed similarly, or 
+without adjustment for the difference in bulk 
+density.
+
+--- PAGE 4 ---
+Page 4 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+Table 1.—General relationship of soil bulk density to root growth based on soil texture* 
+Soil texture 
+Ideal bulk density 
+for plant growth 
+(grams/cm3) 
+Bulk density that 
+affects root growth 
+(grams/cm3) 
+Bulk density that 
+restricts root 
+growth 
+(grams/cm3) 
+Sand, loamy sand 
+<1.60 
+1.69 
+>1.80 
+Sandy loam, loam 
+<1.40 
+1.63 
+>1.80 
+Sandy clay loam, clay loam 
+<1.40 
+1.60 
+>1.75 
+Silt, silt loam 
+<1.40 
+1.60 
+>1.75 
+Silt loam, silty clay loam 
+<1.40 
+1.55 
+>1.65 
+Sandy clay, silty clay, clay loam 
+<1.10 
+1.49 
+>1.58 
+Clay (>45 percent clay) 
+<1.10 
+1.39 
+>1.47 
+     *Does not apply to red clayey soils and volcanic ash soils. 
+ List some management practices that affect bulk density? Why? 
+  _____________________________________________________________________________  
+ 
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+ What impact do these practices have on soil organic matter content and porosity? 
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+ 
+Measuring Bulk Density and Soil Moisture 
+Materials needed to measure bulk density: 
+____ 3-inch-diameter aluminum ring 
+____ Wood block or plastic insertion cap 
+____ Rubber mallet or weight 
+____ Flat-bladed knife 
+____ Resealable plastic bags and permanent 
+marker 
+____ Scale (1 g precision)
+
+--- PAGE 5 ---
+Page 5 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+____ 1/8 cup (29.5 mL) measuring scoop 
+____ Ceramic coffee cup or paper plate 
+____ 18-inch metal rod, probe, or spade (to 
+check for compaction zone) 
+____ Access to microwave oven 
+Considerations: 
+Bulk density can be measured at the soil 
+surface and/or directly in the plow layer. 
+Samples for measuring bulk density, infiltration, 
+and respiration should be taken from the same 
+locations. It may be possible to use the same 
+sample to measure infiltration and bulk density 
+(same process is used for both). When 
+sampling sticky clay soils, apply penetrating oil 
+to the ring for easier removal of the sample. 
+Step-by-step procedure: 
+1. Carefully clear all residue from the soil 
+surface. Drive ring into soil to a depth of 3 
+inches with a small mallet or weight and 
+block of wood or plastic insertion cap. The 
+top of the ring should extend 2 inches 
+above the surface (figs. 6 and 7). 
+ 
+Figure 6.—Drive ring into soil to a depth of 3 
+inches. 
+ 
+Figure 7.—Ring extends 2 
+inches above the surface. 
+2. Remove the ring by first cutting around the 
+outside edge with a small, flat-bladed knife. 
+Place the trowel underneath the ring (to 
+keep the sample in the ring), and carefully 
+lift the ring out. 
+3. Remove excess soil from the bottom of the 
+ring with the knife (fig. 8). 
+ 
+Figure 8.—Remove excess soil 
+from bottom of ring. 
+4. Place the sample in a resealable plastic 
+bag. Label the bag. 
+5. Weigh the sample, including the bag. 
+Record weight in table 2. 
+6. Weigh an identical, clean, empty bag. 
+Record weight in table 2.
+
+--- PAGE 6 ---
+Page 6 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+7. Weigh empty cup or paper plate to be used 
+in step 8. Record weight in table 2. 
+8. Use the entire soil core (or extract a 
+subsample of soil) to determine water 
+content and dry soil weight. 
+a. Mix soil core thoroughly by kneading the 
+plastic bag. 
+b. Remove level 1/8-cup scoop of loose 
+soil (not packed down) from bag, and 
+place it in the weighed cup or plate  
+(step 7). To increase accuracy of 
+measurement, use the entire soil core or 
+use more than one scoop of soil if 
+subsample is extracted. 
+9. Weigh both moist soil removed from plastic 
+bag and cup or plate. Record weight in 
+table 2. 
+10. Place soil and cup or plate in a microwave. 
+Dry in 4-minute cycles at medium power. 
+11. Weigh soil and cup or plate after each  
+4-minute cycle. The soil is dry when the 
+weight no longer changes from one drying 
+cycle to the next. Record weight in table 2. 
+ 
+Interpretations
+Complete table 2. Compare the results to the 
+bulk density values given in table 1 for the 
+applicable soil textures to determine the 
+relative restrictions to root growth. Determine 
+soil water content and porosity, and complete 
+tables 3 through 5. Compare results to figures 
+2 and 5. Answer discussion questions. 
+Table 2.—Bulk density and soil water content (core method)* 
+(Refer to calculations following table for details.) 
+Sample 
+site 
+(a) 
+Wt. of 
+entire 
+moist 
+soil core 
+and bag 
+(grams) 
+(b) 
+Wt. of 
+sample 
+bag 
+(grams) 
+(c) 
+Wt. of 
+cup or 
+plate 
+(grams) 
+(d) 
+Wt. of 
+moist soil 
+subsample 
+and cup or 
+plate 
+(grams) 
+(e) 
+Wt. of 
+moist soil 
+subsample 
+(grams) 
+(d-c) 
+(f) 
+Wt. of dry 
+soil 
+subsample 
+and cup or 
+plate 
+(grams) 
+ 
+(g) 
+Dry wt. of 
+soil 
+subsample
+(grams) 
+(f-c) 
+(h) 
+Soil 
+water 
+content 
+(grams/ 
+gram of 
+soil) 
+(e-g) ÷ g 
+(i) 
+Soil 
+bulk 
+density 
+(grams/ 
+cm3)* 
+Example 
+490 
+5 
+126 
+160 
+34 
+153 
+27 
+0.259 
+1.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*Soil bulk density = [(a - b) ÷ (1 + h)] ÷ volume of soil core (volume of soil core = 321 cm3 for 3-inch core, 2 inches from 
+top of soil to top of ring; refer to volume calculations on following page and to figure 11).
+
+--- PAGE 7 ---
+Page 7 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+Abbreviations and letters in examples and following tables:  Wt = weight; π = 3.14; gr = grams;  
+r = radius of inside diameter of ring/core; single letters in equations refer to entries in table 2 
+Volume of soil core (cm3) (see figure 11):  πr2 x height 
+Example— 
+3.14 x (3.66 cm)2 x  (7.62 cm) = 321 cm3 
+Soil water content of subsample (gr/gr):  (weight of moist soil - weight of oven-dry soil) 
+ 
+weight of oven-dry soil 
+Example— 
+(e - g) ÷ (g) 
+(34 gr – 27 gr) = 0.259 gr of water/gr of soil 
+ 
+27 gr 
+Dry weight of soil core based on water content of subsample (gr): 
+Dry wt of soil core = [wt of moist soil + bag (gr) - wt of bag (gr)] 
+ 
+[1 + soil water content (gr/gr)] 
+Example— 
+Dry wt of soil core = [(a - b) ÷ (1 + h)] = (490 gr - 5 gr) = 385 gr 
+ 
+(1 + 0.259) 
+Bulk density calculation (gr/cm3):  Dry wt of soil core ÷ volume of soil core 
+Example— 
+385 gr ÷ 321 cm3 = 1.20 gr/cm3
+
+--- PAGE 8 ---
+Page 8 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+Soil water content and porosity calculations: 
+Table 3.—Total soil water content 
+Sample 
+site 
+Soil water content (by 
+weight) 
+(grams/gram) 
+(h in table 2) 
+Bulk density 
+from table 2 
+(grams/cm3) 
+Water content 
+(grams/cm3)* 
+Total inches of 
+water/foot of 
+soil depth** 
+Example 
+0.259 
+1.2 
+0.3108 
+3.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     *Water content (gr/cm3) = soil water content (gr/gr) x bulk density (gr/cm3); 1 gram of water (by 
+volume) = 1 cm3/cm3 
+     **Total inches of water/foot of soil depth = water content x 12 inches (1 foot) 
+Table 4.—Soil porosity 
+Sample 
+site 
+Bulk density from 
+table 2 
+(grams/cm3) 
+Calculation: 
+1 - (soil bulk density ÷ 
+2.65)* 
+Soil porosity 
+(percent) 
+Example 
+1.2 
+1 - (1.2 ÷ 2.65) 
+54.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     *The default value of 2.65 is used as a rule of thumb based on the average bulk density 
+of rock.
+
+--- PAGE 9 ---
+Page 9 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+Table 5.—Water-filled pore space 
+Sample 
+site 
+Water content 
+from table 3 
+(grams/cm3) 
+Soil porosity 
+from table 4 
+Calculation: 
+(water content ÷ soil 
+porosity) x 100 
+*Percent of 
+pore space 
+filled with 
+water 
+Example 
+0.3108 
+0.547 
+(0.3108 gr/cm3 ÷ 0.547) 
+x 100 
+56.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 9.—Soil porosity 
+ 
+Figure 10.—Example soil core volume, by component 
+(volume = 321 cm3). 
+ 
+Figure 11.—Example soil core dimensions, 
+volume, and weight, by component. 
+ 
+ 
+ 
+ 
+Water 
+31.1% 
+Solids 
+45.3% 
+Air 
+23.6% 
+Volume = 
+321 cm3 
+Total  
+    weight = 
+ 485 g 
+White 
+(Soil particles) 
+Total pore space 54.7% 
+(56.8% water-filled and 
+43.2% air-filled pores) 
+Black  
+(Pore space)
+
+--- PAGE 10 ---
+Page 10 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+ Were results of bulk density and porosity tests expected? Why or why not? 
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+ 
+ Compare results of water-filled pore space calculation to figure 5. Is the ability of the soil organisms 
+ to respire and cycle nitrogen impacted? If so, what is the possible impact on production? Are these 
+ processes limited by water or aeration? 
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+ 
+ Compare bulk density of soil sample to values for the similar soil texture given in table 1. Is bulk  
+ density ideal based on the soil texture? Why or why not? 
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+ 
+ Compare total water content in table 3 (inches of water per foot of soil depth) to the available  
+ water capacity shown in figure 2 for the same soil texture. Is the water content near field capacity? 
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+  _____________________________________________________________________________  
+ 
+Glossary 
+Ammonification.—Stage of nitrogen cycle in 
+which soil organisms decompose organic 
+nitrogen and convert it to ammonia. 
+Available water capacity.—Soil moisture 
+available for crop growth (fig. 2). Also defined 
+as the difference between field capacity and 
+wilting point. Typically expressed as inches per 
+foot. 
+Bulk density.—Weight of dry soil per unit of 
+volume. More compacted soil has less pore 
+space and higher bulk density. 
+Denitrification.—Conversion and loss of nitrate 
+nitrogen as nitrogen gases when the soil is 
+saturated with water.
+
+--- PAGE 11 ---
+Page 11 
+Guides for Educators (May 2019) 
+ 
+Soil Health – Bulk Density/Moisture/Aeration 
+USDA-NRCS 
+Nitrification.—Stage of nitrogen cycle in which 
+soil organisms convert ammonia and 
+ammonium into nitrite and then to nitrate 
+nitrogen, which is available for plant use. 
+Respiration.—Carbon dioxide (CO2) release 
+from soil as a result of decomposition of 
+organic matter by soil microbes and from plant 
+roots and soil fauna (aerobes, or organisms 
+that require oxygen). 
+Soil porosity.—Percent of total soil volume 
+consisting of pore space (fig. 9).
+Soil water content, gravimetric.—Weight of soil 
+water per unit of dry soil weight. 
+Water content.—Amount (weight) of water in 
+soil core expressed as grams/cm3. One gram 
+of water equals 1 cubic centimeter, by volume. 
+Water-filled pore space.—Percentage of soil 
+pore space filled with water. 
+USDA is an equal opportunity provider and employer.

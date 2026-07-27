@@ -1,0 +1,243 @@
+--- PAGE 1 ---
+LNK2™ WiFi Module
+T E C H N I C A L S P E C I F I C A T I O N S
+OPERATING SPECIFIC ATIONS: 
+Operating Temperature: 
+14°F (-10°C) to 149°F (65°C)
+Storage Temperature:
+-40°F (-40°C) to 150°F (66°C)
+Operating Humidity: 
+95% max @ 50°F to 120°F (10°C to 49°C)  
+non-condensing environment
+ELEC TRIC AL SPECIFIC ATIONS: 
+24-25.5 VAC 50-60Hz 0.1 A 
+HOW TO SPECIFY: 
+Models:  LNK2WIFI 
+WIRELESS COMMUNIC ATION 
+SPECIFIC ATIONS: 
+•	 WiFi: 2.4 GHz Band IEEE-802.11 b,g,n 
+Channels 1-11 only	
+•	 Bluetooth: v4.0, BLE
+•	 Maximum radio-frequency power: 19.90 dBm
+•	 Operating frequency band: 2402-2480 MHz
+•	 Antenna type: PCB Antenna
+•	 Antenna gain: 3.7 dBi
+DIMENSIONS: 
+ 
+Width: 1.13”
+Height: 1.83”
+Depth: 0.48”
+CERTIFIC ATIONS: 
+ 
+USA: UL-US, FCC Part 15c, WaterSense (when used 
+with ESP-ME3, ESP-TM2, ESP-LXIVM, ESP-LXIVM Pro, 
+ESP-LXME2 or ESP-LXME2 Pro); Canada: C-UL, ISED 
+RSS-247; Mexico: NOM , IFETEL; European Union: 
+CE; Australia and New Zealand: RCM; Argentina: 
+ENACOM; Brazil: ANATEL; Chile: SUBTEL; China: CMIIT; 
+Costa Rica: SUTEL; Ecuador: ARCOTEL; India: WPC; 
+Iraq: CMC; Israel MOC; Japan: MIC; Kuwait: CITRA; 
+Lebanon: MoT; Morocco: ANRT; Oman: TRA; Pakistan: 
+PTA; Panama: ASEP; Paraguay: CONATEL; Saudi 
+Arabia: CITC; Singapore: IMDA; South Africa: ICASA; 
+Sri Lanka: TRC; Thailand: NBTC; Ukraine: UkrSEPRO; 
+UAE: TDRA; Uruguay: URSEC. 
+ 
+SUPPORTED MOBILE DEVICES:
+The LNK2 WiFi Module Mobile Application shall be available for devices running the following operating systems:
+•	 iOS 8.0 or later
+•	 Android 6.0 (Marshmallow) or later
+ This product requires 2.4 GHz WiFi band. It is not compatible with 5.0 GHz.
+MOBILE APPLICATION:
+A mobile application with user interface shall install on the user’s smart device and allow remote configuration 
+of multiple Irrigation Controllers. Options for irrigation scheduling shall be provided as well as access to current 
+weather conditions.
+EASY-TO-INSTALL HARDWARE:
+The LNK2 WiFi Module shall connect directly to the accessory port featured on compatible controllers.
+WIFI NET WORKING:
+•	 The LNK2 WiFi Module shall provide direct wireless communication to compatible smart devices through a 
+WiFi Access Point
+•	 Connecting to the Rain Bird Cloud Server shall allow the server to send a daily seasonal adjustment once per 
+day based upon the Controller’s ZIP code
+•	 Push notifications shall be available through Google Cloud Messaging or Apple Push Notification Service
+•	 A multi-color LED light on the LNK2 WiFi Module shall indicate status of the Access Point and  
+Internet connections
+WIFI CONNECTION SECURITY:
+The LNK2 WiFi Module shall automatically detect the appropriate WiFi security mode using a user-provided 
+network SSID and network key.
+SECURITY MODES SUPPORTED:
+•	 Open
+•	 WEP 
+•	 WPA-TKIP 
+•	 WPA-AES
+•	 WPA2-TKIP
+•	 WPA2-AES
+•	 WPA2-AES-TKIP
+COMPATIBLE CONTROLLERS:
+ESP-ME3
+ESP-ME
+ESP-TM2
+ESP-RZXe
+ESP-LXME2
+ESP-LXIVM
+LNK™ READY
+To verify your Rain Bird Controller is 
+compatible, look for a “LNK™ Ready” 
+symbol on the front panel.
+
+--- PAGE 2 ---
+SPECIFICATIONS:
+The LNK2 WiFi Module is designed for direct plug-in 
+connection to the accessory port on Rain Bird ESP-
+ME3, ESP-TM2, ESP-RZXe, ESP-LXME2, ESP-LXIVM, or 
+ESP-ME (2016 or newer) Irrigation Controllers.
+The connector interface shall have adequate 
+mechanical resistance to prevent accidental 
+disconnect during normal use, while allowing easy 
+tool-less insertion and removal by the user.
+The LNK2 WiFi Module shall support direct WiFi 
+communication to a mobile device through a 
+2.4GHz Band WiFi Access Point (hotspot) inside the 
+LNK2 WiFi Module, or through a LAN connection 
+broadcast by an external WiFi router. At power-up, 
+the LNK2 WiFi Module’s internal WiFi Access Point 
+(hotspot) shall be automatically enabled if a LAN 
+connection is unavailable.
+The LNK2 WiFi Module shall support network 
+communications over a WiFi network connection.
+The LNK2 WiFi Module shall utilize Bluetooth Low 
+Energy during the set up process.
+The LNK2 WiFi Module shall have a user accessible 
+push button for configuration and incorporates a 
+red, green, blue (RGB) LEDs as status indicators.
+A short button-press will toggle the LNK2 WiFi 
+Module’s WiFi Access Point (hotspot) Mode 
+functionality ON/OFF.
+The LNK2 WiFi Module shall have a Factory Default 
+settings reset feature that is accessed through the 
+device push button.
+•	 To execute a Factory Default, press and hold 
+the push button on the LNK2 WiFi Module for 
+5 seconds.
+The Mobile Apps weather report shall display the 
+current day plus 4 day weather forecast for the 
+target location. The source of weather data is as 
+follows:
+•	 United States: NOAA
+•	 Canada: Environment Canada
+•	 Europe: European Centre for Medium-Range 
+Weather Forecasts (ECMWF)
+•	 Japan: Japan Meteorological Agency
+•	 All other International: METAR
+ 
+The Mobile Device App shall represent Controllers 
+through “cards” that may be organized into 
+groups. The Mobile App Home Screen contains all 
+Controllers. Users can create additional Controller 
+Groups with selected Controllers. Controller cards 
+can be deleted manually by the user.
+The Mobile App Home View Controller cards shall 
+show an image of the Controller with name, type, 
+the number of zones supported and interface icons 
+for Remote, Calendar, Share and Delete features.
+The LNK2 WiFi Module shall support server 
+communications by connecting to (polling) the 
+server on regular intervals. The server check-in 
+interval is interval is every 10 seconds.
+The server shall enable Mobile Apps to subscribe to 
+push notifications using Apple Push Notification Service 
+(APNS) or Google Cloud Messaging (GCM).
+The Server shall disassociate all Mobile Apps from a 
+LNK2 WiFi Module that reported an access pass code 
+change.The LNK2 WiFi Module shall store a remote 
+access pass code in nonvolatile memory and 
+report an access pass code change to the Server. 
+If a connection to the Server is not available at the 
+time of the pass code change, the LNK2 WiFi Module 
+shall continue to attempt to report the change 
+until successful.
+The LNK2 WiFi Module has no internal surge 
+protection and relies on the Irrigation Controller’s 
+Electrical Surge Protection features.
+LNK2™ WiFi Module
+T E C H N I C A L S P E C I F I C A T I O N S
+
+--- PAGE 3 ---
+D42005
+Registered Trademark of Rain Bird Corporation	
+© 2023 Rain Bird Corporation
+Rain Bird Corporation 
+6991 East Southpoint Road
+Tucson, AZ 85756
+Ph: (520) 741-6100
+F: (520) 741-6522
+Rain Bird Technical Services
+(800) RAINBIRD (1-800-724-6247)
+U.S. & Canada
+Rain Bird Corporation
+970 West Sierra Madre Avenue
+Azusa, CA 91702
+Ph: (626) 812-3400 
+F: (626) 812-3411
+Specifications Hotline
+800-458-3005
+U.S. & Canada
+Rain Bird International, Inc.
+1000 West Sierra Madre Avenue
+Azusa, CA 91702
+Ph: (626) 963-9311
+F: (626) 852-7343
+The Intelligent Use of Water™
+www.rainbird.com
+Power on device
+FLASHING
+SEQUENCE
+Device initiating
+SETUP FOR LNK2 WIFI MODULE
+BLINK
+Ready for setup.
+Open the Rain Bird 
+App and start the 
+guided setup process
+STEADY FLASH
+Preparing for
+operation
+Troubleshooting
+SLOW STEADY BLINK
+Wait 1 minute and try 
+connecting in the App again.
+SOLID
+Follow "RESET" instructions or 
+contact customer service at 
+1-800-RAINBIRD
+Failure
+If app is showing
+error message
+SOLID
+Resetting to original
+factory configuration
+Hold down button for more 
+than 5 seconds (long press) 
+to erase all settings and reset 
+to factory settings
+RESET PROCESS
+SLOW STEADY BLINK
+Success!
+Connection ready
+RAPID FLASH
+DOUBLE FLASH
+Unable to connect to WiFi, 
+check that your local WiFi is 
+working correctly.
+Not connected to Rain Bird 
+cloud server. Try to reset.
+WIFI PAIRING FOR LNK2
+Attempting to connect to 
+local WiFi network 
+previously set up
+Searching for WiFi network
+If this light mode stays in this
+state for more than 15 seconds:
+LNK2™ WiFi Module Light Cues
+LNK2™ WiFi Module
+T E C H N I C A L S P E C I F I C A T I O N S
